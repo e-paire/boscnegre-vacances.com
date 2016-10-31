@@ -4,10 +4,11 @@
   position: relative;
   cursor: pointer;
   height: 100%;
+  text-transform: uppercase;
 }
 
 .current {
-  background: var(--color_bosc_yellow);
+  background: color(var(--color_bosc_yellow) l(-10%));
   color: #fff;
   height: 100%;
   width: 40px;
@@ -33,7 +34,7 @@
 }
 
 .locale {
-  background: var(--color_bosc_yellow);
+  background: color(var(--color_bosc_yellow) l(-10%));
   color: #fff;
   height: 40px;
   width: 40px;
@@ -43,5 +44,5 @@
 }
 
 .locale:hover {
-  background: var(--color_bosc_green);
+  background: var(--color_bosc_yellow);
 }

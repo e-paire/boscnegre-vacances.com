@@ -5,11 +5,17 @@
 }
 
 .arrow {
-  padding: 10px;
   background: var(--color_bosc_green);
   color: #fff;
   position: absolute;
-  top: 50%;
+  top: 150px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
 }
 
 .left {

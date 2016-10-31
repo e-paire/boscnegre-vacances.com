@@ -5,7 +5,7 @@ slogan: dsfsdfsdf
 file: "/uploads/BoardingPass.pdf"
 images:
 - "/uploads/Aurelia-Salas-Photographe-Mariage-Narbonne-Montpellier-Beziers-598.jpg"
-- "/uploads/Aurelia-Salas-Photographe-Mariage-Narbonne-Montpellier-Beziers-843.jpg"
+- "/uploads/DSC02876.jpg"
 layout: Service
 ---
 

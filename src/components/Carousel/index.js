@@ -24,9 +24,8 @@ class Carousel extends Component {
 
   render() {
     const settings = {
-      // dots: true,
       infinite: true,
-      // speed: 500,
+      draggable: false,
       slidesToShow: 4,
       slidesToScroll: 4,
     }
@@ -36,10 +35,10 @@ class Carousel extends Component {
           {this.props.children}
         </Slick>
         <span className={styles.left} onClick={this.handlePrevious}>
-          <Icon name="arrow-left" />
+          <Icon name="angle-left" />
         </span>
         <span className={styles.right} onClick={this.handleNext}>
-          <Icon name="arrow-right" />
+          <Icon name="angle-right" />
         </span>
       </div>
     )

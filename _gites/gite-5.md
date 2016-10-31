@@ -1,5 +1,6 @@
 ---
 title: Gite 5
+cover: "/uploads/DSC02876.jpg"
 description: |-
   Le **gite 3** est très loin
 
@@ -7,7 +8,7 @@ description: |-
 number: 5
 locale: fr
 images:
-- image: "/uploads/Aurelia-Salas-Photographe-Mariage-Narbonne-Montpellier-Beziers-843.jpg"
+- image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds
   title: dfgdfgdfg
 - image:

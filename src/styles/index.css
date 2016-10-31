@@ -1,5 +1,13 @@
 @import "./variables.css";
 
+@font-face {
+  font-family: "Lato Light";
+  src: url("lato-font/fonts/lato-light/lato-light.eot");
+  src: url("lato-font/fonts/lato-light/lato-light.eot?#iefix") format("embedded-opentype"), url("lato-font/fonts/lato-light/lato-light.woff") format("woff"), url("lato-font/fonts/lato-light/lato-light.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
 /**
  * Proper box-sizing
  */
@@ -38,6 +46,13 @@ pre {
 
 h1 {
   font-size: 1.75rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-title);
 }
 
 /**

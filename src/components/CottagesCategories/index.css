@@ -1,0 +1,9 @@
+@import "styles/variables.css";
+
+.category {
+  cursor: pointer;
+}
+
+.even {
+  background: var(--color_gray_light);
+}

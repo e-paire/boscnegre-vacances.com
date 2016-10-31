@@ -1,9 +1,11 @@
 ---
 title: Gite 8
+layout: Cottage
+cover: "/uploads/DSC02876.jpg"
 date: 2016-10-14 00:00:00 +02:00
-cmsUserSlug: ''
 locale: fr
+number: 8
 ---
 
-C'est super 
+C'est super
 *test*

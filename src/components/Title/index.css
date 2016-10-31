@@ -1,0 +1,20 @@
+@import "styles/variables.css";
+
+.title {
+  font-size: 36px;
+  padding: 10px;
+  text-align: center;
+  display: block;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.title_green {
+  composes: title;
+  background: var(--color_bosc_green);
+}
+
+.title_yellow {
+  composes: title;
+  background: var(--color_bosc_yellow);
+}

@@ -3,10 +3,10 @@ import React, {PropTypes} from "react"
 import ImageCottage from "./assets/cottage.png"
 import styles from "./index.css"
 
-const Cottage = ({title, description}) => {
+const Cottage = ({cover, title, description}) => {
   return (
     <div className={styles.cottage}>
-      <img className={styles.image} src={ImageCottage} />
+      <img className={styles.image} src={cover} />
       <div className={styles.content}>
         {title}
         <br />
@@ -17,13 +17,15 @@ const Cottage = ({title, description}) => {
 }
 
 Cottage.propTypes = {
+  cover: PropTypes.string,
   title: PropTypes.string,
   description: PropTypes.string,
 }
 
 Cottage.defaultProps = {
-  title: PropTypes.string,
-  description: PropTypes.string,
+  cover: ImageCottage,
+  title: "",
+  description: "",
 }
 
 export default Cottage

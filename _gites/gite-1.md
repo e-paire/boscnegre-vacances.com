@@ -6,6 +6,7 @@ ctoutvert id:
 group: 7-9 p
 layout: Cottage
 locale: fr
+cover: "/uploads/DSC02876.jpg"
 ---
 
 Contenu du Gite 1

@@ -1,7 +1,14 @@
 :root {
+  /* General */
   --color_bosc_green: #8bc59e;
   --color_bosc_yellow: #fed48c;
+  --color_gray_light: #f9f9fa;
+
+  /* Social */
   --color_facebook: #3b5998;
   --color_twitter: #00aced;
   --color_youtube: #b00;
+
+  /* Fonts */
+  --font-title: "Lato Light";
 }

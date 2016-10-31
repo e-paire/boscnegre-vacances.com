@@ -1,4 +1,9 @@
 locale: "nl"
 
 messages:
-  latest_cottages: "Latest cottages"
+  cottages_categories:
+    our_cottages: "Latest cottages"
+    no_category: "No category"
+  cottage_category:
+    from: "From"
+    the_week: "the week"

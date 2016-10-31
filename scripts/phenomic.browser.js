@@ -28,17 +28,19 @@ let mdIndex = require.context("../", false, /\.(md|markdown)$/)
 
 let mdFrPages = require.context("../_fr", true, /\.(md|markdown)$/)
 let mdFrPosts = require.context("../_nouvelles", true, /\.(md|markdown)$/)
+let mdFrCategoriesCottages = require.context("../_categories_gites", true, /\.(md|markdown)$/)
 let mdFrCottages = require.context("../_gites", true, /\.(md|markdown)$/)
 let mdFrServices = require.context("../_services", true, /\.(md|markdown)$/)
 
 let mdNlPages = require.context("../_nl", true, /\.(md|markdown)$/)
 let mdNlPosts = require.context("../_nieuws", true, /\.(md|markdown)$/)
+let mdNlCategoriesCottages = require.context("../_categorieen_huisjes", true, /\.(md|markdown)$/)
 let mdNlCottages = require.context("../_huisjes", true, /\.(md|markdown)$/)
 let mdNlServices = require.context("../_diensten", true, /\.(md|markdown)$/)
 
 const mds = [mdIndex,
-  mdFrPages, mdFrPosts, mdFrCottages, mdFrServices,
-  mdNlPages, mdNlPosts, mdNlCottages, mdNlServices,
+  mdFrPages, mdFrPosts, mdFrCategoriesCottages, mdFrCottages, mdFrServices,
+  mdNlPages, mdNlPosts, mdNlCategoriesCottages, mdNlCottages, mdNlServices,
 ]
 
 mds.map(md => {

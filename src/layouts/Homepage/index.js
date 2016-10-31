@@ -1,23 +1,16 @@
 import React, {Component, PropTypes} from "react"
-import {FormattedMessage} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
 import Page from "../Page"
-import CottagesList from "../../components/CottagesList"
+import CottagesCategories from "components/CottagesCategories"
 import PagesList from "../../components/PagesList"
 
-const numberOfCottages = 6
 const numberOfPosts = 6
 
 class Homepage extends Component {
   render() {
     const {collection, store} = this.context
     const locale = store.getState().intl.locale
-    const cottages = enhanceCollection(collection, {
-      filter: {layout: "Cottage", locale},
-      sort: "number",
-    })
-    .slice(0, numberOfCottages)
 
     const lastPosts = enhanceCollection(collection, {
       filter: {layout: "Post", locale},
@@ -27,8 +20,7 @@ class Homepage extends Component {
 
     return (
       <Page { ...this.props }>
-        <h2><FormattedMessage id="latest_cottages" /></h2>
-        <CottagesList cottages={cottages} />
+        <CottagesCategories />
         <PagesList pages={lastPosts} />
       </Page>
     )

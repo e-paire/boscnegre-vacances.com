@@ -43,11 +43,13 @@ export default (config = {}) => {
             // fr
             path.resolve(__dirname, "_fr"),
             path.resolve(__dirname, "_nouvelles"),
+            path.resolve(__dirname, "_categories_gites"),
             path.resolve(__dirname, "_gites"),
             path.resolve(__dirname, "_services"),
             // nl
             path.resolve(__dirname, "_nl"),
             path.resolve(__dirname, "_nieuws"),
+            path.resolve(__dirname, "_categorieën_huisjes"),
             path.resolve(__dirname, "_huisjes"),
             path.resolve(__dirname, "_diensten"),
           ],
@@ -128,6 +130,7 @@ export default (config = {}) => {
       new ExtractTextPlugin("assets/css/[name].[hash].css", {disable: config.dev}),
       new CopyWebpackPlugin([
         {from: "admin", to: "admin"},
+        {from: "uploads", to: "uploads"},
       ]),
       ...config.production && [
         new webpack.optimize.DedupePlugin(),

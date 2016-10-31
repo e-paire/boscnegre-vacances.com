@@ -1,4 +1,9 @@
 locale: "fr"
 
 messages:
-  latest_cottages: "Derniers gîtes"
+  cottages_categories:
+    our_cottages: "Nos gîtes tout confort"
+    no_category: "Aucun gîte"
+  cottage_category:
+    from: "À partir de"
+    the_week: "la semaine"
