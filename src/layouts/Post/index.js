@@ -1,4 +1,4 @@
-import React, { PropTypes } from "react"
+import React, {PropTypes} from "react"
 
 import Page from "../Page"
 
@@ -11,10 +11,10 @@ const Post = (props) => {
       { ...props }
       header={
         <header>
-          {
+        {
           pageDate &&
-          <time key={ pageDate.toISOString() }>
-            { pageDate.toDateString() }
+          <time key={pageDate.toISOString()}>
+            {pageDate.toDateString()}
           </time>
         }
         </header>

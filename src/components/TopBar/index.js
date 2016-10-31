@@ -1,0 +1,40 @@
+import React, {Component} from "react"
+import {Icon} from "react-fa"
+
+import Content from "components/Content"
+import LocaleMenu from "components/LocaleMenu"
+
+import Logo from "./assets/logo.png"
+
+import styles from "./index.css"
+
+class TopBar extends Component {
+  render() {
+    return (
+      <div className={styles.top}>
+        <Content className={styles.content}>
+          <div className={styles.slogan}>
+            {"Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord Noir"}
+          </div>
+          <div className={styles.email}>
+            {"boscnegre@gmail.com"}
+          </div>
+          <div className={styles.phone}>
+            {"05 53 40 99 27"}
+          </div>
+          <div className={styles.facebook}>
+            <Icon name="facebook" />
+          </div>
+          <div className={styles.localeNav}>
+            <LocaleMenu />
+          </div>
+        </Content>
+        <div className={styles.logo}>
+          <img src={Logo} />
+        </div>
+      </div>
+    )
+  }
+}
+
+export default TopBar

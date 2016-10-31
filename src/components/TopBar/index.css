@@ -1,0 +1,62 @@
+@import "styles/variables.css";
+
+.top {
+  color: #fff;
+  background: var(--color_bosc_green);
+  padding: 0 50px;
+  position: relative;
+  height: 40px;
+}
+
+.content {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.slogan {
+  flex: 1 1 auto;
+}
+
+.email,
+.phone,
+.facebook,
+.localeNav {
+  flex: 0 0 auto;
+  padding: 0 10px;
+}
+
+.facebook {
+  background: #3b5998;
+  color: #fff;
+  height: 100%;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.facebook:hover {
+  background: #8b9dc3;
+}
+
+.localeNav {
+  height: 100%;
+}
+
+.logo {
+  position: absolute;
+  background: var(--color_bosc_green);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 20px;
+}
+
+.logo > img {
+  width: 60px;
+}

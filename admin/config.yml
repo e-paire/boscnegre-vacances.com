@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: xuopled/bosc-negre-web
+  branch: master
+
+media_folder: "content/assets"
+public_folder: "content"
+
+collections:
+  - name: "gite"
+    label: "Gîte"
+    folder: "content/fr/cottages"
+    create: true
+    sort: "number:asc"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Photo", name: "cover", widget: "image", optional: true}
+      - {label: "Contenu", name: "content", widget: "markdown"}
+    meta:
+      - {label: "Numéro", name: "number", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Langue", name: "locale", widget: "string"}
+      - {label: "Photo", name: "photo", widget: "image", optional: true}
+    card: {type: "alltype", text: "title", image: "cover", description: "content"}

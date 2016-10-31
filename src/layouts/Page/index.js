@@ -1,7 +1,11 @@
-import React, { PropTypes } from "react"
+import React, {PropTypes} from "react"
 import Helmet from "react-helmet"
-import invariant from "invariant"
-import { BodyContainer, joinUri } from "phenomic"
+// import invariant from "invariant"
+import {BodyContainer, joinUri} from "phenomic"
+
+import Header from "components/Header"
+import Content from "components/Content"
+import Footer from "components/Footer"
 
 import styles from "./index.css"
 
@@ -16,45 +20,51 @@ const Page = (
     children,
   },
   {
-    metadata: { pkg },
+    metadata: {pkg},
   }
 ) => {
-  invariant(
+  /* invariant(
     typeof head.title === "string",
     `Your page '${ __filename }' needs a title`
-  )
+  )*/
 
   const metaTitle = head.metaTitle ? head.metaTitle : head.title
 
   const meta = [
-    { property: "og:type", content: "article" },
-    { property: "og:title", content: metaTitle },
+    {property: "og:type", content: "article"},
+    {property: "og:title", content: metaTitle},
     {
       property: "og:url",
       content: joinUri(process.env.PHENOMIC_USER_URL, __url),
     },
-    { property: "og:description", content: head.description },
-    { name: "twitter:card", content: "summary" },
-    { name: "twitter:title", content: metaTitle },
-    { name: "twitter:creator", content: `@${ pkg.twitter }` },
-    { name: "twitter:description", content: head.description },
-    { name: "description", content: head.description },
+    {property: "og:description", content: head.description},
+    {name: "twitter:card", content: "summary"},
+    {name: "twitter:title", content: metaTitle},
+    {name: "twitter:creator", content: `@${ pkg.twitter }`},
+    {name: "twitter:description", content: head.description},
+    {name: "description", content: head.description},
   ]
 
   return (
-    <div className={ styles.page }>
+    <div className={styles.page}>
       <Helmet
-        title={ metaTitle }
-        meta={ meta }
+        title={metaTitle}
+        meta={meta}
       />
-      {
-        head.title &&
-        <h1 className={ styles.heading }>{ head.title }</h1>
-      }
-      { header }
-      <BodyContainer>{ body }</BodyContainer>
-      { children }
-      { footer }
+      <Header />
+      <div className={styles.content}>
+        <Content>
+          {
+            head.title &&
+            <h1 className={styles.heading}>{head.title}</h1>
+          }
+          {header}
+          <BodyContainer>{body}</BodyContainer>
+          {children}
+          {footer}
+        </Content>
+      </div>
+      <Footer />
     </div>
   )
 }

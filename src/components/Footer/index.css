@@ -1,6 +1,8 @@
+@import "styles/variables.css";
+
 .footer {
-  color: var(--mainColorContrasted);
-  background: var(--mainColor);
+  color: #fff;
+  background: var(--color_bosc_green);
   text-align: center;
 }
 

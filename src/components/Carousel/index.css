@@ -1,0 +1,23 @@
+@import "styles/variables.css";
+
+.slider {
+  position: relative;
+}
+
+.arrow {
+  padding: 10px;
+  background: var(--color_bosc_green);
+  color: #fff;
+  position: absolute;
+  top: 50%;
+}
+
+.left {
+  composes: arrow;
+  left: 0;
+}
+
+.right {
+  composes: arrow;
+  right: 0;
+}

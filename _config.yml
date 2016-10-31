@@ -1,0 +1,45 @@
+---
+title: Bosc Negre Web
+timezone: Europe/Paris
+collections:
+  posts:
+    title: EN_news
+    output: true
+    locale: en
+  gites:
+    title: FR_cottages
+    output: true
+    locale: fr
+  nouvelles:
+    title: FR_news
+    output: true
+    locale: fr
+  fr:
+    title: FR_pages
+    output: true
+    locale: fr
+  services:
+    title: FR_services
+    output: true
+    permalink: fr/services
+    locale: fr
+  huisjes:
+    title: NL_cottages
+    output: true
+    permalink: nl/cottages
+    locale: nl
+  nieuws:
+    title: NL_news
+    output: true
+    locale: nl
+  nl:
+    title: NL_pages
+    output: true
+    locale: nl
+  diensten:
+    title: NL_services
+    output: true
+    locale: nl
+  uploads:
+    title: Uploads
+    output: true

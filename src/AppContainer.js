@@ -1,24 +1,27 @@
-import React, { PropTypes } from "react"
+import React, {Component, PropTypes} from "react"
+import {connect} from "react-redux"
+import {IntlProvider} from "react-intl"
 
-import "./index.global.css"
-import "./highlight.global.css"
+import "./styles/index.css"
 
 import Container from "./components/Container"
 import DefaultHeadMeta from "./components/DefaultHeadMeta"
-import Header from "./components/Header"
-import Content from "./components/Content"
-import Footer from "./components/Footer"
 
-const AppContainer = (props) => (
-  <Container>
-    <DefaultHeadMeta />
-    <Header />
-    <Content>
-      { props.children }
-    </Content>
-    <Footer />
-  </Container>
-)
+const ReduxIntlProvider = connect(state => state.intl)(IntlProvider)
+
+class AppContainer extends Component {
+  render() {
+    const {children} = this.props
+    return (
+      <ReduxIntlProvider>
+        <Container>
+          <DefaultHeadMeta />
+          {children}
+        </Container>
+      </ReduxIntlProvider>
+    )
+  }
+}
 
 AppContainer.propTypes = {
   children: PropTypes.node,

@@ -1,0 +1,66 @@
+@import "./variables.css";
+
+/**
+ * Proper box-sizing
+ */
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/**
+ * Adjust fonts
+ */
+
+html {
+  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+code,
+pre {
+  font-family: Menlo, Monaco, Consolas, monospace;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+/**
+ * Reset links style
+ */
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/**
+ * Default theme
+ */
+
+body {
+  background: #fff;
+  color: #000;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}

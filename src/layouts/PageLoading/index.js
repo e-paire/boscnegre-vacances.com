@@ -15,11 +15,11 @@ TopBarProgressIndicator.config({
 const PageLoading = () => (
   <div>
     <Helmet
-      title={ "Loading..." }
+      title={"Loading..."}
     />
     <TopBarProgressIndicator />
-    <div className={ styles.loader }>
-      <div className={ styles.spinner } />
+    <div className={styles.loader}>
+      <div className={styles.spinner}></div>
     </div>
   </div>
 )

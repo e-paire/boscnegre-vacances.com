@@ -1,10 +1,10 @@
 .page {
-  align-self: center;
-  width: 100%;
-  max-width: 60rem;
-  margin: 1rem 0.75rem;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-.heading {
-  color: #0e63e3;
+.content {
+  flex: 1 1 auto;
 }

@@ -1,20 +1,20 @@
-import React, { PropTypes } from "react"
-import { Link } from "react-router"
+import React, {PropTypes} from "react"
+import {Link} from "react-router"
 
-const PagePreview = ({ __url, title, date }) => {
+const PagePreview = ({__url, title, date}) => {
   const pageDate = date ? new Date(date) : null
 
   return (
     <div>
-      <Link to={ __url }>
-        { title }
+      <Link to={__url}>
+        {title}
       </Link>
       {
         pageDate &&
         <small>
-          { " " }
-          <time key={ pageDate.toISOString() }>
-            { pageDate.toDateString() }
+          {" "}
+          <time key={pageDate.toISOString()}>
+            {pageDate.toDateString()}
           </time>
         </small>
       }

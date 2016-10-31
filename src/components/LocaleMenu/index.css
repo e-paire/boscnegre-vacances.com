@@ -1,0 +1,47 @@
+@import "styles/variables.css";
+
+.menu {
+  position: relative;
+  cursor: pointer;
+  height: 100%;
+}
+
+.current {
+  background: #abe16c;
+  color: #fff;
+  height: 100%;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropdown {
+  position: absolute;
+  top: 40px;
+  left: 0;
+}
+
+.dropdown_open {
+  composes: dropdown;
+  display: block;
+}
+
+.dropdown_close {
+  composes: dropdown;
+  display: none;
+}
+
+.locale {
+  background: #abe16c;
+  color: #fff;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.locale:hover {
+  background: var(--color_bosc_green);
+}

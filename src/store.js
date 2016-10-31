@@ -1,11 +1,17 @@
-import { combineReducers } from "redux"
+import createLogger from "redux-logger"
+import thunk from "redux-thunk"
+
 import createStore from "phenomic/lib/redux/createStore"
-// eslint-disable-next-line import/no-namespace
-import * as phenomicReducers from "phenomic/lib/redux/modules"
+
+import rootReducer from "reducers"
 
 const store = createStore(
-  combineReducers(phenomicReducers),
-  { ...(typeof window !== "undefined") && window.__INITIAL_STATE__ },
+  rootReducer,
+  {...(typeof window !== "undefined") && window.__INITIAL_STATE__},
+  [
+    thunk,
+    createLogger({collapsed: true}),
+  ],
 )
 
 export default store

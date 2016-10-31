@@ -1,0 +1,44 @@
+.nav {
+  background: #fff;
+  height: 60px;
+}
+
+.content {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+
+.left,
+.right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.left {
+  margin-right: 50px;
+}
+
+.right {
+  margin-left: 50px;
+}
+
+.item {
+  text-transform: capitalize;
+  color: #000;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  line-height: 32px;
+}
+
+.left .item {
+  border-left: 1px solid #c6c7d3;
+}
+
+.right .item {
+  border-right: 1px solid #c6c7d3;
+}
