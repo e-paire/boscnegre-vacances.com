@@ -27,7 +27,7 @@
 }
 
 .facebook {
-  background: #3b5998;
+  background: var(--color_facebook);
   color: #fff;
   height: 100%;
   width: 40px;
@@ -38,7 +38,7 @@
 }
 
 .facebook:hover {
-  background: #8b9dc3;
+  background: color(var(--color_facebook) l(+5%));
 }
 
 .localeNav {
@@ -54,9 +54,9 @@
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  padding: 20px;
+  padding: 20px 10px;
 }
 
 .logo > img {
-  width: 60px;
+  width: 90px;
 }

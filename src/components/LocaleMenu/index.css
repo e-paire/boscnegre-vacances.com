@@ -7,7 +7,7 @@
 }
 
 .current {
-  background: #abe16c;
+  background: var(--color_bosc_yellow);
   color: #fff;
   height: 100%;
   width: 40px;
@@ -33,7 +33,7 @@
 }
 
 .locale {
-  background: #abe16c;
+  background: var(--color_bosc_yellow);
   color: #fff;
   height: 40px;
   width: 40px;
