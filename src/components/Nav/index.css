@@ -1,3 +1,5 @@
+@import "styles/variables.css";
+
 .nav {
   background: #fff;
   height: 60px;
@@ -25,7 +27,8 @@
 }
 
 .item {
-  text-transform: capitalize;
+  font-family: var(--font-title);
+  text-transform: uppercase;
   color: #000;
   flex: 1;
   display: flex;

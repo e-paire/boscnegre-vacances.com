@@ -2,19 +2,25 @@
 
 .menu {
   position: relative;
-  cursor: pointer;
-  height: 100%;
   text-transform: uppercase;
+  height: 100%;
+  display: flex;
+  align-items: center;
 }
 
 .current {
-  background: color(var(--color_bosc_yellow) l(-10%));
-  color: #fff;
-  height: 100%;
-  width: 40px;
   display: flex;
-  justify-content: center;
   align-items: center;
+}
+
+.current .flag {
+  padding: 0 10px;
+}
+
+.arrow {
+  color: #fff;
+  display: flex;
+  font-size: 20px;
 }
 
 .dropdown {
@@ -34,15 +40,20 @@
 }
 
 .locale {
-  background: color(var(--color_bosc_yellow) l(-10%));
-  color: #fff;
-  height: 40px;
-  width: 40px;
+  background: var(--color_bosc_green);
+  cursor: pointer;
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
 .locale:hover {
-  background: var(--color_bosc_yellow);
+  background: color(var(--color_bosc_green) l(+10%));
+}
+
+.locale .flag {
+  padding: 10px;
+}
+
+.locale:hover .flag {
+  filter: brightness(150%);
 }

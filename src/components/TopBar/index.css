@@ -16,14 +16,18 @@
 
 .slogan {
   flex: 1 1 auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: var(--font-title);
 }
 
 .email,
 .phone,
-.facebook,
-.localeNav {
+.facebook {
   flex: 0 0 auto;
   padding: 0 10px;
+  font-family: var(--font-title);
 }
 
 .facebook {

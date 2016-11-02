@@ -68,7 +68,6 @@ ImageLightbox.propTypes = {
   index: PropTypes.number.isRequired,
   onClose: PropTypes.func.isRequired,
   open: PropTypes.bool.isRequired,
-  legend: PropTypes.string.isRequired,
 }
 
 export default ImageLightbox
