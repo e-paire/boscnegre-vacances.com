@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import classNames from "classnames"
 import {connect} from "react-redux"
 import {Icon} from "react-fa"
 import {browserHistory} from "phenomic/lib/client"
@@ -45,42 +46,45 @@ class LocaleMenu extends Component {
   }
 
   render() {
-    const {store} = this.context
     const {open} = this.state
-    const currentLocale = store.getState().intl.locale
+    const {currentLocale} = this.props
     return (
-      <div className={styles.menu} onMouseLeave={this.handleClose}>
-        <span className={styles.current} onMouseEnter={this.handleOpen}>
-          <img className={styles.flag} src={FLAGS[currentLocale]} />
-          <span className={styles.arrow}>
-            <Icon name="angle-down" />
+      <div className={styles.wrapper}>
+        {open &&
+          <div className={styles.overlay} onClick={this.handleClose} />
+        }
+        <div className={styles.menu}>
+          <span className={styles.current} onClick={open ? this.handleClose : this.handleOpen}>
+            <img className={styles.flag} src={FLAGS[currentLocale]} />
+            <span className={styles.arrow}>
+              <Icon name={`angle-${open ? "up" : "down"}`} />
+            </span>
           </span>
-        </span>
-        <div className={styles[`dropdown_${open ? "open" : "close"}`]}>
-          {LOCALES
-            .filter(locale => locale !== currentLocale)
-            .map(locale =>
-              <div key={locale} className={styles.locale} onClick={() => this.handleChangeLocale(locale)}>
-                <img className={styles.flag} src={FLAGS[locale]} />
-              </div>
-            )
-          }
+          <div className={classNames(styles.dropdown, open && styles.dropdown_open)}>
+            {LOCALES
+              .filter(locale => locale !== currentLocale)
+              .map(locale =>
+                <div key={locale} className={styles.locale} onClick={() => this.handleChangeLocale(locale)}>
+                  <img className={styles.flag} src={FLAGS[locale]} />
+                </div>
+              )
+            }
+          </div>
         </div>
       </div>
     )
   }
 }
 
-LocaleMenu.contextTypes = {
-  store: PropTypes.object.isRequired,
-}
-
 LocaleMenu.propTypes = {
+  currentLocale: PropTypes.string.isRequired,
   updateLocale: PropTypes.func.isRequired,
 }
 
 export default connect(
-  null,
+  ({intl}) => ({
+    currentLocale: intl.locale,
+  }),
   dispatch => ({
     updateLocale: (locale) => {
       dispatch(setLocale(locale))

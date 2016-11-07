@@ -1,16 +1,31 @@
 @import "styles/variables.css";
 
+.wrapper {
+  height: 100%;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: var(--zIndex-overlay);
+}
+
 .menu {
   position: relative;
   text-transform: uppercase;
   height: 100%;
   display: flex;
   align-items: center;
+  z-index: var(--zIndex-locale);
 }
 
 .current {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .current .flag {
@@ -27,16 +42,11 @@
   position: absolute;
   top: 40px;
   left: 0;
+  display: none;
 }
 
 .dropdown_open {
-  composes: dropdown;
   display: block;
-}
-
-.dropdown_close {
-  composes: dropdown;
-  display: none;
 }
 
 .locale {

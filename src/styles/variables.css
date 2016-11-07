@@ -1,6 +1,6 @@
 :root {
   /* General */
-  --color_bosc_green: #629272;
+  --color_bosc_green: #8bc59d;
   --color_bosc_yellow: #fed48c;
   --color_gray_light: #f9f9fa;
 
@@ -11,4 +11,11 @@
 
   /* Fonts */
   --font-title: "Lato Light";
+
+  /* Z-index */
+  --zIndex-overlay: 1;
+  --zIndex-dropdown: calc(var(--zIndex-overlay) + 1);
+  --zIndex-logo: calc(var(--zIndex-dropdown) + 1);
+  --zIndex-nav: var(--zIndex-dropdown);
+  --zIndex-locale: calc(var(--zIndex-nav) + 1);
 }

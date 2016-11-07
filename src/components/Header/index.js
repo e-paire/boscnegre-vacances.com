@@ -9,15 +9,38 @@ import HeaderImage from "./assets/header.png"
 import styles from "./index.css"
 
 class Header extends Component {
+  constructor() {
+    super()
+
+    this.state = {
+      isNavOpen: false,
+    }
+
+    this.handleOpenNav = this.handleOpenNav.bind(this)
+    this.handleCloseNav = this.handleCloseNav.bind(this)
+  }
+
+  handleOpenNav() {
+    this.setState({isNavOpen: true})
+  }
+
+  handleCloseNav() {
+    this.setState({isNavOpen: false})
+  }
+
   render() {
     return (
       <header className={styles.header}>
-        <TopBar />
-        <Nav />
+        <TopBar
+          onOpenNav={this.handleOpenNav}
+        />
+        <Nav
+          open={this.state.isNavOpen}
+          onCloseNav={this.handleCloseNav}
+        />
         <div className={styles.photo}>
           <img className={styles.image} src={HeaderImage} />
         </div>
-
       </header>
     )
   }

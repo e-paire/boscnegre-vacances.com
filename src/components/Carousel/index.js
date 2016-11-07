@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {connect} from "react-redux"
 import Slick from "react-slick"
 import {Icon} from "react-fa"
 
@@ -6,6 +7,13 @@ import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 
 import styles from "./index.css"
+
+const SLIDES_MQ = {
+  "s": 1,
+  "m": 2,
+  "l": 4,
+  "infinity": 6,
+}
 
 class Carousel extends Component {
   constructor(props) {
@@ -23,11 +31,12 @@ class Carousel extends Component {
   }
 
   render() {
+    const {browser} = this.props
     const settings = {
       infinite: true,
       draggable: false,
-      slidesToShow: 4,
-      slidesToScroll: 4,
+      slidesToShow: SLIDES_MQ[browser.mediaType],
+      slidesToScroll: SLIDES_MQ[browser.mediaType],
     }
     return (
       <div className={styles.slider}>
@@ -46,7 +55,10 @@ class Carousel extends Component {
 }
 
 Carousel.propTypes = {
+  browser: PropTypes.object.isRequired,
   children: PropTypes.any.isRequired,
 }
 
-export default Carousel
+export default connect(
+  ({browser}) => ({browser}),
+)(Carousel)

@@ -1,4 +1,5 @@
 import createLogger from "redux-logger"
+import {responsiveStoreEnhancer} from "redux-responsive"
 import thunk from "redux-thunk"
 
 import createStore from "phenomic/lib/redux/createStore"
@@ -11,6 +12,9 @@ const store = createStore(
   [
     thunk,
     createLogger({collapsed: true}),
+  ],
+  [
+    responsiveStoreEnhancer,
   ],
 )
 

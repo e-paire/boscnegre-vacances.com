@@ -1,0 +1,12 @@
+@custom-media --mq-s all and (max-width: 669px);
+@custom-media --mq-m all and (min-width: 670px) and (max-width: 1023px);
+@custom-media --mq-l all and (min-width: 1024px) and (max-width: 1359px);
+@custom-media --mq-xl all and (min-width: 1360px);
+
+/* Great than */
+@custom-media --mq-gt-s all and (min-width: 670px);
+@custom-media --mq-gt-m all and (min-width: 1024px);
+
+/* Less than */
+@custom-media --mq-lt-l all and (max-width: 1023px);
+@custom-media --mq-lt-xl all and (max-width: 1359px);
