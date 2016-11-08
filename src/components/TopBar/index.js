@@ -3,8 +3,7 @@ import {Icon} from "react-fa"
 
 import Content from "components/Content"
 import LocaleMenu from "components/LocaleMenu"
-
-import Logo from "./assets/logo.png"
+import Logo from "components/Logo"
 
 import styles from "./index.css"
 
@@ -23,7 +22,7 @@ class TopBar extends Component {
     return (
       <div className={styles.top}>
         <div className={styles.logoWrapper} >
-          <img className={styles.logo} src={Logo} />
+          <Logo className={styles.logo} />
         </div>
         <Content className={styles.content}>
           <div className={styles.navButton} onClick={this.handleOpenNav}>

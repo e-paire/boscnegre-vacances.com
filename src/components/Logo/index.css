@@ -1,0 +1,28 @@
+:root {
+  --color-yellow: #fed48c;
+  --color-white: #e9e9e9;
+  --color-blue: #bae6fa;
+  --color-brown: #d5bb9b;
+}
+
+.roof {
+  fill: var(--color-brown);
+}
+
+.b,
+.c,
+.n,
+.r {
+  fill: var(--color-yellow);
+}
+
+.o,
+.g {
+  fill: var(--color-blue);
+}
+
+.s,
+.e,
+.e_focus {
+  fill: var(--color-white);
+}

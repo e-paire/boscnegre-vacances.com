@@ -7,3 +7,15 @@ messages:
   cottage_category:
     from: "À partir de"
     the_week: "la semaine"
+
+  footer:
+    address: "Adresse"
+    relevant_information: "Informations utiles"
+    sitemap: "Plan du site"
+    contact: "Contact"
+    prices: "Page Tarif"
+    legal_notices: "Mentions légales"
+    consumer_advisory: "Avis consommateur"
+    our_partners: "Nos partenaires"
+    join_us: "Nous rejoindre"
+    subscribe_newsletter: "S'inscrire à la newsletter"

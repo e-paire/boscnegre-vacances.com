@@ -15,7 +15,7 @@ import {setLocale} from "actions/intl"
 
 let locale = storage.get("locale")
 
-if (locale !== null) {
+if (locale !== null && typeof locale !== "undefined") {
   store.dispatch(setLocale(locale))
 } else {
   store.dispatch(setLocale("fr"))

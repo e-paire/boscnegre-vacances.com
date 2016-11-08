@@ -43,6 +43,7 @@ const Page = (
     {name: "twitter:creator", content: `@${ pkg.twitter }`},
     {name: "twitter:description", content: head.description},
     {name: "description", content: head.description},
+    {name: "robots", content: "noindex"},
   ]
 
   return (
