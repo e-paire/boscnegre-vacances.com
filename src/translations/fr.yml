@@ -19,3 +19,7 @@ messages:
     our_partners: "Nos partenaires"
     join_us: "Nous rejoindre"
     subscribe_newsletter: "S'inscrire à la newsletter"
+
+  newsletter_form:
+    email: "Adresse email"
+    subscribe: "S'abonner"

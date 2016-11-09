@@ -6,6 +6,7 @@ import {Icon} from "react-fa"
 import Logo from "components/Logo"
 import AncvLogo from "components/AncvLogo"
 import Content from "components/Content"
+import NewsletterForm from "components/NewsletterForm"
 import VillageGitesLogo from "./assets/villages-de-gites.png"
 
 import styles from "./index.css"
@@ -95,7 +96,9 @@ const Footer = () => (
           <div className={styles.title}>
             <FormattedMessage id="footer.subscribe_newsletter" />
           </div>
-          <div className={styles.newsletter}></div>
+          <div className={styles.newsletter}>
+            <NewsletterForm />
+          </div>
         </div>
       </div>
     </Content>
