@@ -1,0 +1,11 @@
+@import "styles/mq.css";
+
+.form {
+  padding: 10px;
+}
+
+@media (--mq-gt-m) {
+  .form {
+    padding: 20px 10px;
+  }
+}

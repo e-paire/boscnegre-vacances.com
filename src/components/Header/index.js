@@ -4,6 +4,7 @@ import * as pageActions from "phenomic/lib/redux/modules/pages"
 
 import Nav from "components/Nav"
 import TopBar from "components/TopBar"
+import BookingForm from "components/BookingForm"
 import HeaderImage from "./assets/header.png"
 
 import styles from "./index.css"
@@ -41,6 +42,7 @@ class Header extends Component {
         <div className={styles.photo}>
           <img className={styles.image} src={HeaderImage} />
         </div>
+        <BookingForm />
       </header>
     )
   }
