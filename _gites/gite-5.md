@@ -1,6 +1,6 @@
 ---
 title: Gite 5
-cover: "/uploads/DSC02876.jpg"
+cover: "/uploads/cottage.png"
 description: |-
   Le **gite 3** est très loin
 

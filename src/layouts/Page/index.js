@@ -4,7 +4,6 @@ import Helmet from "react-helmet"
 import {BodyContainer, joinUri} from "phenomic"
 
 import Header from "components/Header"
-import Content from "components/Content"
 import Footer from "components/Footer"
 
 import styles from "./index.css"
@@ -52,18 +51,15 @@ const Page = (
         title={metaTitle}
         meta={meta}
       />
-      <Header />
+      <Header cover={head.cover} />
       <div className={styles.content}>
-        <Content>
-          {
-            head.title &&
-            <h1 className={styles.heading}>{head.title}</h1>
-          }
-          {header}
-          <BodyContainer>{body}</BodyContainer>
-          {children}
-          {footer}
-        </Content>
+        {head.title &&
+          <h1 className={styles.heading}>{head.title}</h1>
+        }
+        {header}
+        <BodyContainer>{body}</BodyContainer>
+        {children}
+        {footer}
       </div>
       <Footer />
     </div>

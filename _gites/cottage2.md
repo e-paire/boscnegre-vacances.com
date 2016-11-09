@@ -4,7 +4,7 @@ description: Le gite 2 est très bien
 number: 2
 locale: fr
 layout: Cottage
-cover: "/uploads/DSC02876.jpg"
+cover: "/uploads/cottage.png"
 ---
 
 Contenu du Gite 2ss

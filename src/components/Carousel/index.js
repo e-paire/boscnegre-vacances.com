@@ -12,7 +12,7 @@ const SLIDES_MQ = {
   "s": 1,
   "m": 2,
   "l": 4,
-  "infinity": 6,
+  "infinity": 4,
 }
 
 class Carousel extends Component {

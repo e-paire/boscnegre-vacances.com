@@ -3,7 +3,7 @@ title: Groupes
 capacityMin: 10
 capacityMax: 80
 priceMin: 1000
-cover: "/uploads/DSC02876.jpg"
+cover: "/uploads/cottage.png"
 layout: CottageCategory
 locale: nl
 ---

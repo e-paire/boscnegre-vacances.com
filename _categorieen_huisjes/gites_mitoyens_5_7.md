@@ -3,7 +3,7 @@ title: Gîtes mitoyens 5/7 pers.
 capacityMin: 5
 capacityMax: 7
 priceMin: 300
-cover: "/uploads/DSC02876.jpg"
+cover: "/uploads/cottage.png"
 layout: CottageCategory
 locale: nl
 ---

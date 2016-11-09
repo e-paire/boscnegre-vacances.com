@@ -2,6 +2,7 @@
   /* General */
   --color_bosc_green: #8bc59d;
   --color_bosc_yellow: #fdc158;
+  --color_bosc_yellow-darken1: color(var(--color_bosc_yellow) l(-10));
   --color_gray_light: #f9f9fa;
 
   /* Social */

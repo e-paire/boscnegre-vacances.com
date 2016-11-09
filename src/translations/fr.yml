@@ -1,12 +1,18 @@
 locale: "fr"
 
 messages:
+  buttons:
+    see_more: "En savoir plus"
+
   cottages_categories:
     our_cottages: "Nos gîtes tout confort"
     no_category: "Aucun gîte"
   cottage_category:
     from: "À partir de"
     the_week: "la semaine"
+
+  home:
+    our_offers: "Nos offres en cours"
 
   footer:
     address: "Adresse"

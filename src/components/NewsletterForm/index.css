@@ -24,6 +24,6 @@
 .button:focus,
 .button:hover {
   outline: none;
-  background: color(var(--color_bosc_yellow) l(-10));
-  border-color: color(var(--color_bosc_yellow) l(-10));
+  background: var(--color_bosc_yellow-darken1);
+  border-color: var(--color_bosc_yellow-darken1);
 }

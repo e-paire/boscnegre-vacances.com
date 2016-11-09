@@ -4,7 +4,7 @@ description: Le gite 2 est très bien
 capacityMin: 5
 capacityMax: 7
 priceMin: 300
-cover: "/uploads/DSC02876.jpg"
+cover: "/uploads/cottage.png"
 layout: CottageCategory
 locale: nl
 ---

@@ -1,11 +1,8 @@
 import React, {Component, PropTypes} from "react"
-import {connect} from "react-redux"
-import * as pageActions from "phenomic/lib/redux/modules/pages"
 
 import Nav from "components/Nav"
 import TopBar from "components/TopBar"
 import BookingForm from "components/BookingForm"
-import HeaderImage from "./assets/header.png"
 
 import styles from "./index.css"
 
@@ -40,7 +37,7 @@ class Header extends Component {
           onCloseNav={this.handleCloseNav}
         />
         <div className={styles.photo}>
-          <img className={styles.image} src={HeaderImage} />
+          <img className={styles.image} src={this.props.cover} />
         </div>
         <BookingForm />
       </header>
@@ -48,17 +45,8 @@ class Header extends Component {
   }
 }
 
-Header.contextTypes = {
-  metadata: PropTypes.object.isRequired,
-}
-
 Header.propTypes = {
-  getPage: PropTypes.func.isRequired,
+  cover: PropTypes.string.isRequired,
 }
 
-export default connect(
-  null,
-  dispatch => ({
-    getPage: (...args) => dispatch(pageActions.get(...args)),
-  })
-)(Header)
+export default Header
