@@ -10,6 +10,7 @@ import PageError from "./layouts/PageError"
 import PageLoading from "./layouts/PageLoading"
 import Post from "./layouts/Post"
 import Service from "./layouts/Service"
+import Services from "./layouts/Services"
 
 const PageContainer = (props) => (
   <PhenomicPageContainer
@@ -21,6 +22,7 @@ const PageContainer = (props) => (
       PageLoading,
       Post,
       Service,
+      Services
     }}
   />
 )

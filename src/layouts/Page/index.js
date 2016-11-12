@@ -1,33 +1,20 @@
 import React, {PropTypes} from "react"
 import Helmet from "react-helmet"
-// import invariant from "invariant"
-import {BodyContainer, joinUri} from "phenomic"
+import {joinUri} from "phenomic"
 
 import Header from "components/Header"
 import Footer from "components/Footer"
 
 import styles from "./index.css"
 
-const Page = (
-  {
-    __filename,
-    __url,
-    head,
-    body,
-    header,
-    footer,
-    children,
-  },
-  {
-    metadata: {pkg},
-  }
-) => {
-  /* invariant(
-    typeof head.title === "string",
-    `Your page '${ __filename }' needs a title`
-  )*/
+const DEFAULT_META_TITLE = "Bosc Nègre"
 
-  const metaTitle = head.metaTitle ? head.metaTitle : head.title
+const Page = ({__url, children, footer, head, header}) => {
+  const metaTitle = head.metaTitle
+    ? head.metaTitle
+    : head.title
+      ? head.title
+      : DEFAULT_META_TITLE
 
   const meta = [
     {property: "og:type", content: "article"},
@@ -39,7 +26,6 @@ const Page = (
     {property: "og:description", content: head.description},
     {name: "twitter:card", content: "summary"},
     {name: "twitter:title", content: metaTitle},
-    {name: "twitter:creator", content: `@${ pkg.twitter }`},
     {name: "twitter:description", content: head.description},
     {name: "description", content: head.description},
     {name: "robots", content: "noindex"},
@@ -53,11 +39,7 @@ const Page = (
       />
       <Header cover={head.cover} />
       <div className={styles.content}>
-        {head.title &&
-          <h1 className={styles.heading}>{head.title}</h1>
-        }
         {header}
-        <BodyContainer>{body}</BodyContainer>
         {children}
         {footer}
       </div>
@@ -67,17 +49,11 @@ const Page = (
 }
 
 Page.propTypes = {
-  children: PropTypes.node,
-  __filename: PropTypes.string.isRequired,
   __url: PropTypes.string.isRequired,
-  head: PropTypes.object.isRequired,
-  body: PropTypes.string.isRequired,
-  header: PropTypes.element,
+  children: PropTypes.node,
   footer: PropTypes.element,
-}
-
-Page.contextTypes = {
-  metadata: PropTypes.object.isRequired,
+  head: PropTypes.object.isRequired,
+  header: PropTypes.element,
 }
 
 export default Page

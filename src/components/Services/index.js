@@ -11,6 +11,7 @@ import styles from "./index.css"
 class Services extends Component {
   render() {
     const {collection} = this.context
+
     const services = enhanceCollection(collection, {
       filter: {layout: "Service", locale: this.props.currentLocale},
       sort: "order",
@@ -21,7 +22,7 @@ class Services extends Component {
         <Title id="services.discover_services" />
         <div className={styles.services}>
         {services.map((service, index) => (
-          <Link to="/" key={index} className={styles.service}>
+          <Link to={service.__url} key={index} className={styles.service}>
             <Service {...service} />
           </Link>
         ))}

@@ -1,17 +1,23 @@
 import React, {PropTypes} from "react"
+import {BodyContainer} from "phenomic"
 
-const Service = ({title}) => {
+import Content from "components/Content"
+import Page from "layouts/Page"
+
+const Service = ({body, ...props}) => {
   return (
-    <div>{title}</div>
+    <Page {...props}>
+      <Content>
+        <BodyContainer>
+          {body}
+        </BodyContainer>
+      </Content>
+    </Page>
   )
 }
 
 Service.propTypes = {
-  title: PropTypes.string,
-}
-
-Service.defaultProps = {
-  title: PropTypes.string,
+  body: PropTypes.string,
 }
 
 export default Service

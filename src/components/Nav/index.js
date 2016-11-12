@@ -1,4 +1,6 @@
 import React, {Component, PropTypes} from "react"
+import enhanceCollection from "phenomic/lib/enhance-collection"
+import {connect} from "react-redux"
 import {Link} from "react-router"
 import classNames from "classnames"
 
@@ -18,6 +20,11 @@ class Nav extends Component {
   }
 
   render() {
+    const {collection} = this.context
+    const ServicesPage = enhanceCollection(collection, {
+      filter: {layout: "Services", locale: this.props.currentLocale},
+    }).shift()
+
     return (
       <div>
         {this.props.open &&
@@ -28,7 +35,7 @@ class Nav extends Component {
             <div className={styles.first}>
               <Link className={styles.item} to="/">{"Home"}</Link>
               <Link className={styles.item} to="/">{"Les gîtes"}</Link>
-              <Link className={styles.item} to="/">{"Activités"}</Link>
+              <Link className={styles.item} to={ServicesPage && ServicesPage.__url || "/"}>{"Activités"}</Link>
               <Link className={styles.item} to="/">{"Photos"}</Link>
             </div>
             <div className={styles.last}>
@@ -45,8 +52,17 @@ class Nav extends Component {
 }
 
 Nav.propTypes = {
+  currentLocale: PropTypes.string.isRequired,
   onCloseNav: PropTypes.func.isRequired,
   open: PropTypes.bool.isRequired,
 }
 
-export default Nav
+Nav.contextTypes = {
+  collection: PropTypes.array.isRequired,
+}
+
+export default connect(
+  ({intl}) => ({
+    currentLocale: intl.locale,
+  }),
+)(Nav)
