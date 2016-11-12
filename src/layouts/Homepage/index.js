@@ -1,10 +1,10 @@
 import React, {Component, PropTypes} from "react"
 
-import CottagesCategories from "components/CottagesCategories"
 import Content from "components/Content"
-import ImageLink from "components/ImageLink"
+import CottagesCategories from "components/CottagesCategories"
 import Page from "layouts/Page"
-import Title from "components/Title"
+import Offers from "components/Offers"
+import Services from "components/Services"
 
 class Homepage extends Component {
   render() {
@@ -15,12 +15,15 @@ class Homepage extends Component {
           <CottagesCategories />
         </Content>
 
-        <Title id="home.our_offers" theme="yellow" />
-        <ImageLink
-          src={head.offersCover}
-          text={head.offersText}
+        <Offers
+          cover={head.offersCover}
           url="/"
+          text={head.offersText}
         />
+
+        <Content>
+          <Services />
+        </Content>
       </Page>
     )
   }

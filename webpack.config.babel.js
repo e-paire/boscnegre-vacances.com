@@ -46,6 +46,7 @@ export default (config = {}) => {
             path.resolve(__dirname, "_categories_gites"),
             path.resolve(__dirname, "_gites"),
             path.resolve(__dirname, "_services"),
+
             // nl
             path.resolve(__dirname, "_nl"),
             path.resolve(__dirname, "_nieuws"),
