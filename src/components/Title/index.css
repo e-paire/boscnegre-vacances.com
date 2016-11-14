@@ -1,7 +1,8 @@
 @import "styles/variables.css";
+@import "styles/mq.css";
 
 .title {
-  font-size: 36px;
+  font-size: 20px;
   padding: 10px;
   text-align: center;
   display: block;
@@ -17,4 +18,22 @@
 .title_yellow {
   composes: title;
   background: var(--color_bosc_yellow);
+}
+
+@media (--mq-m) {
+  .title {
+    font-size: 25px;
+  }
+}
+
+@media (--mq-l) {
+  .title {
+    font-size: 30px;
+  }
+}
+
+@media (--mq-xl) {
+  .title {
+    font-size: 35px;
+  }
 }

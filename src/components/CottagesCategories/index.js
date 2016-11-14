@@ -62,7 +62,7 @@ class CottagesCategories extends Component {
 
     return cottagesCategories.length > 0
       ? <div>
-          <Title id="cottages_categories.our_cottages" />
+          <Title id="titles.our_cottages" />
           <ImageLightbox
             index={lightboxIndex}
             images={images}

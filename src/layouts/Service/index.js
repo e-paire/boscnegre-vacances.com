@@ -1,13 +1,15 @@
 import React, {PropTypes} from "react"
 import {BodyContainer} from "phenomic"
 
+import CarouselImages from "components/CarouselImages"
 import Content from "components/Content"
 import Page from "layouts/Page"
 
-const Service = ({body, ...props}) => {
+const Service = ({head, body, ...props}) => {
   return (
-    <Page {...props}>
+    <Page {...props} head={head}>
       <Content>
+        <CarouselImages images={head.images} />
         <BodyContainer>
           {body}
         </BodyContainer>
@@ -17,6 +19,7 @@ const Service = ({body, ...props}) => {
 }
 
 Service.propTypes = {
+  head: PropTypes.object.isRequired,
   body: PropTypes.string.isRequired,
 }
 

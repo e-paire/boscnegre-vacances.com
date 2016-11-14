@@ -1,3 +1,5 @@
+@import "styles/mq.css";
+
 .services {
   display: flex;
   flex-wrap: wrap;
@@ -6,14 +8,21 @@
 }
 
 .service {
-  flex: 1 1 50%;
+  flex: 1 1 100%;
   margin-bottom: 20px;
 }
 
-.service:nth-child(2n) {
-  padding-left: 10px;
-}
+@media (--mq-gt-s) {
+  .title {
+    flex-basis: 50%;
+    margin-bottom: 20px;
+  }
 
-.service:nth-child(2n+1) {
-  padding-right: 10px;
+  .service:nth-child(2n) {
+    padding-left: 10px;
+  }
+
+  .service:nth-child(2n+1) {
+    padding-right: 10px;
+  }
 }

@@ -1,4 +1,5 @@
 @import "styles/variables.css";
+@import "styles/mq.css";
 
 .service {
   position: relative;
@@ -22,14 +23,6 @@
   transition: all 0.3s;
 }
 
-.service:hover .overlay {
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  opacity: 0.5;
-}
-
 .title {
   position: absolute;
   left: 0;
@@ -41,4 +34,14 @@
   justify-content: center;
   opacity: 1;
   color: #fff;
+}
+
+@media (--mq-gt-s) {
+  .service:hover .overlay {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5;
+  }
 }
