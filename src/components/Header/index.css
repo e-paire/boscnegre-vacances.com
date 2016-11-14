@@ -1,3 +1,4 @@
+@import "styles/variables.css";
 @import "styles/mq.css";
 
 :root {
@@ -11,12 +12,24 @@
 .photo {
   width: 100%;
   height: 100px;
+  position: relative;
 }
 
 .image {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.title {
+  position: absolute;
+  background: color(var(--color_bosc_yellow) a(80%));
+  color: #fff;
+  margin: 0;
+  padding: 5px 20px;
+  top: 100px;
+  left: 50px;
+  font-size: 40px;
 }
 
 @media (--mq-m) {

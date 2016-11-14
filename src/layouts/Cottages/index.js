@@ -3,11 +3,13 @@ import {BodyContainer} from "phenomic"
 
 import Content from "components/Content"
 import Page from "layouts/Page"
+import CottagesCategories from "components/CottagesCategories"
 
-const Service = ({body, ...props}) => {
+const Services = ({body, ...props}) => {
   return (
     <Page {...props}>
       <Content>
+        <CottagesCategories />
         <BodyContainer>
           {body}
         </BodyContainer>
@@ -16,8 +18,8 @@ const Service = ({body, ...props}) => {
   )
 }
 
-Service.propTypes = {
-  body: PropTypes.string.isRequired,
+Services.propTypes = {
+  body: PropTypes.object.isRequired,
 }
 
-export default Service
+export default Services

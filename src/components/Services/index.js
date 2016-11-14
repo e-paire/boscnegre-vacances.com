@@ -19,7 +19,7 @@ class Services extends Component {
 
     return services.length > 0 ? (
       <div>
-        <Title id="services.discover_services" />
+        <Title id="titles.discover_services" />
         <div className={styles.services}>
         {services.map((service, index) => (
           <Link to={service.__url} key={index} className={styles.service}>

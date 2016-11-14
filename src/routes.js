@@ -4,25 +4,29 @@ import {Route} from "react-router"
 import AppContainer from "./AppContainer"
 import {PageContainer as PhenomicPageContainer} from "phenomic"
 
-import Homepage from "./layouts/Homepage"
-import Page from "./layouts/Page"
-import PageError from "./layouts/PageError"
-import PageLoading from "./layouts/PageLoading"
-import Post from "./layouts/Post"
-import Service from "./layouts/Service"
-import Services from "./layouts/Services"
+import Cottages from "layouts/Cottages"
+import CottagesCategory from "layouts/CottagesCategory"
+import Homepage from "layouts/Homepage"
+import Page from "layouts/Page"
+import PageError from "layouts/PageError"
+import PageLoading from "layouts/PageLoading"
+import Post from "layouts/Post"
+import Service from "layouts/Service"
+import Services from "layouts/Services"
 
 const PageContainer = (props) => (
   <PhenomicPageContainer
     { ...props }
     layouts={{
+      Cottages,
+      CottagesCategory,
       Homepage,
       Page,
       PageError,
       PageLoading,
       Post,
       Service,
-      Services
+      Services,
     }}
   />
 )

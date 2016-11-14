@@ -37,7 +37,7 @@ const Page = ({__url, children, footer, head, header}) => {
         title={metaTitle}
         meta={meta}
       />
-      <Header cover={head.cover} />
+      <Header cover={head.cover} title={head.title} />
       <div className={styles.content}>
         {header}
         {children}

@@ -6,7 +6,7 @@ import Title from "components/Title"
 const Offers = ({cover, text, url}) => {
   return (
     <div>
-      <Title id="offers.our_offers" theme="yellow" />
+      <Title id="titles.our_offers" theme="yellow" />
       <ImageLink
         src={cover}
         text={text}

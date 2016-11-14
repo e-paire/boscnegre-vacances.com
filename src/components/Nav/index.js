@@ -25,6 +25,10 @@ class Nav extends Component {
       filter: {layout: "Services", locale: this.props.currentLocale},
     }).shift()
 
+    const CottagesPage = enhanceCollection(collection, {
+      filter: {layout: "Cottages", locale: this.props.currentLocale},
+    }).shift()
+
     return (
       <div>
         {this.props.open &&
@@ -34,8 +38,12 @@ class Nav extends Component {
           <Content className={styles.content}>
             <div className={styles.first}>
               <Link className={styles.item} to="/">{"Home"}</Link>
-              <Link className={styles.item} to="/">{"Les gîtes"}</Link>
-              <Link className={styles.item} to={ServicesPage && ServicesPage.__url || "/"}>{"Activités"}</Link>
+              <Link className={styles.item} to={CottagesPage && CottagesPage.__url || "/"}>
+                {"Les gîtes"}
+              </Link>
+              <Link className={styles.item} to={ServicesPage && ServicesPage.__url || "/"}>
+                {"Activités"}
+              </Link>
               <Link className={styles.item} to="/">{"Photos"}</Link>
             </div>
             <div className={styles.last}>

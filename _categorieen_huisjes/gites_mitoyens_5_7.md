@@ -4,6 +4,6 @@ capacityMin: 5
 capacityMax: 7
 priceMin: 300
 cover: "/uploads/cottage.png"
-layout: CottageCategory
+layout: CottagesCategory
 locale: nl
 ---

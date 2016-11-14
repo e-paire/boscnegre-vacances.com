@@ -27,6 +27,7 @@ class Header extends Component {
   }
 
   render() {
+    const {cover, title} = this.props
     return (
       <header className={styles.header}>
         <TopBar
@@ -37,7 +38,10 @@ class Header extends Component {
           onCloseNav={this.handleCloseNav}
         />
         <div className={styles.photo}>
-          <img className={styles.image} src={this.props.cover} />
+          <img className={styles.image} src={cover} />
+          {title &&
+            <h1 className={styles.title}>{title}</h1>
+          }
         </div>
         <BookingForm />
       </header>
@@ -47,6 +51,7 @@ class Header extends Component {
 
 Header.propTypes = {
   cover: PropTypes.string.isRequired,
+  title: PropTypes.string,
 }
 
 export default Header

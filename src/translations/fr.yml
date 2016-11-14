@@ -4,19 +4,15 @@ messages:
   buttons:
     see_more: "En savoir plus"
 
-  cottages_categories:
+  titles:
     our_cottages: "Nos gîtes tout confort"
-    no_category: "Aucun gîte"
+    cottages: "Les gîtes"
+    our_offers: "Nos offres en cours"
+    discover_services: Découvrez les activités proposées
 
   cottage_category:
     from: "À partir de"
     the_week: "la semaine"
-
-  offers:
-    our_offers: "Nos offres en cours"
-
-  services:
-    discover_services: Découvrez les activités proposées
 
   footer:
     address: "Adresse"

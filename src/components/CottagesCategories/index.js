@@ -2,10 +2,10 @@ import React, {Component, PropTypes} from "react"
 import {connect} from "react-redux"
 import classNames from "classnames"
 import enhanceCollection from "phenomic/lib/enhance-collection"
-import {FormattedMessage} from "react-intl"
+import {browserHistory} from "phenomic/lib/client"
 
 import Carousel from "components/Carousel"
-import CottageCategory from "components/CottageCategory"
+import CottagesCategory from "components/CottagesCategory"
 import ImageLightbox from "components/ImageLightbox"
 import Title from "components/Title"
 
@@ -21,6 +21,8 @@ class CottagesCategories extends Component {
     }
 
     this.handleCloseLightbox = this.handleCloseLightbox.bind(this)
+    this.handleClickOnImage = this.handleClickOnImage.bind(this)
+    this.handleRedirect = this.handleRedirect.bind(this)
   }
 
   handleCloseLightbox() {
@@ -37,10 +39,18 @@ class CottagesCategories extends Component {
     })
   }
 
+  handleClickOnImage(index) {
+    this.handleOpenLightbox(index)
+  }
+
+  handleRedirect(url) {
+    browserHistory.push(url)
+  }
+
   render() {
     const {collection} = this.context
     const cottagesCategories = enhanceCollection(collection, {
-      filter: {layout: "CottageCategory", locale: this.props.currentLocale},
+      filter: {layout: "CottagesCategory", locale: this.props.currentLocale},
       sort: "capacityMin",
     })
 
@@ -50,31 +60,30 @@ class CottagesCategories extends Component {
       src: category.cover,
     }))
 
-    return (
-      <div>
-        <Title id="cottages_categories.our_cottages" />
-        {cottagesCategories.length > 0
-          ? <ImageLightbox
-              index={lightboxIndex}
-              images={images}
-              onClose={this.handleCloseLightbox}
-              open={isLightboxOpen}
-            >
-              <Carousel>
-                {cottagesCategories.map((category, index) => (
-                  <div key={index}
-                    className={classNames(styles.category, index % 2 == 0 && styles.even)}
-                    onClick={() => this.handleOpenLightbox(index)}
-                  >
-                    <CottageCategory {...category} />
-                  </div>
-                ))}
-              </Carousel>
-            </ImageLightbox>
-          : <FormattedMessage id="cottages_categories.no_category" />
-        }
-      </div>
-    )
+    return cottagesCategories.length > 0
+      ? <div>
+          <Title id="cottages_categories.our_cottages" />
+          <ImageLightbox
+            index={lightboxIndex}
+            images={images}
+            onClose={this.handleCloseLightbox}
+            open={isLightboxOpen}
+          >
+            <Carousel keysDisabled={isLightboxOpen}>
+              {cottagesCategories.map((category, index) => (
+                <div key={index}
+                  className={classNames(styles.category, index % 2 == 0 && styles.even)}
+                >
+                  <CottagesCategory {...category}
+                    onClickOnImage={() => this.handleOpenLightbox(index)}
+                    onClickOnContent={() => this.handleRedirect(category.__url)}
+                  />
+                </div>
+              ))}
+            </Carousel>
+          </ImageLightbox>
+        </div>
+      : null
   }
 }
 

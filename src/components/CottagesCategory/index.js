@@ -3,11 +3,11 @@ import {FormattedMessage, FormattedNumber} from "react-intl"
 
 import styles from "./index.css"
 
-const CottageCategory = ({cover, title, priceMin}) => {
+const CottagesCategory = ({cover, onClickOnContent, onClickOnImage, priceMin, title}) => {
   return (
-    <div className={styles.cottage}>
-      <img className={styles.image} src={cover} />
-      <div className={styles.content}>
+    <div className={styles.category}>
+      <img className={styles.image} src={cover} onClick={onClickOnImage} />
+      <div className={styles.content} onClick={onClickOnContent}>
         <div className={styles.title}>{title}</div>
         <div className={styles.from}>
           <FormattedMessage id="cottage_category.from" />
@@ -23,10 +23,12 @@ const CottageCategory = ({cover, title, priceMin}) => {
   )
 }
 
-CottageCategory.propTypes = {
+CottagesCategory.propTypes = {
   cover: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
+  onClickOnContent: PropTypes.func.isRequired,
+  onClickOnImage: PropTypes.func.isRequired,
   priceMin: PropTypes.number.isRequired,
+  title: PropTypes.string.isRequired,
 }
 
-export default CottageCategory
+export default CottagesCategory

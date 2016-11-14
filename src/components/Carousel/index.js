@@ -31,8 +31,9 @@ class Carousel extends Component {
   }
 
   render() {
-    const {browser} = this.props
+    const {browser, keysDisabled} = this.props
     const settings = {
+      accessibility: !keysDisabled,
       infinite: true,
       draggable: false,
       slidesToShow: SLIDES_MQ[browser.mediaType],
@@ -56,7 +57,12 @@ class Carousel extends Component {
 
 Carousel.propTypes = {
   browser: PropTypes.object.isRequired,
+  keysDisabled: PropTypes.bool,
   children: PropTypes.any.isRequired,
+}
+
+Carousel.defaultProps = {
+  keysDisabled: false,
 }
 
 export default connect(
