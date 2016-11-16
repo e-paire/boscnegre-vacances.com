@@ -1,9 +1,13 @@
 import {SET_LOCALE} from "../constants/actions"
 
 const initialState = {
-  locale: null,
-  messages: null,
+  locale: "fr",
+  messages: {
+    "nav.groups": "Les groupes",
+    "nav.cottages": "Les gîtes",
+  },
   formats: null,
+  defaultLocale: "fr",
 }
 
 export default function intlReducer(state = initialState, action) {

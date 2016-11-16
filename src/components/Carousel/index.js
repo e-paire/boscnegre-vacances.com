@@ -8,13 +8,6 @@ import "slick-carousel/slick/slick-theme.css"
 
 import styles from "./index.css"
 
-const SLIDES_MQ = {
-  "s": 1,
-  "m": 2,
-  "l": 4,
-  "infinity": 4,
-}
-
 class Carousel extends Component {
   constructor(props) {
     super(props)
@@ -31,25 +24,30 @@ class Carousel extends Component {
   }
 
   render() {
-    const {browser, keysDisabled} = this.props
+    const {browser, noKeys, noArrows, slides_number, theme} = this.props
     const settings = {
-      accessibility: !keysDisabled,
+      arrows: false,
+      accessibility: !noKeys,
       infinite: true,
       draggable: false,
-      slidesToShow: SLIDES_MQ[browser.mediaType],
-      slidesToScroll: SLIDES_MQ[browser.mediaType],
+      slidesToShow: slides_number[browser.mediaType],
+      slidesToScroll: slides_number[browser.mediaType],
     }
     return (
       <div className={styles.slider}>
         <Slick ref={ref => this.ref_slider = ref} {...settings}>
           {this.props.children}
         </Slick>
-        <span className={styles.left} onClick={this.handlePrevious}>
-          <Icon name="angle-left" />
-        </span>
-        <span className={styles.right} onClick={this.handleNext}>
+        {!noArrows &&
+          <span className={styles[`left_${theme}`]} onClick={this.handlePrevious}>
+            <Icon name="angle-left" />
+          </span>
+        }
+        {!noArrows &&
+        <span className={styles[`right_${theme}`]} onClick={this.handleNext}>
           <Icon name="angle-right" />
         </span>
+        }
       </div>
     )
   }
@@ -57,12 +55,28 @@ class Carousel extends Component {
 
 Carousel.propTypes = {
   browser: PropTypes.object.isRequired,
-  keysDisabled: PropTypes.bool,
   children: PropTypes.any.isRequired,
+  noArrows: PropTypes.bool,
+  noKeys: PropTypes.bool,
+  slides_number: PropTypes.shape({
+    s: PropTypes.number,
+    m: PropTypes.number,
+    l: PropTypes.number,
+    xl: PropTypes.number,
+  }),
+  theme: PropTypes.oneOf(["green", "yellow"]),
 }
 
 Carousel.defaultProps = {
-  keysDisabled: false,
+  noArrows: false,
+  noKeys: false,
+  slides_number: {
+    s: 1,
+    m: 2,
+    l: 4,
+    xl: 4,
+  },
+  theme: "green",
 }
 
 export default connect(

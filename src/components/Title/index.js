@@ -16,7 +16,7 @@ class Title extends Component {
 
 Title.propTypes = {
   id: PropTypes.string.isRequired,
-  theme: PropTypes.oneOf(["green", "yellow"])
+  theme: PropTypes.oneOf(["green", "yellow"]),
 }
 
 Title.defaultProps = {

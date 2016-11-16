@@ -7,3 +7,13 @@ messages:
   cottage_category:
     from: "From"
     the_week: "the week"
+
+  nav:
+    home: "Welkom"
+    cottages: "Huisjes"
+    services: "Diensten"
+    photos: "Foto's"
+    region: "De regio"
+    groups: "Groupes"
+    news: "Nieuws"
+    contact: "Contact"

@@ -10,7 +10,7 @@ export default combineReducers({
       s: 670,
       m: 1024,
       l: 1360,
-    }),
+    }, "xl"),
     intl
   },
 })

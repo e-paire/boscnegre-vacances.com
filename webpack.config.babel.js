@@ -46,6 +46,7 @@ export default (config = {}) => {
             path.resolve(__dirname, "_categories_gites"),
             path.resolve(__dirname, "_gites"),
             path.resolve(__dirname, "_services"),
+            path.resolve(__dirname, "_groupes"),
 
             // nl
             path.resolve(__dirname, "_nl"),
@@ -53,6 +54,7 @@ export default (config = {}) => {
             path.resolve(__dirname, "_categorieën_huisjes"),
             path.resolve(__dirname, "_huisjes"),
             path.resolve(__dirname, "_diensten"),
+            path.resolve(__dirname, "_groepen"),
           ],
           query: {
             context: path.join(__dirname, config.source),

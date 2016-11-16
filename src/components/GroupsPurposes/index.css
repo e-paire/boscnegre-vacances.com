@@ -1,0 +1,44 @@
+@import "styles/variables.css";
+@import "styles/mq.css";
+
+.cover {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+
+.groups {
+  background: var(--color_bosc_yellow);
+}
+
+.group {
+  background: var(--color_bosc_yellow);
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+}
+
+.icon {
+  font-size: 50px;
+}
+
+@media (--mq-m) {
+  .cover {
+    height: 200px;
+  }
+}
+
+@media (--mq-l) {
+  .cover {
+    height: 300px;
+  }
+}
+
+@media (--mq-xl) {
+  .cover {
+    height: 400px;
+  }
+}

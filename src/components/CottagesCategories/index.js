@@ -69,7 +69,7 @@ class CottagesCategories extends Component {
             onClose={this.handleCloseLightbox}
             open={isLightboxOpen}
           >
-            <Carousel keysDisabled={isLightboxOpen}>
+            <Carousel noKeys={isLightboxOpen}>
               {cottagesCategories.map((category, index) => (
                 <div key={index}
                   className={classNames(styles.category, index % 2 == 0 && styles.even)}

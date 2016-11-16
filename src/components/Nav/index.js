@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {FormattedMessage} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 import {connect} from "react-redux"
 import {Link} from "react-router"
@@ -21,12 +22,16 @@ class Nav extends Component {
 
   render() {
     const {collection} = this.context
-    const ServicesPage = enhanceCollection(collection, {
+    const servicesPage = enhanceCollection(collection, {
       filter: {layout: "Services", locale: this.props.currentLocale},
     }).shift()
 
-    const CottagesPage = enhanceCollection(collection, {
+    const cottagesPage = enhanceCollection(collection, {
       filter: {layout: "Cottages", locale: this.props.currentLocale},
+    }).shift()
+
+    const groupsPage = enhanceCollection(collection, {
+      filter: {layout: "Groups", locale: this.props.currentLocale},
     }).shift()
 
     return (
@@ -37,20 +42,32 @@ class Nav extends Component {
         <nav className={classNames(styles.nav, this.props.open && styles.nav_open)}>
           <Content className={styles.content}>
             <div className={styles.first}>
-              <Link className={styles.item} to="/">{"Home"}</Link>
-              <Link className={styles.item} to={CottagesPage && CottagesPage.__url || "/"}>
-                {"Les gîtes"}
+              <Link className={styles.item} to="/">
+                <FormattedMessage id="nav.home" defaultMessage="Home" />
               </Link>
-              <Link className={styles.item} to={ServicesPage && ServicesPage.__url || "/"}>
-                {"Activités"}
+              <Link className={styles.item} to={cottagesPage && cottagesPage.__url}>
+                <FormattedMessage id="nav.cottages" />
               </Link>
-              <Link className={styles.item} to="/">{"Photos"}</Link>
+              <Link className={styles.item} to={servicesPage && servicesPage.__url}>
+                <FormattedMessage id="nav.services" />
+              </Link>
+              <Link className={styles.item} to="/">
+                <FormattedMessage id="nav.photos" />
+              </Link>
             </div>
             <div className={styles.last}>
-              <Link className={styles.item} to="/">{"La région"}</Link>
-              <Link className={styles.item} to="/">{"Groupes"}</Link>
-              <Link className={styles.item} to="/">{"Les news"}</Link>
-              <Link className={styles.item} to="/">{"Contact"}</Link>
+              <Link className={styles.item} to="/">
+                <FormattedMessage id="nav.region" />
+              </Link>
+              <Link className={styles.item} to={groupsPage && groupsPage.__url}>
+                <FormattedMessage id="nav.groups" />
+              </Link>
+              <Link className={styles.item} to="/">
+                <FormattedMessage id="nav.news" />
+              </Link>
+              <Link className={styles.item} to="/">
+                <FormattedMessage id="nav.contact" />
+              </Link>
             </div>
           </Content>
         </nav>

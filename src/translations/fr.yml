@@ -9,6 +9,7 @@ messages:
     cottages: "Les gîtes"
     our_offers: "Nos offres en cours"
     discover_services: Découvrez les activités proposées
+    group_holidays: Séjours groupes
 
   cottage_category:
     from: "À partir de"
@@ -25,6 +26,16 @@ messages:
     our_partners: "Nos partenaires"
     join_us: "Nous rejoindre"
     subscribe_newsletter: "S'inscrire à la newsletter"
+
+  nav:
+    home: "Accueil"
+    cottages: "Les gîtes"
+    services: "Activités"
+    photos: "Photos"
+    region: "La région"
+    groups: "Groupes"
+    news: "News"
+    contact: "Contact"
 
   newsletter_form:
     email: "Adresse email"

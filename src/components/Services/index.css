@@ -13,7 +13,7 @@
 }
 
 @media (--mq-gt-s) {
-  .title {
+  .service {
     flex-basis: 50%;
     margin-bottom: 20px;
   }
