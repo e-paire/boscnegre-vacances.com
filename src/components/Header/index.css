@@ -9,6 +9,10 @@
   position: relative;
 }
 
+.topBar {
+  z-index: var(--zIndex-nav);
+}
+
 .photo {
   width: 100%;
   height: 200px;

@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {StickyContainer} from "react-sticky"
 import {connect} from "react-redux"
 import {IntlProvider} from "react-intl"
 
@@ -16,7 +17,9 @@ class AppContainer extends Component {
       <ReduxIntlProvider>
         <Container>
           <DefaultHeadMeta />
-          {children}
+          <StickyContainer>
+            {children}
+          </StickyContainer>
         </Container>
       </ReduxIntlProvider>
     )

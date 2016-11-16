@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {Sticky} from "react-sticky"
 
 import Nav from "components/Nav"
 import TopBar from "components/TopBar"
@@ -30,13 +31,15 @@ class Header extends Component {
     const {cover, title} = this.props
     return (
       <header className={styles.header}>
-        <TopBar
-          onOpenNav={this.handleOpenNav}
-        />
-        <Nav
-          open={this.state.isNavOpen}
-          onCloseNav={this.handleCloseNav}
-        />
+        <Sticky className={styles.topBar}>
+          <TopBar
+            onOpenNav={this.handleOpenNav}
+          />
+          <Nav
+            open={this.state.isNavOpen}
+            onCloseNav={this.handleCloseNav}
+          />
+        </Sticky>
         <div className={styles.photo}>
           <img className={styles.image} src={cover} />
           {title &&
