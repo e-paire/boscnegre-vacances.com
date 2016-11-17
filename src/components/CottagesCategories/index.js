@@ -1,5 +1,5 @@
 import React, {Component, PropTypes} from "react"
-import {connect} from "react-redux"
+import {injectIntl, intlShape} from "react-intl"
 import classNames from "classnames"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 import {browserHistory} from "phenomic/lib/client"
@@ -48,9 +48,10 @@ class CottagesCategories extends Component {
   }
 
   render() {
+    console.log(this.props)
     const {collection} = this.context
     const cottagesCategories = enhanceCollection(collection, {
-      filter: {layout: "CottagesCategory", locale: this.props.currentLocale},
+      filter: {layout: "CottagesCategory", locale: this.props.intl.locale},
       sort: "capacityMin",
     })
 
@@ -92,11 +93,7 @@ CottagesCategories.contextTypes = {
 }
 
 CottagesCategories.propTypes = {
-  currentLocale: PropTypes.string.isRequired,
+  intl: intlShape.isRequired,
 }
 
-export default connect(
-  ({intl}) => ({
-    currentLocale: intl.locale,
-  }),
-)(CottagesCategories)
+export default injectIntl(CottagesCategories)

@@ -3,7 +3,7 @@ metaTitle: "Our cottages"
 title: All cottages
 cover: "/uploads/header.png"
 layout: Cottages
-route: "cottages"
+route: "nl/cottages"
 locale: "nl"
 ---
 

@@ -1,7 +1,6 @@
 import React, {Component, PropTypes} from "react"
-import {FormattedMessage} from "react-intl"
+import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
-import {connect} from "react-redux"
 import {Link} from "react-router"
 import classNames from "classnames"
 
@@ -22,16 +21,18 @@ class Nav extends Component {
 
   render() {
     const {collection} = this.context
+    const {intl} = this.props
+
     const servicesPage = enhanceCollection(collection, {
-      filter: {layout: "Services", locale: this.props.currentLocale},
+      filter: {layout: "Services", locale: intl.locale},
     }).shift()
 
     const cottagesPage = enhanceCollection(collection, {
-      filter: {layout: "Cottages", locale: this.props.currentLocale},
+      filter: {layout: "Cottages", locale: intl.locale},
     }).shift()
 
     const groupsPage = enhanceCollection(collection, {
-      filter: {layout: "Groups", locale: this.props.currentLocale},
+      filter: {layout: "Groups", locale: intl.locale},
     }).shift()
 
     return (
@@ -43,7 +44,7 @@ class Nav extends Component {
           <Content className={styles.content}>
             <div className={styles.first}>
               <Link className={styles.item} to="/">
-                <FormattedMessage id="nav.home" defaultMessage="Home" />
+                <FormattedMessage id="nav.home" />
               </Link>
               <Link className={styles.item} to={cottagesPage && cottagesPage.__url}>
                 <FormattedMessage id="nav.cottages" />
@@ -77,7 +78,7 @@ class Nav extends Component {
 }
 
 Nav.propTypes = {
-  currentLocale: PropTypes.string.isRequired,
+  intl: intlShape,
   onCloseNav: PropTypes.func.isRequired,
   open: PropTypes.bool.isRequired,
 }
@@ -86,8 +87,4 @@ Nav.contextTypes = {
   collection: PropTypes.array.isRequired,
 }
 
-export default connect(
-  ({intl}) => ({
-    currentLocale: intl.locale,
-  }),
-)(Nav)
+export default injectIntl(Nav)

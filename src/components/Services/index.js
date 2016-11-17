@@ -1,6 +1,6 @@
 import React, {Component, PropTypes} from "react"
 import {Link} from "react-router"
-import {connect} from "react-redux"
+import {injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
 import Service from "components/Service"
@@ -11,9 +11,10 @@ import styles from "./index.css"
 class Services extends Component {
   render() {
     const {collection} = this.context
+    const {intl} = this.props
 
     const services = enhanceCollection(collection, {
-      filter: {layout: "Service", locale: this.props.currentLocale},
+      filter: {layout: "Service", locale: intl.locale},
       sort: "order",
     })
 
@@ -38,11 +39,7 @@ Services.contextTypes = {
 }
 
 Services.propTypes = {
-  currentLocale: PropTypes.string.isRequired,
+  intl: intlShape.isRequired,
 }
 
-export default connect(
-  ({intl}) => ({
-    currentLocale: intl.locale,
-  }),
-)(Services)
+export default injectIntl(Services)

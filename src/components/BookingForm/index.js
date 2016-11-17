@@ -1,5 +1,5 @@
-import React, {Component, PropTypes} from "react"
-import {connect} from "react-redux"
+import React, {Component} from "react"
+import {injectIntl, intlShape} from "react-intl"
 
 import styles from "./index.css"
 
@@ -36,7 +36,7 @@ class BookingForm extends Component {
           <script
             data-wsh-id="WSHMSM0Njk5IzE0MjMwIw=="
             data-wsh-subdomain="boscnegrevacancesfr"
-            data-wsh-lg={this.props.currentLocale}
+            data-wsh-lg={this.props.intl.locale}
           />
         </span>
       </div>
@@ -45,11 +45,7 @@ class BookingForm extends Component {
 }
 
 BookingForm.propTypes = {
-  currentLocale: PropTypes.string.isRequired,
+  intl: intlShape.isRequired,
 }
 
-export default connect(
-  ({intl}) => ({
-    currentLocale: intl.locale,
-  }),
-)(BookingForm)
+export default injectIntl(BookingForm)

@@ -9,9 +9,9 @@ import Services from "components/Services"
 
 class Homepage extends Component {
   render() {
-    const {head} = this.props
+    const {head, ...props} = this.props
     return (
-      <Page {...this.props}>
+      <Page {...props} head={head}>
         <Content>
           <CottagesCategories />
         </Content>

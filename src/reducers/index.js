@@ -1,7 +1,6 @@
 import {combineReducers} from "redux"
 import {createResponsiveStateReducer} from "redux-responsive"
 import * as phenomicReducers from "phenomic/lib/redux/modules"
-import intl from "./intl"
 
 export default combineReducers({
   ...phenomicReducers,
@@ -11,6 +10,5 @@ export default combineReducers({
       m: 1024,
       l: 1360,
     }, "xl"),
-    intl
   },
 })

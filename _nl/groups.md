@@ -3,7 +3,7 @@ metaTitle: "Groepen"
 title: "Alle groepen"
 cover: "/uploads/header.png"
 layout: "Groups"
-route: "groups"
+route: "nl/groups"
 locale: "nl"
 ---
 

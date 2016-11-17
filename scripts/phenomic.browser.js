@@ -4,22 +4,10 @@ import "react-hot-loader/patch"
 // fetch polyfill
 import "whatwg-fetch"
 
-import storage from "store"
-
 import metadata from "../src/metadata.js"
 import routes from "../src/routes.js"
 import store from "../src/store.js"
 import phenomicClient from "phenomic/lib/client"
-
-import {setLocale} from "actions/intl"
-
-let locale = storage.get("locale")
-
-if (locale !== null && typeof locale !== "undefined") {
-  store.dispatch(setLocale(locale))
-} else {
-  store.dispatch(setLocale("fr"))
-}
 
 phenomicClient({metadata, routes, store})
 

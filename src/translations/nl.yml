@@ -1,19 +1,39 @@
-locale: "nl"
+buttons:
+  see_more: "Bekijk meer"
 
-messages:
-  cottages_categories:
-    our_cottages: "Latest cottages"
-    no_category: "No category"
-  cottage_category:
-    from: "From"
-    the_week: "the week"
+titles:
+  our_cottages: "Onze comfortabele accommodaties"
+  cottages: "de huisjes"
+  our_offers: "Onze huidige aanbiedingen"
+  discover_services: Check out de voorgestelde activiteiten
+  group_holidays: Groepsvakanties
 
-  nav:
-    home: "Welkom"
-    cottages: "Huisjes"
-    services: "Diensten"
-    photos: "Foto's"
-    region: "De regio"
-    groups: "Groupes"
-    news: "Nieuws"
-    contact: "Contact"
+cottage_category:
+  from: "Van"
+  the_week: "wekelijks"
+
+footer:
+  address: "adres"
+  relevant_information: "Nuttige informatie"
+  sitemap: "Sitemap"
+  contact: "Contact"
+  prices: "Prijs pagina"
+  legal_notices: "Afdruk"
+  consumer_advisory: "Recensies van klanten"
+  our_partners: "Onze partners"
+  join_us: "Join us"
+  subscribe_newsletter: "Inschrijven voor de nieuwsbrief"
+
+nav:
+  home: "Welkom"
+  cottages: "Huisjes"
+  services: "Diensten"
+  photos: "Foto's"
+  region: "De regio"
+  groups: "Groupes"
+  news: "Nieuws"
+  contact: "Contact"
+
+newsletter_form:
+  email: "E-mailadres"
+  subscribe: "Abonneren"

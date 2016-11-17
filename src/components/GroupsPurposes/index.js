@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {injectIntl, intlShape} from "react-intl"
 import {connect} from "react-redux"
 import {Icon} from "react-fa"
 import {Link} from "react-router"
@@ -13,17 +14,14 @@ import styles from "./index.css"
 class GroupsPurposes extends Component {
   render() {
     const {collection} = this.context
-    const {browser, currentLocale} = this.props
+    const {browser, intl} = this.props
 
     const groupsPage = enhanceCollection(collection, {
-      filter: {layout: "Groups", locale: currentLocale},
+      filter: {layout: "Groups", locale: intl.locale},
     }).shift()
 
     const groups = enhanceCollection(collection, {
-      filters: [
-        {layout: "Group", locale: currentLocale},
-        {layout: "Seminar", locale: currentLocale},
-      ],
+      filter: (c) => ((c.layout === "Group" || c.layout === "Seminar") && c.locale === intl.locale),
       sort: "order",
     })
 
@@ -62,12 +60,9 @@ GroupsPurposes.contextTypes = {
 
 GroupsPurposes.propTypes = {
   browser: PropTypes.object.isRequired,
-  currentLocale: PropTypes.string.isRequired,
+  intl: intlShape.isRequired,
 }
 
 export default connect(
-  ({browser, intl}) => ({
-    browser,
-    currentLocale: intl.locale,
-  }),
-)(GroupsPurposes)
+  ({browser}) => ({browser}),
+)(injectIntl(GroupsPurposes))
