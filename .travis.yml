@@ -23,3 +23,9 @@ before_install:
   - 'if [ "${NPM_VERSION:0:2}" = "2." ]; then npm i -g npm@latest; fi'
   - npm set progress=false
   - npm prune
+notifications:
+  email:
+    recipients:
+      - xuopled@gmail.com
+    on_success: change
+    on_failure: always
