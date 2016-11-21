@@ -13,6 +13,7 @@ import Page from "layouts/Page"
 import PageError from "layouts/PageError"
 import PageLoading from "layouts/PageLoading"
 import Post from "layouts/Post"
+import Region from "layouts/Region"
 import Seminar from "layouts/Seminar"
 import Service from "layouts/Service"
 import Services from "layouts/Services"
@@ -30,6 +31,7 @@ const PageContainer = (props) => (
       PageError,
       PageLoading,
       Post,
+      Region,
       Seminar,
       Service,
       Services,

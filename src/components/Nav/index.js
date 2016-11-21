@@ -35,6 +35,10 @@ class Nav extends Component {
       filter: {layout: "Groups", locale: intl.locale},
     }).shift()
 
+    const regionPage = enhanceCollection(collection, {
+      filter: {layout: "Region", locale: intl.locale},
+    }).shift()
+
     return (
       <div>
         {this.props.open &&
@@ -57,7 +61,7 @@ class Nav extends Component {
               </Link>
             </div>
             <div className={styles.last}>
-              <Link className={styles.item} to="/">
+              <Link className={styles.item} to={regionPage && regionPage.__url}>
                 <FormattedMessage id="nav.region" />
               </Link>
               <Link className={styles.item} to={groupsPage && groupsPage.__url}>
