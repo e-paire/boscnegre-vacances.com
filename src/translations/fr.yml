@@ -5,8 +5,11 @@ titles:
   our_cottages: "Nos gîtes tout confort"
   cottages: "Les gîtes"
   our_offers: "Nos offres en cours"
-  discover_services: Découvrez les activités proposées
-  group_holidays: Séjours groupes
+  discover_services: "Découvrez les activités proposées"
+  group_holidays: "Séjours groupes"
+  our_prices: "Nos tarifs"
+  prices_examples: "Exemple de prestation"
+  room_layout: "Possibles dispositions de la salle"
 
 booking_form:
   my_stay: "Mon séjour"
@@ -47,3 +50,6 @@ contact_form:
   message: "Votre message ici"
   send: "Envoyer"
   contact_us: "Contactez nous"
+
+prices_examples:
+  per_person: "{price} par personne"

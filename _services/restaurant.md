@@ -6,11 +6,11 @@ layout: Service
 route: fr/restaurant
 order: 3
 images:
-- image: "/uploads/restaurant.png"
+- src: "/uploads/restaurant.png"
   alt: Le restaurant (vue gauche)
-- image: "/uploads/restaurant.png"
+- src: "/uploads/restaurant.png"
   alt: Le restaurant (vue droite)
-- image: "/uploads/restaurant.png"
+- src: "/uploads/restaurant.png"
   alt: Le restaurant (vue large)
 ---
 

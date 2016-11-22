@@ -5,8 +5,11 @@ titles:
   our_cottages: "Onze comfortabele accommodaties"
   cottages: "de huisjes"
   our_offers: "Onze huidige aanbiedingen"
-  discover_services: Check out de voorgestelde activiteiten
-  group_holidays: Groepsvakanties
+  discover_services: "Check out de voorgestelde activiteiten"
+  group_holidays: "Groepsvakanties"
+  our_prices: "Onze tarieven"
+  prices_examples: "Sample levering"
+  room_layout: "indeling van de ruimte"
 
 booking_form:
   my_stay: "Mijn verblijf"
@@ -47,3 +50,6 @@ contact_form:
   message: "Bericht"
   send: "Sturen"
   contact_us: "Contact met ons op"
+
+prices_examples:
+  per_person: "{price} per persoon"

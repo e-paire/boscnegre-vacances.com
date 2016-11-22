@@ -54,7 +54,7 @@ class Nav extends Component {
     }).shift()
 
     const groups = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Group" && getLocale(c.__url) === intl.locale),
+      filter: (c) => ((c.layout === "Group" || c.layout === "Seminar") && getLocale(c.__url) === intl.locale),
     })
 
     const newsPage = enhanceCollection(collection, {

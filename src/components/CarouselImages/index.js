@@ -33,23 +33,23 @@ class CarouselImages extends Component {
 
   render() {
     const {lightboxIndex, isLightboxOpen} = this.state
-    const {images} = this.props
+    const {images, theme} = this.props
     return images.length > 0
       ? <ImageLightbox
           index={lightboxIndex}
           images={images.map(image => ({
             caption: image.alt,
-            src: image.image,
+            src: image.src,
           }))}
           onClose={this.handleCloseLightbox}
           open={isLightboxOpen}
         >
-          <Carousel>
+          <Carousel theme={theme}>
             {images.map((image, i) => (
               <img
                 key={i}
                 className={styles.image}
-                src={image.image}
+                src={image.src}
                 alt={image.alt}
                 onClick={() => this.handleOpenLightbox(i)}
               />
@@ -65,10 +65,12 @@ CarouselImages.propTypes = {
     alt: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
   })),
+  theme: PropTypes.oneOf(["green", "yellow"]),
 }
 
 CarouselImages.defaultProps = {
   images: [],
+  theme: "green",
 }
 
 export default CarouselImages

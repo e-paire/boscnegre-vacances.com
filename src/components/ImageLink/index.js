@@ -7,10 +7,10 @@ import styles from "./index.css"
 
 class ImageLink extends Component {
   render() {
-    const {src, url, text} = this.props
+    const {image, url, text} = this.props
     return (
       <div className={styles.wrapper}>
-        <img className={styles.image} src={src} />
+        <img className={styles.image} src={image.src} alt={image.alt} />
         <div className={styles.content}>
           <p className={styles.text}>{text}</p>
           <div className={styles.button}>
@@ -30,7 +30,10 @@ class ImageLink extends Component {
 }
 
 ImageLink.propTypes = {
-  src: PropTypes.string.isRequired,
+  image: PropTypes.shape({
+    alt: PropTypes.string.isRequired,
+    src: PropTypes.string.isRequired,
+  }),
   url: PropTypes.string.isRequired,
   text: PropTypes.string.isRequired,
 }
