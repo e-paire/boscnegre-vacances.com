@@ -2,6 +2,7 @@
 @import "styles/mq.css";
 
 .wrapper {
+  margin-top: 10px;
   background: var(--color_bosc_green);
 }
 
@@ -106,6 +107,10 @@
 }
 
 @media (--mq-gt-s) {
+  .wrapper {
+    margin-top: 20px;
+  }
+
   .footer {
     flex-direction: row;
   }

@@ -40,15 +40,17 @@ const Page = ({__url, children, footer, head, header}) => {
         meta={meta}
       />
       <Header cover={head.cover} title={head.title} />
-      <StickyContainer>
-        <BookingForm />
-        <div className={styles.content}>
-          {header}
-          {children}
-          {footer}
-        </div>
-        <Footer />
-      </StickyContainer>
+      <div className={styles.contentWrapper}>
+        <StickyContainer className={styles.content}>
+          <BookingForm />
+          <div className={styles.children}>
+            {header}
+            {children}
+            {footer}
+          </div>
+          <Footer />
+        </StickyContainer>
+      </div>
     </StickyContainer>
   )
 }
