@@ -3,7 +3,6 @@ import {Sticky} from "react-sticky"
 
 import Nav from "components/Nav"
 import TopBar from "components/TopBar"
-import BookingForm from "components/BookingForm"
 
 import styles from "./index.css"
 
@@ -46,7 +45,6 @@ class Header extends Component {
             <h1 className={styles.title}>{title}</h1>
           }
         </div>
-        <BookingForm />
       </header>
     )
   }

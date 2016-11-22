@@ -8,6 +8,12 @@ titles:
   discover_services: Check out de voorgestelde activiteiten
   group_holidays: Groepsvakanties
 
+booking_form:
+  my_stay: "Mijn verblijf"
+  from: "van"
+  to: "tot"
+  book: "Boek"
+
 cottage_category:
   from: "Van"
   the_week: "wekelijks"

@@ -14,7 +14,8 @@
   --font-title: "Lato Light";
 
   /* Z-index */
-  --zIndex-overlay: 1;
+  --zIndex-sticky: 1;
+  --zIndex-overlay: calc(var(--zIndex-sticky) + 1);
   --zIndex-dropdown: calc(var(--zIndex-overlay) + 1);
   --zIndex-logo: calc(var(--zIndex-dropdown) + 1);
   --zIndex-nav: var(--zIndex-dropdown);

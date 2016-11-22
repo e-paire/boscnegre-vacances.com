@@ -1,11 +1,165 @@
+@import "styles/variables.css";
 @import "styles/mq.css";
 
+:root {
+  --height: 70px;
+}
+
+.sticky {
+  background: var(--color_gray_light);
+}
+
+.dropdown {
+  background: var(--color_gray_light);
+}
+
 .form {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
   padding: 10px;
+  background: var(--color_gray_light);
+  font-size: 15px;
+  font-family: var(--font-title);
+}
+
+.message {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tag {
+  height: 100%;
+  padding: 10px;
+  background: var(--color_bosc_green);
+  color: #fff;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.type {
+  composes: tag;
+  background: var(--color_bosc_green);
+  color: #fff;
+  display: none;
+}
+
+.date {
+  composes: tag;
+  background: #fff;
+  color: var(--color_bosc_green);
+  border: 3px dashed var(--color_bosc_green);
+  cursor: pointer;
+}
+
+.from,
+.to {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.fromDate,
+.toDate {
+  composes: date;
+  flex: 1 1 auto;
+}
+
+.fromText + .fromDate,
+.toText + .toDate {
+  margin-left: 10px;
+}
+
+.to {
+  margin: 10px 0;
+}
+
+.submit {
+  flex: 0 0 auto;
+}
+
+.button {
+  composes: tag;
+  margin-right: 0;
+  background: var(--color_bosc_yellow);
+  color: #fff;
 }
 
 @media (--mq-gt-m) {
+  .wrapper {
+    position: relative;
+    z-index: var(--zIndex-sticky);
+  }
+
+  .sticky {
+    position: relative;
+    z-index: var(--zIndex-overlay);
+  }
+
+  .overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: var(--zIndex-overlay);
+  }
+
+  .dropdown {
+    position: absolute;
+    top: var(--height);
+    left: 0;
+    right: 0;
+    z-index: var(--zIndex-dropdown);
+    display: flex;
+    justify-content: center;
+  }
+
   .form {
-    padding: 20px 10px;
+    flex-direction: row;
+    height: var(--height);
+    padding: 10px;
+    font-size: 20px;
+  }
+
+  .message {
+    flex-wrap: nowrap;
+  }
+
+  .type {
+    display: block;
+  }
+
+  .from,
+  .to {
+    width: auto;
+    flex: 1;
+  }
+
+  .from {
+    padding-right: 60px;
+  }
+
+  .to {
+    padding-left: 60px;
+  }
+
+  .tag {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 20px;
+    font-size: 20px;
+  }
+
+  .button:focus,
+  .button:hover {
+    outline: none;
+    background: var(--color_bosc_yellow-darken1);
+    border-color: var(--color_bosc_yellow-darken1);
   }
 }

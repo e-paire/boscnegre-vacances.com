@@ -14,11 +14,6 @@ const DefaultHeadMeta = (props, {metadata: {pkg}}) => (
       ]}
       script={[
         {src: "https://cdn.polyfill.io/v2/polyfill.min.js"},
-        {
-          src: "//static.secureholiday.net/static/pip2/widgetprovider-v2.js",
-          "data-wsh-subdomain": "boscnegrevacancesfr",
-          charset: "UTF-8",
-        }
       ]}
     />
     { /* meta viewport safari/chrome/edge */ }

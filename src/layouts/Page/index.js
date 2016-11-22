@@ -1,9 +1,11 @@
 import React, {PropTypes} from "react"
+import {StickyContainer} from "react-sticky"
 import Helmet from "react-helmet"
 import {joinUri} from "phenomic"
 
-import Header from "components/Header"
+import BookingForm from "components/BookingForm"
 import Footer from "components/Footer"
+import Header from "components/Header"
 
 import styles from "./index.css"
 
@@ -32,19 +34,22 @@ const Page = ({__url, children, footer, head, header}) => {
   ]
 
   return (
-    <div className={styles.page}>
+    <StickyContainer className={styles.page}>
       <Helmet
         title={metaTitle}
         meta={meta}
       />
       <Header cover={head.cover} title={head.title} />
-      <div className={styles.content}>
-        {header}
-        {children}
-        {footer}
-      </div>
-      <Footer />
-    </div>
+      <StickyContainer>
+        <BookingForm />
+        <div className={styles.content}>
+          {header}
+          {children}
+          {footer}
+        </div>
+        <Footer />
+      </StickyContainer>
+    </StickyContainer>
   )
 }
 

@@ -8,6 +8,12 @@ titles:
   discover_services: Découvrez les activités proposées
   group_holidays: Séjours groupes
 
+booking_form:
+  my_stay: "Mon séjour"
+  from: "du"
+  to: "au"
+  book: "Réserver"
+
 cottage_category:
   from: "À partir de"
   the_week: "la semaine"
