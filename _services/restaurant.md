@@ -2,7 +2,7 @@
 title: Le restaurant avec produits locaux du Bosc Nègre
 cover: "/uploads/restaurant.png"
 layout: Service
-locale: fr
+route: fr/restaurant
 order: 3
 images:
 - image: "/uploads/restaurant.png"

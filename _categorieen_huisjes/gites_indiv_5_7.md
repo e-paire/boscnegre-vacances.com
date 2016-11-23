@@ -1,10 +1,10 @@
 ---
-title: Gîtes mitoyen 5/7 pers.
+title: Cottages indiv 5/7 pers.
 description: Le gite 2 est très bien
 capacityMin: 5
 capacityMax: 7
 priceMin: 300
 cover: "/uploads/cottage.png"
 layout: CottagesCategory
-locale: nl
+route: "nl/gites-indiv-5-7"
 ---

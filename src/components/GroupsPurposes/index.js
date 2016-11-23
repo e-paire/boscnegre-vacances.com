@@ -5,6 +5,8 @@ import {Icon} from "react-fa"
 import {Link} from "react-router"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
+import {getLocale} from "utils/intl"
+
 import Carousel from "components/Carousel"
 import Content from "components/Content"
 import Title from "components/Title"
@@ -17,11 +19,11 @@ class GroupsPurposes extends Component {
     const {browser, intl} = this.props
 
     const groupsPage = enhanceCollection(collection, {
-      filter: {layout: "Groups", locale: intl.locale},
+      filter: (c) => (c.layout === "Groups" && getLocale(c.__url) === intl.locale),
     }).shift()
 
     const groups = enhanceCollection(collection, {
-      filter: (c) => ((c.layout === "Group" || c.layout === "Seminar") && c.locale === intl.locale),
+      filter: (c) => ((c.layout === "Group" || c.layout === "Seminar") && getLocale(c.__url) === intl.locale),
       sort: "order",
     })
 

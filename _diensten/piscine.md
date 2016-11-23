@@ -2,6 +2,6 @@
 title: Zwembad
 cover: "/uploads/swimmingpool.png"
 layout: Service
-locale: nl
+route: nl/zwembad
 order: 2
 ---

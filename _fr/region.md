@@ -4,7 +4,6 @@ slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord No
 cover: "/uploads/header.png"
 layout: "Region"
 route: "fr/region"
-locale: "fr"
 coordinates:
 - title: Bosc Nègre
   latitude: 44.597091

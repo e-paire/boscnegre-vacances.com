@@ -2,7 +2,8 @@ import React, {Component, PropTypes} from "react"
 import {injectIntl, intlShape} from "react-intl"
 import classNames from "classnames"
 import enhanceCollection from "phenomic/lib/enhance-collection"
-import {browserHistory} from "phenomic/lib/client"
+
+import {getLocale} from "utils/intl"
 
 import Carousel from "components/Carousel"
 import CottagesCategory from "components/CottagesCategory"
@@ -22,7 +23,6 @@ class CottagesCategories extends Component {
 
     this.handleCloseLightbox = this.handleCloseLightbox.bind(this)
     this.handleClickOnImage = this.handleClickOnImage.bind(this)
-    this.handleRedirect = this.handleRedirect.bind(this)
   }
 
   handleCloseLightbox() {
@@ -43,15 +43,11 @@ class CottagesCategories extends Component {
     this.handleOpenLightbox(index)
   }
 
-  handleRedirect(url) {
-    browserHistory.push(url)
-  }
-
   render() {
-    console.log(this.props)
     const {collection} = this.context
+    const {intl} = this.props
     const cottagesCategories = enhanceCollection(collection, {
-      filter: {layout: "CottagesCategory", locale: this.props.intl.locale},
+      filter: (c) => (c.layout === "CottagesCategory" && getLocale(c.__url) === intl.locale),
       sort: "capacityMin",
     })
 
@@ -77,7 +73,6 @@ class CottagesCategories extends Component {
                 >
                   <CottagesCategory {...category}
                     onClickOnImage={() => this.handleOpenLightbox(index)}
-                    onClickOnContent={() => this.handleRedirect(category.__url)}
                   />
                 </div>
               ))}

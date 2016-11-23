@@ -2,6 +2,6 @@
 title: Evenementen
 cover: "/uploads/animations.png"
 layout: Service
-locale: nl
+oute: nl/evenementen
 order: 1
 ---

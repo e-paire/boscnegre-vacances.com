@@ -2,6 +2,6 @@
 title: Tennis
 cover: "/uploads/tennis.png"
 layout: Service
-locale: nl
+route: nl/tennis
 order: 4
 ---

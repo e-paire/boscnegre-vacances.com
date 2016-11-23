@@ -2,6 +2,6 @@
 title: Restaurant
 cover: "/uploads/restaurant.png"
 layout: Service
-locale: nl
+route: nl/restaurant
 order: 3
 ---

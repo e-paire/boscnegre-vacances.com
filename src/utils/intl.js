@@ -14,17 +14,21 @@ const messages = {
   nl: flatten(localeNL),
 }
 
+const defaultLocale = "fr"
+
 export const locales = ["fr", "nl"]
 
-export function getLocale(location) {
-  const firstURIlevel = location.pathname.replace(/^\//, "").split("/")[0]
-  return firstURIlevel && locales.indexOf(firstURIlevel) > -1 ? firstURIlevel : "fr"
+export function getLocale(url) {
+  const firstURIlevel = url.replace(/^\//, "").split("/")[0]
+  return firstURIlevel && locales.indexOf(firstURIlevel) > -1
+    ? firstURIlevel
+    : defaultLocale
 }
 
 export function getIntl(locale) {
   return {
     locale: locale,
     messages: messages[locale],
-    defaultLocale: locale,
+    defaultLocale: defaultLocale,
   }
 }

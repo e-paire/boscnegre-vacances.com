@@ -1,9 +1,9 @@
 ---
-title: Gîtes individuels 4/6 pers.
+title: Single cottages 4/6 pers.
 capacityMin: 4
 capacityMax: 6
 priceMin: 300
 cover: "/uploads/cottage.png"
 layout: CottagesCategory
-locale: nl
+route: "nl/gites-indiv-4-6"
 ---

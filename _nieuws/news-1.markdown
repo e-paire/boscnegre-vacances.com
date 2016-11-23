@@ -2,7 +2,7 @@
 title: Nieuws 1
 date: 2016-10-07 10:16:00 Z
 layout: Post
-locale: nl
+route: nl/niews-1
 ---
 
 Nieuws super !

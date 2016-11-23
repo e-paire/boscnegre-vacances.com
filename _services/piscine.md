@@ -2,7 +2,7 @@
 title: Piscine
 cover: "/uploads/swimmingpool.png"
 layout: Service
-locale: fr
+route: fr/piscine
 order: 2
 ---
 

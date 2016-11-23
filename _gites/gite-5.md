@@ -6,7 +6,7 @@ description: |-
 
   ![13495671_10208461945939724_2529489661058376215_o.jpg](/uploads/13495671_10208461945939724_2529489661058376215_o.jpg)
 number: 5
-locale: fr
+route: fr/gite-5
 images:
 - image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds

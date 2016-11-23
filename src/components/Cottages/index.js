@@ -3,6 +3,8 @@ import {injectIntl, intlShape} from "react-intl"
 import classNames from "classnames"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
+import {getLocale} from "utils/intl"
+
 import Carousel from "components/Carousel"
 import Cottage from "components/Cottage"
 import Title from "components/Title"
@@ -13,11 +15,9 @@ class Cottages extends Component {
   render() {
     const {category, intl} = this.props
     const cottages = enhanceCollection(this.context.collection, {
-      filter: {
-        locale: intl.locale,
-        layout: "Cottage",
-        category: category,
-      },
+      filter: (c) => (c.layout === "Cottage"
+        && c.category === category
+        && getLocale(c.__url) === intl.locale),
       sort: "number",
     })
 

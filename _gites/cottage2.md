@@ -2,7 +2,7 @@
 title: Gite 2
 description: Le gite 2 est très bien
 number: 2
-locale: fr
+route: fr/gites-mit-5-7
 layout: Cottage
 cover: "/uploads/cottage.png"
 category: gites-mit-5-7

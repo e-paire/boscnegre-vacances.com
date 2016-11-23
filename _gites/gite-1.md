@@ -4,7 +4,7 @@ description: Le gite 1 est très luxueux
 number: 1
 ctoutvert id:
 layout: Cottage
-locale: fr
+route: fr/gite-1
 cover: "/uploads/cottage.png"
 category: gites-mit-7-9
 ---

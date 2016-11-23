@@ -1,4 +1,6 @@
 import React, {Component, PropTypes} from "react"
+import {injectIntl, intlShape} from "react-intl"
+import {Link} from "react-router"
 import {Icon} from "react-fa"
 
 import Content from "components/Content"
@@ -21,9 +23,9 @@ class TopBar extends Component {
   render() {
     return (
       <div className={styles.top}>
-        <div className={styles.logoWrapper} >
+        <Link className={styles.logoWrapper} to={`/${this.props.intl.locale}`}>
           <Logo className={styles.logo} />
-        </div>
+        </Link>
         <Content className={styles.content}>
           <div className={styles.navButton} onClick={this.handleOpenNav}>
             <Icon name="bars" />
@@ -50,7 +52,8 @@ class TopBar extends Component {
 }
 
 TopBar.propTypes = {
+  intl: intlShape.isRequired,
   onOpenNav: PropTypes.func.isRequired,
 }
 
-export default TopBar
+export default injectIntl(TopBar)

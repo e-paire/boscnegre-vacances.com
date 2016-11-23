@@ -12,7 +12,7 @@ import DefaultHeadMeta from "./components/DefaultHeadMeta"
 class AppContainer extends Component {
   render() {
     const {children, location} = this.props
-    const locale = getLocale(location)
+    const locale = getLocale(location.pathname)
     const intl = getIntl(locale)
     return (
       <IntlProvider {...intl}>
