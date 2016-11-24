@@ -6,27 +6,32 @@
   color: #fff;
   position: absolute;
   top: 40px;
-  width: 100%;
-  padding: 5px;
+  left: 0;
+  right: 0;
   font-family: var(--font-title);
   text-transform: uppercase;
   z-index: var(--zIndex-nav);
 }
 
-.content {
-  flex-direction: column;
+.list {
+  margin: 0;
+  padding: 0;
+}
+
+.sublist {
+  text-transform: none;
 }
 
 .item {
+  list-style: none;
+}
+
+.link {
   display: block;
   padding: 5px;
 }
 
 @media (--mq-lt-l) {
-  .nav {
-    display: none;
-  }
-
   .overlay {
     position: fixed;
     top: 0;
@@ -36,56 +41,105 @@
     z-index: var(--zIndex-overlay);
   }
 
+  .nav {
+    display: none;
+    padding: 10px;
+  }
+
+  .sublist {
+    padding: 10px;
+  }
+
   .nav_open {
     display: block;
   }
 }
 
 @media (--mq-gt-m) {
+  .wrapper {
+    background: #fff;
+  }
+
   .nav {
     background: #fff;
-    height: 60px;
     position: relative;
     top: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
   }
 
   .content {
-    display: flex;
-    flex-direction: row;
     height: 100%;
-    align-items: stretch;
   }
 
-  .first,
-  .last {
+  .list {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .list > .item {
     flex: 1;
     display: flex;
     align-items: center;
   }
 
-  .first {
+  .list > .item:nth-child(4) {
     margin-right: 50px;
   }
 
-  .last {
+  .list > .item:nth-child(5) {
     margin-left: 50px;
   }
 
-  .item {
+  .list > .item {
     color: #000;
     flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    line-height: 32px;
+    line-height: 30px;
+    position: relative;
   }
 
-  .first .item {
-    border-left: 1px solid #c6c7d3;
+  .list > .item:nth-child(n+5) {
+    border-left: 1px solid var(--color_gray);
   }
 
-  .last .item {
-    border-right: 1px solid #c6c7d3;
+  .list > .item:nth-child(-n+4) {
+    border-right: 1px solid var(--color_gray);
+  }
+
+  .sublist {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    padding: 0 5px;
+    background: #fff;
+    font-size: 12px;
+    line-height: 20px;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s;
+  }
+
+  .list > .item:hover .sublist {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .link {
+    color: #000;
+  }
+
+  .link:hover,
+  .link_active,
+  .sublist .item:hover {
+    color: var(--color_bosc_green);
   }
 }

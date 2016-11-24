@@ -3,7 +3,9 @@
   --color_bosc_green: #8bc59d;
   --color_bosc_yellow: #fdc158;
   --color_bosc_yellow-darken1: color(var(--color_bosc_yellow) l(-10));
-  --color_gray_light: #f9f9fa;
+  --color_gray: #c6c6c7;
+  --color_gray-lighten1: color(var(--color_gray) l(+10));
+  --color_gray-lighten2: color(var(--color_gray) l(+20));
 
   /* Social */
   --color_facebook: #3b5998;

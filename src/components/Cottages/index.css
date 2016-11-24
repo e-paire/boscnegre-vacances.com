@@ -5,5 +5,5 @@
 }
 
 .even {
-  background: var(--color_gray_light);
+  background: var(--color_gray-lighten2);
 }

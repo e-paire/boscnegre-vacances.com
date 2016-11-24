@@ -1,5 +1,6 @@
 ---
 title: Le restaurant avec produits locaux du Bosc Nègre
+navTitle: "Restaurant"
 cover: "/uploads/restaurant.png"
 layout: Service
 route: fr/restaurant
