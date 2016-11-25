@@ -1,6 +1,7 @@
 ---
 metaTitle: "Nos gîtes"
 title: Tous nos gîtes
+navTitle: Les gîtes
 cover: "/uploads/header.png"
 layout: Cottages
 route: "fr/gites"

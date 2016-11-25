@@ -74,7 +74,9 @@ class Nav extends Component {
           <nav className={classNames(styles.nav, this.props.open && styles.nav_open)}>
             <ul className={styles.list}>
               <li className={styles.item}>
-                <IndexLink className={styles.link} to={`/${intl.locale}`} activeClassName={styles.link_active}>
+                <IndexLink to={`/${intl.locale}`} className={classNames(styles.link, {
+                  [styles.link_active]: router.isActive("/") || router.isActive(`/${intl.locale}`),
+                })}>
                   <FormattedMessage id="nav.home" />
                 </IndexLink>
               </li>
@@ -83,7 +85,13 @@ class Nav extends Component {
                   [styles.link_active]: cottagesPage && router.isActive(cottagesPage.__url)
                     || cottagesCategories.some(category => router.isActive(category.__url)),
                 })}>
-                  <FormattedMessage id="nav.cottages" />
+                {cottagesPage
+                  ? (cottagesPage.navTitle
+                    ? cottagesPage.navTitle
+                    : cottagesPage.title
+                  )
+                  : <FormattedMessage id="nav.cottages" />
+                }
                 </Link>
                 {cottagesCategories.length > 0 &&
                   <ul className={styles.sublist}>
@@ -102,7 +110,13 @@ class Nav extends Component {
                   [styles.link_active]: servicesPage && router.isActive(servicesPage.__url)
                     || services.some(service => router.isActive(service.__url)),
                 })}>
-                  <FormattedMessage id="nav.services" />
+                {servicesPage
+                  ? (servicesPage.navTitle
+                    ? servicesPage.navTitle
+                    : servicesPage.title
+                  )
+                  : <FormattedMessage id="nav.services" />
+                }
                 </Link>
                 {services.length > 0 &&
                   <ul className={styles.sublist}>
@@ -118,12 +132,24 @@ class Nav extends Component {
               </li>
               <li className={styles.item}>
                 <Link className={styles.link} to={photosPage && photosPage.__url} activeClassName={styles.link_active}>
-                  <FormattedMessage id="nav.photos" />
+                  {photosPage
+                    ? (photosPage.navTitle
+                      ? photosPage.navTitle
+                      : photosPage.title
+                    )
+                    : <FormattedMessage id="nav.photos" />
+                  }
                 </Link>
               </li>
               <li className={styles.item}>
                 <Link className={styles.link} to={regionPage && regionPage.__url} activeClassName={styles.link_active}>
-                  <FormattedMessage id="nav.region" />
+                  {regionPage
+                    ? (regionPage.navTitle
+                      ? regionPage.navTitle
+                      : regionPage.title
+                    )
+                    : <FormattedMessage id="nav.region" />
+                  }
                 </Link>
               </li>
               <li className={styles.item}>
@@ -131,7 +157,13 @@ class Nav extends Component {
                   [styles.link_active]: groupsPage && router.isActive(groupsPage.__url)
                     || groups.some(group => router.isActive(group.__url)),
                 })}>
-                  <FormattedMessage id="nav.groups" />
+                {groupsPage
+                  ? (groupsPage.navTitle
+                    ? groupsPage.navTitle
+                    : groupsPage.title
+                  )
+                  : <FormattedMessage id="nav.groups" />
+                }
                 </Link>
                 {groups.length > 0 &&
                   <ul className={styles.sublist}>
@@ -147,12 +179,24 @@ class Nav extends Component {
               </li>
               <li className={styles.item}>
                 <Link className={styles.link} to={newsPage && newsPage.__url} activeClassName={styles.link_active}>
-                  <FormattedMessage id="nav.news" />
+                  {newsPage
+                    ? (newsPage.navTitle
+                      ? newsPage.navTitle
+                      : newsPage.title
+                    )
+                    : <FormattedMessage id="nav.news" />
+                  }
                 </Link>
               </li>
               <li className={styles.item}>
                 <Link className={styles.link} to={contactPage && contactPage.__url} activeClassName={styles.link_active}>
-                  <FormattedMessage id="nav.contact" />
+                  {contactPage
+                    ? (contactPage.navTitle
+                      ? contactPage.navTitle
+                      : contactPage.title
+                    )
+                    : <FormattedMessage id="nav.contact" />
+                  }
                 </Link>
               </li>
             </ul>
