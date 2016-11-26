@@ -5,9 +5,7 @@ import enhanceCollection from "phenomic/lib/enhance-collection"
 
 import {getLocale} from "utils/intl"
 
-import Carousel from "components/Carousel"
 import Cottage from "components/Cottage"
-import Title from "components/Title"
 
 import styles from "./index.css"
 
@@ -23,16 +21,13 @@ class Cottages extends Component {
 
     return cottages.length > 0
       ? <div>
-          <Title id="titles.cottages" />
-          <Carousel>
-            {cottages.map((cottage, index) => (
-              <div key={index}
-                className={classNames(styles.category, index % 2 == 0 && styles.even)}
-              >
-                <Cottage {...cottage} />
-              </div>
-            ))}
-          </Carousel>
+          {cottages.map((cottage, index) => (
+            <div key={index}
+              className={classNames(styles.cottage, index % 2 == 0 && styles.even)}
+            >
+              <Cottage {...cottage} />
+            </div>
+          ))}
         </div>
       : null
   }

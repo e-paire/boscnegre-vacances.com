@@ -1,5 +1,4 @@
 ---
-id: gites-indiv-5-7
 title: Gîtes individuels 5/7 pers.
 capacityMin: 5
 capacityMax: 7

@@ -1,5 +1,4 @@
 ---
-id: groupes
 title: Groupes
 capacityMin: 10
 capacityMax: 80

@@ -1,5 +1,4 @@
 ---
-id: gites-mit-5-7
 title: Gîtes mitoyens 5/7 pers.
 capacityMin: 5
 capacityMax: 7

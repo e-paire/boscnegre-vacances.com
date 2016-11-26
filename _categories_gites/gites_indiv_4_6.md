@@ -1,5 +1,4 @@
 ---
-id: gites-indiv-4-6
 title: Gîtes individuels 4/6 pers.
 capacityMin: 4
 capacityMax: 6

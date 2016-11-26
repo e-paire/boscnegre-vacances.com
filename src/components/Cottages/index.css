@@ -1,7 +1,7 @@
 @import "styles/variables.css";
 
-.category {
-  cursor: pointer;
+.cottage + .cottage {
+  margin-top: 20px;
 }
 
 .even {

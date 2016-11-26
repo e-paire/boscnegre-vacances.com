@@ -15,7 +15,7 @@ const CottagesCategory = ({head, body, ...props}) => {
             {layout: "Cottages"},
           ]}
         />
-        <Cottages category={head.id} />
+        <Cottages category={head.title} />
         <BodyContainer>
           {body}
         </BodyContainer>
