@@ -18,7 +18,7 @@
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  padding: 10px;
+  padding: 10px 0;
   background: var(--color_gray-lighten2);
   font-size: 15px;
   font-family: var(--font-title);
@@ -27,16 +27,12 @@
 .message {
   flex: 1 1 auto;
   display: flex;
-  align-items: center;
   flex-wrap: wrap;
 }
 
 .tag {
   height: 100%;
   padding: 10px;
-  background: var(--color_bosc_green);
-  color: #fff;
-  font-size: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,24 +40,28 @@
 
 .type {
   composes: tag;
-  background: var(--color_bosc_green);
-  color: #fff;
   display: none;
+  font-size: 16px;
 }
 
 .date {
   composes: tag;
   background: #fff;
   color: var(--color_bosc_green);
-  border: 3px dashed var(--color_bosc_green);
-  cursor: pointer;
+  border: 1px solid var(--color_bosc_green);
+  border-left: 0;
 }
 
 .from,
 .to {
   width: 100%;
   display: flex;
-  align-items: center;
+  align-items: stretch;
+  cursor: pointer;
+}
+
+.to {
+  margin: 10px 0;
 }
 
 .fromDate,
@@ -70,13 +70,16 @@
   flex: 1 1 auto;
 }
 
-.fromText + .fromDate,
-.toText + .toDate {
-  margin-left: 10px;
-}
-
-.to {
-  margin: 10px 0;
+.fromIcon,
+.toIcon {
+  background: var(--color_bosc_green);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 50px;
+  font-size: 25px;
 }
 
 .submit {
@@ -123,7 +126,6 @@
   .form {
     flex-direction: row;
     height: var(--height);
-    padding: 10px;
     font-size: 20px;
   }
 
@@ -132,7 +134,9 @@
   }
 
   .type {
-    display: block;
+    display: flex;
+    margin-right: 20px;
+    width: 130px;
   }
 
   .from,
@@ -147,13 +151,17 @@
 
   .to {
     padding-left: 60px;
+    margin: 0;
   }
 
   .tag {
     padding-left: 20px;
     padding-right: 20px;
-    margin: 0 20px;
-    font-size: 20px;
+  }
+
+  .button {
+    margin-left: 20px;
+    width: 130px;
   }
 
   .button:focus,

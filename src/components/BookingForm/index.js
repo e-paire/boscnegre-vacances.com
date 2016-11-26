@@ -2,6 +2,7 @@ import React, {Component, PropTypes} from "react"
 import {connect} from "react-redux"
 import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import {Sticky} from "react-sticky"
+import {Icon} from "react-fa"
 import ReactDayPicker from "react-day-picker"
 import addDays from "date-fns/add_days"
 import format from "date-fns/format"
@@ -193,16 +194,16 @@ class BookingForm extends Component {
                   <FormattedMessage id="booking_form.my_stay" />
                 </div>
                 <div className={styles.from}>
-                  <div className={styles.fromText}>
-                    <FormattedMessage id="booking_form.from" />
+                  <div className={styles.fromIcon}>
+                    <Icon name="calendar-minus-o" />
                   </div>
                   <div className={styles.fromDate}>
                     {this.formatDate(this.getDefaultFrom())}
                   </div>
                 </div>
                 <div className={styles.to}>
-                  <div className={styles.toText}>
-                    <FormattedMessage id="booking_form.to" />
+                  <div className={styles.toIcon}>
+                    <Icon name="calendar-plus-o" />
                   </div>
                   <div className={styles.toDate}>
                     {this.formatDate(this.getDefaultTo())}
@@ -210,7 +211,7 @@ class BookingForm extends Component {
                 </div>
               </div>
               <div className={styles.submit}>
-                <a className={styles.button} href={this.getSecureHolidayUrl()} target="_blank">
+                <a className={styles.button} href={this.getSecureHolidayUrl()} target="_blank" rel="nofollow">
                   <FormattedMessage id="booking_form.book" />
                 </a>
               </div>

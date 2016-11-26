@@ -10,9 +10,7 @@ titles:
 
 booking_form:
   my_stay: "Mon séjour"
-  from: "du"
-  to: "au"
-  book: "Réserver"
+  book: "Rechercher"
 
 cottage_category:
   from: "À partir de"

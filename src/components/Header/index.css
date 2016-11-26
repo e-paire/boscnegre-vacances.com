@@ -7,6 +7,7 @@
 
 .header {
   position: relative;
+  z-index: var(--zIndex-overlay);
 }
 
 .topBar {

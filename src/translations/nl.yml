@@ -10,8 +10,6 @@ titles:
 
 booking_form:
   my_stay: "Mijn verblijf"
-  from: "van"
-  to: "tot"
   book: "Boek"
 
 cottage_category:

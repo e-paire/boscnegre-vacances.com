@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {connect} from "react-redux"
 import {Sticky} from "react-sticky"
 
 import Nav from "components/Nav"
@@ -27,10 +28,10 @@ class Header extends Component {
   }
 
   render() {
-    const {cover, title} = this.props
+    const {browser, cover, title} = this.props
     return (
       <header className={styles.header}>
-        <Sticky className={styles.topBar}>
+        <Sticky className={styles.topBar} isActive={browser.greaterThan.m}>
           <TopBar
             onOpenNav={this.handleOpenNav}
           />
@@ -51,8 +52,11 @@ class Header extends Component {
 }
 
 Header.propTypes = {
+  browser: PropTypes.object.isRequired,
   cover: PropTypes.string.isRequired,
   title: PropTypes.string,
 }
 
-export default Header
+export default connect(
+  ({browser}) => ({browser}),
+)(Header)
