@@ -1,40 +1,37 @@
-import React, {Component, PropTypes} from "react"
+import React, {Component} from "react"
+import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 
 import styles from "./index.css"
 
 class NewsletterForm extends Component {
   render() {
-    const {intl} = this.context
+    const {intl} = this.props
     return (
-      <div id="mc_embed_signup">
-        <form
-          action="//lebosc.us4.list-manage.com/subscribe/post?u=37f9de2a9d643bf85926b318e&id=174aae7d93"
-          target="_blank"
-          method="post"
-        >
-          <div>
-            <div className={styles.form}>
-              <input
-                type="email"
-                name="EMAIL"
-                placeholder={intl.formatMessage({id: "newsletter_form.email"})}
-                className={styles.input}
-              />
-              <input
-                type="submit"
-                value={intl.formatMessage({id: "newsletter_form.subscribe"})}
-                className={styles.button}
-              />
-            </div>
+      <form
+        action="//lebosc.us4.list-manage.com/subscribe/post?u=37f9de2a9d643bf85926b318e&id=174aae7d93"
+        target="_blank"
+        method="post"
+      >
+        <div>
+          <div className={styles.form}>
+            <input
+              type="email"
+              name="EMAIL"
+              placeholder={intl.formatMessage({id: "newsletter_form.email"})}
+              className={styles.input}
+            />
+            <button className={styles.button} type="submit">
+              <FormattedMessage id="newsletter_form.subscribe" />
+            </button>
           </div>
-        </form>
-      </div>
+        </div>
+      </form>
     )
   }
 }
 
-NewsletterForm.contextTypes = {
-  intl: PropTypes.object.isRequired,
+NewsletterForm.propTypes = {
+  intl: intlShape.isRequired,
 }
 
-export default NewsletterForm
+export default injectIntl(NewsletterForm)

@@ -41,3 +41,9 @@ nav:
 newsletter_form:
   email: "E-mailadres"
   subscribe: "Abonneren"
+
+contact_form:
+  email: "E-mailadres"
+  message: "Bericht"
+  send: "Sturen"
+  contact_us: "Contact met ons op"

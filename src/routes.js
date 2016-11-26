@@ -4,6 +4,8 @@ import {Route} from "react-router"
 import AppContainer from "./AppContainer"
 import {PageContainer as PhenomicPageContainer} from "phenomic"
 
+import AfterContact from "layouts/AfterContact"
+import Contact from "layouts/Contact"
 import Cottages from "layouts/Cottages"
 import CottagesCategory from "layouts/CottagesCategory"
 import Homepage from "layouts/Homepage"
@@ -22,6 +24,8 @@ const PageContainer = (props) => (
   <PhenomicPageContainer
     { ...props }
     layouts={{
+      AfterContact,
+      Contact,
       Cottages,
       CottagesCategory,
       Groups,
