@@ -28,7 +28,7 @@ class Carousel extends Component {
     const settings = {
       arrows: false,
       accessibility: !noKeys,
-      infinite: true,
+      infinite: false,
       draggable: false,
       slidesToShow: slides_number[browser.mediaType],
       slidesToScroll: slides_number[browser.mediaType],
