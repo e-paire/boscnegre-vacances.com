@@ -11,7 +11,7 @@ import styles from "./index.css"
 
 const DEFAULT_META_TITLE = "Bosc Nègre"
 
-const Page = ({__url, children, footer, head, header}) => {
+const Page = ({children, footer, head, header}) => {
   const metaTitle = head.metaTitle
     ? head.metaTitle
     : head.title
@@ -23,7 +23,7 @@ const Page = ({__url, children, footer, head, header}) => {
     {property: "og:title", content: metaTitle},
     {
       property: "og:url",
-      content: joinUri(process.env.PHENOMIC_USER_URL, __url),
+      content: joinUri(process.env.PHENOMIC_USER_URL, head.__url),
     },
     {property: "og:description", content: head.description},
     {name: "twitter:card", content: "summary"},
@@ -56,11 +56,11 @@ const Page = ({__url, children, footer, head, header}) => {
 }
 
 Page.propTypes = {
-  __url: PropTypes.string.isRequired,
   children: PropTypes.node,
   footer: PropTypes.element,
   head: PropTypes.object.isRequired,
   header: PropTypes.element,
+
 }
 
 export default Page

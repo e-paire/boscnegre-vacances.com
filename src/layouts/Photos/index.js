@@ -12,11 +12,11 @@ const Photos = ({body, head, ...props}) => {
     <Page {...props} head={head}>
       <Content>
         <Breadcrumb head={head} />
-
-        <BodyContainer>
-          {body}
-        </BodyContainer>
-
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
         {head.gallery &&
           head.gallery.map((gallery, i) => {
             const theme = i % 2 === 0 ? "yellow" : "green"
@@ -36,7 +36,7 @@ const Photos = ({body, head, ...props}) => {
 }
 
 Photos.propTypes = {
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
   head: PropTypes.object.isRequired,
 }
 

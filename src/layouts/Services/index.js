@@ -12,16 +12,18 @@ const Services = ({body, head, ...props}) => {
       <Content>
         <Breadcrumb head={head} />
         <AllServices />
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
     </Page>
   )
 }
 
 Services.propTypes = {
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
   head: PropTypes.object.isRequired,
 }
 

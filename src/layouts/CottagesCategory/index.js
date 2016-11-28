@@ -16,9 +16,11 @@ const CottagesCategory = ({head, body, ...props}) => {
           ]}
         />
         <Cottages category={head.title} />
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
     </Page>
   )
@@ -26,7 +28,7 @@ const CottagesCategory = ({head, body, ...props}) => {
 
 CottagesCategory.propTypes = {
   head: PropTypes.object.isRequired,
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
 }
 
 export default CottagesCategory

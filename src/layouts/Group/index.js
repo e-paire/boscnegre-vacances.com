@@ -14,9 +14,11 @@ const Group = ({head, body, ...props}) => {
             {layout: "Groups"},
           ]}
         />
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
     </Page>
   )
@@ -24,7 +26,7 @@ const Group = ({head, body, ...props}) => {
 
 Group.propTypes = {
   head: PropTypes.object.isRequired,
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
 }
 
 export default Group

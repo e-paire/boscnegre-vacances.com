@@ -20,9 +20,11 @@ const Seminar = ({head, body, ...props}) => {
             {layout: "Groups"},
           ]}
         />
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
       <Content>
         {head.services && head.services.map((service, i) => {
@@ -59,7 +61,8 @@ const Seminar = ({head, body, ...props}) => {
 
 Seminar.propTypes = {
   head: PropTypes.object.isRequired,
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
+
 }
 
 export default Seminar

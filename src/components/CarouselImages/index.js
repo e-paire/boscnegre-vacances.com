@@ -63,7 +63,7 @@ class CarouselImages extends Component {
 CarouselImages.propTypes = {
   images: PropTypes.arrayOf(PropTypes.shape({
     alt: PropTypes.string.isRequired,
-    image: PropTypes.string.isRequired,
+    src: PropTypes.string.isRequired,
   })),
   theme: PropTypes.oneOf(["green", "yellow"]),
 }

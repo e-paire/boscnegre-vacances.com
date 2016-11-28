@@ -16,9 +16,11 @@ const Service = ({head, body, ...props}) => {
           ]}
         />
         <CarouselImages images={head.images} />
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
     </Page>
   )
@@ -26,7 +28,7 @@ const Service = ({head, body, ...props}) => {
 
 Service.propTypes = {
   head: PropTypes.object.isRequired,
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
 }
 
 export default Service

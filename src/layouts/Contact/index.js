@@ -15,9 +15,13 @@ const Contact = ({body, head, ...props}) => {
         <Breadcrumb head={head} />
       </Content>
       <Content className={styles.content}>
-        <BodyContainer className={styles.text}>
-          {body}
-        </BodyContainer>
+        <div classNames={styles.text}>
+          {body &&
+            <BodyContainer>
+              {body}
+            </BodyContainer>
+          }
+        </div>
         <div className={styles.form}>
           <ContactForm />
         </div>
@@ -27,7 +31,7 @@ const Contact = ({body, head, ...props}) => {
 }
 
 Contact.propTypes = {
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
   head: PropTypes.object.isRequired,
 }
 

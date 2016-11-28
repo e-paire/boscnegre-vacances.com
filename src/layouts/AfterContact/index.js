@@ -3,6 +3,7 @@ import {BodyContainer} from "phenomic"
 
 import Breadcrumb from "components/Breadcrumb"
 import Content from "components/Content"
+
 import Page from "layouts/Page"
 
 const AfterContact = ({body, head, ...props}) => {
@@ -12,16 +13,18 @@ const AfterContact = ({body, head, ...props}) => {
         <Breadcrumb head={head} />
       </Content>
       <Content>
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
     </Page>
   )
 }
 
 AfterContact.propTypes = {
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
   head: PropTypes.object.isRequired,
 }
 

@@ -14,9 +14,11 @@ const Groups = ({head, body, ...props}) => {
       </Content>
       <GroupsPurposes cover={head.cover} />
       <Content>
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
     </Page>
   )
@@ -24,7 +26,7 @@ const Groups = ({head, body, ...props}) => {
 
 Groups.propTypes = {
   head: PropTypes.object.isRequired,
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
 }
 
 export default Groups

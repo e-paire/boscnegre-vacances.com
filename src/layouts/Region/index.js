@@ -14,9 +14,11 @@ const Region = ({head, body, ...props}) => {
       </Content>
       <Map coordinates={head.coordinates} />
       <Content>
-        <BodyContainer>
-          {body}
-        </BodyContainer>
+        {body &&
+          <BodyContainer>
+            {body}
+          </BodyContainer>
+        }
       </Content>
     </Page>
   )
@@ -24,7 +26,7 @@ const Region = ({head, body, ...props}) => {
 
 Region.propTypes = {
   head: PropTypes.object.isRequired,
-  body: PropTypes.string.isRequired,
+  body: PropTypes.string,
 }
 
 export default Region
