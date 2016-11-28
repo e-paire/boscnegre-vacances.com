@@ -15,7 +15,6 @@
   display: inline-block;
   margin-right: 12px;
   position: relative;
-  color: #fff;
 }
 
 .element:first-child .link::before {
@@ -23,16 +22,16 @@
 }
 
 .link {
-  background: var(--color_bosc_yellow);
+  background: var(--color_gray-lighten2);
   display: inline-block;
-  padding: 10px 13.33333px;
-  line-height: 20px;
+  padding: 5px 10px;
   text-decoration: none;
 }
 
 .link_active {
   background: var(--color_bosc_green);
   composes: link;
+  color: #fff;
 }
 
 .link::before,
@@ -43,19 +42,19 @@
   bottom: 0;
   border-style: solid;
   border-color: #fff;
-  border-width: 20px 0 20px 10px;
+  border-width: 15px 0 15px 10px;
 }
 
 .link::before {
   right: 100%;
-  border-color: var(--color_bosc_yellow);
+  border-color: var(--color_gray-lighten2);
   border-left-color: transparent;
 }
 
 .link::after {
   left: 100%;
   border-color: transparent;
-  border-left-color: var(--color_bosc_yellow);
+  border-left-color: var(--color_gray-lighten2);
 }
 
 .link:hover {

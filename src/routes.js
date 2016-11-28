@@ -14,6 +14,7 @@ import Group from "layouts/Group"
 import Page from "layouts/Page"
 import PageError from "layouts/PageError"
 import PageLoading from "layouts/PageLoading"
+import Photos from "layouts/Photos"
 import Post from "layouts/Post"
 import Region from "layouts/Region"
 import Seminar from "layouts/Seminar"
@@ -34,6 +35,7 @@ const PageContainer = (props) => (
       Page,
       PageError,
       PageLoading,
+      Photos,
       Post,
       Region,
       Seminar,

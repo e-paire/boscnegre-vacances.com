@@ -8,7 +8,7 @@ class Title extends Component {
     const {id, theme} = this.props
     return (
       <h2 className={styles[`title_${theme}`]}>
-        <FormattedMessage id={id} />
+        <FormattedMessage id={id} defaultMessage={id} />
       </h2>
     )
   }
