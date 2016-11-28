@@ -1,6 +1,8 @@
 ---
 title: Piscine
-cover: "/uploads/swimmingpool.png"
+cover:
+  image: "/uploads/swimmingpool.png"
+  alt: swimmingpool
 layout: Service
 route: fr/piscine
 order: 2

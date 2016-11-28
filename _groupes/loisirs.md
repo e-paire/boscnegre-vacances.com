@@ -1,6 +1,8 @@
 ---
 title: Scolaires & loisirs
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 icon: child
 order: 3
 layout: Group

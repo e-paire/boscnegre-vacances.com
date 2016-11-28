@@ -211,7 +211,7 @@ class BookingForm extends Component {
                 </div>
               </div>
               <div className={styles.submit}>
-                <a className={styles.button} href={this.getSecureHolidayUrl()} target="_blank" rel="nofollow">
+                <a className={styles.button} href={this.getSecureHolidayUrl()} target="_blank" rel="nofollow noopener noreferrer">
                   <FormattedMessage id="booking_form.book" />
                 </a>
               </div>

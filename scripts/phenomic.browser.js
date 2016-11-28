@@ -44,6 +44,7 @@ if (module.hot) {
   mds.map(md => {
     module.hot.accept(md.id, () => {
       const mdHotUpdater = require("phenomic/lib/client/hot-md").default
+
       const requireUpdate = mdHotUpdater(md, window.__COLLECTION__, store)
       md.keys().forEach(requireUpdate)
     })
@@ -52,6 +53,7 @@ if (module.hot) {
   // Enable Webpack hot module replacement for reducers
   module.hot.accept("../src/reducers", () => {
     const nextRootReducer = require("../src/reducers")
+
     store.replaceReducer(nextRootReducer)
   })
 

@@ -2,7 +2,9 @@
 metaTitle: "Services"
 title: Tous les services
 navTitle: Services
-cover: "/uploads/services.png"
+cover:
+  image: "/uploads/services.png"
+  alt: services
 layout: Services
 route: "fr/services"
 ---

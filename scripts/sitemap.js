@@ -6,6 +6,7 @@ const dir = require("node-dir")
 const sm = require("sitemap")
 const path = require("path")
 const packageInfo = require("../package.json")
+
 const distPath = path.join(__dirname, "..", "dist")
 const sitemapPath = path.join(__dirname, "..", "dist", "sitemap.xml")
 

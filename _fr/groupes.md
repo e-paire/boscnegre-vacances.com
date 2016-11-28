@@ -2,7 +2,9 @@
 metaTitle: "Groupes"
 title: Tous les groupes
 navTitle: Groupes
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 layout: Groups
 route: "fr/groupes"
 ---

@@ -11,7 +11,7 @@ const PagesList = ({pages}) => {
         <ul>
         {
           pages.map((page) => (
-            <li key={page.title}><PagePreview { ...page } /></li>
+            <li key={page.title}><PagePreview {...page} /></li>
           ))
         }
         </ul>

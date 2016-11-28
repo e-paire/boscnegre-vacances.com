@@ -62,7 +62,7 @@ class ImageLightbox extends Component {
 ImageLightbox.propTypes = {
   children: PropTypes.any.isRequired,
   images: PropTypes.arrayOf(PropTypes.shape({
-    caption: PropTypes.string,
+    caption: PropTypes.string.isRequired,
     src: PropTypes.string.isRequired,
   })),
   index: PropTypes.number.isRequired,

@@ -1,13 +1,15 @@
 import React, {PropTypes} from "react"
 import {Icon} from "react-fa"
 
+import Image from "components/Image"
+
 import styles from "./index.css"
 
 const Cottage = ({beds, crush, cover, description, title}) => {
   return (
     <div className={styles.cottage}>
       <div className={styles.cover}>
-        <img className={styles.image} src={cover} />
+        <Image src={cover.image} alt={cover.alt} />
       </div>
       <div className={styles.content}>
         <div className={styles.title}>{title}</div>
@@ -37,9 +39,12 @@ const Cottage = ({beds, crush, cover, description, title}) => {
 }
 
 Cottage.propTypes = {
-  beds: PropTypes.string.isRequired,
-  crush: PropTypes.string.isRequired,
-  cover: PropTypes.string.isRequired,
+  beds: PropTypes.string,
+  crush: PropTypes.string,
+  cover: PropTypes.shape({
+    alt: PropTypes.string.isRequired,
+    image: PropTypes.string.isRequired,
+  }),
   description: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
 }

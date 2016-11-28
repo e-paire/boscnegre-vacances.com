@@ -1,7 +1,9 @@
 ---
 metaTitle: "Groepen"
 title: "Alle groepen"
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 layout: "Groups"
 route: "nl/groups"
 ---

@@ -1,6 +1,8 @@
 ---
 title: Seminar
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 icon: suitcase
 order: 1
 layout: Seminar

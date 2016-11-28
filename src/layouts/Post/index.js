@@ -8,7 +8,7 @@ const Post = (props) => {
 
   return (
     <Page
-      { ...props }
+      {...props}
       header={
         <header>
         {

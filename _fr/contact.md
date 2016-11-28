@@ -2,7 +2,9 @@
 metaTitle: "Contact"
 title: Contact
 navTitle: Contact
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 layout: Contact
 route: "fr/contact"
 ---

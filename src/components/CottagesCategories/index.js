@@ -52,9 +52,9 @@ class CottagesCategories extends Component {
     })
 
     const {lightboxIndex, isLightboxOpen} = this.state
-    const images = cottagesCategories.map(category => ({
-      caption: category.title,
-      src: category.cover,
+    const images = cottagesCategories.map(({cover}) => ({
+      caption: cover && cover.alt,
+      src: cover && cover.image,
     }))
 
     return cottagesCategories.length > 0

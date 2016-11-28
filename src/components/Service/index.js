@@ -1,11 +1,15 @@
 import React, {PropTypes} from "react"
 
+import Image from "components/Image"
+
 import styles from "./index.css"
 
 const Service = ({cover, title}) => {
   return (
     <div className={styles.service}>
-      <img className={styles.image} src={cover} />
+      {cover &&
+        <Image className={styles.image} src={cover.image} alt={cover.alt} />
+      }
       <div className={styles.overlay} />
       <div className={styles.title}>
         {title}
@@ -15,7 +19,10 @@ const Service = ({cover, title}) => {
 }
 
 Service.propTypes = {
-  cover: PropTypes.string.isRequired,
+  cover: PropTypes.shape({
+    alt: PropTypes.string.isRequired,
+    image: PropTypes.string.isRequired,
+  }),
   title: PropTypes.string.isRequired,
 }
 

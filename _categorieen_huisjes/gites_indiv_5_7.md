@@ -4,7 +4,9 @@ description: Le gite 2 est très bien
 capacityMin: 5
 capacityMax: 7
 priceMin: 300
-cover: "/uploads/cottage.png"
+cover:
+  image: "/uploads/cottage.png"
+  alt: cottage
 layout: CottagesCategory
 route: "nl/gites-indiv-5-7"
 ---

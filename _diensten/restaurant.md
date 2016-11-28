@@ -1,6 +1,8 @@
 ---
 title: Restaurant
-cover: "/uploads/restaurant.png"
+cover:
+  image: "/uploads/restaurant.png"
+  alt: restaurant
 layout: Service
 route: nl/restaurant
 order: 3

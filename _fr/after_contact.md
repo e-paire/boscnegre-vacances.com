@@ -1,7 +1,9 @@
 ---
 metaTitle: "Merci de nous avoir contacté"
 title: Merci
-cover: "/uploads/header.png"
+cover: 
+  image: "/uploads/header.png"
+  alt: bosc
 layout: AfterContact
 route: "fr/merci"
 ---

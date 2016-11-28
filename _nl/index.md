@@ -1,10 +1,12 @@
 ---
 layout: Homepage
 slogan: Vakantiedorp Bosc-Negro, 23 charmante cottages in de Zwarte Perigord
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 offers:
-  image:
-    src: "/uploads/castle.png"
+  cover:
+    image: "/uploads/castle.png"
     alt: "castle"
   text: "Geweldige prijzen en Bosc op vakantie gaan voor de beste prijs-Negro"
 route: "nl"

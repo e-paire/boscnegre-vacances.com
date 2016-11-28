@@ -22,7 +22,7 @@ import Services from "layouts/Services"
 
 const PageContainer = (props) => (
   <PhenomicPageContainer
-    { ...props }
+    {...props}
     layouts={{
       AfterContact,
       Contact,

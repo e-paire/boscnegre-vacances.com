@@ -4,6 +4,7 @@ import {Sticky} from "react-sticky"
 
 import Nav from "components/Nav"
 import TopBar from "components/TopBar"
+import Image from "components/Image"
 
 import styles from "./index.css"
 
@@ -41,7 +42,9 @@ class Header extends Component {
           />
         </Sticky>
         <div className={styles.photo}>
-          <img className={styles.image} src={cover} />
+          {cover &&
+            <Image src={cover.image} alt={cover.alt} />
+          }
           {title &&
             <h1 className={styles.title}>{title}</h1>
           }
@@ -53,7 +56,10 @@ class Header extends Component {
 
 Header.propTypes = {
   browser: PropTypes.object.isRequired,
-  cover: PropTypes.string.isRequired,
+  cover: PropTypes.shape({
+    alt: PropTypes.string.isRequired,
+    image: PropTypes.string.isRequired,
+  }),
   title: PropTypes.string,
 }
 

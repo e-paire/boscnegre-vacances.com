@@ -3,7 +3,9 @@ title: Gîtes mitoyens 7/9 pers.
 capacityMin: 7
 capacityMax: 9
 priceMin: 300
-cover: "/uploads/cottage.png"
+cover:
+  image: "/uploads/cottage.png"
+  alt: cottage
 layout: CottagesCategory
 route: "fr/gites-mit-7-9"
 ---

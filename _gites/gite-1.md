@@ -2,10 +2,11 @@
 title: Gite 1
 description: Le gite 1 est très luxueux
 number: 1
-ctoutvert id:
 layout: Cottage
 route: fr/gite-1
-cover: "/uploads/cottage.png"
+cover:
+  image: "/uploads/cottage.png"
+  alt: cottage
 category: Gîtes individuels 5/7 pers.
 ---
 

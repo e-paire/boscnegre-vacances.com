@@ -1,18 +1,17 @@
 ---
 title: Gite 5
-cover: "/uploads/cottage.png"
+cover:
+  image: "/uploads/cottage.png"
+  alt: cottage
 number: 5
 route: fr/gite-5
 images:
 - image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds
-  title: dfgdfgdfg
-- image:
-  alt:
-  title:
-- image:
-  alt:
-  title:
+- image: "/uploads/DSC02876.jpg"
+  alt: sdfsdfds
+- image: "/uploads/DSC02876.jpg"
+  alt: sdfsdfds
 layout: Cottage
 category: Gîtes individuels 5/7 pers.
 ---

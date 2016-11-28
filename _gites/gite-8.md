@@ -1,7 +1,9 @@
 ---
 title: Gite 8
 layout: Cottage
-cover: "/uploads/cottage.png"
+cover:
+  image: "/uploads/cottage.png"
+  alt: cottage
 date: 2016-10-14 00:00:00 +02:00
 route: fr/gite-8
 number: 8

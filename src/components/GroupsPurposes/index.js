@@ -9,6 +9,7 @@ import {getLocale} from "utils/intl"
 
 import Carousel from "components/Carousel"
 import Content from "components/Content"
+import Image from "components/Image"
 import Title from "components/Title"
 
 import styles from "./index.css"
@@ -30,8 +31,8 @@ class GroupsPurposes extends Component {
     return groups.length > 0
       ? <div>
           <Title id="titles.group_holidays" theme="yellow" />
-          {groupsPage &&
-            <img className={styles.cover} src={groupsPage.cover} />
+          {groupsPage && groupsPage.cover && 
+            <Image className={styles.cover} src={groupsPage.cover.image} alt={groupsPage.cover.alt} />
           }
           <div className={styles.groups}>
             <Content>

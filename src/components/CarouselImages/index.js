@@ -1,6 +1,7 @@
 import React, {Component, PropTypes} from "react"
 
 import Carousel from "components/Carousel"
+import Image from "components/Image"
 import ImageLightbox from "components/ImageLightbox"
 
 import styles from "./index.css"
@@ -37,22 +38,22 @@ class CarouselImages extends Component {
     return images.length > 0
       ? <ImageLightbox
           index={lightboxIndex}
-          images={images.map(image => ({
-            caption: image.alt,
-            src: image.src,
+          images={images.map(({image, alt}) => ({
+            caption: alt,
+            src: image,
           }))}
           onClose={this.handleCloseLightbox}
           open={isLightboxOpen}
         >
           <Carousel theme={theme}>
-            {images.map((image, i) => (
-              <img
-                key={i}
-                className={styles.image}
-                src={image.src}
-                alt={image.alt}
-                onClick={() => this.handleOpenLightbox(i)}
-              />
+            {images.map(({image, alt}, i) => (
+              <div key={i} onClick={() => this.handleOpenLightbox(i)}>
+                <Image
+                  className={styles.image}
+                  src={image}
+                  alt={alt}
+                />
+              </div>
             ))}
           </Carousel>
         </ImageLightbox>
@@ -63,7 +64,7 @@ class CarouselImages extends Component {
 CarouselImages.propTypes = {
   images: PropTypes.arrayOf(PropTypes.shape({
     alt: PropTypes.string.isRequired,
-    src: PropTypes.string.isRequired,
+    image: PropTypes.string.isRequired,
   })),
   theme: PropTypes.oneOf(["green", "yellow"]),
 }

@@ -10,6 +10,7 @@ class NewsletterForm extends Component {
       <form
         action="//lebosc.us4.list-manage.com/subscribe/post?u=37f9de2a9d643bf85926b318e&id=174aae7d93"
         target="_blank"
+        rel="nofollow noopener noreferrer"
         method="post"
       >
         <div>

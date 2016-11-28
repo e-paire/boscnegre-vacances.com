@@ -3,7 +3,9 @@ title: Gîtes individuels 5/7 pers.
 capacityMin: 5
 capacityMax: 7
 priceMin: 300
-cover: "/uploads/cottage.png"
+cover:
+  image: "/uploads/cottage.png"
+  alt: cottage
 layout: CottagesCategory
 route: "fr/gites-indiv-5-7"
 ---

@@ -17,7 +17,7 @@ class Homepage extends Component {
         </Content>
 
         <Offers
-          image={head.offers.image}
+          cover={head.offers.cover}
           url="/"
           text={head.offers.text}
         />

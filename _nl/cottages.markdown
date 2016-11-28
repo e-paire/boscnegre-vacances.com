@@ -1,7 +1,9 @@
 ---
 metaTitle: "Our cottages"
 title: All cottages
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 layout: Cottages
 route: "nl/cottages"
 ---

@@ -1,6 +1,8 @@
 ---
 title: Familles & sportifs
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 icon: bicycle
 order: 4
 layout: Group

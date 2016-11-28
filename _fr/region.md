@@ -1,7 +1,9 @@
 ---
 title: La région
 slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord Noir
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 layout: "Region"
 route: "fr/region"
 coordinates:

@@ -2,7 +2,9 @@
 metaTitle: "Nos gîtes"
 title: Tous nos gîtes
 navTitle: Les gîtes
-cover: "/uploads/header.png"
+cover:
+  image: "/uploads/header.png"
+  alt: bosc
 layout: Cottages
 route: "fr/gites"
 ---

@@ -59,17 +59,16 @@ class Map extends Component {
             coordinates={coordinates.map(coordinate => {
               const {color, description, latitude, longitude, title} = coordinate
               return ({
-                ...title ? {title: title} : {},
+                ...title && {title: title},
                 position: {
                   lat: latitude,
                   lng: longitude,
                 },
                 icon: this.getIcon(color),
-                ...description
-                  ? {onLoaded: (googleMaps, map, marker) =>
-                      this.onMarkerLoaded(googleMaps, map, marker, description),
-                    }
-                  : {}
+                ...description && {
+                  onLoaded: (googleMaps, map, marker) =>
+                    this.onMarkerLoaded(googleMaps, map, marker, description),
+                }
               })
             })}
           />

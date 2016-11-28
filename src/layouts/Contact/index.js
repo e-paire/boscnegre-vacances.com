@@ -15,7 +15,7 @@ const Contact = ({body, head, ...props}) => {
         <Breadcrumb head={head} />
       </Content>
       <Content className={styles.content}>
-        <div classNames={styles.text}>
+        <div className={styles.text}>
           {body &&
             <BodyContainer>
               {body}

@@ -36,7 +36,7 @@ const PricesExamples = ({intl, prices}) => {
 PricesExamples.propTypes = {
   intl: intlShape.isRequired,
   prices: PropTypes.arrayOf(PropTypes.shape({
-    description: PropTypes.number.isRequired,
+    description: PropTypes.string.isRequired,
     price: PropTypes.number.isRequired,
   })),
 }

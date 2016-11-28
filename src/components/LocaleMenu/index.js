@@ -51,7 +51,7 @@ class LocaleMenu extends Component {
         }
         <div className={styles.menu}>
           <span className={styles.current} onClick={open ? this.handleClose : this.handleOpen}>
-            <img className={styles.flag} src={FLAGS[intl.locale]} />
+            <img className={styles.flag} src={FLAGS[intl.locale]} alt={intl.locale} />
             <span className={styles.arrow}>
               <Icon name={`angle-${open ? "up" : "down"}`} />
             </span>
@@ -61,7 +61,7 @@ class LocaleMenu extends Component {
               .filter(locale => locale !== intl.locale)
               .map(locale =>
                 <div key={locale} className={styles.locale} onClick={() => this.handleChangeLocale(locale)}>
-                  <img className={styles.flag} src={FLAGS[locale]} />
+                  <img className={styles.flag} src={FLAGS[locale]} alt={locale} />
                 </div>
               )
             }

@@ -4,7 +4,9 @@ description: Le gite 2 est très bien
 number: 2
 route: fr/gites-mit-5-7
 layout: Cottage
-cover: "/uploads/cottage.png"
+cover:
+  image: "/uploads/cottage.png"
+  alt: cottage
 category: Gîtes individuels 5/7 pers.
 ---
 

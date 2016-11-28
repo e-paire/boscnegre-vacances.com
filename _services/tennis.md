@@ -1,6 +1,8 @@
 ---
 title: Tennis
-cover: "/uploads/tennis.png"
+cover:
+  image: "/uploads/tennis.png"
+  alt: tennis
 layout: Service
 route: fr/tennis
 order: 4

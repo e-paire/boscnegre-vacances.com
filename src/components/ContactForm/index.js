@@ -23,6 +23,7 @@ class Contact extends Component {
           method="POST"
           action="//formspree.io/cyberced1190@gmail.com"
           target={afterContactPage ? "_self" : "_blank"}
+          rel="nofollow noopener noreferrer"
         >
           <input
             className={styles.input}

@@ -4,6 +4,7 @@ import {BodyContainer} from "phenomic"
 import Breadcrumb from "components/Breadcrumb"
 import CarouselImages from "components/CarouselImages"
 import Content from "components/Content"
+import Image from "components/Image"
 import Page from "layouts/Page"
 import Prices from "components/Prices"
 import PricesExamples from "components/PricesExamples"
@@ -28,10 +29,11 @@ const Seminar = ({head, body, ...props}) => {
       </Content>
       <Content>
         {head.services && head.services.map((service, i) => {
+          const {alt, image} = service.cover
           return (
             <div key={i} className={styles.service}>
               <div className={styles.cover}>
-                <img className={styles.image} src={service.image.src} alt={service.image.alt} />
+                <Image src={image} alt={alt} />
               </div>
               <div className={styles.content}>
                 <div className={styles.description}>
@@ -47,7 +49,7 @@ const Seminar = ({head, body, ...props}) => {
       </Content>
       {head.prices &&
         <Prices
-          image={head.prices.image}
+          cover={head.prices.cover}
           url="/"
           text={head.prices.text}
         />

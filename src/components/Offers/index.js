@@ -3,12 +3,12 @@ import React, {PropTypes} from "react"
 import ImageLink from "components/ImageLink"
 import Title from "components/Title"
 
-const Offers = ({image, text, url}) => {
+const Offers = ({cover, text, url}) => {
   return (
     <div>
       <Title id="titles.our_offers" theme="yellow" />
       <ImageLink
-        image={image}
+        cover={cover}
         text={text}
         url={url}
       />
@@ -17,9 +17,9 @@ const Offers = ({image, text, url}) => {
 }
 
 Offers.propTypes = {
-  image: PropTypes.shape({
+  cover: PropTypes.shape({
     alt: PropTypes.string.isRequired,
-    src: PropTypes.string.isRequired,
+    image: PropTypes.string.isRequired,
   }),
   text: PropTypes.string.isRequired,
   url: PropTypes.string.isRequired,
