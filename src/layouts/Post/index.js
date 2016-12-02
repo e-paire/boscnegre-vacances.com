@@ -1,30 +1,30 @@
 import React, {PropTypes} from "react"
+import {BodyContainer} from "phenomic"
 
-import Page from "../Page"
+import Breadcrumb from "components/Breadcrumb"
+import Content from "components/Content"
+import Page from "layouts/Page"
 
-const Post = (props) => {
-  // it's up to you to choose what to do with this layout ;)
-  const pageDate = props.head.date ? new Date(props.head.date) : null
-
-  return (
-    <Page
-      {...props}
-      header={
-        <header>
-        {
-          pageDate &&
-          <time key={pageDate.toISOString()}>
-            {pageDate.toDateString()}
-          </time>
-        }
-        </header>
+const Post = ({head, body, ...props}) => (
+  <Page {...props} head={head}>
+    <Content>
+      <Breadcrumb head={head}
+        items={[
+          {layout: "Posts"},
+        ]}
+      />
+      {body &&
+        <BodyContainer>
+          {body}
+        </BodyContainer>
       }
-    />
-  )
-}
+    </Content>
+  </Page>
+)
 
 Post.propTypes = {
   head: PropTypes.object.isRequired,
+  body: PropTypes.string,
 }
 
 export default Post

@@ -58,7 +58,7 @@ class Nav extends Component {
     })
 
     const newsPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "News" && getLocale(c.__url) === intl.locale),
+      filter: (c) => (c.layout === "Posts" && getLocale(c.__url) === intl.locale),
     }).shift()
 
     const contactPage = enhanceCollection(collection, {

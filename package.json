@@ -260,7 +260,7 @@
     "react-helmet": "^3.2.2",
     "react-hot-loader": "^3.0.0-beta",
     "react-redux": "^4.4.6",
-    "react-router": "^3.0.0",
+    "react-router": "^2.3.0",
     "react-topbar-progress-indicator": "^1.0.0",
     "redux": "^3.0.0",
     "sitemap": "~1.8.2",

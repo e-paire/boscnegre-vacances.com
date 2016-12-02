@@ -3,6 +3,7 @@ import {Link} from "react-router"
 import {injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
+import {getLocale} from "utils/intl"
 import Service from "components/Service"
 import Title from "components/Title"
 
@@ -14,7 +15,7 @@ class Services extends Component {
     const {intl} = this.props
 
     const services = enhanceCollection(collection, {
-      filter: {layout: "Service", locale: intl.locale},
+      filter: (c) => (c.layout === "Service" && getLocale(c.__url) === intl.locale),
       sort: "order",
     })
 

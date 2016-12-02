@@ -15,6 +15,7 @@ import Page from "layouts/Page"
 import PageError from "layouts/PageError"
 import Photos from "layouts/Photos"
 import Post from "layouts/Post"
+import Posts from "layouts/Posts"
 import Region from "layouts/Region"
 import Seminar from "layouts/Seminar"
 import Service from "layouts/Service"
@@ -35,6 +36,7 @@ const PageContainer = (props) => (
       PageError,
       Photos,
       Post,
+      Posts,
       Region,
       Seminar,
       Service,
