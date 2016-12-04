@@ -1,6 +1,6 @@
 ---
-metaTitle: "Nos gîtes"
 title: Tous nos gîtes
+metaTitle: Nos gîtes
 navTitle: Les gîtes
 cover:
   image: "/uploads/header.png"

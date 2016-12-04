@@ -1,6 +1,6 @@
 ---
 title: Nouvelle 1
-date: 2016-10-07 10:16:00 Z
+date: 2016-10-07 12:16:00 +02:00
 layout: Post
 route: nouvelle-1
 ---

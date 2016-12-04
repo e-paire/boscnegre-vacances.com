@@ -7,5 +7,6 @@ cover:
   image: "/uploads/cottage.png"
   alt: cottage
 layout: CottagesCategory
-route: "nl/gites-mit-7-9"
+route: nl/gites-mit-7-9
 ---
+

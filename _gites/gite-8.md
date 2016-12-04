@@ -1,13 +1,14 @@
 ---
 title: Gite 8
+date: 2016-10-14 00:00:00 +02:00
+categories:
+- Gîtes individuels 5/7 pers.
 layout: Cottage
 cover:
   image: "/uploads/cottage.png"
   alt: cottage
-date: 2016-10-14 00:00:00 +02:00
 route: gite-8
 number: 8
-category: Gîtes individuels 5/7 pers.
 beds: 5 couchages + canapé lit
 crush: Le calme et l’espace entre chaque gîte
 ---

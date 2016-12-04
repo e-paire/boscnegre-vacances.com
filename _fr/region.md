@@ -4,18 +4,14 @@ slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord No
 cover:
   image: "/uploads/header.png"
   alt: bosc
-layout: "Region"
-route: "region"
+layout: Region
+route: region
 coordinates:
 - title: Bosc Nègre
   latitude: 44.597091
   longitude: 0.873799
-  description: |-
-    **Village de vacances Bosc Nègre**  
-    Bois de las putas  
-    47150 Lacapelle-Biron  
-    Lat : 44.597091  
-    Long : 0.873799  
+  description: "**Village de vacances Bosc Nègre**  \nBois de las putas  \n47150 Lacapelle-Biron
+    \ \nLat : 44.597091  \nLong : 0.873799  "
   color: orange
 - title: Montflanquin
   latitude: 44.532771
@@ -26,19 +22,17 @@ coordinates:
   longitude: 0.894904
   color: green
 - title: Villefranche-du-Périgord
-  latitude: 44.629740
-  longitude: 1.081300
+  latitude: 44.62974
+  longitude: 1.0813
   color: green
 - title: Biron
   latitude: 44.631365
-  longitude: 0.870710
+  longitude: 0.87071
   color: blue
 - title: Issigeac
   latitude: 44.730668
   longitude: 0.606769
   color: yellow
-
-
 ---
 
 **Vos vacances en gîte à la croisée des 3 départements exceptionnels : Lot-et-Garonne, Dordogne et Lot.**  

@@ -1,11 +1,11 @@
 ---
-metaTitle: "Merci de nous avoir contacté"
 title: Merci
-cover: 
+metaTitle: Merci de nous avoir contacté
+cover:
   image: "/uploads/header.png"
   alt: bosc
 layout: AfterContact
-route: "merci"
+route: merci
 ---
 
 Merci de nous avoir contacté. Nous nous efforçons de vous répondre au plus vite.

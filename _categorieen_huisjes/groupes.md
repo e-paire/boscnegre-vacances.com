@@ -7,5 +7,6 @@ cover:
   image: "/uploads/cottage.png"
   alt: cottage
 layout: CottagesCategory
-route: "nl/groups"
+route: nl/groups
 ---
+

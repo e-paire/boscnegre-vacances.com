@@ -5,7 +5,8 @@ capacityMax: 6
 priceMin: 300
 cover:
   image: "/uploads/cottage.png"
-  alt: "cottage"
+  alt: cottage
 layout: CottagesCategory
-route: "nl/gites-indiv-4-6"
+route: nl/gites-indiv-4-6
 ---
+

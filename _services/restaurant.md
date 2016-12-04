@@ -1,6 +1,6 @@
 ---
 title: Le restaurant avec produits locaux du Bosc Nègre
-navTitle: "Restaurant"
+navTitle: Restaurant
 cover:
   image: "/uploads/restaurant.png"
   alt: restaurant

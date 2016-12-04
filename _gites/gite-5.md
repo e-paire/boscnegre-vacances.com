@@ -1,5 +1,7 @@
 ---
 title: Gite 5
+categories:
+- Gîtes individuels 5/7 pers.
 cover:
   image: "/uploads/cottage.png"
   alt: cottage
@@ -13,8 +15,8 @@ images:
 - image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds
 layout: Cottage
-category: Gîtes individuels 5/7 pers.
 ---
+
 Le **gite 3** est très loin
 
 ![13495671_10208461945939724_2529489661058376215_o.jpg](/uploads/13495671_10208461945939724_2529489661058376215_o.jpg)

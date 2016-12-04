@@ -1,6 +1,6 @@
 ---
-metaTitle: "Services"
 title: Tous les services
+metaTitle: Services
 navTitle: Services
 cover:
   image: "/uploads/services.png"
