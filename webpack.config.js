@@ -115,7 +115,6 @@ export default (config = {}) => {
       }),
       new ExtractTextPlugin("assets/css/[name].[hash].css", {disable: config.dev}),
       new CopyWebpackPlugin([
-        {from: "admin", to: "admin"},
         {from: "uploads", to: "uploads"},
       ]),
       ...config.production && [
