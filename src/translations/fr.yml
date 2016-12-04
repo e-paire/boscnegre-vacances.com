@@ -43,3 +43,7 @@ contact_form:
 
 prices_examples:
   per_person: "{price} par personne"
+
+errors:
+  404: "Vous vous êtes égarés ? Revenez sur le droit chemin !"
+  back_home: Retourner à l'accueil

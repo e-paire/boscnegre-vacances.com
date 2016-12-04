@@ -42,3 +42,7 @@ contact_form:
 
 prices_examples:
   per_person: "{price} per persoon"
+
+errors:
+  404: Page not found
+  back_home: Come back to home

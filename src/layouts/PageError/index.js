@@ -1,31 +1,60 @@
-import React, {PropTypes} from "react"
+import React, {Component, PropTypes} from "react"
+import {Link} from "react-router"
+import {FormattedMessage, injectIntl, intlShape} from "react-intl"
+import enhanceCollection from "phenomic/lib/enhance-collection"
+
+import {getLocale} from "utils/intl"
+import Content from "components/Content"
+import Page from "layouts/Page"
+
+import woodsImage from "./assets/woods.jpg"
+
 import styles from "./index.css"
 
-const PageError = ({error, errorText}) => (
-  <div className={styles.container}>
-    <div className={styles.oops}>{"😱 Oooops!"}</div>
-    <div className={styles.text}>
-      <p className={styles.title}>
-        <strong>{error}</strong>
-        {" "}
-        {errorText}
-      </p>
-      {
-        error === 404 &&
-        <div>
-          {"It seems you found a broken link. "}
-          {"Sorry about that. "}
-          <br />
-          {"Do not hesitate to report this page 😁."}
-        </div>
-      }
-    </div>
-  </div>
-)
+class PageError extends Component {
+  render() {
+    const {collection} = this.context
+    const {error, errorText, intl, ...props} = this.props
+
+    const homePage = enhanceCollection(collection, {
+      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === intl.locale),
+    }).shift()
+
+    return (
+      <Page {...props} head={{
+        cover: {
+          image: woodsImage,
+          alt: "woods",
+        },
+        title: error.toString(),
+        metaTitle: "Error",
+      }}>
+        <Content childrenIsText className={styles.content}>
+          <p>
+            <FormattedMessage
+              id={`errors.${error}`}
+              defaultMessage={errorText}
+            />
+          </p>
+          <div>
+            <Link to={homePage && homePage.__url} className={styles.button}>
+              <FormattedMessage id="errors.back_home" />
+            </Link>
+          </div>
+        </Content>
+      </Page>
+    )
+  }
+}
+
+PageError.contextTypes = {
+  collection: PropTypes.array.isRequired,
+}
 
 PageError.propTypes = {
   error: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
   errorText: PropTypes.string,
+  intl: intlShape.isRequired,
 }
 
 PageError.defaultProps = {
@@ -33,4 +62,4 @@ PageError.defaultProps = {
   errorText: "Page Not Found",
 }
 
-export default PageError
+export default injectIntl(PageError)

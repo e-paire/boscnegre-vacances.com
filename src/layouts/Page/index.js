@@ -58,9 +58,8 @@ const Page = ({children, footer, head, header}) => {
 Page.propTypes = {
   children: PropTypes.node,
   footer: PropTypes.element,
-  head: PropTypes.object.isRequired,
+  head: PropTypes.object,
   header: PropTypes.element,
-
 }
 
 export default Page
