@@ -14,11 +14,11 @@ collections:
   services:
     title: FR_services
     output: true
-  posts:
-    title: NL_news
-    output: true
   huisjes:
     title: NL_cottages
+    output: true
+  posts:
+    title: NL_news
     output: true
   nl:
     title: NL_pages
