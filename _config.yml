@@ -8,26 +8,26 @@ collections:
   categories_gites:
     title: FR_cottages_categories
     output: true
+  groupes:
+    title: FR_groups
+    output: true
   articles:
     title: FR_news
     output: true
   fr:
     title: FR_pages
     output: true
-  groupes:
-    title: FR_groups
-    output: true
   services:
     title: FR_services
-    output: true
-  posts:
-    title: NL_news
     output: true
   huisjes:
     title: NL_cottages
     output: true
   categorieen_huisjes:
     title: NL_cottages_categories
+    output: true
+  posts:
+    title: NL_news
     output: true
   nl:
     title: NL_pages
