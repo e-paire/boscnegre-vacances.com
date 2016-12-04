@@ -39,7 +39,7 @@ const Page = ({children, footer, head, header}) => {
         title={metaTitle}
         meta={meta}
       />
-      <Header cover={head.cover} title={head.title} />
+      <Header cover={head.cover} slogan={head.slogan} title={head.title} />
       <div className={styles.contentWrapper}>
         <StickyContainer className={styles.content}>
           <BookingForm />

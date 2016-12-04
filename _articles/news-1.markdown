@@ -2,7 +2,7 @@
 title: Nouvelle 1
 date: 2016-10-07 10:16:00 Z
 layout: Post
-route: fr/nouvelle-1
+route: nouvelle-1
 ---
 
 Super nouvelle

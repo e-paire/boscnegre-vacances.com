@@ -24,23 +24,11 @@ footer:
   address: "adres"
   relevant_information: "Nuttige informatie"
   sitemap: "Sitemap"
-  contact: "Contact"
   prices: "Prijs pagina"
-  legal_notices: "Afdruk"
   consumer_advisory: "Recensies van klanten"
   our_partners: "Onze partners"
   join_us: "Join us"
   subscribe_newsletter: "Inschrijven voor de nieuwsbrief"
-
-nav:
-  home: "Welkom"
-  cottages: "Huisjes"
-  services: "Diensten"
-  photos: "Foto's"
-  region: "De regio"
-  groups: "Groupes"
-  news: "Nieuws"
-  contact: "Contact"
 
 newsletter_form:
   email: "E-mailadres"

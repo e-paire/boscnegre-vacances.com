@@ -4,7 +4,7 @@ cover:
   image: "/uploads/swimmingpool.png"
   alt: swimmingpool
 layout: Service
-route: fr/piscine
+route: piscine
 order: 2
 ---
 

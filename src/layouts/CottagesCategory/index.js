@@ -9,12 +9,12 @@ import Cottages from "components/Cottages"
 const CottagesCategory = ({head, body, ...props}) => {
   return (
     <Page {...props} head={head}>
+      <Breadcrumb head={head}
+        items={[
+          {layout: "Cottages"},
+        ]}
+      />
       <Content>
-        <Breadcrumb head={head}
-          items={[
-            {layout: "Cottages"},
-          ]}
-        />
         <Cottages category={head.title} />
       </Content>
       {body &&

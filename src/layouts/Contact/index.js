@@ -11,9 +11,7 @@ import styles from "./index.css"
 const Contact = ({body, head, ...props}) => {
   return (
     <Page {...props} head={head}>
-      <Content>
-        <Breadcrumb head={head} />
-      </Content>
+      <Breadcrumb head={head} />
       <Content className={styles.content}>
         <div className={styles.text}>
           {body &&

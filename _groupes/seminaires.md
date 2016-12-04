@@ -6,7 +6,7 @@ cover:
 icon: suitcase
 order: 1
 layout: Seminar
-route: fr/seminaires
+route: seminaires
 images:
 - image: "/uploads/header.png"
   alt: Lorem

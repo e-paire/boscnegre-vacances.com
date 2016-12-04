@@ -9,9 +9,7 @@ import Page from "layouts/Page"
 const Groups = ({head, body, ...props}) => {
   return (
     <Page {...props} head={head}>
-      <Content>
-        <Breadcrumb head={head} />
-      </Content>
+      <Breadcrumb head={head} />
       <GroupsPurposes cover={head.cover} />
       {body &&
         <Content childrenIsText>

@@ -8,13 +8,11 @@ import Page from "layouts/Page"
 const Group = ({head, body, ...props}) => {
   return (
     <Page {...props} head={head}>
-      <Content>
-        <Breadcrumb head={head}
-          items={[
-            {layout: "Groups"},
-          ]}
-        />
-      </Content>
+      <Breadcrumb head={head}
+        items={[
+          {layout: "Groups"},
+        ]}
+      />
       {body &&
         <Content childrenIsText>
           <BodyContainer>

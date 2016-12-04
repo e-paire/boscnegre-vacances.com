@@ -1,5 +1,5 @@
 import React, {Component, PropTypes} from "react"
-import {FormattedMessage, injectIntl, intlShape} from "react-intl"
+import {injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 import {IndexLink, Link} from "react-router"
 import classNames from "classnames"
@@ -14,6 +14,10 @@ class Nav extends Component {
   render() {
     const {collection, router} = this.context
     const {intl} = this.props
+
+    const homePage = enhanceCollection(collection, {
+      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === intl.locale),
+    }).shift()
 
     const cottagesPage = enhanceCollection(collection, {
       filter: (c) => (c.layout === "Cottages" && getLocale(c.__url) === intl.locale),
@@ -60,132 +64,130 @@ class Nav extends Component {
         <Content>
           <nav className={classNames(styles.nav, this.props.open && styles.nav_open)}>
             <ul className={styles.list}>
-              <li className={styles.item}>
-                <IndexLink to={`/${intl.locale}`} className={classNames(styles.link, {
-                  [styles.link_active]: router.isActive("/") || router.isActive(`/${intl.locale}`),
-                })}>
-                  <FormattedMessage id="nav.home" />
-                </IndexLink>
-              </li>
-              <li className={styles.item}>
-                <Link to={cottagesPage && cottagesPage.__url} className={classNames(styles.link, {
-                  [styles.link_active]: cottagesPage && router.isActive(cottagesPage.__url)
-                    || cottagesCategories.some(category => router.isActive(category.__url)),
-                })}>
-                {cottagesPage
-                  ? (cottagesPage.navTitle
+              {homePage &&
+                <li className={styles.item}>
+                  <IndexLink to={homePage.__url} className={classNames(styles.link, {
+                    [styles.link_active]: router.isActive("/") || router.isActive(`/${intl.locale}`),
+                  })}>
+                    {homePage.navTitle
+                      ? homePage.navTitle
+                      : homePage.title
+                    }
+                  </IndexLink>
+                </li>
+              }
+              {cottagesPage &&
+                <li className={styles.item}>
+                  <Link to={cottagesPage.__url} className={classNames(styles.link, {
+                    [styles.link_active]: router.isActive(cottagesPage.__url)
+                      || cottagesCategories.some(category => router.isActive(category.__url)),
+                  })}>
+                  {cottagesPage.navTitle
                     ? cottagesPage.navTitle
                     : cottagesPage.title
-                  )
-                  : <FormattedMessage id="nav.cottages" />
-                }
-                </Link>
-                {cottagesCategories.length > 0 &&
-                  <ul className={styles.sublist}>
-                    {cottagesCategories.map((category, i) => (
-                      <li key={i} className={styles.item}>
-                        <Link className={styles.link} to={category.__url} activeClassName={styles.link_active}>
-                          {category.navTitle ? category.navTitle : category.title}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                }
-              </li>
-              <li className={styles.item}>
-                <Link to={servicesPage && servicesPage.__url} className={classNames(styles.link, {
-                  [styles.link_active]: servicesPage && router.isActive(servicesPage.__url)
-                    || services.some(service => router.isActive(service.__url)),
-                })}>
-                {servicesPage
-                  ? (servicesPage.navTitle
+                  }
+                  </Link>
+                  {cottagesCategories.length > 0 &&
+                    <ul className={styles.sublist}>
+                      {cottagesCategories.map((category, i) => (
+                        <li key={i} className={styles.item}>
+                          <Link className={styles.link} to={category.__url} activeClassName={styles.link_active}>
+                            {category.navTitle ? category.navTitle : category.title}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  }
+                </li>
+              }
+              {servicesPage &&
+                <li className={styles.item}>
+                  <Link to={servicesPage.__url} className={classNames(styles.link, {
+                    [styles.link_active]: router.isActive(servicesPage.__url)
+                      || services.some(service => router.isActive(service.__url)),
+                  })}>
+                  {servicesPage.navTitle
                     ? servicesPage.navTitle
                     : servicesPage.title
-                  )
-                  : <FormattedMessage id="nav.services" />
-                }
-                </Link>
-                {services.length > 0 &&
-                  <ul className={styles.sublist}>
-                    {services.map((service, i) => (
-                      <li key={i} className={styles.item}>
-                        <Link className={styles.link} to={service.__url} activeClassName={styles.link_active}>
-                          {service.navTitle ? service.navTitle : service.title}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                }
-              </li>
-              <li className={styles.item}>
-                <Link className={styles.link} to={photosPage && photosPage.__url} activeClassName={styles.link_active}>
-                  {photosPage
-                    ? (photosPage.navTitle
+                  }
+                  </Link>
+                  {services.length > 0 &&
+                    <ul className={styles.sublist}>
+                      {services.map((service, i) => (
+                        <li key={i} className={styles.item}>
+                          <Link className={styles.link} to={service.__url} activeClassName={styles.link_active}>
+                            {service.navTitle ? service.navTitle : service.title}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  }
+                </li>
+              }
+              {photosPage &&
+                <li className={styles.item}>
+                  <Link className={styles.link} to={photosPage.__url} activeClassName={styles.link_active}>
+                    {photosPage.navTitle
                       ? photosPage.navTitle
                       : photosPage.title
-                    )
-                    : <FormattedMessage id="nav.photos" />
-                  }
-                </Link>
-              </li>
-              <li className={styles.item}>
-                <Link className={styles.link} to={regionPage && regionPage.__url} activeClassName={styles.link_active}>
-                  {regionPage
-                    ? (regionPage.navTitle
+                    }
+                  </Link>
+                </li>
+              }
+              {regionPage &&
+                <li className={styles.item}>
+                  <Link className={styles.link} to={regionPage.__url} activeClassName={styles.link_active}>
+                    {regionPage.navTitle
                       ? regionPage.navTitle
                       : regionPage.title
-                    )
-                    : <FormattedMessage id="nav.region" />
-                  }
-                </Link>
-              </li>
-              <li className={styles.item}>
-                <Link to={groupsPage && groupsPage.__url} activeClassName={styles.link_active} className={classNames(styles.link, {
-                  [styles.link_active]: groupsPage && router.isActive(groupsPage.__url)
-                    || groups.some(group => router.isActive(group.__url)),
-                })}>
-                {groupsPage
-                  ? (groupsPage.navTitle
+                    }
+                  </Link>
+                </li>
+              }
+              {groupsPage &&
+                <li className={styles.item}>
+                  <Link to={groupsPage.__url} activeClassName={styles.link_active} className={classNames(styles.link, {
+                    [styles.link_active]: router.isActive(groupsPage.__url)
+                      || groups.some(group => router.isActive(group.__url)),
+                  })}>
+                  {groupsPage.navTitle
                     ? groupsPage.navTitle
                     : groupsPage.title
-                  )
-                  : <FormattedMessage id="nav.groups" />
-                }
-                </Link>
-                {groups.length > 0 &&
-                  <ul className={styles.sublist}>
-                    {groups.map((group, i) => (
-                      <li key={i} className={styles.item}>
-                        <Link className={styles.link} to={group.__url} activeClassName={styles.link_active}>
-                          {group.navTitle ? group.navTitle : group.title}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                }
-              </li>
-              <li className={styles.item}>
-                <Link className={styles.link} to={newsPage && newsPage.__url} activeClassName={styles.link_active}>
-                  {newsPage
-                    ? (newsPage.navTitle
+                  }
+                  </Link>
+                  {groups.length > 0 &&
+                    <ul className={styles.sublist}>
+                      {groups.map((group, i) => (
+                        <li key={i} className={styles.item}>
+                          <Link className={styles.link} to={group.__url} activeClassName={styles.link_active}>
+                            {group.navTitle ? group.navTitle : group.title}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  }
+                </li>
+              }
+              {newsPage &&
+                <li className={styles.item}>
+                  <Link className={styles.link} to={newsPage.__url} activeClassName={styles.link_active}>
+                    {newsPage.navTitle
                       ? newsPage.navTitle
                       : newsPage.title
-                    )
-                    : <FormattedMessage id="nav.news" />
-                  }
-                </Link>
-              </li>
-              <li className={styles.item}>
-                <Link className={styles.link} to={contactPage && contactPage.__url} activeClassName={styles.link_active}>
-                  {contactPage
-                    ? (contactPage.navTitle
+                    }
+                  </Link>
+                </li>
+              }
+              {contactPage &&
+                <li className={styles.item}>
+                  <Link className={styles.link} to={contactPage.__url} activeClassName={styles.link_active}>
+                    {contactPage.navTitle
                       ? contactPage.navTitle
                       : contactPage.title
-                    )
-                    : <FormattedMessage id="nav.contact" />
-                  }
-                </Link>
-              </li>
+                    }
+                  </Link>
+                </li>
+              }
             </ul>
           </nav>
         </Content>
@@ -195,7 +197,7 @@ class Nav extends Component {
 }
 
 Nav.propTypes = {
-  intl: intlShape,
+  intl: intlShape.isRequired,
   open: PropTypes.bool.isRequired,
 }
 

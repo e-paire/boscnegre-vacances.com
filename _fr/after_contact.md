@@ -5,7 +5,7 @@ cover:
   image: "/uploads/header.png"
   alt: bosc
 layout: AfterContact
-route: "fr/merci"
+route: "merci"
 ---
 
 Merci de nous avoir contacté. Nous nous efforçons de vous répondre au plus vite.

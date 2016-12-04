@@ -1,6 +1,6 @@
 import React, {Component, PropTypes} from "react"
 import {Link} from "react-router"
-import {FormattedMessage, injectIntl, intlShape} from "react-intl"
+import {injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
 import {getLocale} from "utils/intl"
@@ -14,10 +14,10 @@ class Breadcrumb extends Component {
       <li key={label} className={styles.element}>
         {url
           ? <Link activeClassName={styles.link_active} className={styles.link} to={url}>
-              <FormattedMessage id={label} defaultMessage={label} />
+              {label}
             </Link>
           : <span className={styles.link_active}>
-              <FormattedMessage id={label} defaultMessage={label} />
+              {label}
             </span>
         }
       </li>
@@ -27,11 +27,19 @@ class Breadcrumb extends Component {
   render() {
     const {collection} = this.context
     const {head, intl, items} = this.props
+
+    const homePage = enhanceCollection(collection, {
+      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === intl.locale),
+    }).shift()
+
     return (
       <Content>
         <nav className={styles.breadcrumb}>
           <ul className={styles.list}>
-            {this.renderElement({label: "nav.home", url: `/${intl.locale}`})}
+            {this.renderElement({
+              label: homePage.navTitle ? homePage.navTitle : homePage.title,
+              url: homePage.__url,
+            })}
             {items.map((item) => {
               let element
 
@@ -46,12 +54,7 @@ class Breadcrumb extends Component {
                 if (page) {
                   element = {
                     url: page && page.__url,
-                    label: item.label
-                      ? item.label
-                      : (page.navTitle
-                        ? page.navTitle
-                        : page.title
-                      ),
+                    label: page.navTitle ? page.navTitle : page.title,
                   }
                 }
               }

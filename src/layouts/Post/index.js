@@ -7,13 +7,11 @@ import Page from "layouts/Page"
 
 const Post = ({head, body, ...props}) => (
   <Page {...props} head={head}>
-    <Content>
-      <Breadcrumb head={head}
-        items={[
-          {layout: "Posts"},
-        ]}
-      />
-    </Content>
+    <Breadcrumb head={head}
+      items={[
+        {layout: "Posts"},
+      ]}
+    />
     {body &&
       <Content childrenIsText>
         <BodyContainer>

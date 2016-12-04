@@ -52,6 +52,11 @@
   font-size: 12px;
 }
 
+.nav {
+  list-style: none;
+  padding: 0;
+}
+
 .link {
   display: block;
   text-align: center;

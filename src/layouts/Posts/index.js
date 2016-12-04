@@ -9,9 +9,7 @@ import PostsList from "components/Posts"
 const Posts = ({body, head, ...props}) => {
   return (
     <Page {...props} head={head}>
-      <Content>
-        <Breadcrumb head={head} />
-      </Content>
+      <Breadcrumb head={head} />
       {body &&
         <Content childrenIsText>
           <BodyContainer>

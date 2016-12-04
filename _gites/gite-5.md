@@ -4,7 +4,7 @@ cover:
   image: "/uploads/cottage.png"
   alt: cottage
 number: 5
-route: fr/gite-5
+route: gite-5
 images:
 - image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds

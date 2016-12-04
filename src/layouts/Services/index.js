@@ -9,8 +9,8 @@ import AllServices from "components/Services"
 const Services = ({body, head, ...props}) => {
   return (
     <Page {...props} head={head}>
+      <Breadcrumb head={head} />
       <Content>
-        <Breadcrumb head={head} />
         <AllServices />
       </Content>
       {body &&

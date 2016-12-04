@@ -5,7 +5,7 @@ cover:
   image: "/uploads/header.png"
   alt: bosc
 layout: "Region"
-route: "fr/region"
+route: "region"
 coordinates:
 - title: Bosc Nègre
   latitude: 44.597091

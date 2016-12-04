@@ -6,7 +6,7 @@ cover:
   image: "/uploads/header.png"
   alt: bosc
 layout: Cottages
-route: "fr/gites"
+route: gites
 ---
 
 **Des gîtes pour tous les goûts**  

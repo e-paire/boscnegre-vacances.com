@@ -11,6 +11,7 @@ import CottagesCategory from "layouts/CottagesCategory"
 import Homepage from "layouts/Homepage"
 import Groups from "layouts/Groups"
 import Group from "layouts/Group"
+import LegalNotices from "layouts/LegalNotices"
 import Page from "layouts/Page"
 import PageError from "layouts/PageError"
 import Photos from "layouts/Photos"
@@ -32,6 +33,7 @@ const PageContainer = (props) => (
       Groups,
       Group,
       Homepage,
+      LegalNotices,
       Page,
       PageError,
       Photos,

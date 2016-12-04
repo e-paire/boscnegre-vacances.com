@@ -10,9 +10,7 @@ import Title from "components/Title"
 const Photos = ({body, head, ...props}) => {
   return (
     <Page {...props} head={head}>
-      <Content>
-        <Breadcrumb head={head} />
-      </Content>
+      <Breadcrumb head={head} />
       {body &&
         <Content childrenIsText>
           <BodyContainer>

@@ -4,7 +4,7 @@ cover:
   image: "/uploads/tennis.png"
   alt: tennis
 layout: Service
-route: fr/tennis
+route: tennis
 order: 4
 ---
 

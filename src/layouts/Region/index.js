@@ -10,9 +10,7 @@ import Title from "components/Title"
 const Region = ({head, body, ...props}) => {
   return (
     <Page {...props} head={head}>
-      <Content>
-        <Breadcrumb head={head} />
-      </Content>
+      <Breadcrumb head={head} />
       <Title id="titles.places_to_see" />
       <Map coordinates={head.coordinates} />
       {body &&

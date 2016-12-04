@@ -30,11 +30,12 @@ class Header extends Component {
   }
 
   render() {
-    const {browser, cover, title} = this.props
+    const {browser, cover, slogan, title} = this.props
     return (
       <header className={styles.header}>
         <TopBar
           onOpenNav={this.handleOpenNav}
+          slogan={slogan}
         />
         <Sticky className={styles.logo} isActive={browser.greaterThan.m}>
           <TopLogo />
@@ -66,6 +67,7 @@ Header.propTypes = {
     alt: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
   }),
+  slogan: PropTypes.string,
   title: PropTypes.string,
 }
 

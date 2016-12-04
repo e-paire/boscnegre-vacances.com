@@ -9,8 +9,8 @@ import CottagesCategories from "components/CottagesCategories"
 const Services = ({body, head, ...props}) => {
   return (
     <Page {...props} head={head}>
+      <Breadcrumb head={head} />
       <Content>
-        <Breadcrumb head={head} />
         <CottagesCategories />
       </Content>
       {body &&

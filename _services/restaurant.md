@@ -5,7 +5,7 @@ cover:
   image: "/uploads/restaurant.png"
   alt: restaurant
 layout: Service
-route: fr/restaurant
+route: restaurant
 order: 3
 images:
 - image: "/uploads/restaurant.png"

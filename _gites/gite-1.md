@@ -3,7 +3,7 @@ title: Gite 1
 description: Le gite 1 est très luxueux
 number: 1
 layout: Cottage
-route: fr/gite-1
+route: gite-1
 cover:
   image: "/uploads/cottage.png"
   alt: cottage
