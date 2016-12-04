@@ -16,7 +16,7 @@ class Services extends Component {
 
     const services = enhanceCollection(collection, {
       filter: (c) => (c.layout === "Service" && getLocale(c.__url) === intl.locale),
-      sort: "order",
+      sort: "position",
     })
 
     return services.length > 0 ? (

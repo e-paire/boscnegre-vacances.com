@@ -2,39 +2,200 @@
 title: Bosc Negre Web
 timezone: Europe/Paris
 collections:
-  gites:
+  fr_cottages:
     title: FR_cottages
     output: true
-  categories_gites:
+  fr_cottages_categories:
     title: FR_cottages_categories
     output: true
-  groupes:
+  fr_groups:
     title: FR_groups
     output: true
-  articles:
-    title: FR_news
-    output: true
-  fr:
+  fr_pages:
     title: FR_pages
     output: true
-  services:
+  fr_posts:
+    title: FR_posts
+    output: true
+  fr_services:
     title: FR_services
     output: true
-  huisjes:
+  nl_cottages:
     title: NL_cottages
     output: true
-  categorieen_huisjes:
+  nl_cottages_categories:
     title: NL_cottages_categories
     output: true
-  posts:
-    title: NL_news
-    output: true
-  nl:
+  nl_pages:
     title: NL_pages
     output: true
-  diensten:
+  nl_posts:
+    title: NL_posts
+    output: true
+  nl_services:
     title: NL_services
     output: true
   uploads:
     title: Uploads
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "fr_cottages"
+    values:
+      layout: "Cottage"
+      route: gite-1
+      title: Gite 1
+      metaTitle: Gite 1
+      cover:
+        image:
+        alt:
+      position: 1
+      category: gites-indiv-4-6
+      layout: Cottage
+      beds: 5 couchages + canapé lit
+      crush: Le calme et l’espace entre chaque gîte
+  -
+    scope:
+      path: ""
+      type: "fr_cottages_categories"
+    values:
+      layout: CottagesCategory
+      route: gites-indiv-4-6
+      title: Gîtes individuels 4/6 pers.
+      metaTitle: Gîtes individuels 4/6 personnes
+      navTitle: Gîtes indiv 4/6 pers.
+      cover:
+        image:
+        alt:
+      capacityMin: 4
+      capacityMax: 6
+      priceMin: 1000
+  -
+    scope:
+      path: ""
+      type: "fr_groups"
+    values:
+      layout: Group
+      route: scolaires-loisirs
+      title: Scolaires & loisirs
+      metaTitle: Scolaires & loisirs
+      navTitle: Loisirs
+      cover:
+        image:
+        alt:
+      position: 1
+      icon: suitcase
+  -
+    scope:
+      path: ""
+      type: "fr_pages"
+    values:
+      layout:
+      route: ma-page
+      title: Ma page
+      metaTitle: Ma page
+      navTitle: Loisirs
+      cover:
+        image:
+        alt:
+  -
+    scope:
+      path: ""
+      type: "fr_posts"
+    values:
+      layout: Post
+      route: mon-article
+      title: Mon article
+      metaTitle: Mon article
+      navTitle: Article
+      cover:
+        image:
+        alt:
+  -
+    scope:
+      path: ""
+      type: "fr_services"
+    values:
+      layout: Service
+      route: le-service
+      title: Le titre du service
+      metaTitle: Le meta-title du service
+      navTitle: Le titre qui apparaitra dans le menu
+      cover:
+        image:
+        alt:
+  -
+    scope:
+      path: ""
+      type: "nl_cottages"
+    values:
+      layout: "Cottage"
+      route: gite-1
+      title: Gite 1
+      metaTitle: Gite 1
+      cover:
+        image:
+        alt:
+      position: 1
+      category: gites-indiv-4-6
+      layout: Cottage
+      beds: 5 couchages + canapé lit
+      crush: Le calme et l’espace entre chaque gîte
+  -
+    scope:
+      path: ""
+      type: "nl_cottages_categories"
+    values:
+      layout: CottagesCategory
+      route: gites-indiv-4-6
+      title: Gîtes individuels 4/6 pers.
+      metaTitle: Gîtes individuels 4/6 personnes
+      navTitle: Gîtes indiv 4/6 pers.
+      cover:
+        image:
+        alt:
+      capacityMin: 4
+      capacityMax: 6
+      priceMin: 1000
+  -
+    scope:
+      path: ""
+      type: "nl_pages"
+    values:
+      layout:
+      route: ma-page
+      title: Ma page
+      metaTitle: Ma page
+      navTitle: Loisirs
+      cover:
+        image:
+        alt:
+  -
+    scope:
+      path: ""
+      type: "nl_posts"
+    values:
+      layout: Post
+      route: mon-article
+      title: Mon article
+      metaTitle: Mon article
+      navTitle: Article
+      cover:
+        image:
+        alt:
+  -
+    scope:
+      path: ""
+      type: "nl_services"
+    values:
+      layout: Service
+      route: le-service
+      title: Le titre du service
+      metaTitle: Le meta-title du service
+      navTitle: Le titre qui apparaitra dans le menu
+      cover:
+        image:
+        alt:

@@ -1,5 +1,6 @@
 import React, {PropTypes} from "react"
 import {Icon} from "react-fa"
+import {BodyContainer} from "phenomic"
 
 import Image from "components/Image"
 
@@ -13,9 +14,9 @@ const Cottage = ({beds, crush, cover, description, title}) => {
       </div>
       <div className={styles.content}>
         <div className={styles.title}>{title}</div>
-        <div className={styles.description}>
+        <BodyContainer className={styles.description}>
           {description}
-        </div>
+        </BodyContainer>
         <div className={styles.meta}>
           {beds &&
             <div className={styles.box}>

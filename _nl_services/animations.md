@@ -5,6 +5,6 @@ cover:
   alt: animations
 layout: Service
 oute: nl/evenementen
-order: 1
+position: 1
 ---
 

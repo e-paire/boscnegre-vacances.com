@@ -16,7 +16,7 @@ class Cottages extends Component {
       filter: (c) => (c.layout === "Cottage"
         && c.category === category
         && getLocale(c.__url) === intl.locale),
-      sort: "number",
+      sort: "position",
     })
 
     return cottages.length > 0

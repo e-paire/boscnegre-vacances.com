@@ -12,18 +12,18 @@ import phenomicClient from "phenomic/lib/client"
 phenomicClient({metadata, routes, store})
 
 // md files processed via phenomic-loader to JSON & generate collection
-require.context("../_fr", true, /\.(md|markdown)$/)
-require.context("../_articles", true, /\.(md|markdown)$/)
-require.context("../_categories_gites", true, /\.(md|markdown)$/)
-require.context("../_gites", true, /\.(md|markdown)$/)
-require.context("../_services", true, /\.(md|markdown)$/)
-require.context("../_groupes", true, /\.(md|markdown)$/)
+require.context("../_fr_pages", true, /\.(md|markdown)$/)
+require.context("../_fr_posts", true, /\.(md|markdown)$/)
+require.context("../_fr_cottages", true, /\.(md|markdown)$/)
+require.context("../_fr_cottages_categories", true, /\.(md|markdown)$/)
+require.context("../_fr_services", true, /\.(md|markdown)$/)
+require.context("../_fr_groups", true, /\.(md|markdown)$/)
 
-require.context("../_nl", true, /\.(md|markdown)$/)
-require.context("../_nieuws", true, /\.(md|markdown)$/)
-require.context("../_categorieen_huisjes", true, /\.(md|markdown)$/)
-require.context("../_huisjes", true, /\.(md|markdown)$/)
-require.context("../_diensten", true, /\.(md|markdown)$/)
+require.context("../_nl_pages", true, /\.(md|markdown)$/)
+require.context("../_nl_posts", true, /\.(md|markdown)$/)
+require.context("../_nl_cottages", true, /\.(md|markdown)$/)
+require.context("../_nl_cottages_categories", true, /\.(md|markdown)$/)
+require.context("../_nl_services", true, /\.(md|markdown)$/)
 
 // hot loading
 if (module.hot) {

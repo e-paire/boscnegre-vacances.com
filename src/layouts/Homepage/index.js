@@ -12,7 +12,10 @@ class Homepage extends Component {
   render() {
     const {body, head, ...props} = this.props
     return (
-      <Page {...props} head={head}>
+      <Page {...props} head={{
+        ...head,
+        title: null,
+      }}>
         <Content>
           <CottagesCategories />
         </Content>

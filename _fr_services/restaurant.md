@@ -6,7 +6,7 @@ cover:
   alt: restaurant
 layout: Service
 route: restaurant
-order: 3
+position: 3
 images:
 - image: "/uploads/restaurant.png"
   alt: Le restaurant (vue gauche)

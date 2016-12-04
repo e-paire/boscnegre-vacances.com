@@ -25,13 +25,13 @@ class GroupsPurposes extends Component {
 
     const groups = enhanceCollection(collection, {
       filter: (c) => ((c.layout === "Group" || c.layout === "Seminar") && getLocale(c.__url) === intl.locale),
-      sort: "order",
+      sort: "position",
     })
 
     return groups.length > 0
       ? <div>
           <Title id="titles.group_holidays" theme="yellow" />
-          {groupsPage && groupsPage.cover && 
+          {groupsPage && groupsPage.cover &&
             <Image className={styles.cover} src={groupsPage.cover.image} alt={groupsPage.cover.alt} />
           }
           <div className={styles.groups}>

@@ -5,6 +5,6 @@ cover:
   alt: restaurant
 layout: Service
 route: nl/restaurant
-order: 3
+position: 3
 ---
 

@@ -5,6 +5,6 @@ cover:
   alt: pool
 layout: Service
 route: nl/zwembad
-order: 2
+position: 2
 ---
 

@@ -4,7 +4,7 @@ cover:
   image: "/uploads/header.png"
   alt: bosc
 icon: suitcase
-order: 1
+position: 1
 layout: Seminar
 route: seminaires
 images:
