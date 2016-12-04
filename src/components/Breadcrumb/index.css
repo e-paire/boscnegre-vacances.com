@@ -22,7 +22,7 @@
 }
 
 .link {
-  background: var(--color_gray-lighten2);
+  background: var(--color_gray);
   display: inline-block;
   padding: 5px 10px;
   text-decoration: none;
@@ -47,14 +47,14 @@
 
 .link::before {
   right: 100%;
-  border-color: var(--color_gray-lighten2);
+  border-color: var(--color_gray);
   border-left-color: transparent;
 }
 
 .link::after {
   left: 100%;
   border-color: transparent;
-  border-left-color: var(--color_gray-lighten2);
+  border-left-color: var(--color_gray);
 }
 
 .link:hover {

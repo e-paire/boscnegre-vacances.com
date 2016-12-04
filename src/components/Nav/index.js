@@ -11,16 +11,6 @@ import Content from "components/Content"
 import styles from "./index.css"
 
 class Nav extends Component {
-  constructor() {
-    super()
-
-    this.handleCloseNav = this.handleCloseNav.bind(this)
-  }
-
-  handleCloseNav() {
-    this.props.onCloseNav()
-  }
-
   render() {
     const {collection, router} = this.context
     const {intl} = this.props
@@ -67,9 +57,6 @@ class Nav extends Component {
 
     return (
       <div className={styles.wrapper}>
-        {this.props.open &&
-          <div className={styles.overlay} onClick={this.handleCloseNav} />
-        }
         <Content>
           <nav className={classNames(styles.nav, this.props.open && styles.nav_open)}>
             <ul className={styles.list}>
@@ -209,7 +196,6 @@ class Nav extends Component {
 
 Nav.propTypes = {
   intl: intlShape,
-  onCloseNav: PropTypes.func.isRequired,
   open: PropTypes.bool.isRequired,
 }
 

@@ -16,12 +16,14 @@ const CottagesCategory = ({head, body, ...props}) => {
           ]}
         />
         <Cottages category={head.title} />
-        {body &&
+      </Content>
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
-      </Content>
+        </Content>
+      }
     </Page>
   )
 }

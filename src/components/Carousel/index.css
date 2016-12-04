@@ -48,3 +48,13 @@
   composes: right;
   background: var(--color_bosc_yellow);
 }
+
+.left_green:hover,
+.right_green:hover {
+  background: var(--color_bosc_green--darken);
+}
+
+.left_yellow:hover,
+.right_yellow:hover {
+  background: var(--color_bosc_yellow--darken);
+}

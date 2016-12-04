@@ -13,12 +13,14 @@ const Post = ({head, body, ...props}) => (
           {layout: "Posts"},
         ]}
       />
-      {body &&
+    </Content>
+    {body &&
+      <Content childrenIsText>
         <BodyContainer>
           {body}
         </BodyContainer>
-      }
-    </Content>
+      </Content>
+    }
   </Page>
 )
 

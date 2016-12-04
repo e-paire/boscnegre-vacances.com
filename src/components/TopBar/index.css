@@ -36,58 +36,29 @@
   font-family: var(--font-title);
 }
 
-.facebook {
-  background: var(--color_facebook);
-  color: #fff;
-  height: 100%;
-  width: 40px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-}
-
-.facebook:hover {
-  background: color(var(--color_facebook) l(+5%));
-}
-
 .navButton {
   font-size: 20px;
   cursor: pointer;
 }
 
+.locales {
+  height: 100%;
+  display: flex;
+}
+
 .locale {
+  height: 100%;
+  padding: 10px 0;
+  margin-left: 20px;
+}
+
+.flag {
   height: 100%;
 }
 
-.logoWrapper {
-  background: var(--color_bosc_green);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  padding: 5px 0;
-  z-index: var(--zIndex-logo);
-}
-
-.logo {
-  height: 60px;
-}
-
 @media (--mq-gt-m) {
-  .top {
-    padding: 0 50px;
-  }
-
   .navButton {
     display: none;
-  }
-
-  .logoWrapper {
-    padding: 20px 10px;
   }
 
   .logo {

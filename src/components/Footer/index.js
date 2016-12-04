@@ -9,7 +9,9 @@ import AncvLogo from "components/AncvLogo"
 import Logo from "components/Logo"
 import Content from "components/Content"
 import NewsletterForm from "components/NewsletterForm"
+import TripAdvisorLogo from "components/TripAdvisorLogo"
 
+import Camping2beLogo from "./assets/camping2be.jpg"
 import VillageGitesLogo from "./assets/villages-de-gites.png"
 
 import styles from "./index.css"
@@ -65,12 +67,15 @@ const Footer = ({intl}, {collection}) => {
               <FormattedMessage id="footer.consumer_advisory" />
             </div>
             <div className={styles.consumerReviews}>
-              <iframe
-                src="//www.camping2be.com/widget/14230"
-                scrolling="no"
-                width="120" height="120"
-                frameBorder="0"
-              />
+              <Link
+                to="https://www.camping2be.com/france/lacapelle-biron/avis-clients-village-de-vacances-bosc-negre"
+                target="_blank"
+              >
+                <img className={styles.camping2be} src={Camping2beLogo} alt="Camping2be" />
+              </Link>
+              <Link to="https://www.tripadvisor.fr/Hotel_Review-g1856959-d2058207-Reviews-Village_de_vacances_Bosc_Negre-Lacapelle_Biron_Lot_et_Garonne_Nouvelle_Aquitaine.html" target="_blank">
+                <TripAdvisorLogo className={styles.tripAdvisor} />
+              </Link>
             </div>
           </div>
           <div className={styles.block}>
@@ -78,10 +83,15 @@ const Footer = ({intl}, {collection}) => {
               <FormattedMessage id="footer.our_partners" />
             </div>
             <div className={styles.ourPartners}>
-              <AncvLogo className={styles.ancv} />
-              <div className={styles.villagedegites}>
-                <img src={VillageGitesLogo} alt="Village de gîtes" />
-              </div>
+              <Link to="http://www.ancv.com/" target="_blank">
+                <AncvLogo className={styles.ancv} />
+              </Link>
+              <Link
+                to="http://www.villagesdegites.fr/"
+                target="_blank"
+              >
+                <img className={styles.village2gites} src={VillageGitesLogo} alt="Village de gîtes" />
+              </Link>
             </div>
           </div>
         </div>
@@ -91,12 +101,20 @@ const Footer = ({intl}, {collection}) => {
               <FormattedMessage id="footer.join_us" />
             </div>
             <div className={styles.networks}>
-              <div className={styles.network}>
+              <Link
+                className={styles.network}
+                to="https://www.facebook.com/BoscNegre"
+                target="_blank"
+              >
                 <Icon name="facebook-square" />
-              </div>
-              <div className={styles.network}>
+              </Link>
+              <Link
+                className={styles.network}
+                to="https://www.youtube.com/channel/UCnlRv-Wb9sXyFP9LEUQ4LpQ"
+                target="_blank"
+              >
                 <Icon name="youtube-square" />
-              </div>
+              </Link>
             </div>
           </div>
           <div className={styles.block}>

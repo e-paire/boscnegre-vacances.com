@@ -12,13 +12,13 @@ const AfterContact = ({body, head, ...props}) => {
       <Content>
         <Breadcrumb head={head} />
       </Content>
-      <Content>
-        {body &&
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
-      </Content>
+        </Content>
+      }
     </Page>
   )
 }

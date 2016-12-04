@@ -12,11 +12,15 @@ const Photos = ({body, head, ...props}) => {
     <Page {...props} head={head}>
       <Content>
         <Breadcrumb head={head} />
-        {body &&
+      </Content>
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
+        </Content>
+      }
+      <Content>
         {head.gallery &&
           head.gallery.map((gallery, i) => {
             const theme = i % 2 === 0 ? "yellow" : "green"

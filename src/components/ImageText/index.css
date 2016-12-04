@@ -56,7 +56,12 @@
 
 @media (--mq-gt-s) {
   .text {
-    padding: 30px 100px 30px 30px;
+    padding: 30px;
+  }
+
+  .textWithUrl {
+    composes: text;
+    padding-right: 100px;
   }
 
   .link {
@@ -79,11 +84,11 @@
   }
 
   .link:hover {
-    background: var(--color_bosc_yellow-darken1);
+    background: var(--color_bosc_yellow--darken);
   }
 
   .link:hover::before {
-    border-bottom-color: var(--color_bosc_yellow-darken1);
+    border-bottom-color: var(--color_bosc_yellow--darken);
   }
 
   .linkText {

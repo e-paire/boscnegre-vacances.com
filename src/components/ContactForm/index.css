@@ -3,7 +3,7 @@
 .form {
   display: flex;
   flex-direction: column;
-  background: var(--color_gray-lighten2);
+  background: var(--color_gray);
   padding: 20px;
 }
 
@@ -29,11 +29,12 @@
   color: #fff;
   padding: 20px;
   cursor: pointer;
+  font-family: var(--font-title);
 }
 
 .button:focus,
 .button:hover {
   outline: none;
-  background: var(--color_bosc_yellow-darken1);
-  border-color: var(--color_bosc_yellow-darken1);
+  background: var(--color_bosc_yellow--darken);
+  border-color: var(--color_bosc_yellow--darken);
 }

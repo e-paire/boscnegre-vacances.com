@@ -11,11 +11,15 @@ const Posts = ({body, head, ...props}) => {
     <Page {...props} head={head}>
       <Content>
         <Breadcrumb head={head} />
-        {body &&
+      </Content>
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
+        </Content>
+      }
+      <Content>
         <PostsList />
       </Content>
     </Page>

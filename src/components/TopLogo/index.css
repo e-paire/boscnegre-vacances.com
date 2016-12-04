@@ -1,0 +1,30 @@
+@import "styles/variables.css";
+@import "styles/mq.css";
+
+.wrapper {
+  background: var(--color_bosc_green);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 0;
+  z-index: var(--zIndex-logo);
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.logo {
+  height: 60px;
+}
+
+@media (--mq-gt-m) {
+  .wrapper {
+    padding: 10px;
+    top: 0;
+  }
+
+  .logo {
+    height: 100px;
+  }
+}

@@ -12,12 +12,14 @@ const Services = ({body, head, ...props}) => {
       <Content>
         <Breadcrumb head={head} />
         <AllServices />
-        {body &&
+      </Content>
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
-      </Content>
+        </Content>
+      }
     </Page>
   )
 }

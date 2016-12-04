@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {BodyContainer} from "phenomic"
 
 import Content from "components/Content"
 import CottagesCategories from "components/CottagesCategories"
@@ -9,7 +10,7 @@ import Services from "components/Services"
 
 class Homepage extends Component {
   render() {
-    const {head, ...props} = this.props
+    const {body, head, ...props} = this.props
     return (
       <Page {...props} head={head}>
         <Content>
@@ -27,12 +28,21 @@ class Homepage extends Component {
         </Content>
 
         <GroupsPurposes />
+
+        {body &&
+          <Content childrenIsText>
+            <BodyContainer>
+              {body}
+            </BodyContainer>
+          </Content>
+        }
       </Page>
     )
   }
 }
 
 Homepage.propTypes = {
+  body: PropTypes.string,
   head: PropTypes.object.isRequired,
 }
 

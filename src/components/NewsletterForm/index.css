@@ -25,6 +25,6 @@
 .button:focus,
 .button:hover {
   outline: none;
-  background: var(--color_bosc_yellow-darken1);
-  border-color: var(--color_bosc_yellow-darken1);
+  background: var(--color_bosc_yellow--darken);
+  border-color: var(--color_bosc_yellow--darken);
 }

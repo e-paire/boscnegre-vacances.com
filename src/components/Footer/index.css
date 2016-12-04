@@ -66,17 +66,28 @@
   color: var(--color_bosc_green);
 }
 
-.ourPartners {
+.ourPartners,
+.consumerReviews {
   display: flex;
   align-items: center;
   justify-content: space-around;
 }
 
-.ancv {
-  height: 70px;
+.camping2be {
+  height: 150px;
 }
 
-.villagedegites img {
+.tripAdvisor {
+  height: 130px;
+  display: block;
+}
+
+.ancv {
+  height: 70px;
+  display: block;
+}
+
+.village2gites {
   height: 100px;
 }
 
@@ -87,20 +98,17 @@
 .networks {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .network {
   color: #fff;
   font-size: 70px;
-}
-
-.network + .network {
-  margin-left: 20px;
+  margin: 0 20px;
 }
 
 .newsletter {
-  height: 100%;
+  margin-top: 20px;
   display: flex;
   align-items: center;
   justify-content: center;

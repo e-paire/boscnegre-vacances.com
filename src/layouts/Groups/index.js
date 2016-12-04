@@ -13,13 +13,13 @@ const Groups = ({head, body, ...props}) => {
         <Breadcrumb head={head} />
       </Content>
       <GroupsPurposes cover={head.cover} />
-      <Content>
-        {body &&
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
-      </Content>
+        </Content>
+      }
     </Page>
   )
 }

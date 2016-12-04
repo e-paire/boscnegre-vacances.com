@@ -10,8 +10,9 @@
   z-index: var(--zIndex-overlay);
 }
 
-.topBar {
-  z-index: var(--zIndex-nav);
+.logo {
+  z-index: calc(var(--zIndex-nav) + 1);
+  position: relative;
 }
 
 .photo {
@@ -30,6 +31,17 @@
   top: 50px;
   left: 0;
   font-size: 15px;
+}
+
+@media (--mq-lt-l) {
+  .navOverlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    cursor: pointer;
+  }
 }
 
 @media (--mq-m) {
@@ -62,6 +74,6 @@
     margin: 0 50px;
     top: 100px;
     left: 50px;
-    font-size: 40px;
+    font-size: 30px;
   }
 }

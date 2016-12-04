@@ -1,11 +1,10 @@
 import React, {Component, PropTypes} from "react"
-import {injectIntl, intlShape} from "react-intl"
 import {Link} from "react-router"
 import {Icon} from "react-fa"
 
 import Content from "components/Content"
-import LocaleMenu from "components/LocaleMenu"
-import Logo from "components/Logo"
+import FlagFr from "components/FlagFr"
+import FlagNl from "components/FlagNl"
 
 import styles from "./index.css"
 
@@ -23,9 +22,6 @@ class TopBar extends Component {
   render() {
     return (
       <div className={styles.top}>
-        <Link className={styles.logoWrapper} to={`/${this.props.intl.locale}`}>
-          <Logo className={styles.logo} />
-        </Link>
         <Content className={styles.content}>
           <div className={styles.navButton} onClick={this.handleOpenNav}>
             <Icon name="bars" />
@@ -39,11 +35,13 @@ class TopBar extends Component {
           <div className={styles.phone}>
             {"05 53 40 99 27"}
           </div>
-          <div className={styles.facebook}>
-            <Icon name="facebook" />
-          </div>
-          <div className={styles.locale}>
-            <LocaleMenu />
+          <div className={styles.locales}>
+            <Link className={styles.locale} to="/fr">
+              <FlagFr className={styles.flag} />
+            </Link>
+            <Link className={styles.locale} to="/nl">
+              <FlagNl className={styles.flag} />
+            </Link>
           </div>
         </Content>
       </div>
@@ -52,8 +50,7 @@ class TopBar extends Component {
 }
 
 TopBar.propTypes = {
-  intl: intlShape.isRequired,
   onOpenNav: PropTypes.func.isRequired,
 }
 
-export default injectIntl(TopBar)
+export default TopBar

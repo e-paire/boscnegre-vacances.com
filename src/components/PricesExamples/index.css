@@ -2,7 +2,7 @@
 @import "styles/mq.css";
 
 .wrapper {
-  background: var(--color_gray-lighten2);
+  background: var(--color_gray);
   padding: 10px;
 }
 

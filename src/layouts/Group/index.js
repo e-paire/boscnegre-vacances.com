@@ -14,12 +14,14 @@ const Group = ({head, body, ...props}) => {
             {layout: "Groups"},
           ]}
         />
-        {body &&
+      </Content>
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
-      </Content>
+        </Content>
+      }
     </Page>
   )
 }

@@ -5,6 +5,8 @@ import enhanceCollection from "phenomic/lib/enhance-collection"
 import {getLocale} from "utils/intl"
 import PostPreview from "components/PostPreview"
 
+import styles from "./index.css"
+
 class Posts extends Component {
   render() {
     const {collection} = this.context
@@ -14,7 +16,7 @@ class Posts extends Component {
     })
 
     return posts.length > 0
-    ? <div>
+    ? <div className={styles.post}>
         {posts.map((post, i) => (
           <div key={i}>
             <PostPreview {...post} />

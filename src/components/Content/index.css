@@ -1,8 +1,17 @@
 @import "styles/mq.css";
 
 .content {
-  max-width: 1350px;
   margin: auto;
+}
+
+.contentText {
+  composes: content;
+  max-width: 1000px;
+}
+
+.contentNoText {
+  composes: content;
+  max-width: 1350px;
 }
 
 @media (--mq-lt-xl) {

@@ -2,7 +2,7 @@
 @import "styles/mq.css";
 
 .content {
-  background: var(--color_gray-lighten2);
+  background: var(--color_gray);
 }
 
 .description {

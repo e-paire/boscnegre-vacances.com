@@ -2,12 +2,14 @@
 @import "styles/mq.css";
 
 .content {
-  background: var(--color_gray-lighten2);
+  background: var(--color_gray);
 }
 
 .title {
   font-size: 24px;
+  background: var(--color_bosc_green);
   font-family: var(--font-title);
+  color: #fff;
   text-transform: uppercase;
   padding: 10px;
   text-align: center;
@@ -38,11 +40,19 @@
 }
 
 .button {
-  background: var(--color_bosc_green);
+  border: 2px solid var(--color_bosc_yellow);
+  background: var(--color_bosc_yellow);
   color: #fff;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
-  display: block;
+  font-family: var(--font-title);
+}
+
+.button:focus,
+.button:hover {
+  outline: none;
+  background: var(--color_bosc_yellow--darken);
+  border-color: var(--color_bosc_yellow--darken);
 }
 
 @media (--mq-gt-s) {
@@ -87,5 +97,9 @@
     right: 0;
     left: auto;
     transform: translate(50%, -50%);
+  }
+
+  .button {
+    padding: 20px;
   }
 }

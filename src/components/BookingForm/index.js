@@ -186,7 +186,7 @@ class BookingForm extends Component {
     return (
       <div className={styles.wrapper}>
         {isSelecting && <div className={styles.overlay} onClick={this.handleClose} />}
-        <Sticky className={styles.sticky} isActive={browser.greaterThan.m}>
+        <Sticky stickyClassName={styles.sticky} isActive={browser.greaterThan.m}>
           <Content>
             <div className={styles.form}>
               <div className={styles.message} onClick={isSelecting ? this.handleClose : this.handleOpen}>

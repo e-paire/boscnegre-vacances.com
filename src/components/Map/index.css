@@ -6,12 +6,12 @@
 }
 
 .legendsWrapper {
-  background: var(--color_gray-lighten2);
+  background: var(--color_gray);
 }
 
 .legends {
   display: flex;
-  padding: 10px;
+  flex-wrap: wrap;
 }
 
 .legend {
@@ -19,10 +19,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 10px;
+  white-space: nowrap;
 }
 
-@media (--mq-gt-s) {
+@media (--mq-gt-m) {
   .legends {
+    flex-wrap: nowrap;
+  }
+
+  .legend {
     padding: 20px;
   }
 }

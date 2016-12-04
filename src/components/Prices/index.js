@@ -1,13 +1,13 @@
 import React, {PropTypes} from "react"
 
-import ImageLink from "components/ImageLink"
+import ImageText from "components/ImageText"
 import Title from "components/Title"
 
 const Prices = ({cover, text, url}) => {
   return (
     <div>
       <Title id="titles.our_prices" theme="green" />
-      <ImageLink
+      <ImageText
         cover={cover}
         text={text}
         url={url}

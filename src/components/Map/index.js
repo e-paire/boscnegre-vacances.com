@@ -47,32 +47,6 @@ class Map extends Component {
     const {coordinates, googleMaps} = this.props
     return (
       <div>
-        <div className={styles.map}>
-          <GoogleMap
-            googleMaps={googleMaps}
-            zoom={12}
-            center={{
-              lat: 44.597091,
-              lng: 0.873799,
-            }}
-            scrollwheel={false}
-            coordinates={coordinates.map(coordinate => {
-              const {color, description, latitude, longitude, title} = coordinate
-              return ({
-                ...title && {title: title},
-                position: {
-                  lat: latitude,
-                  lng: longitude,
-                },
-                icon: this.getIcon(color),
-                ...description && {
-                  onLoaded: (googleMaps, map, marker) =>
-                    this.onMarkerLoaded(googleMaps, map, marker, description),
-                }
-              })
-            })}
-          />
-        </div>
         <div className={styles.legendsWrapper}>
           <Content>
             <div className={styles.legends}>
@@ -98,6 +72,32 @@ class Map extends Component {
               </div>
             </div>
           </Content>
+        </div>
+        <div className={styles.map}>
+          <GoogleMap
+            googleMaps={googleMaps}
+            zoom={10}
+            center={{
+              lat: 44.597091,
+              lng: 0.873799,
+            }}
+            scrollwheel={false}
+            coordinates={coordinates.map(coordinate => {
+              const {color, description, latitude, longitude, title} = coordinate
+              return ({
+                ...title && {title: title},
+                position: {
+                  lat: latitude,
+                  lng: longitude,
+                },
+                icon: this.getIcon(color),
+                ...description && {
+                  onLoaded: (googleMaps, map, marker) =>
+                    this.onMarkerLoaded(googleMaps, map, marker, description),
+                }
+              })
+            })}
+          />
         </div>
       </div>
     )

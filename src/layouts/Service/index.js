@@ -9,18 +9,20 @@ import Page from "layouts/Page"
 const Service = ({head, body, ...props}) => {
   return (
     <Page {...props} head={head}>
-      <Content>
-        <Breadcrumb head={head}
-          items={[
-            {layout: "Services"},
-          ]}
-        />
-        <CarouselImages images={head.images} />
-        {body &&
+      <Breadcrumb head={head}
+        items={[
+          {layout: "Services"},
+        ]}
+      />
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
+        </Content>
+      }
+      <Content>
+        <CarouselImages images={head.images} />
       </Content>
     </Page>
   )

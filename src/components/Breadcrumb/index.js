@@ -4,6 +4,7 @@ import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
 import {getLocale} from "utils/intl"
+import Content from "components/Content"
 
 import styles from "./index.css"
 
@@ -27,40 +28,42 @@ class Breadcrumb extends Component {
     const {collection} = this.context
     const {head, intl, items} = this.props
     return (
-      <nav className={styles.breadcrumb}>
-        <ul className={styles.list}>
-          {this.renderElement({label: "nav.home", url: `/${intl.locale}`})}
-          {items.map((item) => {
-            let element
+      <Content>
+        <nav className={styles.breadcrumb}>
+          <ul className={styles.list}>
+            {this.renderElement({label: "nav.home", url: `/${intl.locale}`})}
+            {items.map((item) => {
+              let element
 
-            if (item.url && item.label) {
-              element = item
-            }
-            else if (item.layout) {
-              const page = enhanceCollection(collection, {
-                filter: (c) => (c.layout === item.layout && getLocale(c.__url) === intl.locale),
-              }).shift()
+              if (item.url && item.label) {
+                element = item
+              }
+              else if (item.layout) {
+                const page = enhanceCollection(collection, {
+                  filter: (c) => (c.layout === item.layout && getLocale(c.__url) === intl.locale),
+                }).shift()
 
-              if (page) {
-                element = {
-                  url: page && page.__url,
-                  label: item.label
-                    ? item.label
-                    : (page.navTitle
-                      ? page.navTitle
-                      : page.title
-                    ),
+                if (page) {
+                  element = {
+                    url: page && page.__url,
+                    label: item.label
+                      ? item.label
+                      : (page.navTitle
+                        ? page.navTitle
+                        : page.title
+                      ),
+                  }
                 }
               }
-            }
 
-            return element
-              ? this.renderElement(element)
-              : null
-          })}
-          {this.renderElement({label: head.navTitle ? head.navTitle : head.title})}
-        </ul>
-      </nav>
+              return element
+                ? this.renderElement(element)
+                : null
+            })}
+            {this.renderElement({label: head.navTitle ? head.navTitle : head.title})}
+          </ul>
+        </nav>
+      </Content>
     )
   }
 }

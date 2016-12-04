@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import classNames from "classnames"
 import {connect} from "react-redux"
 import Slick from "react-slick"
 import {Icon} from "react-fa"
@@ -24,7 +25,7 @@ class Carousel extends Component {
   }
 
   render() {
-    const {browser, noKeys, noArrows, slides_number, theme} = this.props
+    const {arrowsClassName, browser, noKeys, noArrows, slides_number, theme} = this.props
     const settings = {
       arrows: false,
       accessibility: !noKeys,
@@ -39,12 +40,12 @@ class Carousel extends Component {
           {this.props.children}
         </Slick>
         {!noArrows &&
-          <span className={styles[`left_${theme}`]} onClick={this.handlePrevious}>
+          <span className={classNames(styles[`left_${theme}`], arrowsClassName)} onClick={this.handlePrevious}>
             <Icon name="angle-left" />
           </span>
         }
         {!noArrows &&
-        <span className={styles[`right_${theme}`]} onClick={this.handleNext}>
+        <span className={classNames(styles[`right_${theme}`], arrowsClassName)} onClick={this.handleNext}>
           <Icon name="angle-right" />
         </span>
         }
@@ -54,6 +55,7 @@ class Carousel extends Component {
 }
 
 Carousel.propTypes = {
+  arrowsClassName: PropTypes.string,
   browser: PropTypes.object.isRequired,
   children: PropTypes.any.isRequired,
   noArrows: PropTypes.bool,

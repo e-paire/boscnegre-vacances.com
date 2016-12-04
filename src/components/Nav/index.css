@@ -5,7 +5,6 @@
   background: var(--color_bosc_green);
   color: #fff;
   position: absolute;
-  top: 40px;
   left: 0;
   right: 0;
   font-family: var(--font-title);
@@ -58,6 +57,7 @@
 @media (--mq-gt-m) {
   .wrapper {
     background: #fff;
+    border-top: 1px solid var(--color_bosc_green);
   }
 
   .nav {
@@ -107,11 +107,11 @@
   }
 
   .list > .item:nth-child(n+5) {
-    border-left: 1px solid var(--color_gray);
+    border-right: 1px solid var(--color_gray);
   }
 
   .list > .item:nth-child(-n+4) {
-    border-right: 1px solid var(--color_gray);
+    border-left: 1px solid var(--color_gray);
   }
 
   .sublist {
@@ -135,6 +135,7 @@
 
   .link {
     color: #000;
+    width: 100%;
   }
 
   .link:hover,

@@ -21,12 +21,14 @@ const Seminar = ({head, body, ...props}) => {
             {layout: "Groups"},
           ]}
         />
-        {body &&
+      </Content>
+      {body &&
+        <Content childrenIsText>
           <BodyContainer>
             {body}
           </BodyContainer>
-        }
-      </Content>
+        </Content>
+      }
       <Content>
         {head.services && head.services.map((service, i) => {
           const {alt, image} = service.cover
