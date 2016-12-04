@@ -1,10 +1,10 @@
 ---
 title: Familles & sportifs
+position: 4
 cover:
   image: "/uploads/header.png"
   alt: bosc
 icon: bicycle
-position: 4
 layout: Group
 route: familles-sportifs
 ---

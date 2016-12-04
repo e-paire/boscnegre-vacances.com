@@ -1,10 +1,10 @@
 ---
 title: Scolaires & loisirs
+position: 3
 cover:
   image: "/uploads/header.png"
   alt: bosc
 icon: child
-position: 3
 layout: Group
 route: scolaires-loisirs
 ---

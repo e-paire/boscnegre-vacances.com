@@ -1,6 +1,7 @@
 ---
 title: Gite 2
-category: gites-indiv-4-6
+categories:
+- gites-indiv-4-6
 position: 2
 route: gites-mit-5-7
 layout: Cottage

@@ -1,10 +1,10 @@
 ---
 title: Anniversaires
+position: 2
 cover:
   image: "/uploads/header.png"
   alt: bosc
 icon: birthday-cake
-position: 2
 layout: Group
 route: anniversaires
 ---

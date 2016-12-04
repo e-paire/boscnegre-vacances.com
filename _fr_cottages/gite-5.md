@@ -1,10 +1,11 @@
 ---
 title: Gite 5
-category: gites-indiv-4-6
+categories:
+- gites-indiv-4-6
+position: 5
 cover:
   image: "/uploads/cottage.png"
   alt: cottage
-position: 5
 route: gite-5
 images:
 - image: "/uploads/DSC02876.jpg"

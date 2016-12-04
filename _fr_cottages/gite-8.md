@@ -1,13 +1,14 @@
 ---
 title: Gite 8
 date: 2016-10-14 00:00:00 +02:00
-category: gites-indiv-4-6
+categories:
+- gites-indiv-4-6
+position: 8
 layout: Cottage
 cover:
   image: "/uploads/cottage.png"
   alt: cottage
 route: gite-8
-position: 8
 beds: 5 couchages + canapé lit
 crush: Le calme et l’espace entre chaque gîte
 ---

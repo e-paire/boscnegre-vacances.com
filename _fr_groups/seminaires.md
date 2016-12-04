@@ -1,10 +1,10 @@
 ---
 title: Séminaires
+position: 1
 cover:
   image: "/uploads/header.png"
   alt: bosc
 icon: suitcase
-position: 1
 layout: Seminar
 route: seminaires
 images:

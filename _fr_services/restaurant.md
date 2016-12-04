@@ -1,12 +1,12 @@
 ---
 title: Le restaurant avec produits locaux du Bosc Nègre
+position: 3
 navTitle: Restaurant
 cover:
   image: "/uploads/restaurant.png"
   alt: restaurant
 layout: Service
 route: restaurant
-position: 3
 images:
 - image: "/uploads/restaurant.png"
   alt: Le restaurant (vue gauche)
