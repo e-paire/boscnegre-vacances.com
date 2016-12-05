@@ -1,12 +1,12 @@
 ---
 title: Le restaurant avec produits locaux du Bosc Nègre
 position: 3
+route: restaurant
+metaDescription: Meta description du restaurant
 navTitle: Restaurant
 cover:
   image: "/uploads/restaurant.png"
-  alt: restaurant
-layout: Service
-route: restaurant
+  alt: restaurant du Hameau du Bosc Nègre
 images:
 - image: "/uploads/restaurant.png"
   alt: Le restaurant (vue gauche)
@@ -14,6 +14,9 @@ images:
   alt: Le restaurant (vue droite)
 - image: "/uploads/restaurant.png"
   alt: Le restaurant (vue large)
+- image: 
+  alt: 
+layout: Service
 ---
 
 **Restaurant et bar sur place au Bosc Nègre**  
