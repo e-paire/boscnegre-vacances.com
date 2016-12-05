@@ -1,12 +1,19 @@
 ---
-title: Contact
+title: Contacter le Bosc-Nègre
+route: contact
 metaTitle: Contact
+metaDescription: 
+slogan: 
 navTitle: Contact
 cover:
-  image: "/uploads/header.png"
-  alt: bosc
+  image: "/uploads/jump%20familie%20(2).png"
+  alt: Contacter le Bosc Nègre
 layout: Contact
-route: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Pour toute information, veuillez contacter Coby au 05 53 40 99 27 ou via le formulaire. Nous vous répondrons dans les plus brefs délais.\
+\
+Assurance annulation\
+Vous recherchez une assurance annulation, responsabilité civile locative (casse...),\
+Le cabinet ALBINET via son site ADUCIEL vous propose une solution adaptée à vos besoins\
+[Cliquez pour obtenir le montant de votre prime](http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?id=641500)\
