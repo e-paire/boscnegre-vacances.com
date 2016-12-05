@@ -4,7 +4,7 @@ route: groupes
 metaTitle: Hébergement de groupes au Hameau de Bosc Nègre
 metaDescription: Hébergement et pension complète pour les groupes jusqu'à 80 personnes
   en Lot-et-Garonne, limitrophe Dordogne et le beau Périgord
-slogan: 
+slogan: Séjour de groupes en Dordogne pour 80 personnes
 navTitle: Groupes
 cover:
   image: "/uploads/Table%CC%81%20dre%CC%81sse%CC%81e%20en%20U.JPG"
