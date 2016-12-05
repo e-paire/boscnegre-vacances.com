@@ -3,6 +3,9 @@ import classNames from "classnames"
 
 import styles from "./index.css"
 
+const CLOUDINARY_FETCH = "http://res.cloudinary.com/dvr6aqak0/image/fetch"
+const CLOUDINARY_ID = "v1480958467"
+
 class Image extends Component {
   constructor() {
     super()
@@ -20,14 +23,36 @@ class Image extends Component {
     })
   }
 
+  getUrl() {
+    return this.props.src
+  }
+
+  getResizeUrl() {
+    const {metadata: {pkg}} = this.context
+    const {resize: {width, height}, src} = this.props
+    const options = [
+      ...(width ? [`w_${width}`] : []),
+      ...(height ? [`h_${height}`] : []),
+      "q_auto",
+      "c_fill",
+    ]
+    return `${CLOUDINARY_FETCH}/${options.join(",")}/${CLOUDINARY_ID}/${pkg.homepage}${src}`
+  }
+
+  getSrc() {
+    return process.env.NODE_ENV === "production"
+      ? this.getResizeUrl()
+      : this.getUrl()
+  }
+
   render() {
     const {loaded} = this.state
-    const {alt, className, src} = this.props
+    const {alt, className} = this.props
     return (
       <div className={classNames(styles.wrapper, className)}>
         <img
           className={classNames(styles.image, loaded && styles.image_loaded)}
-          src={src}
+          src={this.getSrc()}
           alt={alt}
           onLoad={this.handleLoaded}
         />
@@ -36,10 +61,22 @@ class Image extends Component {
   }
 }
 
+Image.contextTypes = {
+  metadata: PropTypes.object.isRequired,
+}
+
 Image.propTypes = {
   alt: PropTypes.string.isRequired,
   className: PropTypes.string,
   src: PropTypes.string.isRequired,
+  resize: PropTypes.shape({
+    width: PropTypes.number,
+    height: PropTypes.number,
+  })
+}
+
+Image.defaultProps = {
+  resize: {}
 }
 
 export default Image

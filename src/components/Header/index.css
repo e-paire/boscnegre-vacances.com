@@ -59,13 +59,13 @@
 
 @media (--mq-l) {
   .photo {
-    height: 400px;
+    height: 600px;
   }
 }
 
 @media (--mq-xl) {
   .photo {
-    height: 500px;
+    height: 800px;
   }
 }
 

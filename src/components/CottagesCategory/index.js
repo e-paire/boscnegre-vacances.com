@@ -10,7 +10,7 @@ const CottagesCategory = ({__url, cover, onClickOnImage, priceMin, title}) => {
     <div className={styles.category}>
       <div className={styles.image} onClick={onClickOnImage}>
         {cover &&
-          <Image src={cover.image} alt={cover.alt} />
+          <Image src={cover.image} alt={cover.alt} resize={{height: 200, width: 700}} />
         }
       </div>
       <a href={__url} className={styles.content}>

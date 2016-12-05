@@ -50,7 +50,7 @@ class Header extends Component {
         </Sticky>
         <div className={styles.photo}>
           {cover &&
-            <Image src={cover.image} alt={cover.alt} />
+            <Image src={cover.image} alt={cover.alt} resize={{height: 800, width: 2000}} />
           }
           {title &&
             <h1 className={styles.title}>{title}</h1>
