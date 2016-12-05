@@ -1,12 +1,12 @@
 ---
-title: Tous nos gîtes
+title: Les locations de gîtes au Bosc Nègre
+route: gites
 metaTitle: Nos gîtes
 navTitle: Les gîtes
 cover:
   image: "/uploads/header.png"
   alt: bosc
 layout: Cottages
-route: gites
 ---
 
 **Des gîtes pour tous les goûts**  
