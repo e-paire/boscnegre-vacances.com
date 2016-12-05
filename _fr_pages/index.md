@@ -18,7 +18,7 @@ offers:
 layout: Homepage
 ---
 
-# **Vacances familiales et détendues au Bosc Nègre**
+**Vacances familiales et détendues au Bosc Nègre**
 
 Dans ce **village de vacances** **du Sud de la France**, vous pouvez vous ressourcez en toute tranquillité dans un gîte et apprécier les richesses de la Dordogne et du Lot-et-Garonne.
 
