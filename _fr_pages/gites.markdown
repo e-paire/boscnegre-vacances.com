@@ -7,7 +7,7 @@ metaDescription: 'Choissisez le gîte qui vous correspond le mieux pour vous pro
 navTitle: Les gîtes
 cover:
   image: "/uploads/header.png"
-  alt: bosc
+  alt: Les gîtes du Bosc Nègre en Dordogne
 layout: Cottages
 ---
 
