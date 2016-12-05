@@ -1,7 +1,9 @@
 ---
 title: Les locations de gîtes au Bosc Nègre
-route: gites
-metaTitle: Nos gîtes
+route: "/tous-les-gites"
+metaTitle: Tous les gîtes de charme au Hameau du Bosc Nègre
+metaDescription: 'Choissisez le gîte qui vous correspond le mieux pour vous prochaines
+  vacances avec votre famille, vos amis ou bien entre votre club de sport. '
 navTitle: Les gîtes
 cover:
   image: "/uploads/header.png"
