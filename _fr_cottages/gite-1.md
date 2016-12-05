@@ -3,10 +3,12 @@ title: Gite 9
 categories:
 - gites-indiv-4-6
 position: 3
-route: gite-1
+route: gite-9
 cover:
-  image: "/uploads/cottage.png"
-  alt: cottage
+  image: "/uploads/origin-00000341984.jpg"
+  alt: gîte 9 au Bosc Nègre
+beds: 4 couchages + canapé lit
+crush: Le grand espace vert devant le gîte
 layout: Cottage
 ---
 
