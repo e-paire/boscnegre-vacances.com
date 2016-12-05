@@ -1,17 +1,21 @@
 ---
 title: Index
-layout: Homepage
+route: nl
 navTitle: Home
-slogan: Vakantiedorp Bosc-Negro, 23 charmante cottages in de Zwarte Perigord
 cover:
   image: "/_uploads/header.png"
   alt: bosc
+slogan: Vakantiedorp Bosc-Negro, 23 charmante cottages in de Zwarte Perigord
 offers:
   cover:
     image: "/_uploads/castle.png"
     alt: castle
   text: Geweldige prijzen en Bosc op vakantie gaan voor de beste prijs-Negro
-route: nl
+layout: Homepage
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome op de Bosc-Nègre, een **kleinschalig vakantiepark in dordogne** met 23 gites ruim gelegen op een terrein van 21 hectare, met veel privacy. \
+\
+Het park is ideaal voor een vakantie met uw gezin. Genieten van alle voorzieningen voor het slagen van een vakantie voor de hele familie. Met een restaurant, een verwarmd zwembad, een tennisbaan en een activiteitenprogramma met voor elk wat wils, is succes gegarandeerd voor kinderen, tieners en hun ouders.\
+\
+En vooral voor: Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn dè sleutelwoorden die passen bij een **vakantie in dordogne met nederlandse eigenaar**.\
