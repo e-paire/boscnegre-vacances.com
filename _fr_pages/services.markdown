@@ -1,13 +1,13 @@
 ---
-title: Tous les services
+title: Le plein d'activités en vacances
 route: activites
 metaTitle: Toutes les activités au Hameau du Bosc Nègre
-metaDescription: Choissisez l'activité de votre choix pour vous détendre pendant vos
-  vacances en Dordogne au Hameau du Bosc Nègre
 navTitle: Activités
 cover:
   image: "/uploads/PHOTO%20PRINCIPALE-90425d.JPG"
   alt: Activités pendant vos vacances au Bosc Nègre
+metaDescription: Choissisez l'activité de votre choix pour vous détendre pendant vos
+  vacances en Dordogne au Hameau du Bosc Nègre
 layout: Services
 ---
 
