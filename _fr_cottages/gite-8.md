@@ -3,7 +3,7 @@ title: Gite 8
 date: 2016-10-14 00:00:00 +02:00
 categories:
 - gites-indiv-4-6
-position: 8
+position: 2
 layout: Cottage
 cover:
   image: "/uploads/cottage.png"

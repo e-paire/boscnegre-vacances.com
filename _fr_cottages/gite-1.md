@@ -2,7 +2,7 @@
 title: Gite 9
 categories:
 - gites-indiv-4-6
-position: 1
+position: 3
 route: gite-1
 cover:
   image: "/uploads/cottage.png"

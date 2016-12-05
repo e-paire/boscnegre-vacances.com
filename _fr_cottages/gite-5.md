@@ -2,7 +2,7 @@
 title: Gite 5
 categories:
 - gites-indiv-4-6
-position: 5
+position: 1
 cover:
   image: "/uploads/cottage.png"
   alt: cottage
