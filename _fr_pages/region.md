@@ -1,11 +1,15 @@
 ---
 title: La région
-slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord Noir
-cover:
-  image: "/uploads/header.png"
-  alt: bosc
-layout: Region
 route: region
+metaTitle: Découvrez la région du Lot-et-Garonne depuis le Hameau du Bosc Nègre
+metaDescription: Partez à la découverte du Périgord et les départements limitrophe
+  pour vos prochaines vacances en gîte avec votre famille, vos amis, clus sportif
+  ou association
+navTitle: Région
+cover:
+  image: "/uploads/PHOTO%20PRINCIPALE.JPG"
+  alt: Quoi visiter en Dordogne pendant vos vacances
+slogan: A la découverte d'une belle région dans un gîte en Lot-et-Garonne
 coordinates:
 - title: Bosc Nègre
   latitude: 44.597091
@@ -33,6 +37,7 @@ coordinates:
   latitude: 44.730668
   longitude: 0.606769
   color: yellow
+layout: Region
 ---
 
 **Vos vacances en gîte à la croisée des 3 départements exceptionnels : Lot-et-Garonne, Dordogne et Lot.**  
