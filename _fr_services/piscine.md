@@ -4,7 +4,7 @@ position: 2
 route: piscine
 navTitle: Piscine
 cover:
-  image: "/uploads/swimmingpool.png"
+  image: "/_uploads/swimmingpool.png"
   alt: swimmingpool
 layout: Service
 ---

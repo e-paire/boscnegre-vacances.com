@@ -2,7 +2,7 @@
 title: Familles & sportifs
 position: 4
 cover:
-  image: "/uploads/header.png"
+  image: "/_uploads/header.png"
   alt: bosc
 icon: bicycle
 layout: Group

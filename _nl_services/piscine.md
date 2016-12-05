@@ -2,7 +2,7 @@
 title: Zwembad
 position: 2
 cover:
-  image: "/uploads/swimmingpool.png"
+  image: "/_uploads/swimmingpool.png"
   alt: pool
 layout: Service
 route: nl/zwembad

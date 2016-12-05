@@ -2,7 +2,7 @@
 title: Scolaires & loisirs
 position: 3
 cover:
-  image: "/uploads/header.png"
+  image: "/_uploads/header.png"
   alt: bosc
 icon: child
 layout: Group

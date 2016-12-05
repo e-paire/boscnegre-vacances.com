@@ -5,14 +5,14 @@ route: restaurant
 metaDescription: Meta description du restaurant
 navTitle: Restaurant
 cover:
-  image: "/uploads/restaurant.png"
+  image: "/_uploads/restaurant.png"
   alt: restaurant du Hameau du Bosc Nègre
 images:
-- image: "/uploads/restaurant.png"
+- image: "/_uploads/restaurant.png"
   alt: Le restaurant (vue gauche)
-- image: "/uploads/restaurant.png"
+- image: "/_uploads/restaurant.png"
   alt: Le restaurant (vue droite)
-- image: "/uploads/restaurant.png"
+- image: "/_uploads/restaurant.png"
   alt: Le restaurant (vue large)
 - image: 
   alt: 

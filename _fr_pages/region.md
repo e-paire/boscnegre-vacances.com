@@ -4,7 +4,7 @@ route: region
 metaTitle: Découvrez la région du Lot-et-Garonne depuis le Hameau du Bosc Nègre
 navTitle: Région
 cover:
-  image: "/uploads/PHOTO%20PRINCIPALE.JPG"
+  image: "/_uploads/PHOTO%20PRINCIPALE.JPG"
   alt: Quoi visiter en Dordogne pendant vos vacances
 metaDescription: Partez à la découverte du Périgord et les départements limitrophe
   pour vos prochaines vacances en gîte avec votre famille, vos amis, clus sportif

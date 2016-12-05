@@ -2,7 +2,7 @@
 title: Diensten
 metaTitle: Diensten
 cover:
-  image: "/uploads/services.png"
+  image: "/_uploads/services.png"
   alt: services
 layout: Services
 route: nl/diensten

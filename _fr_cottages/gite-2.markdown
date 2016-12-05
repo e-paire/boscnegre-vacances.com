@@ -2,7 +2,7 @@
 title: Gîte 2
 date: 2016-12-05 13:41:00 +01:00
 cover:
-  image: "/uploads/gite%202.jpg"
+  image: "/_uploads/gite%202.jpg"
 beds: 7 couchages + canapé lit
 crush: la proximité des animations
 ---

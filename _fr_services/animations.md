@@ -1,7 +1,7 @@
 ---
 title: Animations
 cover:
-  image: "/uploads/animations.png"
+  image: "/_uploads/animations.png"
   alt: animations
 layout: Service
 route: animations

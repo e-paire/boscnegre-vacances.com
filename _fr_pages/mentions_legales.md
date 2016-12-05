@@ -3,7 +3,7 @@ title: Mentions légales
 metaTitle: Mentions légales
 navTitle: Mentions légales
 cover:
-  image: "/uploads/header.png"
+  image: "/_uploads/header.png"
   alt: bosc
 layout: LegalNotices
 route: mentions-legales

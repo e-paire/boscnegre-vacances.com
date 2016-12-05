@@ -2,7 +2,7 @@
 title: Anniversaires
 position: 2
 cover:
-  image: "/uploads/header.png"
+  image: "/_uploads/header.png"
   alt: bosc
 icon: birthday-cake
 layout: Group

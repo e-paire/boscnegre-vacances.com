@@ -7,7 +7,7 @@ metaDescription: Hébergement et pension complète pour les groupes jusqu'à 80 
 slogan: Séjour de groupes en Dordogne pour 80 personnes
 navTitle: Groupes
 cover:
-  image: "/uploads/Table%CC%81%20dre%CC%81sse%CC%81e%20en%20U.JPG"
+  image: "/_uploads/Table%CC%81%20dre%CC%81sse%CC%81e%20en%20U.JPG"
   alt: Séjour groupes Dordogne
 layout: Groups
 ---

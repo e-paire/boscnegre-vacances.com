@@ -2,54 +2,54 @@
 title: Photos
 layout: Photos
 cover:
-  image: "/uploads/header.png"
+  image: "/_uploads/header.png"
   alt: bosc
 gallery:
 - title: La piscine
   images:
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
 - title: Les gites
   images:
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
 - title: Le restaurant
   images:
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
-  - image: "/uploads/castle.png"
+  - image: "/_uploads/castle.png"
     alt: castle
 route: photos
 ---
