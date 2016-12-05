@@ -3,10 +3,10 @@ title: Gite 5
 categories:
 - gites-indiv-4-6
 position: 1
-cover:
-  image: "/uploads/cottage.png"
-  alt: cottage
 route: gite-5
+cover:
+  image: "/uploads/origin-00000417138.jpg"
+  alt: gite 5 au Bosc Negre
 images:
 - image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds
@@ -17,8 +17,7 @@ images:
 layout: Cottage
 ---
 
-Le **gite 3** est très loin
+Les gîtes de la ferme sont idéals pour les familles en vacances avec leurs enfants en bas âge qui doivent encore être surveillés. Vue sur l’aire de jeu à une petite distance quand les petits jouent avec leurs amis, non loin de la piscine afin que vous puissiez profiter du soleil pendant la sieste du plus petit.
 
-![13495671_10208461945939724_2529489661058376215_o.jpg](/uploads/13495671_10208461945939724_2529489661058376215_o.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+(équipé pour les handicapés moteurs)
+Deux chambres: une avec deux lits de 1 personne, la 2ème chambre avec 3 lits de 1 personne (dont 2 superposés), salle d'eau avec douche et toilettes. Rez-de-chaussée: séjour avec coin cuisine équipé, un canapé-lit pour 2 personnes , mobilier en pin, etc.
