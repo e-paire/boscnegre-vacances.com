@@ -1,12 +1,27 @@
 ---
-title: Scolaires & loisirs
+title: Séjour pour groupes scolaires et centre de loisirs loisirs
 position: 3
+route: "/groupes/scolaire-centre-de-loisirs"
+metaTitle: Groupes scolaires et centre de loisirs au Hameau du Bosc Nègre
+metaDescription: Séjour classe découverte en Lot-Garonne avec hébergement et pension
+  complète jusqu'à 80 personnes
+navTitle: Scolaire & Centre de Loisirs
 cover:
   image: "/_uploads/header.png"
   alt: bosc
 icon: child
+slogan: 
 layout: Group
-route: scolaires-loisirs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Séjour scolaire tout confort dans le Lot-et-Garonne, limitrophe Dordogne
+
+Le Bosc Nègre est adapté pour un séjour de groupe avec enfants. Les installations sont sécurisées et la piscine clôturée.
+Pour votre séjour en classe verte dans le Périgord, nous vous proposons plusieurs répartitions des chambres. Elles sont réparties sur 2 bâtiments : l’un de 30 lits avec chambres de 2 à 4 lits, avec sanitaires individuels. L’autre bâtiment de 21 lits
+Pour la restauration, nous proposons des plats équilibrés qui plaisent aux enfants. Nous pourrons composer le menu ensemble.
+
+## Les activités à faire
+
+Sur place, vous pouvez organiser les jeux que vous souhaitez et profitez pleinement de nos installations comme la piscine, la table de ping-pong, le terrain de foot ... Vous pouvez également partir à la découverte de la région pour faire découvrir aux enfants la richesse du pays. N'hésitez pas à nous demander conseils pour les sorties pédagogiques, nous travaillons régulièrement avec des intervenants habités aux groupes scolaires et centres de loisirs, comme par exemple le réseau de professionnels de l'éducation et de la médiation culturelle
+
+Nous disposons de l'Agrément Inspection Académique de Lot et Garonne N° 47/04-13"
