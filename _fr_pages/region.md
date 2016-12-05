@@ -55,4 +55,4 @@ Retrouvez sur la carte les différents lieux touristiques que nous vous recomman
 
 Le région regorge également d’un terroir unique avec le foie gras, le magret de canard, la truffe, les noix, les pruneaux, le vin et bien d’autre produits gourmands. Retrouvez toute ces spécialités dans la cuisine de notre [restaurant](boscnegre-vacances.github.io/fr_services/piscine.html).
 
-Pour plus d’informations sur la région, nous vous conseillons de consulter le site de l’office de tourisme du fumélois.
+Pour plus d’informations sur la région, nous vous conseillons de consulter le site de [l’office de tourisme du fumélois](http://www.tourisme-fumel.com/fr/decouvrir/5-visites.html#.VOGfpfmG-So).
