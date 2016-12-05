@@ -1,11 +1,12 @@
 ---
 title: Merci
+route: merci
 metaTitle: Merci de nous avoir contacté
+navTitle: merci
 cover:
-  image: "/uploads/header.png"
+  image: "/uploads/Entr%C3%A9e%20du%20parc.JPG"
   alt: bosc
 layout: AfterContact
-route: merci
 ---
 
 Merci de nous avoir contacté. Nous nous efforçons de vous répondre au plus vite.
