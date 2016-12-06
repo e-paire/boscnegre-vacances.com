@@ -1,6 +1,6 @@
 ---
 title: Gîtes mitoyens 7/9 pers.
-position: 4
+position: 3
 capacityMin: 7
 capacityMax: 9
 priceMin: 300

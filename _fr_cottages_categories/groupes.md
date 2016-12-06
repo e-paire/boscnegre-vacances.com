@@ -1,6 +1,6 @@
 ---
 title: Groupes
-position: 3
+position: 4
 capacityMin: 10
 capacityMax: 80
 priceMin: 1000
