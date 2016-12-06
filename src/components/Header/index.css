@@ -57,23 +57,15 @@
   }
 }
 
-@media (--mq-l) {
-  .photo {
-    height: 600px;
-  }
-}
-
-@media (--mq-xl) {
-  .photo {
-    height: 800px;
-  }
-}
-
 @media (--mq-gt-m) {
   .title {
     margin: 0 50px;
     top: 100px;
     left: 50px;
     font-size: 30px;
+  }
+
+  .photo {
+    height: calc(100vh - 170px);
   }
 }

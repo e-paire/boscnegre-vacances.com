@@ -7,7 +7,7 @@ metaDescription: Vous êtes sportifs ? Alors le Bosc-Nègre est fait pour vous. 
   ballades, tennis ... Explorez la Dordogne en vélo
 navTitle: Sport
 cover:
-  image: "/uploads/velolot.jpg"
+  image: "/_uploads/velolot.jpg"
   alt: randonnée VTT en lot-et-garonne
 layout: Service
 ---

@@ -44,7 +44,7 @@ class GroupsPurposes extends Component {
                         <Icon name={group.icon} />
                       </div>
                       <div className={styles.title}>
-                        {group.title}
+                        {group.navTitle ? group.navTitle : group.title}
                       </div>
                     </div>
                   </Link>

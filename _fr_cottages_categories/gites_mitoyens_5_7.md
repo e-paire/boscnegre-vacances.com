@@ -4,7 +4,7 @@ position: 2
 route: gites-mit-5-7
 navTitle: gîtes individuels 5/7 pers.
 cover:
-  image: "/uploads/gite%203.jpg"
+  image: "/_uploads/gite%203.jpg"
   alt: cottage
 capacityMin: 5
 capacityMax: 7

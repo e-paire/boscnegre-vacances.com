@@ -3,7 +3,7 @@ title: Regio
 date: 2016-12-05 21:44:00 +01:00
 route: nl/omgeving
 cover:
-  image: "/uploads/PHOTO%20PRINCIPALE.JPG"
+  image: "/_uploads/PHOTO%20PRINCIPALE.JPG"
 ---
 
 ## Vakantiepark grenzend aan de Périgord, de Quercy en de Lot

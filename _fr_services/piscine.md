@@ -8,7 +8,7 @@ metaDescription: Amusez-vous dans la piscine chauffé ou dans la pateogoire. Tou
   Dordogne
 navTitle: Piscine
 cover:
-  image: "/uploads/Piscine%20en%20famille.JPG"
+  image: "/_uploads/Piscine%20en%20famille.JPG"
   alt: Piscine chauffée Bosc Nègre
 layout: Service
 ---
