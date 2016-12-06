@@ -1,6 +1,6 @@
 ---
 title: Animations
-position: 1
+position: 2
 cover:
   image: "/_uploads/animations.png"
   alt: animations

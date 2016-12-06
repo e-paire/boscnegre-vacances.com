@@ -1,6 +1,6 @@
 ---
 title: Piscine
-position: 2
+position: 1
 route: activites/piscine
 metaTitle: Toutes les activités au Bosc Nègre
 metaDescription: Amusez-vous dans la piscine chauffé ou dans la pateogoire. Tout est
