@@ -1,5 +1,6 @@
 ---
 title: Gîtes individuels 5/7 pers.
+position: 1
 capacityMin: 5
 capacityMax: 7
 priceMin: 300
