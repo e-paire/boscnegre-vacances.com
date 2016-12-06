@@ -1,5 +1,5 @@
 ---
-title: Gîtes individuels 4/6 pers.
+title: Gîtes individuels pour 4/6 pers.
 position: 0
 route: gites-indiv-4-6
 cover:
