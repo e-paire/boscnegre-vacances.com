@@ -1,5 +1,5 @@
 ---
-title: Gîtes individuels 5/7 pers.
+title: Gîtes individuels pour 5/7 pers.
 position: 1
 route: gites-indiv-5-7
 metaTitle: Gîtes individuels pour 5 à 7 personnes
