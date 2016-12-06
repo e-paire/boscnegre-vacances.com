@@ -1,14 +1,16 @@
 ---
-title: Gîtes mitoyens 7/9 pers.
+title: Gîtes mitoyens pour 7/9 pers.
 position: 3
+route: gites-mit-7-9
+metaTitle: Gîtes mitoyen 7/9 pers.
+metaDescription: 
+navTitle: Gîtes mitoyen 7/9 pers.
+cover:
+  image: "/uploads/gite%207%209%20personnes.jpg"
+  alt: gite 7 9 personnes Bosc Negre
 capacityMin: 7
 capacityMax: 9
-priceMin: 300
-cover:
-  image: "/_uploads/cottage.png"
-  alt: cottage
+priceMin: 700
 layout: CottagesCategory
-route: gites-mit-7-9
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
