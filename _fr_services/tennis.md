@@ -1,7 +1,8 @@
 ---
 title: Sport
 position: 3
-route: tennis
+route: activites/sport
+metaTitle: Des vacances sportives au Hameau du Bosc Nègre
 cover:
   image: "/_uploads/tennis.png"
   alt: tennis
