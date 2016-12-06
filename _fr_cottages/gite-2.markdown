@@ -1,6 +1,8 @@
 ---
 title: Gîte 2
 date: 2016-12-05 13:41:00 +01:00
+categories:
+- Gîtes mitoyen 7/9 pers.
 cover:
   image: "/_uploads/gite%202.jpg"
 beds: 7 couchages + canapé lit
