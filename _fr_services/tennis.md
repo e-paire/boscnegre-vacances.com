@@ -1,6 +1,6 @@
 ---
 title: Tennis
-position: 4
+position: 3
 cover:
   image: "/_uploads/tennis.png"
   alt: tennis
