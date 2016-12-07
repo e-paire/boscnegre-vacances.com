@@ -2,13 +2,13 @@
 title: Animations en vacances
 position: 2
 route: activites/animations
-metaTitle: Toutes les animations au Hameau du Bosc Nègre
+metaTitle: Toutes les animations au Bosc Nègre
 metaDescription: Profitez des animations estivales du Bosc-Nègre pour vous occupez
   pendant vos vacances dans le Sud-Ouest
 navTitle: Animations
 cover:
-  image: "/_uploads/animations.png"
-  alt: animations
+  image: "/uploads/aquagym.jpg"
+  alt: animations au Bosc Negre
 slogan: Des animations et activités pour tous pendant vos vacances
 layout: Service
 ---
