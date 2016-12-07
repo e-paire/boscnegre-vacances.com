@@ -4,7 +4,7 @@ route: merci
 metaTitle: Merci de nous avoir contacté
 navTitle: merci
 cover:
-  image: "/_uploads/Entr%C3%A9e%20du%20parc.JPG"
+  image: "/uploads/Entr%C3%A9e%20du%20parc.JPG"
   alt: bosc
 layout: AfterContact
 ---

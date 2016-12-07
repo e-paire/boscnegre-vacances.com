@@ -3,19 +3,19 @@ title: Séminaires
 position: 1
 route: seminaires
 cover:
-  image: "/_uploads/header.png"
+  image: "/uploads/header.png"
   alt: bosc
 icon: suitcase
 images:
-- image: "/_uploads/header.png"
+- image: "/uploads/header.png"
   alt: Lorem
-- image: "/_uploads/header.png"
+- image: "/uploads/header.png"
   alt: Lorem
-- image: "/_uploads/header.png"
+- image: "/uploads/header.png"
   alt: Lorem
-- image: "/_uploads/header.png"
+- image: "/uploads/header.png"
   alt: Lorem
-- image: "/_uploads/header.png"
+- image: "/uploads/header.png"
   alt: Lorem
 services:
 - description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit  \nLorem
@@ -26,7 +26,7 @@ services:
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
     mollit anim id est laborum."
   cover:
-    image: "/_uploads/header.png"
+    image: "/uploads/header.png"
     alt: Lorem
 - description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit  \nLorem
     ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -36,7 +36,7 @@ services:
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
     mollit anim id est laborum."
   cover:
-    image: "/_uploads/header.png"
+    image: "/uploads/header.png"
     alt: Lorem
 - description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit  \nLorem
     ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -46,12 +46,12 @@ services:
     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
     mollit anim id est laborum."
   cover:
-    image: "/_uploads/header.png"
+    image: "/uploads/header.png"
     alt: Lorem
 prices:
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit
   cover:
-    image: "/_uploads/header.png"
+    image: "/uploads/header.png"
     alt: Lorem
 pricesExamples:
 - description: Lorem ipsum dolor sit amet, consectetur adipisicing elit

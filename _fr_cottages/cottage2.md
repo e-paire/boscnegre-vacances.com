@@ -5,7 +5,7 @@ categories:
 position: 4
 route: gite-10
 cover:
-  image: "/_uploads/cottage.png"
+  image: "/uploads/cottage.png"
   alt: cottage
 layout: Cottage
 ---

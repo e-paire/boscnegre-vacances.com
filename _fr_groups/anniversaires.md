@@ -8,7 +8,7 @@ metaDescription: Le Bosc Nègre vous propose la location d'une salle de récepti
   limitrophe Dordogne
 navTitle: Anniversaires
 cover:
-  image: "/_uploads/header.png"
+  image: "/uploads/header.png"
   alt: bosc
 icon: birthday-cake
 slogan: Soirée d'anniversaire avec salle de réception et gîtes

@@ -6,7 +6,7 @@ categories:
 position: 2
 layout: Cottage
 cover:
-  image: "/_uploads/cottage.png"
+  image: "/uploads/cottage.png"
   alt: cottage
 route: gite-8
 beds: 5 couchages + canapé lit

@@ -115,7 +115,7 @@ export default (config = {}) => {
       }),
       new ExtractTextPlugin("assets/css/[name].[hash].css", {disable: config.dev}),
       new CopyWebpackPlugin([
-        {from: "_uploads", to: "_uploads"},
+        {from: "_uploads", to: "uploads"},
       ]),
       ...config.production && [
         new webpack.optimize.DedupePlugin(),

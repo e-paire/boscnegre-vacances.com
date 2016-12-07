@@ -4,14 +4,14 @@ route: nl
 metaTitle: Vakantiepark Hameau de Bosc Nègre
 navTitle: Bosc Negre
 cover:
-  image: "/_uploads/Entr%C3%A9e%20du%20parc.JPG"
+  image: "/uploads/Entr%C3%A9e%20du%20parc.JPG"
   alt: Hameau de Bosc NEgre
 metaDescription: Vakantiehuisjes op Bosc Nègre met restaurant, verwarmd zwembad en
   tennisbaan. Een kleinschalige vakantiepark tussen Dordogne en Lot voor het gezin
 slogan: 23 vakantie huisjes in de Dordogne
 offers:
   cover:
-    image: "/_uploads/castle.png"
+    image: "/uploads/castle.png"
     alt: castle
   text: Geweldige prijzen en Bosc op vakantie gaan voor de beste prijs-Negro
 layout: Homepage

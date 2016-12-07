@@ -4,7 +4,7 @@ capacityMin: 7
 capacityMax: 9
 priceMin: 300
 cover:
-  image: "/_uploads/cottage.png"
+  image: "/uploads/cottage.png"
   alt: cottage
 layout: CottagesCategory
 route: nl/gites-mit-7-9

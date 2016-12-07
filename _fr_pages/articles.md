@@ -2,7 +2,7 @@
 title: Articles
 layout: Posts
 cover:
-  image: "/_uploads/header.png"
+  image: "/uploads/header.png"
   alt: bosc
 route: articles
 ---

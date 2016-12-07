@@ -5,14 +5,14 @@ categories:
 position: 1
 route: gite-5
 cover:
-  image: "/_uploads/origin-00000417138.jpg"
+  image: "/uploads/origin-00000417138.jpg"
   alt: gite 5 au Bosc Negre
 images:
-- image: "/_uploads/DSC02876.jpg"
+- image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds
-- image: "/_uploads/DSC02876.jpg"
+- image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds
-- image: "/_uploads/DSC02876.jpg"
+- image: "/uploads/DSC02876.jpg"
   alt: sdfsdfds
 layout: Cottage
 ---

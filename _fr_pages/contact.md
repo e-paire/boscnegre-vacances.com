@@ -7,7 +7,7 @@ metaDescription: Vous souhaitez poser une option ou demander un renseignement ? 
 slogan: Pour toute question, contactez le Bosc-Nègre
 navTitle: Contact
 cover:
-  image: "/_uploads/jump%20familie%20(2).png"
+  image: "/uploads/jump%20familie%20(2).png"
   alt: Contacter le Bosc Nègre
 layout: Contact
 ---

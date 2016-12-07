@@ -5,7 +5,7 @@ categories:
 position: 3
 route: gite-9
 cover:
-  image: "/_uploads/origin-00000341984.jpg"
+  image: "/uploads/origin-00000341984.jpg"
   alt: gîte 9 au Bosc Nègre
 beds: 4 couchages + canapé lit
 crush: Le grand espace vert devant le gîte

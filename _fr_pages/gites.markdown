@@ -7,7 +7,7 @@ metaDescription: 'Choissisez le gîte qui vous correspond le mieux pour vous pro
 slogan: Location de gîte dans le Lot-et-Garonne, mitoyen Dordogne. Ouvert toute l'année
 navTitle: Les gîtes
 cover:
-  image: "/_uploads/header.png"
+  image: "/uploads/header.png"
   alt: Les gîtes du Bosc Nègre en Dordogne
 layout: Cottages
 ---

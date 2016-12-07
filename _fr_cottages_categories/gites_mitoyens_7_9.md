@@ -6,7 +6,7 @@ metaTitle: Gîtes mitoyen 7/9 pers.
 metaDescription: 
 navTitle: Gîtes mitoyen 7/9 pers.
 cover:
-  image: "/_uploads/gite%207%209%20personnes.jpg"
+  image: "/uploads/gite%207%209%20personnes.jpg"
   alt: gite 7 9 personnes Bosc Negre
 capacityMin: 7
 capacityMax: 9

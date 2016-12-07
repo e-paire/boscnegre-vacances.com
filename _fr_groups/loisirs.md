@@ -7,7 +7,7 @@ metaDescription: Séjour classe découverte en Lot-Garonne avec hébergement et 
   complète jusqu'à 80 personnes
 navTitle: Scolaire & Centre de Loisirs
 cover:
-  image: "/_uploads/header.png"
+  image: "/uploads/header.png"
   alt: bosc
 icon: child
 slogan: 
