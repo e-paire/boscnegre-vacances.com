@@ -1,5 +1,5 @@
 ---
-title: Evenementen
+title: Sporten op de Bosc Negre
 position: 1
 route: "/nl/activiteiten/sportief"
 metaTitle: Sportieve vakantie in de Dordogne op de Bosc Negre
