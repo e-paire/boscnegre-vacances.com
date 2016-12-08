@@ -11,10 +11,10 @@ import styles from "./index.css"
 
 class Cottages extends Component {
   render() {
-    const {category, intl} = this.props
+    const {category_route, intl} = this.props
     const cottages = enhanceCollection(this.context.collection, {
       filter: (c) => (c.layout === "Cottage"
-        && c.category === category
+        && c.cottages_category_route === category_route
         && getLocale(c.__url) === intl.locale),
       sort: "position",
     })
@@ -38,7 +38,7 @@ Cottages.contextTypes = {
 }
 
 Cottages.propTypes = {
-  category: PropTypes.string.isRequired,
+  category_route: PropTypes.string.isRequired,
   intl: intlShape.isRequired,
 }
 
