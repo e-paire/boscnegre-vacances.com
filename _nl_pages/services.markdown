@@ -1,11 +1,17 @@
 ---
-title: Diensten
+title: Alle activiteiten op de Bosc Negre
+route: "/nl/activiteiten"
 metaTitle: Diensten
+metaDescription: Zomerprogramma vol acctiviteiten voor jong en oud, omgeving verkennen
+  op de fiets of met de auto naar kastelen en bastides.
+slogan: 
+navTitle: Activiteiten
 cover:
   image: "/uploads/services.png"
   alt: services
 layout: Services
-route: nl/diensten
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wij doen er alles aan om u het naar de zin te maken!
+
+Daarom bieden we u een ruime keuze aan activiteiten. U en uw kinderen hoeven zich bij ons geen moment te vervelen. Het is uw vakantie; niks moet, maar het is wel fijn dat alles kan! De activiteiten op ons vakantiepark dragen bij aan een unieke beleving van uw vakantie.
