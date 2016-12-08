@@ -2,7 +2,7 @@
 title: Gite 5
 categories:
 - gites-indiv-4-6
-position: 1
+position: 2
 route: gite-5
 cover:
   image: "/uploads/origin-00000417138.jpg"
