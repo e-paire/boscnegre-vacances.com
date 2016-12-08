@@ -1,9 +1,9 @@
 ---
-title: Gite 5
+title: Gîte de la forêt
 categories:
 - gites-indiv-4-6
 position: 2
-route: gite-5
+route: gite-de-la-foret
 cover:
   image: "/uploads/origin-00000417138.jpg"
   alt: gite 5 au Bosc Negre
