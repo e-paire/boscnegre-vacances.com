@@ -3,11 +3,11 @@ title: Omgeving
 date: 2016-12-05 21:44:00 +01:00
 route: nl/omgeving
 metaTitle: 'Vakantiepark Bosc Negre grenzend aan de Périgord, de Quercy en de Lot  '
+metaDescription: De regio rond Bosc Nègre nodigt u uit om haar unieke prehistorische-,
+  historische- en gastronomische erfgoed te komen ontdekken
 navTitle: Omgeving
 cover:
   image: "/uploads/PHOTO%20PRINCIPALE.JPG"
-metaDescription: De regio rond Bosc Nègre nodigt u uit om haar unieke prehistorische-,
-  historische- en gastronomische erfgoed te komen ontdekken
 layout: Region
 ---
 
