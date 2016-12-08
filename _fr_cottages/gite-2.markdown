@@ -1,9 +1,10 @@
 ---
-title: Gîte 2
+title: Gîtes de la ferme 7/9 personnes
 date: 2016-12-05 13:41:00 +01:00
 categories:
 - Gîtes mitoyen 7/9 pers.
 position: 0
+route: grand-gite-de-la-ferme
 cover:
   image: "/uploads/gite%202.jpg"
 beds: 7 couchages + canapé lit
