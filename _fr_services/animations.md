@@ -12,13 +12,13 @@ metaDescription: Profitez des animations estivales du Bosc-Nègre pour vous occu
 slogan: Des animations et activités pour tous pendant vos vacances
 images:
 - image: "/uploads/aquagym-67b954.jpg"
-  alt: 
+  alt: aquagym
 - image: "/uploads/tournois-six-epreuves-2-cceb9c.jpg"
-  alt: 
+  alt: activités au bosc negre
 - image: "/uploads/volley-ball.jpg"
-  alt: 
+  alt: volley-ball au bosc negre
 - image: "/uploads/tournois-six-epreuves.jpg"
-  alt: 
+  alt: activités au Bosc Negre
 layout: Service
 ---
 
