@@ -10,6 +10,15 @@ cover:
 metaDescription: Profitez des animations estivales du Bosc-Nègre pour vous occupez
   pendant vos vacances dans le Sud-Ouest
 slogan: Des animations et activités pour tous pendant vos vacances
+images:
+- image: "/uploads/aquagym-67b954.jpg"
+  alt: 
+- image: "/uploads/tournois-six-epreuves-2-cceb9c.jpg"
+  alt: 
+- image: "/uploads/volley-ball.jpg"
+  alt: 
+- image: "/uploads/tournois-six-epreuves.jpg"
+  alt: 
 layout: Service
 ---
 
