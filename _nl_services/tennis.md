@@ -3,13 +3,13 @@ title: Vakantiepark met animatie dordogne
 position: 4
 route: "/nl/activiteiten/animatie"
 metaTitle: Activiteiten op vakantiepark in Dordogne Bosc Negre
-metaDescription: 'Tijdens de zomervakantie activiteiten programma op vakantiepark
-  Bosc Nègre  voor jong en oud. '
 navTitle: Activiteiten
-slogan: Vakantiepark met animatie dordogne
 cover:
   image: "/uploads/tennis.png"
   alt: tennis
+metaDescription: 'Tijdens de zomervakantie activiteiten programma op vakantiepark
+  Bosc Nègre  voor jong en oud. '
+slogan: Vakantiepark met animatie dordogne
 layout: Service
 ---
 
