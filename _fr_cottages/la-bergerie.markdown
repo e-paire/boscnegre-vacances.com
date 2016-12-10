@@ -1,11 +1,11 @@
 ---
 title: La bergerie
 date: 2016-12-08 13:43:00 +01:00
+position: 3
 route: bergerie
 cover:
   image: "/uploads/gites_de_la_bergerie.jpg"
   alt: gites_bergerie_bosc_negre
-position: 3
 cottages_category_route: gite-5
 beds: 5 couchages + canapé lit
 crush: La verdure devant le gîte

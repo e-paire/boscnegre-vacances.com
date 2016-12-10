@@ -1,7 +1,7 @@
 ---
 title: Gîtes de la ferme 7/9 personnes
 date: 2016-12-05 13:41:00 +01:00
-position: 0
+position: 4
 cottages_category_route: Gîtes mitoyen 7/9 pers.
 route: grand-gite-de-la-ferme
 cover:

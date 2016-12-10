@@ -1,6 +1,6 @@
 ---
 title: Gîte de la forêt
-position: 2
+position: 5
 cottages_category_route: gites-indiv-4-6
 route: gite-de-la-foret
 cover:

@@ -1,6 +1,7 @@
 ---
 title: Gîte de la ferme 5
 date: 2016-12-10 17:16:00 +01:00
+position: 1
 route: gite-5
 metaTitle: Le gîte 5 (PMR)
 cover:
