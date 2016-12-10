@@ -9,8 +9,20 @@ cover:
 layout: LegalNotices
 ---
 
-Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUVERT.
+Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUTVERT.
 
-SARL Hautvert, montant du capital social 90400€, est enregistré au registre du commerce et des sociétés (RCS) avec le numéro d'inscription 430331058, TVA intracommunautaire numéro FR10 43033105800015. La société est basé au bois de las putas 47150 à Lacapelle-Biron et joignable au 05.53.40.99.27 ou par mail boscnegre@gmail.com Le gérant de la société est monsieur Alfred Hoogenberg.
+* SARL Hautvert capital social 90400€
 
+* registre du commerce et des sociétés (RCS) 430331058 
 
+* TVA intracommunautaire numéro FR10 43033105800015
+
+* Siège social : Bosc Nègre bois de las putas 47150 à Lacapelle-Biron
+
+* Téléphone : 05.53.40.99.27
+
+* Mail : boscnegre@gmail.com
+
+Gérant de la société : monsieur Alfred Hoogenberg
+
+Le nom de domaine est hébergé chez OVH
