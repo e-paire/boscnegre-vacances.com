@@ -4,8 +4,8 @@ route: mentions-legales
 metaTitle: Mentions légales
 navTitle: Mentions légales
 cover:
-  image: "/uploads/header.png"
-  alt: bosc
+  image: "/uploads/Entr%C3%A9e%20du%20parc.JPG"
+  alt: bosc-engre
 layout: LegalNotices
 ---
 
