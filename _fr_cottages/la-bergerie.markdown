@@ -6,7 +6,7 @@ route: bergerie
 cover:
   image: "/uploads/gites_de_la_bergerie.jpg"
   alt: gites_bergerie_bosc_negre
-cottages_category_route: gite-5
+cottages_category_route: gites-mitoyen-5-7
 beds: 5 couchages + canapé lit
 crush: La verdure devant le gîte
 ---
