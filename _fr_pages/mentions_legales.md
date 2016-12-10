@@ -11,7 +11,7 @@ layout: LegalNotices
 
 Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUTVERT.
 
-* SARL Hautvert capital social 90400€
+* SARL HAUTVERT capital social 90400€
 
 * Registre du commerce et des sociétés (RCS) : 430331058 
 
@@ -28,3 +28,5 @@ Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUTVERT.
 Gérant de la société : monsieur Alfred Hoogenberg
 
 Le nom de domaine est hébergé chez OVH
+
+Crédits Photos : propriété de SARL HAUTVERT
