@@ -13,9 +13,11 @@ Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUTVERT.
 
 * SARL Hautvert capital social 90400€
 
-* registre du commerce et des sociétés (RCS) 430331058 
+* Registre du commerce et des sociétés (RCS) : 430331058 
 
-* TVA intracommunautaire numéro FR10 43033105800015
+* TVA intracommunautaire numéro FR10 : 43033105800015
+
+* Numéro de déclaration simplifiée Cnil : 1567012v0
 
 * Siège social : Bosc Nègre bois de las putas 47150 à Lacapelle-Biron
 
