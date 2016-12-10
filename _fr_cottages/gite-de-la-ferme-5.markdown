@@ -1,9 +1,8 @@
 ---
-title: Gîte de la ferme 5
+title: Gîte de la ferme 5 (PMR)
 date: 2016-12-10 17:16:00 +01:00
-position: 1
+position: 2
 route: gite-5
-metaTitle: Le gîte 5 (PMR)
 cover:
   image: "/uploads/origin-00000417138.jpg"
 cottages_category_route: gites-mitoyen-5-7
