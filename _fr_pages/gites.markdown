@@ -4,7 +4,7 @@ route: "/tous-les-gites"
 metaTitle: Tous les gîtes de charme au Hameau du Bosc Nègre
 navTitle: Les gîtes
 cover:
-  image: "/uploads/verdure_gite_Bosc_Negre.JPG"
+  image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
   alt: Les gîtes du Bosc Nègre en Dordogne
 metaDescription: 'Choissisez le gîte qui vous correspond le mieux pour vous prochaines
   vacances avec votre famille, vos amis ou bien entre votre club de sport. '
