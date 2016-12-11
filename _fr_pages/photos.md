@@ -1,9 +1,11 @@
 ---
-title: Photos
-layout: Photos
+title: Galerie photos du Bosc Negre
+route: photos
+metaTitle: La galerie photos du Bosc Nègre
+navTitle: Photos
 cover:
-  image: "/uploads/header.png"
-  alt: bosc
+  image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
+  alt: Galerie photos du Bosc Negre
 gallery:
 - title: La piscine
   images:
@@ -51,7 +53,6 @@ gallery:
     alt: castle
   - image: "/uploads/castle.png"
     alt: castle
-route: photos
+layout: Photos
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
