@@ -3,13 +3,13 @@ title: Sporten op de Bosc Negre
 position: 1
 route: "/nl/activiteiten/sportief"
 metaTitle: Sportieve vakantie in de Dordogne op de Bosc Negre
+navTitle: Sport
+cover:
+  image: "/uploads/Tennis.JPG"
+  alt: vacances sportives au bosc negre
 metaDescription: ATB fietsen, wandelen, golven, paardrijden, tennissen, bergbeklimmen,
   kanoën, boomtop klimmen, talrijke sportieve mogelijkheden in de bossen rond Bosc
   Nègre
-navTitle: Sport
-cover:
-  image: "/uploads/animations.png"
-  alt: animations
 layout: Service
 ---
 
