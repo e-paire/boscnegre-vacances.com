@@ -4,7 +4,7 @@ route: "/"
 metaTitle: Village de vacances le Hameau du Bosc Nègre
 navTitle: Accueil
 cover:
-  image: "/uploads/Entr%C3%A9e%20du%20parc.JPG"
+  image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Village de vacances du Bosc Nègère
 metaDescription: Bienvenue au village de vacances le Bosc Nègre à côté de la Dordogne.
   Profitez d'installations gratuites et de gîtes tout confort dans une des plus belles
