@@ -5,7 +5,8 @@ route: nl/omgeving
 metaTitle: 'Vakantiepark Bosc Negre grenzend aan de Périgord, de Quercy en de Lot  '
 navTitle: Omgeving
 cover:
-  image: "/uploads/PHOTO%20PRINCIPALE.JPG"
+  image: "/uploads/chateau_biron_proche_bosc_negre.jpg"
+  alt: Bezienswaardigheden in Dordogne
 metaDescription: De regio rond Bosc Nègre nodigt u uit om haar unieke prehistorische-,
   historische- en gastronomische erfgoed te komen ontdekken
 layout: Region
