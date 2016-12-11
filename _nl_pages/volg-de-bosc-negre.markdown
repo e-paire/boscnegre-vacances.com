@@ -1,0 +1,10 @@
+---
+title: Volg de Bosc Negre
+date: 2016-12-11 09:59:00 +01:00
+route: "/nl/news"
+cover:
+  image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
+  alt: Bosc Negre
+layout: Posts
+---
+
