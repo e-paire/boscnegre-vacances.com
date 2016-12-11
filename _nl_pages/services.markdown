@@ -1,14 +1,14 @@
 ---
 title: Alle activiteiten op de Bosc Negre
 route: "/nl/activiteiten"
-metaTitle: Diensten
-metaDescription: Zomerprogramma vol acctiviteiten voor jong en oud, omgeving verkennen
-  op de fiets of met de auto naar kastelen en bastides.
-slogan: 
+metaTitle: Gezellige activiteiten op de Bosc Negre
 navTitle: Activiteiten
 cover:
-  image: "/uploads/services.png"
-  alt: services
+  image: "/uploads/atelier_cookies.JPG"
+  alt: Activiteiten voor iedereen op de Bosc Negre
+metaDescription: Zomerprogramma vol activiteiten voor jong en oud, omgeving verkennen
+  op de fiets of met de auto naar kastelen en bastides.
+slogan: 
 layout: Services
 ---
 
