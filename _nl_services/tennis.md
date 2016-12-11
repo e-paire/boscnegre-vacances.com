@@ -5,8 +5,8 @@ route: "/nl/activiteiten/animatie"
 metaTitle: Activiteiten op vakantiepark in Dordogne Bosc Negre
 navTitle: Activiteiten
 cover:
-  image: "/uploads/tennis.png"
-  alt: tennis
+  image: "/uploads/atelier_cookies.JPG"
+  alt: atelier cookies au Bosc Negre pendant les animations en été
 metaDescription: 'Tijdens de zomervakantie activiteiten programma op vakantiepark
   Bosc Nègre  voor jong en oud. '
 slogan: Vakantiepark met animatie dordogne
