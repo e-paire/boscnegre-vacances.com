@@ -1,11 +1,23 @@
 ---
-title: All cottages
-metaTitle: Our cottages
+title: Alle vakantiehuisjes van de Bosc Negre
+route: nl/vakantiehuis
+metaTitle: Al onze vakantiehuisjes
+navTitle: Vakantiehuisjes
 cover:
-  image: "/uploads/header.png"
-  alt: bosc
+  image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
+  alt: familie vakantiepark in Dordogne
 layout: Cottages
-route: nl/cottages
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Heerlijk geniet in een gite in Dordogne
+
+Op vakantiepark Bosc Nègre ervaart u het heerlijke gevoel van vrijheid en echte vakantie.
+
+De kleinschalige opzet van het vakantiepark garandeert u veel privacy. De royale opzet van de vakantiebungalows en de gevarieerde indeling van het park geven u in combinatie met de rustige ligging een echte vakantiebeleving.
+In en bij uw huisje kunt u puur genieten van de stilte, natuur en vrijheid.
+
+## Volledig ingericht gite
+
+De vakantiehuisjes zijn allemaal verschillend van ligging en bieden verschillende vormen van comfort. Ze hebben allemaal een kleine keuken met alle voorzieningen om te koken: koelkast, kookplaten en pannen. Wij bieden ook
+
+Wij bieden de mogelijkheid om te komen eten in het restaurant of iets af te halen. Lekker voor je laten koken, dat willen we toch allemaal? Op vakantie op Bosc Nègre zal iedereen genieten..
