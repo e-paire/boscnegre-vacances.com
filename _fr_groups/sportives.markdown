@@ -7,7 +7,7 @@ navTitle: Groupe Sportif
 cover:
   image: "/uploads/club_VTT_Belves_au_Bosc_Negre.jpg"
   alt: Groupe de VTT en vacances au Bosc Negre
-position: 1
+position: 2
 icon: users
 slogan: Un hébergement détente et sportif en Lot-et-Garonne
 metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre club sportif
