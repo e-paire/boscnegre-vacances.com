@@ -28,7 +28,7 @@ Depuis le Bosc Nègre, vous pouvez profiter de nombreux sentiers à travers les 
 
 ## Les randonnées du Périgord Noir
 
-Pour les cyclotouristes ou vététistes, nous mettons à votre disposition la [cartographie des différents circuits de VTT en Dordogne](http://hameauboscnegre.blogspot.fr/p/nous-proposons-de-traverser-notre-pays.html). Une fois rentrée de votre balade, vous pouvez bénéficier des équipements mis à votre disposition pour nettoyer les vélos ou les vêtements de randonnées.
+Pour les cyclotouristes ou vététiste, nous mettons à votre disposition la [cartographie des différents circuits de VTT en Dordogne](http://hameauboscnegre.blogspot.fr/p/nous-proposons-de-traverser-notre-pays.html). Une fois rentrée de votre balade, vous pouvez bénéficier des équipements mis à votre disposition pour nettoyer les vélos ou les vêtements de randonnées.
 
 ## La formule pension-complète
 
