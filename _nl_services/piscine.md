@@ -8,8 +8,17 @@ metaDescription: Vakantiepark met restaurant en zwembad in de Dordogne. Wij ontv
   verblijf.
 navTitle: Verwarmd  zwembad
 cover:
-  image: "/uploads/Piscine%20en%20famille.JPG"
+  image: "/uploads/piscine_famille_Bosc_Negrejpg"
   alt: verwarmd zwembad in de Dordogne
+images:
+- image: "/uploads/piscine_bosc_nege_2.JPG"
+  alt: Het zwembad van de Bosc Negre
+- image: "/uploads/piscine_soir.JPG"
+  alt: Zwembad s 'avonds op de Bosc Negre
+- image: "/uploads/piscine_famille_Bosc_Negrejpg"
+  alt: Spelen bij het zwembad van de Bosc Negre
+- image: "/uploads/piscine_bosc_negre.JPG"
+  alt: het zwembad op de Bosc Negre
 layout: Service
 ---
 
