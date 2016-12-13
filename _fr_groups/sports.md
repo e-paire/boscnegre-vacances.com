@@ -2,15 +2,15 @@
 title: Des vacances en famille
 position: 5
 route: groupes/familiales
-slogan: Un week-end en famille avec pension complète
 metaTitle: Réunion de familles au Hameau de Bosc Nègre
-metaDescription: Vous êtes à la recherche d'un lieu de vacances pour une réunion familiale
-  en pleine nature ? Profitez de toutes nos installations pour un week-end réussi
 navTitle: Famille
 cover:
-  image: "/uploads/header.png"
-  alt: bosc
+  image: "/uploads/soiree_familiale_Bosc_Negre.jpg"
+  alt: Séjour en famille au Bosc Negre
 icon: bicycle
+slogan: Un week-end en famille avec pension complète
+metaDescription: Vous êtes à la recherche d'un lieu de vacances pour une réunion familiale
+  en pleine nature ? Profitez de toutes nos installations pour un week-end réussi
 images:
 - image: 
   alt: 
