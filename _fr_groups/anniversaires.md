@@ -1,17 +1,26 @@
 ---
 title: Location de salle d'anniversaire
-position: 2
+position: 1
 route: groupes/anniversaires
 metaTitle: Location de salle d'anniversaire au Bosc Nègre
+navTitle: Anniversaires
+cover:
+  image: "/uploads/Tables_dressess_repas_de_fete_bosc_negre.jpg"
+  alt: table dressée pour repas d'anniversaire au Bosc Negre
+icon: birthday-cake
 metaDescription: Le Bosc Nègre vous propose la location d'une salle de réception pour
   organiser votre anniversaire. Hébergement et restauration sur place en Lot-et-Garonne,
   limitrophe Dordogne
-navTitle: Anniversaires
-cover:
-  image: "/uploads/header.png"
-  alt: bosc
-icon: birthday-cake
 slogan: Soirée d'anniversaire avec salle de réception et gîtes
+images:
+- image: "/uploads/salle_de_fete_bosc_negre.jpg"
+  alt: salle de fete au Bosc Negre
+- image: "/uploads/soiree_anime_anniversaire_Bosc_Negre.jpg"
+  alt: Soiréee animé pour un anniversaire au Bosc Negre
+- image: "/uploads/Tables_dressess_repas_de_fete_bosc_negre.jpg"
+  alt: Table dressée pour repas d'anniversaire au Bosc Negre
+- image: "/uploads/table_reception_Bosc_Negre-5fa5c6.JPG"
+  alt: Salle de réception au Bosc Negre
 layout: Group
 ---
 
