@@ -5,11 +5,16 @@ route: nl/restaurant
 metaTitle: Vakantiepark in Dordogne met restaurant op Bosc Negre
 navTitle: Restaurant
 cover:
-  image: "/uploads/restaurant.png"
+  image: "/uploads/Bar_Bosc_Negre.JPG"
   alt: restaurant
 slogan: 
 metaDescription: In het Restaurant op Bosc Nègre serveren wij u de hele dag, een espresso,
   een lunch, of maaltijden uit de streek, het is altijd genieten
+images:
+- image: "/uploads/repas_de_groupe_ete.JPG"
+  alt: samelijke maaltijd op de Bosc Negre
+- image: "/uploads/Bar_Bosc_Negre.JPG"
+  alt: Bar restaurant van de Bosc Negre
 layout: Service
 ---
 
