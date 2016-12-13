@@ -5,20 +5,24 @@ route: activites/animations
 metaTitle: Toutes les animations au Bosc Nègre
 navTitle: Animations
 cover:
-  image: "/uploads/aquagym.jpg"
+  image: "/uploads/Waterpolo_enfant.JPG"
   alt: animations au Bosc Negre
 metaDescription: Profitez des animations estivales du Bosc-Nègre pour vous occupez
   pendant vos vacances dans le Sud-Ouest
 slogan: Des animations et activités pour tous pendant vos vacances
 images:
-- image: "/uploads/aquagym-67b954.jpg"
-  alt: aquagym
-- image: "/uploads/tournois-six-epreuves-2-cceb9c.jpg"
-  alt: activités au bosc negre
-- image: "/uploads/volley-ball.jpg"
-  alt: volley-ball au bosc negre
+- image: "/uploads/Waterpoloe_Bosc_Negre.JPG"
+  alt: waterpolo pour adultes au Bosc Negre
+- image: "/uploads/60_secondes_chrono_Bosc_Negre.JPG"
+  alt: 60 secondes chrono au Bosc Negre
+- image: "/uploads/football_Bosc_NEgre%202.JPG"
+  alt: tournoi de football au Bosc Negre
+- image: "/uploads/Waterpolo_enfant.JPG"
+  alt: waterpolo pour enfants au Bosc Negre
+- image: "/uploads/yurgen%20et%20florette.JPG"
+  alt: spectacle du magicien Yurgen au Bosc Negre
 - image: "/uploads/tournois-six-epreuves.jpg"
-  alt: activités au Bosc Negre
+  alt: Tournois des six épreuves au Bosc Negre
 layout: Service
 ---
 
