@@ -5,11 +5,24 @@ route: "/nl/activiteiten/animatie"
 metaTitle: Activiteiten op vakantiepark in Dordogne Bosc Negre
 navTitle: Activiteiten
 cover:
-  image: "/uploads/atelier_cookies.JPG"
-  alt: atelier cookies au Bosc Negre pendant les animations en été
+  image: "/uploads/Waterpolo_enfant.JPG"
+  alt: kinderanimatie op de Bosc Negre
 metaDescription: 'Tijdens de zomervakantie activiteiten programma op vakantiepark
   Bosc Nègre  voor jong en oud. '
 slogan: Vakantiepark met animatie dordogne
+images:
+- image: "/uploads/Waterpoloe_Bosc_Negre.JPG"
+  alt: Waterpolo voor volwassenen op de Bosc Negre
+- image: "/uploads/60_secondes_chrono_Bosc_Negre.JPG"
+  alt: 60 seconden spel op de Bosc Negre
+- image: "/uploads/football_Bosc_NEgre%202.JPG"
+  alt: Footballen op de Bosc Negre
+- image: "/uploads/Waterpolo_enfant.JPG"
+  alt: Waterpolo voor kinderen
+- image: "/uploads/yurgen%20et%20florette.JPG"
+  alt: Optreden van goochelaar Yurgen op de Bosc Negre
+- image: "/uploads/tournois-six-epreuves.jpg"
+  alt: 6 kamp tournoi op de Bosc Negre
 layout: Service
 ---
 
