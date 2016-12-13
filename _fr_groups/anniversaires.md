@@ -17,6 +17,8 @@ images:
   alt: salle de fete au Bosc Negre
 - image: "/uploads/soiree_anime_anniversaire_Bosc_Negre.jpg"
   alt: Soiréee animé pour un anniversaire au Bosc Negre
+- image: "/uploads/petit_dejeuner_Bosc_Negre.JPG"
+  alt: Petit dejeuner apres soirée d'anniversaire au Bosc Negre
 - image: "/uploads/Tables_dressess_repas_de_fete_bosc_negre.jpg"
   alt: Table dressée pour repas d'anniversaire au Bosc Negre
 - image: "/uploads/table_reception_Bosc_Negre-5fa5c6.JPG"
