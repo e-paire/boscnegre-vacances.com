@@ -1,8 +1,23 @@
 ---
 title: Hébergements pour clubs sportifs au Bosc Nègre
 date: 2016-12-05 21:34:00 +01:00
-route: sport-2
+route: "/groupes/vacances-sportives"
+slogan: Un hébergement détente et sportif en Lot-et-Garonne
+metaTitle: Hébergement pour clubs sportifs au Hameau de Bosc Nègre
+metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre club sportif
+  ? Consultez nos offres pour clubs sportifs et les ballades découvertes de la région
+  Dordogne et Lot-et-Garonne
+navTitle: Groupe Sportif
+cover:
+  image: "/uploads/club_VTT_Belves_au_Bosc_Negre.jpg"
+  alt: Groupe de VTT en vacances au Bosc Negre
+position: 1
 icon: users
+images:
+- image: "/uploads/Group_randonneurs_au_Bosc_Negre.jpg"
+  alt: Club de randonneurs en vacances au Bosc Negre
+- image: "/uploads/club_VTT_Belves_au_Bosc_Negre.jpg"
+  alt: Groupe de VTT en vacances au Bosc Negre
 ---
 
 ## Le rendez-vous des sportifs
