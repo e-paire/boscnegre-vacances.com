@@ -40,12 +40,13 @@ coordinates:
 layout: Region
 ---
 
-##Vos vacances en gîte à la croisée des 3 départements exceptionnels : Lot-et-Garonne, Dordogne et Lot.##\
+## Vos vacances en gîte à la croisée des 3 départements exceptionnels : Lot-et-Garonne, Dordogne et Lot.
+
 Depuis le Village de vacances du Bosc Nègre, vous pouvez partir à la découverte du Lot-et-Garonne et la Dordogne et admirer toutes les richesses de la région. C’est un véritable lieu de ressourcement : on y retrouve le bonheur d'être soi, à la rencontre avec les autres et dans la beauté du monde : émotion, curiosité, sourire, détente... Véritable Pays des merveilles, on y revient souvent, on y reste parfois, mais jamais on ne l'oublie!
 
 Retrouvez sur la carte les différents lieux touristiques que nous vous recommandons pour vos vacances à Monflanquin. Ci-dessous le point sur quelques lieux.
 
-##Les visites à faire en Lot-et-Garonne et Dordogne :##
+## Les visites à faire en Lot-et-Garonne et Dordogne :
 
 * Villages classés plus beaux villages de France comme Monflanquin, Belvès et Monpazier. Il s’agit là de bastide historique avec un centre de village animé et chaleureux
 
