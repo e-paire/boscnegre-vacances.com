@@ -7,7 +7,7 @@ navTitle: Famille
 cover:
   image: "/uploads/soiree_familiale_Bosc_Negre.jpg"
   alt: Séjour en famille au Bosc Negre
-icon: bicycle
+icon: child
 slogan: Un week-end en famille avec pension complète
 metaDescription: Vous êtes à la recherche d'un lieu de vacances pour une réunion familiale
   en pleine nature ? Profitez de toutes nos installations pour un week-end réussi
