@@ -5,10 +5,19 @@ route: activites/sport
 metaTitle: Des vacances sportives au Hameau du Bosc Nègre
 navTitle: Sport
 cover:
-  image: "/uploads/velolot.jpg"
+  image: "/uploads/location_vtt_Bosc_Negre.jpg"
   alt: randonnée VTT en lot-et-garonne
 metaDescription: Vous êtes sportifs ? Alors le Bosc-Nègre est fait pour vous. VTT,
   ballades, tennis ... Explorez la Dordogne en vélo
+images:
+- image: "/uploads/court_de_tennis_Bosc_Negre.jpg"
+  alt: Court de tennis au Bosc Negre
+- image: "/uploads/location_vtt_Bosc_Negre.jpg"
+  alt: location VTT au Bosc Negre
+- image: "/uploads/Tennis_Bosc_Negre_2.JPG"
+  alt: Tennis au Bosc Negre
+- image: "/uploads/vtt-en-dordogne.jpg"
+  alt: VTT en Dordogne depuis le Bosc Negre
 layout: Service
 ---
 
