@@ -7,6 +7,7 @@ navTitle: Contact
 cover:
   image: "/uploads/Alfred_et_coby_Bosc_NEgre.jpg"
   alt: Neem contact op met de Bosc Negre
+layout: Contact
 ---
 
 **Wilt u informatie? **Bel Coby \+33 6 70 54 70 39\
