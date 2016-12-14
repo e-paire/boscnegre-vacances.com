@@ -15,6 +15,7 @@ coordinates:
   longitude: 0.873799
   description: "**Vakantiepark Bosc Negre**  \nBois de las putas  \n47150 Lacapelle-Biron
     \ \nLat : 44.597091  \nLong : 0.873799"
+  color: orange
 layout: Region
 ---
 
