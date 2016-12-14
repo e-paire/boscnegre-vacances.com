@@ -9,6 +9,12 @@ cover:
   alt: Bezienswaardigheden in Dordogne
 metaDescription: De regio rond Bosc Nègre nodigt u uit om haar unieke prehistorische-,
   historische- en gastronomische erfgoed te komen ontdekken
+coordinates:
+- title: Bosc Negre
+  latitude: 44.597091
+  longitude: 0.873799
+  description: "**Vakantiepark Bosc Negre**  \nBois de las putas  \n47150 Lacapelle-Biron
+    \ \nLat : 44.597091  \nLong : 0.873799"
 layout: Region
 ---
 
