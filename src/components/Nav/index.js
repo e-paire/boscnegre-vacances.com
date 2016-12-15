@@ -27,6 +27,8 @@ class Nav extends Component {
       filter: (page) => customFilter(page, intl.locale, "CottagesCategory"),
     })
 
+    console.log(cottagesCategories)
+
     const servicesPage = enhanceCollection(collection, {
       filter: (page) => customFilter(page, intl.locale, "Services"),
     }).shift()

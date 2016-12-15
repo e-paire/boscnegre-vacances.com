@@ -90,7 +90,10 @@
     text-decoration: none;
     line-height: 30px;
     position: relative;
-    white-space: nowrap;
+  }
+
+  .list > .item > .link {
+    height: 40px;
     overflow: hidden;
   }
 
@@ -132,8 +135,6 @@
   .link {
     color: #000;
     width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 
   .link:hover,
