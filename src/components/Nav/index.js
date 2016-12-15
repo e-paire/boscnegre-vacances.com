@@ -4,7 +4,7 @@ import enhanceCollection from "phenomic/lib/enhance-collection"
 import {IndexLink, Link} from "react-router"
 import classNames from "classnames"
 
-import {getLocale} from "utils/intl"
+import {customFilter} from "utils/collection"
 
 import Content from "components/Content"
 
@@ -16,47 +16,47 @@ class Nav extends Component {
     const {intl} = this.props
 
     const homePage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Homepage"),
     }).shift()
 
     const cottagesPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Cottages" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Cottages"),
     }).shift()
 
     const cottagesCategories = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "CottagesCategory" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "CottagesCategory"),
     })
 
     const servicesPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Services" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Services"),
     }).shift()
 
     const services = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Service" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Service"),
     })
 
     const photosPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Photos" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Photos"),
     }).shift()
 
     const regionPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Region" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Region"),
     }).shift()
 
     const groupsPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Groups" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Groups"),
     }).shift()
 
     const groups = enhanceCollection(collection, {
-      filter: (c) => ((c.layout === "Group" || c.layout === "Seminar") && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, ["Group", "Seminar"])
     })
 
     const newsPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Posts" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Posts"),
     }).shift()
 
     const contactPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Contact" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Contact"),
     }).shift()
 
     return (

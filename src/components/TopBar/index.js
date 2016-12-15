@@ -3,7 +3,7 @@ import {Link} from "react-router"
 import {Icon} from "react-fa"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
-import {getLocale} from "utils/intl"
+import {customFilter} from "utils/collection"
 import Content from "components/Content"
 import FlagFr from "components/FlagFr"
 import FlagNl from "components/FlagNl"
@@ -26,11 +26,11 @@ class TopBar extends Component {
     const {slogan} = this.props
 
     const homePageFr = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === "fr"),
+      filter: (page) => customFilter(page, "fr", "Homepage"),
     }).shift()
 
     const homePageNl = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === "nl"),
+      filter: (page) => customFilter(page, "nl", "Homepage"),
     }).shift()
 
     return (

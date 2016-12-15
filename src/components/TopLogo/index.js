@@ -3,7 +3,7 @@ import {injectIntl, intlShape} from "react-intl"
 import {Link} from "react-router"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
-import {getLocale} from "utils/intl"
+import {customFilter} from "utils/collection"
 import Logo from "components/Logo"
 
 import styles from "./index.css"
@@ -14,7 +14,7 @@ class TopLogo extends Component {
     const {intl} = this.props
 
     const homePage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Homepage"),
     }).shift()
 
     return (

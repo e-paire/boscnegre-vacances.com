@@ -4,7 +4,7 @@ import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import {Icon} from "react-fa"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
-import {getLocale} from "utils/intl"
+import {customFilter} from "utils/collection"
 import AncvLogo from "components/AncvLogo"
 import Logo from "components/Logo"
 import Content from "components/Content"
@@ -22,11 +22,11 @@ class Footer extends Component {
     const {intl} = this.props
 
     const contactPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Contact" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Contact"),
     }).shift()
 
     const legalNoticesPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "LegalNotices" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "LegalNotices"),
     }).shift()
 
     return (

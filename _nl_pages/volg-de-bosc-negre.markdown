@@ -8,5 +8,5 @@ cover:
   alt: Bosc Negre
 is visible: 
 layout: Posts
+is_visible: false
 ---
-

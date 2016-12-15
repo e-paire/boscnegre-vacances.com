@@ -3,7 +3,7 @@ import {Link} from "react-router"
 import {injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
-import {getLocale} from "utils/intl"
+import {customFilter} from "utils/collection"
 import Content from "components/Content"
 
 import styles from "./index.css"
@@ -29,7 +29,7 @@ class Breadcrumb extends Component {
     const {head, intl, items} = this.props
 
     const homePage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "Homepage" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "Homepage"),
     }).shift()
 
     return (
@@ -48,7 +48,7 @@ class Breadcrumb extends Component {
               }
               else if (item.layout) {
                 const page = enhanceCollection(collection, {
-                  filter: (c) => (c.layout === item.layout && getLocale(c.__url) === intl.locale),
+                  filter: (page) => customFilter(page, intl.locale, item.layout),
                 }).shift()
 
                 if (page) {

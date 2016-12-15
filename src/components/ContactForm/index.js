@@ -2,7 +2,7 @@ import React, {Component, PropTypes} from "react"
 import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
-import {getLocale} from "utils/intl"
+import {customFilter} from "utils/collection"
 import Title from "components/Title"
 
 import styles from "./index.css"
@@ -12,7 +12,7 @@ class Contact extends Component {
     const {collection} = this.context
     const {intl} = this.props
     const afterContactPage = enhanceCollection(collection, {
-      filter: (c) => (c.layout === "AfterContact" && getLocale(c.__url) === intl.locale),
+      filter: (page) => customFilter(page, intl.locale, "AfterContact"),
     }).shift()
 
     return (
