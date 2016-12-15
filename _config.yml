@@ -49,14 +49,14 @@ defaults:
     layout: Cottage
     route: gite-1
     title: Gite 1
-    metaTitle: Gite 1
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     position: 1
     cottages_category_route: gites-indiv-4-6
     beds: 5 couchages + canapé lit
     crush: Le calme et l’espace entre chaque gîte
+    ctoutvertId:
 - scope:
     path: ''
     type: fr_cottages_categories
@@ -67,8 +67,8 @@ defaults:
     metaTitle: Gîtes individuels 4/6 personnes
     navTitle: Gîtes indiv 4/6 pers.
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     capacityMin: 4
     capacityMax: 6
     priceMin: 1000
@@ -82,22 +82,22 @@ defaults:
     metaTitle: Scolaires & loisirs
     navTitle: Loisirs
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     position: 1
     icon: suitcase
 - scope:
     path: ''
     type: fr_pages
   values:
-    layout: 
+    layout:
     route: ma-page
     title: Ma page
     metaTitle: Ma page
     navTitle: Loisirs
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: fr_posts
@@ -108,8 +108,8 @@ defaults:
     metaTitle: Mon article
     navTitle: Article
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: fr_services
@@ -120,8 +120,8 @@ defaults:
     metaTitle: Le meta-title du service
     navTitle: Le titre qui apparaitra dans le menu
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_cottages
@@ -129,14 +129,14 @@ defaults:
     layout: Cottage
     route: gite-1
     title: Gite 1
-    metaTitle: Gite 1
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     position: 1
     cottages_category_route: gites-indiv-4-6
     beds: 5 couchages + canapé lit
     crush: Le calme et l’espace entre chaque gîte
+    ctoutvertId: 
 - scope:
     path: ''
     type: nl_cottages_categories
@@ -147,8 +147,8 @@ defaults:
     metaTitle: Gîtes individuels 4/6 personnes
     navTitle: Gîtes indiv 4/6 pers.
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     capacityMin: 4
     capacityMax: 6
     priceMin: 1000
@@ -156,14 +156,14 @@ defaults:
     path: ''
     type: nl_pages
   values:
-    layout: 
+    layout:
     route: ma-page
     title: Ma page
     metaTitle: Ma page
     navTitle: Loisirs
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_posts
@@ -174,8 +174,8 @@ defaults:
     metaTitle: Mon article
     navTitle: Article
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_services
@@ -186,5 +186,5 @@ defaults:
     metaTitle: Le meta-title du service
     navTitle: Le titre qui apparaitra dans le menu
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
