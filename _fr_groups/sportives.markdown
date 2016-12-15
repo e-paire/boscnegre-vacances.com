@@ -20,6 +20,7 @@ images:
   alt: Groupe de VTT en vacances au Bosc Negre
 - image: "/uploads/club_motos_Bosc_Negre.jpg"
   alt: Club moto au Bosc Negre
+layout: Group
 ---
 
 ## Le rendez-vous des sportifs

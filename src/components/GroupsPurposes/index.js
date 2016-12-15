@@ -35,7 +35,12 @@ class GroupsPurposes extends Component {
           }
           <div className={styles.groups}>
             <Content>
-              <Carousel noArrows={browser.greaterThan.s} noKeys={browser.lessThan.m} theme="yellow">
+              <Carousel noKeys={browser.lessThan.m} theme="yellow" slides_number={{
+                s: 1,
+                m: 2,
+                l: 5,
+                xl: 5,
+              }}>
                 {groups.map((group, index) => (
                   <Link key={index} to={group.__url}>
                     <div className={styles.group}>

@@ -25,7 +25,7 @@ class Carousel extends Component {
   }
 
   render() {
-    const {arrowsClassName, browser, noKeys, noArrows, slides_number, theme} = this.props
+    const {arrowsClassName, browser, noKeys, slides_number, theme} = this.props
     const settings = {
       arrows: false,
       accessibility: !noKeys,
@@ -39,12 +39,12 @@ class Carousel extends Component {
         <Slick ref={ref => this.ref_slider = ref} {...settings}>
           {this.props.children}
         </Slick>
-        {!noArrows &&
+        {slides_number[browser.mediaType] < this.props.children.length &&
           <span className={classNames(styles[`left_${theme}`], arrowsClassName)} onClick={this.handlePrevious}>
             <Icon name="angle-left" />
           </span>
         }
-        {!noArrows &&
+        {slides_number[browser.mediaType] < this.props.children.length &&
         <span className={classNames(styles[`right_${theme}`], arrowsClassName)} onClick={this.handleNext}>
           <Icon name="angle-right" />
         </span>
@@ -58,7 +58,6 @@ Carousel.propTypes = {
   arrowsClassName: PropTypes.string,
   browser: PropTypes.object.isRequired,
   children: PropTypes.any.isRequired,
-  noArrows: PropTypes.bool,
   noKeys: PropTypes.bool,
   slides_number: PropTypes.shape({
     s: PropTypes.number,
@@ -70,7 +69,6 @@ Carousel.propTypes = {
 }
 
 Carousel.defaultProps = {
-  noArrows: false,
   noKeys: false,
   slides_number: {
     s: 1,
