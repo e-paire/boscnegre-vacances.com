@@ -6,6 +6,7 @@ route: "/nl/news"
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Bosc Negre
+is visible: 
 layout: Posts
 ---
 
