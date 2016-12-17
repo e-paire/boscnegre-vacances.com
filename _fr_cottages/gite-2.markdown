@@ -1,11 +1,9 @@
 ---
-title: Gîte de la ferme
+title: Grand gîte de la ferme
 date: 2016-12-05 13:41:00 +01:00
 position: 4
 route: grand-gite-de-la-ferme
-cover:
-  image: "/uploads/gite%202.jpg"
-cottages_category_route: Gîtes mitoyen 7/9 pers.
+cottages_category_route: gites-mitoyen-7-9
 beds: 7 couchages + canapé lit
 crush: la proximité des animations
 ctoutvertId: 63370
