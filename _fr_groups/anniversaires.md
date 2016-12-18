@@ -1,6 +1,6 @@
 ---
 title: Restaurant avec salle d'anniversaire
-position: 1
+position: 3
 route: groupes/anniversaires
 metaTitle: Location de salle d'anniversaire au Bosc Nègre
 navTitle: Anniversaires
