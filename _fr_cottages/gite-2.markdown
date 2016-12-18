@@ -1,5 +1,5 @@
 ---
-title: Grand gîte de la ferme
+title: Grand gîte n°2 de la ferme
 date: 2016-12-05 13:41:00 +01:00
 position: 1
 route: grand-gite-de-la-ferme
