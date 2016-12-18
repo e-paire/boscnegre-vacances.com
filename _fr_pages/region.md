@@ -1,6 +1,6 @@
 ---
 title: Découvrez la région et la culture du Lot-et-Garonne
-position: 7
+position: 4
 route: region
 metaTitle: Découvrez la région du Lot-et-Garonne depuis le Hameau du Bosc Nègre
 navTitle: Région
