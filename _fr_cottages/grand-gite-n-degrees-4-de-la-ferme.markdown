@@ -1,11 +1,11 @@
 ---
 title: Grand gîte n°4 de la ferme
 date: 2016-12-18 10:56:00 +01:00
+position: 2
 route: gite-4
 cover:
   image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
   alt: Un grand gîte au Bosc Negre
-position: 2
 cottages_category_route: gites-mitoyen-7-9/
 beds: 7 lits + canapé lit
 crush: La proximité des animations
