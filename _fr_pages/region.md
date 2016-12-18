@@ -18,13 +18,21 @@ coordinates:
   description: "**Village de vacances Bosc Nègre**  \nBois de las putas  \n47150 Lacapelle-Biron
     \ \nLat : 44.597091  \nLong : 0.873799  "
   color: orange
-- title: Montflanquin
+- title: Monflanquin
   latitude: 44.532771
   longitude: 0.765645
+  description: |-
+    Plus beau village de France
+
+    Magnifique vue en haut du village
   color: green
 - title: Monpazier
   latitude: 44.682499
   longitude: 0.894904
+  description: |-
+    Plus beau village de France
+
+    Marché convivial le jeudi matin
   color: green
 - title: Villefranche-du-Périgord
   latitude: 44.62974
@@ -33,10 +41,12 @@ coordinates:
 - title: Biron
   latitude: 44.631365
   longitude: 0.87071
+  description: Château classé monument historique depuis 1928
   color: blue
 - title: Issigeac
   latitude: 44.730668
   longitude: 0.606769
+  description: Profitez d'un marché avec des produits en tout genre le dimanche matin
   color: yellow
 layout: Region
 ---
