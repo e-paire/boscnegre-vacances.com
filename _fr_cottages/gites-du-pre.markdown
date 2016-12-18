@@ -1,11 +1,11 @@
 ---
 title: Gîtes du pré
 date: 2016-12-17 15:06:00 +01:00
+position: 1
 route: gite-du-pre
 cover:
   image: "/uploads/gite%2016%20a%2021.jpg"
   alt: gite du pré au Bosc Negre
-position: 1
 cottages_category_route: gites-indiv-5-7
 beds: 5 couchages + un canapé lit
 crush: L'espace dans le gîte
