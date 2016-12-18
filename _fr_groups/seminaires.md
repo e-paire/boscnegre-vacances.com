@@ -9,8 +9,8 @@ metaDescription: Organisez votre séminaire ou votre réunion en plein forêt du
 navTitle: Séminaire
 slogan: Séminaire de travail avec hébergement dans le Périgord Noir
 cover:
-  image: "/uploads/header.png"
-  alt: bosc
+  image: "/uploads/Grande_salle_U_vue_de_face_Bosc_Negre.jpg"
+  alt: Grande salle de séminaire au Bosc Negre pour votre réunion de travail
 icon: suitcase
 images:
 - image: "/uploads/Demi_salle_epi__Bosc_Negre.jpg"
@@ -31,8 +31,8 @@ services:
 
     Nous pouvons vous prêter gratuitement un vidéo-projecteur, un écran plat, un paper-board, un écran blanc, de même que des prises et rallonges multiples. Le réseau Wifi relie le bar, la salle de travail et la terrasse. Le réseau téléphonique, lui, reste moyen.
   cover:
-    image: "/uploads/Grande_salle_U_vue_de_face_Bosc_Negre.jpg"
-    alt: Grande salle de séminaire au Bosc Negre pour votre réunion de travail
+    image: "/uploads/Demi_salle_epi_Bosc_Negre.jpg"
+    alt: Salle de séminaire au Bosc Negre pour votre réunion de travail
 - description: |-
     ## 23 gîtes disponibles pour vous héberger durant le séminaire
 
