@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2016-12-11 10:00:00 +01:00
+position: 1
 route: "/nl/contact"
 metaTitle: Neem contact op met de Bosc Negre
 navTitle: Contact

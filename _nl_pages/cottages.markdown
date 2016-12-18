@@ -1,5 +1,6 @@
 ---
 title: Alle vakantiehuisjes van de Bosc Negre
+position: 4
 route: nl/vakantiehuis
 metaTitle: Al onze vakantiehuisjes
 navTitle: Vakantiehuisjes
