@@ -1,7 +1,7 @@
 ---
 title: Omgeving rondom Bosc Negre
 date: 2016-12-05 21:44:00 +01:00
-position: 5
+position: 4
 route: nl/omgeving
 metaTitle: 'Vakantiepark Bosc Negre grenzend aan de Périgord, de Quercy en de Lot  '
 navTitle: Omgeving

@@ -1,6 +1,6 @@
 ---
 title: Alle activiteiten op de Bosc Negre
-position: 2
+position: 1
 route: "/nl/activiteiten"
 metaTitle: Gezellige activiteiten op de Bosc Negre
 navTitle: Activiteiten
