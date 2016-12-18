@@ -5,8 +5,9 @@ route: mentions-legales
 metaTitle: Mentions légales
 navTitle: Mentions légales
 cover:
-  image: "/uploads/Entr%C3%A9e%20du%20parc.JPG"
-  alt: bosc-engre
+  image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
+  alt: Mentions légales du Bosc Negre
+slogan: Mentions légales du Bosc Negre
 layout: LegalNotices
 ---
 
