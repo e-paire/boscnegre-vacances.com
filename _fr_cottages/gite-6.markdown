@@ -5,7 +5,7 @@ position: 1
 route: gites-du-lac
 cover:
   image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
-  alt: gites_du_lac_Bosc_Negre
+  alt: gites du lac Bosc Negre
 cottages_category_route: gites-individuel-4-6
 beds: 4 couchages + canapé lit
 crush: Situé au milieu du parc tout en restant calme
