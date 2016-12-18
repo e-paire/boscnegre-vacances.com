@@ -48,6 +48,11 @@ coordinates:
   longitude: 0.606769
   description: Profitez d'un marché avec des produits en tout genre le dimanche matin
   color: yellow
+- title: Bonaguil
+  latitude: 44.53846
+  longitude: 1.014307
+  description: Château fort crée au XIIIème siècle
+  color: blue
 layout: Region
 ---
 
