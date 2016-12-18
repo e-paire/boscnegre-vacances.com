@@ -53,6 +53,11 @@ coordinates:
   longitude: 1.014307
   description: Château fort crée au XIIIème siècle
   color: blue
+- title: Château de Gavaudun
+  latitude: 44.560756
+  longitude: 0.886844
+  description: Château fort de Gavaudun où il est possible de faire du rappel en été
+  color: blue
 layout: Region
 ---
 
