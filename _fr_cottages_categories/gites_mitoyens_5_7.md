@@ -8,7 +8,7 @@ cover:
   alt: Gite PMR au Bosc Negre
 capacityMin: 5
 capacityMax: 7
-priceMin: 500
+priceMin: 450
 layout: CottagesCategory
 ---
 
