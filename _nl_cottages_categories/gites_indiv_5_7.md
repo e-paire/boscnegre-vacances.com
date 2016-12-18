@@ -1,5 +1,6 @@
 ---
 title: Cottages indiv 5/7 pers.
+position: 1
 description: Le gite 2 est très bien
 capacityMin: 5
 capacityMax: 7

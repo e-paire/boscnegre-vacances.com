@@ -1,5 +1,6 @@
 ---
 title: Vrijstaande vakantiehuisjes voor 4/6 pers.
+position: 0
 route: nl/vrijstaande-vakantiehuisjes-4-6
 navTitle: Vrijstaande vakantiehuisjes 4/6 pers.
 cover:

@@ -1,5 +1,6 @@
 ---
 title: Cottages mitoyens 7/9 pers.
+position: 2
 capacityMin: 7
 capacityMax: 9
 priceMin: 300
