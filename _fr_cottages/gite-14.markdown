@@ -1,5 +1,5 @@
 ---
-title: Gîte 14
+title: Gîte de la forêt
 date: 2016-12-18 10:43:00 +01:00
 position: 3
 route: gite-14
