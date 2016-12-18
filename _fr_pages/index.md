@@ -15,7 +15,8 @@ offers:
   cover:
     image: "/uploads/castle.png"
     alt: les offres spéciales du Bosc Nègre
-  text: Profitez des offres en cours du Bosc Nègre
+  text: Profitez des offres en cours du Bosc Nègre pour partir en vacances au meilleur
+    prix !
 layout: Homepage
 ---
 
