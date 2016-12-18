@@ -13,9 +13,10 @@ slogan: Pour toute question, contactez le Bosc-Nègre
 layout: Contact
 ---
 
-Pour toute information, veuillez contacter Coby au 05 53 40 99 27 ou via le formulaire. Nous vous répondrons dans les plus brefs délais.\
+Au Bosc Nègre, vos hôtes sont Coby & Alfred. C'est avec plaisir que nous répondons à vos questions au 06.70.54.70.39 ou au 05.53.40.99.27
+
 \
 **Assurance annulation**\
 Vous recherchez une assurance annulation, responsabilité civile locative (casse...),\
 Le cabinet ALBINET via son site ADUCIEL vous propose une solution adaptée à vos besoins\
-[Cliquez pour obtenir le montant de votre prime](http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?id=641500)\
+[Cliquez pour obtenir le montant de votre prime](http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?id=641500)\\
