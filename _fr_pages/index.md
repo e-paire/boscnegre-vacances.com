@@ -24,7 +24,7 @@ layout: Homepage
 
 Dans ce **village de vacances** **du Sud de la France**, vous pouvez vous ressourcez en toute tranquillité dans un gîte et apprécier les richesses de la Dordogne et du Lot-et-Garonne.
 
-23 gîtes en pierre répartis sur 5 hectares vous sont proposés à la location de mars à novembre. Chaque gîte dispose de sa propre terrase et dispose de tout l'équipement nécessaire pour profiter de vos vacances dans un village de vacances en Lot-et-Garonne sans tracas.
+23 gîtes répartis sur 5 hectares vous sont proposés à la location toute l'année. Chaque gîte dispose de sa propre terrasse et dispose de tout l'équipement nécessaire pour profiter de vos vacances dans un village de vacances en Lot-et-Garonne sans tracas.
 
 Notre **centre de vacances** vous propose de nombreux services dont vous pouvez profiter pleinement : un bar restaurant avec des suggestions locales, wifi, dépôt de pain, piscine chauffée, plusieurs terrains de sport.
 
