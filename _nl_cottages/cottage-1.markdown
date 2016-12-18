@@ -1,11 +1,11 @@
 ---
 title: Vakantiehuisjes "Gîtes du Lac"
 date: 2016-10-06 09:26:00 +02:00
+position: 1
 route: vakantiehuisjes-du-lac
 cover:
   image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
   alt: Vakantiehuisjes gîtes du Lac op de Bosc Negre
-position: 1
 cottages_category_route: nl/vrijstaande-vakantiehuisjes-4-6
 beds: 4 bedden + slaapbank
 crush: Midden in het parc gelegen maar toch rustig
