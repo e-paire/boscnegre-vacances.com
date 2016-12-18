@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Neem contact op met Coby & Alfred
 date: 2016-12-11 10:00:00 +01:00
 position: 6
 route: "/nl/contact"
