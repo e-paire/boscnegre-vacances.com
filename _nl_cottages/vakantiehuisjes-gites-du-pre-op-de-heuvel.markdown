@@ -1,11 +1,11 @@
 ---
 title: Vakantiehuisjes "Gîtes du Pré" op de heuvel
 date: 2016-12-18 12:55:00 +01:00
+position: 2
 route: nl/vakantiehuisjes-op-de-heuvel
 cover:
   image: "/uploads/gite_du_pre_sur_la_colinne_Bosc_Negre-12ad79.jpg"
   alt: Vakantiehuisjes op de heuvel op de Bosc Negre
-position: 2
 cottages_category_route: nl/vrijstaande-vakantiehuisjes-5-7
 beds: 5 bedden + vakantiebed
 crush: De ruimte van de huisjes

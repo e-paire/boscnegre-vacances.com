@@ -1,8 +1,8 @@
 ---
 title: Vakantiehuisje "Gîte de la ferme" 3
 date: 2016-12-18 12:57:00 +01:00
-route: nl/vakantiehuisje-ferme-3
 position: 1
+route: nl/vakantiehuisje-ferme-3
 cottages_category_route: nl/geschakelde-vakantiehuisjes-5-7
 beds: 5 bedden + slaapbank
 crush: Dichtbij het zwembad
