@@ -1,9 +1,9 @@
 ---
-title: Le plein d'activités en vacances
+title: Tous les services proposées au Bosc Nègre
 position: 2
-route: activites
-metaTitle: Toutes les activités au Hameau du Bosc Nègre
-navTitle: Activités
+route: tous-les-services
+metaTitle: Tous les services au Bosc Nègre
+navTitle: Services
 cover:
   image: "/uploads/atelier_cookies.JPG"
   alt: Activités pendant vos vacances au Bosc Nègre
