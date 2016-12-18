@@ -1,7 +1,7 @@
 ---
 title: Les dernières news du Bosc Nègre
 published: false
-position: 9
+position: 8
 route: news
 metaTitle: Les dernières nouveautés du Bosc Nègre
 navTitle: News

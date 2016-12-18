@@ -1,6 +1,6 @@
 ---
 title: Merci
-position: 7
+position: 9
 route: merci
 metaTitle: Merci de nous avoir contacté
 navTitle: merci
