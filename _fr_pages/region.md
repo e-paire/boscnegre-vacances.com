@@ -74,6 +74,11 @@ coordinates:
   longitude: 0.482802
   color: grey
   description: Découvrez Bergerac et tous ses vins
+- title: Castelnaud-la-Chapelle
+  latitude: 44.815989
+  longitude: 1.148815
+  color: blue
+  description: Château de Castelnaud surplombant la vallée de la Dordogne
 layout: Region
 ---
 
