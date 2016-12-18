@@ -69,6 +69,11 @@ coordinates:
   longitude: 1.207299
   color: grey
   description: Capitale du Perigord
+- title: Bergerac
+  latitude: 44.854342
+  longitude: 0.482802
+  color: grey
+  description: Découvrez Bergerac et tous ses vins
 layout: Region
 ---
 
