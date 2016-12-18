@@ -1,5 +1,6 @@
 ---
 title: Séjour de groupe au Bosc Nègre
+position: 4
 route: groupes
 metaTitle: Hébergement de groupes au Hameau de Bosc Nègre
 navTitle: Groupes

@@ -1,5 +1,6 @@
 ---
 title: Village de Vacances Bosc-Nègre
+position: 0
 route: "/"
 metaTitle: Village de vacances le Hameau du Bosc Nègre
 navTitle: Accueil

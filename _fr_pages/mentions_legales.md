@@ -1,5 +1,6 @@
 ---
 title: Mentions légales du Bosc Nègre
+position: 8
 route: mentions-legales
 metaTitle: Mentions légales
 navTitle: Mentions légales

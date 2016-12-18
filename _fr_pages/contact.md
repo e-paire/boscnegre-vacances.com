@@ -1,5 +1,6 @@
 ---
 title: Contacter le Bosc-Nègre
+position: 2
 route: contact
 metaTitle: Contactez Coby au Hameau du Bosc Nègre
 navTitle: Contact

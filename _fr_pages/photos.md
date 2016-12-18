@@ -1,5 +1,6 @@
 ---
 title: Galerie photos du Bosc Negre
+position: 6
 route: photos
 metaTitle: La galerie photos du Bosc Nègre
 navTitle: Photos
