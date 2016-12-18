@@ -4,7 +4,7 @@ date: 2016-12-08 13:54:00 +01:00
 position: 2
 route: gites-du-pre-colline
 cover:
-  image: "/uploads/gite_du_pre_sur_la_colinne_Bosc_Negre.jpg"
+  image: "/uploads/gite_du_pre_sur_la_colinne_Bosc_Negre-12ad79.jpg"
   alt: gîte du pré sur la colline au Bosc Negre
 cottages_category_route: gites-indiv-5-7/
 beds: 5 couchages + canapé lit
