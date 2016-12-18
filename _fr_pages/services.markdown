@@ -1,6 +1,6 @@
 ---
 title: Le plein d'activités en vacances
-position: 5
+position: 2
 route: activites
 metaTitle: Toutes les activités au Hameau du Bosc Nègre
 navTitle: Activités
