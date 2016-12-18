@@ -1,6 +1,7 @@
 ---
 title: Wettelijke bepalingen
 date: 2016-12-18 13:14:00 +01:00
+position: 7
 route: nl/wettelijke-bepalingen
 metaTitle: Wettelijke bepalingen van de Bosc Negre
 slogan: Wettelijke bepalingen van de Bosc Negre
