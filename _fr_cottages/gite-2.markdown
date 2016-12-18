@@ -4,6 +4,7 @@ date: 2016-12-05 13:41:00 +01:00
 position: 1
 route: grand-gite-de-la-ferme
 cover:
+  image: "/uploads/chambre_grand_gite_Bosc_Negre.jpg"
   alt: Grand Gîte 2 de la ferme au Bosc Negre
 cottages_category_route: gites-mitoyen-7-9
 beds: 7 couchages + canapé lit
