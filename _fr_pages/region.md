@@ -15,8 +15,11 @@ coordinates:
 - title: Bosc Nègre
   latitude: 44.597091
   longitude: 0.873799
-  description: "**Village de vacances Bosc Nègre**  \nBois de las putas  \n47150 Lacapelle-Biron
-    \ \nLat : 44.597091  \nLong : 0.873799  "
+  description: |-
+    **Village de vacances Bosc Nègre**\
+    47150 Lacapelle-Biron\
+    Lat : 44.597091\
+    Long : 0.873799
   color: orange
 - title: Monflanquin
   latitude: 44.532771
