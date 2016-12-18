@@ -58,6 +58,17 @@ coordinates:
   longitude: 0.886844
   description: Château fort de Gavaudun où il est possible de faire du rappel en été
   color: blue
+- title: La Vallée du Lot
+  latitude: 44.411468
+  longitude: 0.736099
+  color: grey
+  description: De nombreuses randonnées à faire pour découvrir cette belle vallée
+    du Lot
+- title: Sarlat-la-Canéda
+  latitude: 44.891645
+  longitude: 1.207299
+  color: grey
+  description: Capitale du Perigord
 layout: Region
 ---
 
