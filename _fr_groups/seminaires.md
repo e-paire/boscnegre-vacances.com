@@ -51,17 +51,27 @@ services:
     image: "/uploads/pension_complete_Bosc_Negre_durant_seminiaire.JPG"
     alt: Pension complète durant votre séminaire au Bosc Negre
 prices:
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+  text: Nous vous proposons des séminaires adaptés à vos besoins. Consultez nos prix
+    et contactez nous pour établir un devis sur mesure
   cover:
-    image: "/uploads/header.png"
-    alt: Lorem
+    image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
+    alt: Le Village de Vacances du Bosc Negre
 pricesExamples:
-- description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
-  price: 200
-- description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
-  price: 200
-- description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
-  price: 200
+- description: |-
+    1er jour : café de bienvenue - déjeuner - pause - repas du terroir et nuitée en chambre individuelle
+
+    2ème jour : petit déjeuner - pause - déjeuner
+  price: 112€ HT par personne
+- description: |-
+    1er jour : café de bienvenue - déjeuner - pause - repas du terroir et nuitée en chambre individuelle
+
+    2ème jour : petit déjeuner - pause - déjeuner
+  price: 112€ HT par personne
+- description: |-
+    1er jour : café de bienvenue - déjeuner - pause - repas du terroir et nuitée en chambre individuelle
+
+    2ème jour : petit déjeuner - pause - déjeuner
+  price: 112€ HT par personne
 layout: Seminar
 ---
 
