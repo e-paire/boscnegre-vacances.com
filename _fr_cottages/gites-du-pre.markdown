@@ -4,6 +4,7 @@ date: 2016-12-17 15:06:00 +01:00
 position: 1
 route: gite-du-pre
 cover:
+  image: "/uploads/Gite_du_pre_Bosc_Negre.jpg"
   alt: gite du pré au Bosc Negre
 cottages_category_route: gites-indiv-5-7/
 beds: 5 couchages + un canapé lit
