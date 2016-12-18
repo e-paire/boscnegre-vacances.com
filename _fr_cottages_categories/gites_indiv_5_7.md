@@ -9,7 +9,7 @@ cover:
   alt: gîte 16 à 21 au Bosc Nègre
 capacityMin: 5
 capacityMax: 7
-priceMin: 600
+priceMin: 450
 layout: CottagesCategory
 ---
 
