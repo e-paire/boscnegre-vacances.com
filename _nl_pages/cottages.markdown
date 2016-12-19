@@ -7,7 +7,7 @@ navTitle: Vakantiehuisjes
 cover:
   image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
   alt: familie vakantiepark in Dordogne
-layout: Cottages
+layout: CottagesCategories
 ---
 
 ## Heerlijk geniet in een gite in Dordogne

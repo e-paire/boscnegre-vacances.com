@@ -10,7 +10,7 @@ cover:
 metaDescription: 'Choissisez le gîte qui vous correspond le mieux pour vous prochaines
   vacances avec votre famille, vos amis ou bien entre votre club de sport. '
 slogan: Location de gîte dans le Lot-et-Garonne, mitoyen Dordogne. Ouvert toute l'année
-layout: Cottages
+layout: CottagesCategories
 ---
 
 ## Des gîtes pour tous les goûts

@@ -7,7 +7,7 @@ import {PageContainer as PhenomicPageContainer} from "phenomic"
 import AfterContact from "layouts/AfterContact"
 import Contact from "layouts/Contact"
 import Cottage from "layouts/Cottage"
-import Cottages from "layouts/Cottages"
+import CottagesCategories from "layouts/CottagesCategories"
 import CottagesCategory from "layouts/CottagesCategory"
 import Homepage from "layouts/Homepage"
 import Groups from "layouts/Groups"
@@ -30,7 +30,7 @@ const PageContainer = (props) => (
       AfterContact,
       Contact,
       Cottage,
-      Cottages,
+      CottagesCategories,
       CottagesCategory,
       Groups,
       Group,

@@ -19,8 +19,8 @@ class Nav extends Component {
       filter: (page) => customFilter(page, intl.locale, "Homepage"),
     }).shift()
 
-    const cottagesPage = enhanceCollection(collection, {
-      filter: (page) => customFilter(page, intl.locale, "Cottages"),
+    const cottagesCategoriesPage = enhanceCollection(collection, {
+      filter: (page) => customFilter(page, intl.locale, "CottagesCategories"),
     }).shift()
 
     const cottagesCategories = enhanceCollection(collection, {
@@ -76,15 +76,15 @@ class Nav extends Component {
                   </IndexLink>
                 </li>
               }
-              {cottagesPage &&
+              {cottagesCategoriesPage &&
                 <li className={styles.item}>
-                  <Link to={cottagesPage.__url} className={classNames(styles.link, {
-                    [styles.link_active]: router.isActive(cottagesPage.__url)
+                  <Link to={cottagesCategoriesPage.__url} className={classNames(styles.link, {
+                    [styles.link_active]: router.isActive(cottagesCategoriesPage.__url)
                       || cottagesCategories.some(category => router.isActive(category.__url)),
                   })}>
-                  {cottagesPage.navTitle
-                    ? cottagesPage.navTitle
-                    : cottagesPage.title
+                  {cottagesCategoriesPage.navTitle
+                    ? cottagesCategoriesPage.navTitle
+                    : cottagesCategoriesPage.title
                   }
                   </Link>
                   {cottagesCategories.length > 0 &&
