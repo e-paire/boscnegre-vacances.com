@@ -32,7 +32,7 @@ class Map extends Component {
     }
   }
 
-  onMarkerLoaded(googleMaps, map, marker, description) {
+  onMarkerLoaded(googleMaps, map, marker, description, isOpen) {
     const content = remark().use(html).process(description).contents
     const infoWindow = new googleMaps.InfoWindow({content})
 
@@ -40,7 +40,9 @@ class Map extends Component {
       infoWindow.open(map, marker)
     })
 
-    infoWindow.open(map, marker)
+    if (isOpen) {
+      infoWindow.open(map, marker)
+    }
   }
 
   render() {
@@ -83,7 +85,8 @@ class Map extends Component {
             }}
             scrollwheel={false}
             coordinates={coordinates.map(coordinate => {
-              const {color, description, latitude, longitude, title} = coordinate
+              const {color, description, is_open, latitude, longitude, title} = coordinate
+              const isOpen = is_open || false
               return ({
                 ...title && {title: title},
                 position: {
@@ -93,7 +96,7 @@ class Map extends Component {
                 icon: this.getIcon(color),
                 ...description && {
                   onLoaded: (googleMaps, map, marker) =>
-                    this.onMarkerLoaded(googleMaps, map, marker, description),
+                    this.onMarkerLoaded(googleMaps, map, marker, description, isOpen),
                 }
               })
             })}
@@ -111,6 +114,7 @@ Map.propTypes = {
     latitude: PropTypes.number.isRequired,
     longitude: PropTypes.number.isRequired,
     title: PropTypes.string,
+    is_open: PropTypes.bool,
   })),
   googleMaps: PropTypes.object.isRequired,
 }

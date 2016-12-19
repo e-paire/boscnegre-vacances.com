@@ -21,6 +21,7 @@ coordinates:
     Lat : 44.597091\
     Long : 0.873799
   color: orange
+  is_open: true
 - title: Monflanquin
   latitude: 44.532771
   longitude: 0.765645
