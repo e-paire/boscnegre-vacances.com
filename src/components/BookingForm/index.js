@@ -11,14 +11,12 @@ import isWithinRange from "date-fns/is_within_range"
 import setDay from "date-fns/set_day"
 import setMonth from "date-fns/set_month"
 
+import {getUrl} from "utils/urls"
 import Content from "components/Content"
 
 import "react-day-picker/lib/style.css"
 import "./ReactDayPicker.css"
 import styles from "./index.css"
-
-const SECUREHOLIDAY_URL = "https://boscnegrevacancesfr.premium.secureholiday.net"
-const SECUREHOLIDAY_ID = 14230
 
 class BookingForm extends Component {
   constructor() {
@@ -176,7 +174,7 @@ class BookingForm extends Component {
     const {intl} = this.props
     const arrivalDate = format(this.getDefaultFrom(), "DD%2FMM%2FYYYY")
     const departureDate = format(this.getDefaultTo(), "DD%2FMM%2FYYYY")
-    return `${SECUREHOLIDAY_URL}/${intl.locale}/${SECUREHOLIDAY_ID}/result?arrivalDate=${arrivalDate}&departureDate=${departureDate}`
+    return `${getUrl("secureholiday", intl.locale)}/result?arrivalDate=${arrivalDate}&departureDate=${departureDate}`
   }
 
   render() {

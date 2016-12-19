@@ -1,13 +1,15 @@
 import React, {PropTypes} from "react"
 import {Icon} from "react-fa"
-import {FormattedMessage} from "react-intl"
+import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import {BodyContainer} from "phenomic"
 
+import {getUrl} from "utils/urls"
+import ExternalLink from "components/ExternalLink"
 import Image from "components/Image"
 
 import styles from "./index.css"
 
-const Cottage = ({beds, crush, cover, ctoutvertId, description, title}) => {
+const Cottage = ({beds, crush, cover, ctoutvertId, description, intl, title}) => {
   return (
     <div className={styles.cottage}>
       <div className={styles.cover}>
@@ -32,9 +34,9 @@ const Cottage = ({beds, crush, cover, ctoutvertId, description, title}) => {
             </div>
           }
         </div>
-        <a className={styles.button} href={`https://premium.secureholiday.net/fr/14230/product.popup?idProduct=${ctoutvertId}`}>
+        <ExternalLink className={styles.button} href={`${getUrl("secureholiday", intl.locale)}/product.popup?idProduct=${ctoutvertId}`}>
           <FormattedMessage id="buttons.check_prices" />
-        </a>
+        </ExternalLink>
       </div>
     </div>
   )
@@ -49,7 +51,8 @@ Cottage.propTypes = {
   }),
   ctoutvertId: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
+  intl: intlShape.isRequired,
   title: PropTypes.string.isRequired,
 }
 
-export default Cottage
+export default injectIntl(Cottage)

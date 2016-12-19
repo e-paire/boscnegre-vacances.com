@@ -14,8 +14,7 @@ const messages = {
   nl: flatten(localeNL),
 }
 
-const defaultLocale = "fr"
-
+export const defaultLocale = "fr"
 export const locales = ["fr", "nl"]
 
 export function getLocale(url) {

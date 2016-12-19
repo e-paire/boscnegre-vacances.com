@@ -4,8 +4,10 @@ import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import {Icon} from "react-fa"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
+import {getUrl} from "utils/urls"
 import {customFilter} from "utils/collection"
 import AncvLogo from "components/AncvLogo"
+import ExternalLink from "components/ExternalLink"
 import Logo from "components/Logo"
 import Content from "components/Content"
 import NewsletterForm from "components/NewsletterForm"
@@ -56,14 +58,9 @@ class Footer extends Component {
               </div>
               <ul className={styles.nav}>
                 <li>
-                  <a
-                    className={styles.link}
-                    href="/sitemap.xml"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <ExternalLink className={styles.link} href="/sitemap.xml">
                     <FormattedMessage id="footer.sitemap" />
-                  </a>
+                  </ExternalLink>
                 </li>
                 {contactPage &&
                   <li>
@@ -76,14 +73,9 @@ class Footer extends Component {
                   </li>
                 }
                 <li>
-                  <a
-                    className={styles.link}
-                    href={`https://premium.secureholiday.net/${intl.locale}/14230/weekprices`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <ExternalLink className={styles.link} href={getUrl("secureholiday", intl.locale) + "/weekprices"}>
                     <FormattedMessage id="footer.prices" />
-                  </a>
+                  </ExternalLink>
                 </li>
                 {legalNoticesPage &&
                   <li>
@@ -104,15 +96,12 @@ class Footer extends Component {
                 <FormattedMessage id="footer.consumer_advisory" />
               </div>
               <div className={styles.consumerReviews}>
-                <Link
-                  to="https://www.camping2be.com/france/lacapelle-biron/avis-clients-village-de-vacances-bosc-negre"
-                  target="_blank"
-                >
+                <ExternalLink href={getUrl("camping2be", intl.locale)}>
                   <img className={styles.camping2be} src={Camping2beLogo} alt="Camping2be" />
-                </Link>
-                <Link to="https://www.tripadvisor.fr/Hotel_Review-g1856959-d2058207-Reviews-Village_de_vacances_Bosc_Negre-Lacapelle_Biron_Lot_et_Garonne_Nouvelle_Aquitaine.html" target="_blank">
+                </ExternalLink>
+                <ExternalLink href={getUrl("tripadvisor", intl.locale)}>
                   <TripAdvisorLogo className={styles.tripAdvisor} />
-                </Link>
+                </ExternalLink>
               </div>
             </div>
             <div className={styles.block}>
@@ -120,15 +109,12 @@ class Footer extends Component {
                 <FormattedMessage id="footer.our_partners" />
               </div>
               <div className={styles.ourPartners}>
-                <Link to="http://www.ancv.com/" target="_blank">
+                <ExternalLink href={getUrl("ancv")}>
                   <AncvLogo className={styles.ancv} />
-                </Link>
-                <Link
-                  to="http://www.villagesdegites.fr/"
-                  target="_blank"
-                >
+                </ExternalLink>
+                <ExternalLink href={getUrl("villagedegites")}>
                   <img className={styles.village2gites} src={VillageGitesLogo} alt="Village de gîtes" />
-                </Link>
+                </ExternalLink>
               </div>
             </div>
           </div>
@@ -138,20 +124,12 @@ class Footer extends Component {
                 <FormattedMessage id="footer.join_us" />
               </div>
               <div className={styles.networks}>
-                <Link
-                  className={styles.network}
-                  to="https://www.facebook.com/BoscNegre"
-                  target="_blank"
-                >
+                <ExternalLink className={styles.network} href={getUrl("facebook")}>
                   <Icon name="facebook-square" />
-                </Link>
-                <Link
-                  className={styles.network}
-                  to="https://www.youtube.com/channel/UCnlRv-Wb9sXyFP9LEUQ4LpQ"
-                  target="_blank"
-                >
+                </ExternalLink>
+                <ExternalLink className={styles.network} href={getUrl("youtube")}>
                   <Icon name="youtube-square" />
-                </Link>
+                </ExternalLink>
               </div>
             </div>
             <div className={styles.block}>

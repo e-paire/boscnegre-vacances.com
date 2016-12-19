@@ -3,7 +3,8 @@ import classNames from "classnames"
 
 import styles from "./index.css"
 
-const CLOUDINARY_FETCH = "http://res.cloudinary.com/dvr6aqak0/image/fetch"
+import {getUrl} from "utils/urls"
+
 const CLOUDINARY_ID = "v1480958467"
 
 class Image extends Component {
@@ -36,7 +37,7 @@ class Image extends Component {
       "q_auto",
       "c_fill",
     ]
-    return `${CLOUDINARY_FETCH}/${options.join(",")}/${CLOUDINARY_ID}/${pkg.homepage}${src}`
+    return `${getUrl("cloudinary_fetch")}/${options.join(",")}/${CLOUDINARY_ID}/${pkg.homepage}${src}`
   }
 
   getSrc() {
