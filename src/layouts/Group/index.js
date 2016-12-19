@@ -2,8 +2,10 @@ import React, {PropTypes} from "react"
 import {BodyContainer} from "phenomic"
 
 import Breadcrumb from "components/Breadcrumb"
+import CarouselImages from "components/CarouselImages"
 import Content from "components/Content"
 import Page from "layouts/Page"
+import Title from "components/Title"
 
 const Group = ({head, body, ...props}) => {
   return (
@@ -13,6 +15,10 @@ const Group = ({head, body, ...props}) => {
           {layout: "Groups"},
         ]}
       />
+      <Content>
+        <CarouselImages images={head.images} theme="yellow" />
+        {head.imagesTitle && <Title id={head.imagesTitle} theme="yellow" />}
+      </Content>
       {body &&
         <Content childrenIsText>
           <BodyContainer>
