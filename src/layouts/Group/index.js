@@ -26,6 +26,10 @@ const Group = ({head, body, ...props}) => {
           </BodyContainer>
         </Content>
       }
+      <Content>
+        {head.imagesTitle && <Title id={head.imagesTitle} theme="yellow" />}
+        <CarouselImages images={head.images} theme="yellow" />
+      </Content>
     </Page>
   )
 }
