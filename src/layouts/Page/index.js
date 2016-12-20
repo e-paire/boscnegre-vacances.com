@@ -4,6 +4,7 @@ import Helmet from "react-helmet"
 import {joinUri} from "phenomic"
 
 import BookingForm from "components/BookingForm"
+import Content from "components/Content"
 import Footer from "components/Footer"
 import Header from "components/Header"
 
@@ -44,6 +45,13 @@ const Page = ({children, footer, head, header}) => {
         <StickyContainer className={styles.content}>
           <BookingForm />
           <div className={styles.children}>
+            {!head.cover && head.title &&
+              <Content>
+                <h1 className={styles.title}>
+                  {head.title}
+                </h1>
+              </Content>
+            }
             {header}
             {children}
             {footer}

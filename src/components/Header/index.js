@@ -48,14 +48,14 @@ class Header extends Component {
             open={this.state.isNavOpen}
           />
         </Sticky>
-        <div className={styles.photo}>
-          {cover &&
+        {cover &&
+          <div className={styles.photo}>
             <Image src={cover.image} alt={cover.alt} resize={{height: 1000, width: 2500}} />
-          }
-          {title &&
-            <h1 className={styles.title}>{title}</h1>
-          }
-        </div>
+            {title &&
+              <h1 className={styles.title}>{title}</h1>
+            }
+          </div>
+        }
       </header>
     )
   }
