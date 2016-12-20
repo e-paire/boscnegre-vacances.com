@@ -1,7 +1,8 @@
 // Hot loading HRM Patch
 import "react-hot-loader/patch"
 
-// fetch polyfill
+// phenomic
+import "babel-polyfill"
 import "whatwg-fetch"
 
 import metadata from "../src/metadata.js"
