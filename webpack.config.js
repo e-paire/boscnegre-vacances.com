@@ -124,6 +124,7 @@ export default (config = {}) => {
       new ExtractTextPlugin("assets/css/[name].[hash].css", {disable: config.dev}),
       new CopyWebpackPlugin([
         {from: "_uploads", to: "uploads"},
+        {from: "favicons"},
       ]),
       ...config.production && [
         new webpack.optimize.DedupePlugin(),
