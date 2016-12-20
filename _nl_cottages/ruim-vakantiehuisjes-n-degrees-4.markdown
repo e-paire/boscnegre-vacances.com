@@ -1,11 +1,11 @@
 ---
 title: Ruim vakantiehuisjes n°4
 date: 2016-12-18 13:10:00 +01:00
+position: 2
 route: nl/ruim-vakantiehuisje-4
 cover:
   image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
   alt: Een ruim vakantiehuisje op de Bosc Negre
-position: 2
 cottages_category_route: nl/geschakelde-vakantiehuisjes-5-7
 beds: 7 bedden + slaapbank
 crush: Dichtbij de activiteiten
