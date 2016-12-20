@@ -16,15 +16,7 @@ const PricesExamples = ({intl, prices}) => {
                 <div className={styles.description}>
                   {price.description}
                 </div>
-                <div className={styles.price}>
-                  <FormattedMessage id="prices_examples.per_person" values={{
-                    price: intl.formatNumber(price.price, {
-                      style: "currency",
-                      currency: "EUR",
-                      maximumFractionDigits: 0,
-                    })
-                  }} />
-                </div>
+                <div className={styles.price}>{price.price}</div>
               </div>
             ))}
           </div>

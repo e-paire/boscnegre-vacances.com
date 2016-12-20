@@ -41,9 +41,6 @@ contact_form:
   send: "Sturen"
   contact_us: "Contact met ons op"
 
-prices_examples:
-  per_person: "{price} per persoon"
-
 errors:
   404: Page not found
   back_home: Come back to home
