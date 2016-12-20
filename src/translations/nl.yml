@@ -18,8 +18,8 @@ booking_form:
   book: "Boek"
 
 cottage_category:
-  from: "Van"
-  the_week: "wekelijks"
+  from: "vanaf"
+  the_week: "per week"
 
 footer:
   address: "adres"
