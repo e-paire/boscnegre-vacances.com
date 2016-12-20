@@ -1,11 +1,10 @@
 import React, {PropTypes} from "react"
-import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 
 import Title from "components/Title"
 
 import styles from "./index.css"
 
-const PricesExamples = ({intl, prices}) => {
+const PricesExamples = ({prices}) => {
   return prices.length > 0
     ? <div>
         <Title id="titles.prices_examples" theme="yellow" />
@@ -26,7 +25,6 @@ const PricesExamples = ({intl, prices}) => {
 }
 
 PricesExamples.propTypes = {
-  intl: intlShape.isRequired,
   prices: PropTypes.arrayOf(PropTypes.shape({
     description: PropTypes.string.isRequired,
     price: PropTypes.number.isRequired,
@@ -37,4 +35,4 @@ PricesExamples.defaultProps = {
   prices: [],
 }
 
-export default injectIntl(PricesExamples)
+export default PricesExamples
