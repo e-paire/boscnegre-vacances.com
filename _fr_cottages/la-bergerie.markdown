@@ -11,6 +11,7 @@ beds: 5 couchages + canapé lit
 crush: La verdure devant le gîte
 ctoutvertId: 63380
 layout: Cottage
+isInSitemap: false
 ---
 
 Les trois gîtes de la bergerie sont les plus calmes du du Bosc Nègre. Le bâtiment est composé de 3 logements. Les enfants peuvent s'amuser sur la verdure devant vos terrasses, avec un ballon, le badminton et leurs jeux de plein air.

@@ -246,7 +246,7 @@
     "node-dir": "~0.1.16",
     "npm-run-all": "^3.1.1",
     "path": "~0.12.7",
-    "phenomic": "^0.19.5",
+    "phenomic": "^0.20.1",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^2.4.0",
     "postcss-import": "^8.1.2",

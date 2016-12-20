@@ -11,6 +11,7 @@ beds: 5 couchages + canapé lit
 crush: L'accessibilité
 ctoutvertId: 63374
 layout: Cottage
+isInSitemap: false
 ---
 
 Ce gîte est équipé pour les personnes à mobilité réduite. De par sa proximité immédiate avec le restaurant et la piscine, vous êtes au centre des animations du Bosc Nègre.

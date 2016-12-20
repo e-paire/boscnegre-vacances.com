@@ -10,6 +10,7 @@ cottages_category_route: gites-mitoyen-7-9
 beds: 7 couchages + canapé lit
 crush: la proximité des animations
 ctoutvertId: 63370
+isInSitemap: false
 ---
 
 Les gîte 2 de la ferme est idéals pour les familles en vacances. Voulez-vous pour partager la maison avec vos amis ou êtes-vous une famille reconstituée avec 4 ou 5 enfants? Alors le gîte n ° 2 est un bon choix.

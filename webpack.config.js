@@ -5,6 +5,7 @@ import CopyWebpackPlugin from "copy-webpack-plugin"
 import ExtractTextPlugin from "extract-text-webpack-plugin"
 import {phenomicLoader} from "phenomic"
 import PhenomicLoaderFeedWebpackPlugin from "phenomic/lib/loader-feed-webpack-plugin"
+import PhenomicLoaderSitemapWebpackPlugin from "phenomic/lib/loader-sitemap-webpack-plugin"
 
 import pkg from "./package.json"
 
@@ -111,6 +112,13 @@ export default (config = {}) => {
               limit: 20,
             },
           },
+        },
+      }),
+      new PhenomicLoaderSitemapWebpackPlugin({
+        site_url: "http://boscnegre.netlify.com",
+        collectionOptions: {
+          filter: (c) => typeof (c.isInSitemap) === "undefined" || c.isInSitemap === true,
+          sort: "__url",
         },
       }),
       new ExtractTextPlugin("assets/css/[name].[hash].css", {disable: config.dev}),

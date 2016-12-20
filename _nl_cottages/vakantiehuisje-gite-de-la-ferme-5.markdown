@@ -10,6 +10,7 @@ cottages_category_route: nl/geschakelde-vakantiehuisjes-5-7
 beds: 5 bedden + slaapbank
 crush: Voor mindervaliden
 ctoutvertId: 63374
+isInSitemap: false
 ---
 
 Het grasveld naast N°5 geven de kleinsten bovendien veel bewegingsvrijheid.

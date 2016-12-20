@@ -10,5 +10,5 @@ cottages_category_route: nl/vrijstaande-vakantiehuisjes-4-6
 beds: 4 bedden + slaapbank
 crush: De rust midden in het bos
 ctoutvertId: 63379
+isInSitemap: false
 ---
-

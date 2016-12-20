@@ -10,6 +10,7 @@ cottages_category_route: gites-groupes/
 beds: Jusqu'à 80 couchages
 crush: Le confort des chambres
 ctoutvertId: 64801
+isInSitemap: false
 ---
 
 Location de gîtes pour groupe au village de vacances Bosc Nègre pour 80 personnes, ou partiellement pour les groupes à partir de 10 personnes. Demandez-nous un devis direct personnalisé et les disponibilités pour votre groupe par mail ou par téléphone.

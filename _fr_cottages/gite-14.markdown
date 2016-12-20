@@ -10,6 +10,7 @@ cottages_category_route: gites-individuel-4-6/
 beds: 4 couchages + canapé lit
 crush: La  tranquillité en pleine forêt
 ctoutvertId: 63379
+isInSitemap: false
 ---
 
 Ce gîte est un pavillon individuel au bout du parc en pleine forêt. Ce gîte est très apprécié pour la tranquillité et la qualité d'ombre qu'elle offre en été.

@@ -10,6 +10,7 @@ cottages_category_route: nl/geschakelde-vakantiehuisjes-5-7
 beds: 5 bedden + slaapbank
 crush: Het grasveld voor de huisjes
 ctoutvertId: 63380
+isInSitemap: false
 ---
 
 De vakantiehuisjes 'Gîtes la Bergerie' zijn het meest rustig gelegen. La Bergerie bestaat uit 3 geschakelde huisjes met ieder hun eigen terras en privacy. De kinderen zich kunnen uitleven op het grote grasveld welke voor de huisjes is gelegen.

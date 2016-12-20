@@ -10,6 +10,7 @@ cottages_category_route: nl/vrijstaande-vakantiehuisjes-5-7
 beds: 5 bedden + vakantiebed
 crush: De ruimte van de huisjes
 ctoutvertId: 63647
+isInSitemap: false
 ---
 
 De vakantiewoningen 'gites du pré' zijn geschikt voor gezinnen met meerdere kinderen. Dit zijn de meest ruime huisjes. N° 22 tot en met 25 zijn geschikt voor gezinnen waarvan de kinderen zelfstandig en onafhankelijk zijn. Ze liggen op een heuvel, het verst van het zwembad gelegen. In deze bungalows : een slaapkamer met 2 éénpersoonsbedden. Een slaapkamer met een éénpersoonsbed en 1 stapelbed. Badkamer met douche. Living met keuken/kitchenette, wc, slaapbank voor 2 personen, houten meubels, enz. N° 25 is geschikt voor rolstoelgebruikers.

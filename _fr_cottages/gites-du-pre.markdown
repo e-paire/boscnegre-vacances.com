@@ -10,6 +10,7 @@ cottages_category_route: gites-indiv-5-7/
 beds: 5 couchages + un canapé lit
 crush: L'espace dans le gîte
 ctoutvertId: 63382
+isInSitemap: false
 ---
 
 Les gîtes du pré sont conçus pour les familles avec trois enfants. Ce sont les plus grands gîtes. Avec les enfants en bas âge vous serez bien dans les gîtes du pré 16 au 21, car ils ne sont pas trop loin de la piscine et de l'aire de jeux. Les enfants peuvent faire du vélo à cet endroit, car le terrain est assez plat
