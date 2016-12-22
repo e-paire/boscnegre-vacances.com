@@ -1,6 +1,11 @@
 // Hot loading HRM Patch
 import "react-hot-loader/patch"
 
+// Intl polyfill
+import "intl"
+import "intl/locale-data/jsonp/fr"
+import "intl/locale-data/jsonp/nl"
+
 // phenomic
 import "babel-polyfill"
 import "whatwg-fetch"

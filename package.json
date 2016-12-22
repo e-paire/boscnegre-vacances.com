@@ -274,6 +274,7 @@
     "date-fns": "~1.11.2",
     "flat": "^2.0.1",
     "font-awesome": "^4.7.0",
+    "intl": "^1.2.5",
     "lato-font": "^2.0.0",
     "lodash": "^4.16.4",
     "react-day-picker": "~3.1.1",
