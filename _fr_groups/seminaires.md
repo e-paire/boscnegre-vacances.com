@@ -3,11 +3,7 @@ title: Salle de séminaire avec hébergement dans le Périgord Noir
 position: 1
 route: seminaires
 metaTitle: Salle de réunion et hébergement de 20 à 80 personnes dans le Lot et Garonne
-metaDescription: Organisez votre séminaire ou votre réunion en plein forêt du Périgord,
-  Lot et Garonne. Bénéficiez également d’hébergements et d’une pension complète. Nous
-  proposons des séminaires sur mesure en fonction de vos besoins !
 navTitle: Séminaire
-slogan: Séminaire de travail avec hébergement dans le Périgord Noir
 cover:
   image: "/uploads/Grande_salle_U_vue_de_face_Bosc_Negre.jpg"
   alt: Grande salle de séminaire au Bosc Negre pour votre réunion de travail
@@ -23,6 +19,10 @@ images:
   alt: Demi salle de séminaire en U pour 40 personnes au Bosc Negre
 - image: "/uploads/Demi_salle_epi__Bosc_Negre.jpg"
   alt: Demi salle de séminaire en epi au Bosc Negre
+metaDescription: Organisez votre séminaire ou votre réunion en plein forêt du Périgord,
+  Lot et Garonne. Bénéficiez également d’hébergements et d’une pension complète. Nous
+  proposons des séminaires sur mesure en fonction de vos besoins !
+slogan: Séminaire de travail avec hébergement dans le Périgord Noir
 services:
 - description: |-
     ## Une salle de réunion de 95m² pouvant accueillir jusqu’à 80 personnes
@@ -58,16 +58,6 @@ prices:
     image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
     alt: Le Village de Vacances du Bosc Negre
 pricesExamples:
-- description: |-
-    1er jour : café de bienvenue - déjeuner - pause - repas du terroir et nuitée en chambre individuelle
-
-    2ème jour : petit déjeuner - pause - déjeuner
-  price: 112€ HT par personne
-- description: |-
-    1er jour : café de bienvenue - déjeuner - pause - repas du terroir et nuitée en chambre individuelle
-
-    2ème jour : petit déjeuner - pause - déjeuner
-  price: 112 € HT par personne
 - description: |-
     1er jour : café de bienvenue - déjeuner - pause - repas du terroir et nuitée en chambre individuelle
 
