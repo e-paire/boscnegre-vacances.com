@@ -11,7 +11,7 @@ const CottagesCategory = ({head, body, ...props}) => {
     <Page {...props} head={head}>
       <Breadcrumb head={head}
         items={[
-          {layout: "Cottages"},
+          {layout: "CottagesCategories"},
         ]}
       />
       <Content>

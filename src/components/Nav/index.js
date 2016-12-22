@@ -25,6 +25,7 @@ class Nav extends Component {
 
     const cottagesCategories = enhanceCollection(collection, {
       filter: (page) => customFilter(page, intl.locale, "CottagesCategory"),
+      sort: "position",
     })
 
     const servicesPage = enhanceCollection(collection, {
@@ -33,6 +34,7 @@ class Nav extends Component {
 
     const services = enhanceCollection(collection, {
       filter: (page) => customFilter(page, intl.locale, "Service"),
+      sort: "position",
     })
 
     const photosPage = enhanceCollection(collection, {
@@ -48,7 +50,8 @@ class Nav extends Component {
     }).shift()
 
     const groups = enhanceCollection(collection, {
-      filter: (page) => customFilter(page, intl.locale, ["Group", "Seminar"])
+      filter: (page) => customFilter(page, intl.locale, ["Group", "Seminar"]),
+      sort: "position",
     })
 
     const newsPage = enhanceCollection(collection, {
