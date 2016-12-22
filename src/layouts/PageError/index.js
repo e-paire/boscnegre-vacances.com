@@ -36,11 +36,11 @@ class PageError extends Component {
               defaultMessage={errorText}
             />
           </p>
-          <div>
-            <Link to={homePage && homePage.__url} className={styles.button}>
-              <FormattedMessage id="errors.back_home" />
-            </Link>
-          </div>
+        </Content>
+        <Content className={styles.content}>
+          <Link to={homePage && homePage.__url} className={styles.button}>
+            <FormattedMessage id="errors.back_home" />
+          </Link>
         </Content>
       </Page>
     )
