@@ -1,10 +1,7 @@
 import React, {Component, PropTypes} from "react"
-import {FormattedMessage} from "react-intl"
-import {Link} from "react-router"
-import Icon from "react-fa"
-import {BodyContainer} from "phenomic"
 
 import Image from "components/Image"
+import TextLink from "components/TextLink"
 
 import styles from "./index.css"
 
@@ -17,21 +14,7 @@ class ImageText extends Component {
           <Image className={styles.image} src={cover.image} alt={cover.alt} />
         }
         <div className={styles.content}>
-          <BodyContainer className={styles[url ? "textWithUrl" : "text"]}>
-            {text}
-          </BodyContainer>
-          {url &&
-            <div className={styles.button}>
-              <Link className={styles.link} to={url}>
-                <span className={styles.linkText}>
-                  <FormattedMessage id="buttons.see_more" />
-                </span>
-                <span className={styles.linkIcon}>
-                  <Icon name="plus" />
-                </span>
-              </Link>
-            </div>
-          }
+          <TextLink text={text} url={url} />
         </div>
       </div>
     )

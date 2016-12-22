@@ -11,4 +11,3 @@ capacityMax: 80
 priceMin: 1000
 layout: CottagesCategory
 ---
-

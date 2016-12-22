@@ -1,11 +1,15 @@
 import React, {Component, PropTypes} from "react"
 import {connect} from "react-redux"
 import {Sticky} from "react-sticky"
+import {injectIntl, intlShape} from "react-intl"
+import enhanceCollection from "phenomic/lib/enhance-collection"
 
+import {customFilter} from "utils/collection"
 import Nav from "components/Nav"
 import TopBar from "components/TopBar"
 import TopLogo from "components/TopLogo"
 import Image from "components/Image"
+import TextLink from "components/TextLink"
 
 import styles from "./index.css"
 
@@ -30,7 +34,13 @@ class Header extends Component {
   }
 
   render() {
-    const {browser, cover, slogan, title} = this.props
+    const {collection} = this.context
+    const {browser, cover, intl, layoutToLink, slogan, text, title} = this.props
+
+    const PageToLink = enhanceCollection(collection, {
+      filter: (page) => customFilter(page, intl.locale, layoutToLink),
+    }).shift()
+
     return (
       <header className={styles.header}>
         <TopBar
@@ -54,11 +64,20 @@ class Header extends Component {
             {title &&
               <h1 className={styles.title}>{title}</h1>
             }
+            {text && PageToLink &&
+              <div className={styles.text}>
+                <TextLink text={text} url={PageToLink.__url} />
+              </div>
+            }
           </div>
         }
       </header>
     )
   }
+}
+
+Header.contextTypes = {
+  collection: PropTypes.array.isRequired,
 }
 
 Header.propTypes = {
@@ -67,10 +86,13 @@ Header.propTypes = {
     alt: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
   }),
+  intl: intlShape.isRequired,
+  layoutToLink: PropTypes.string,
   slogan: PropTypes.string,
+  text: PropTypes.string,
   title: PropTypes.string,
 }
 
 export default connect(
   ({browser}) => ({browser}),
-)(Header)
+)(injectIntl(Header))
