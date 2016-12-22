@@ -19,11 +19,10 @@ class Contact extends Component {
       <div className={styles.wrapper}>
         <Title id="contact_form.contact_us" />
         <form
+          name="contact"
           className={styles.form}
-          method="POST"
-          action="//formspree.io/cyberced1190@gmail.com"
-          target={afterContactPage ? "_self" : "_blank"}
-          rel="nofollow noopener noreferrer"
+          action={afterContactPage && afterContactPage.__url}
+          netlify
         >
           <input
             className={styles.input}
@@ -37,9 +36,6 @@ class Contact extends Component {
             rows="10"
             placeholder={intl.formatMessage({id: "contact_form.message"})}
           />
-          {afterContactPage &&
-            <input type="hidden" name="_next" value={afterContactPage.__url} />
-          }
           <button className={styles.button} type="submit">
             <FormattedMessage id="contact_form.send" />
           </button>
