@@ -33,6 +33,13 @@
   font-size: 15px;
 }
 
+.text {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+
 @media (--mq-lt-l) {
   .navOverlay {
     position: fixed;
@@ -67,5 +74,12 @@
 
   .photo {
     height: calc(100vh - 170px);
+  }
+
+  .text {
+    right: 150px;
+    bottom: 150px;
+    max-width: 400px;
+    display: block;
   }
 }

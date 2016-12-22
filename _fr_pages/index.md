@@ -7,6 +7,9 @@ navTitle: Accueil
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Village de vacances du Bosc Nègère
+header:
+  text: Vous êtes un groupe ? Nous avons des offres pour vous !
+  layoutToLink: Groups
 metaDescription: Bienvenue au village de vacances le Bosc Nègre à côté de la Dordogne.
   Profitez d'installations gratuites et de gîtes tout confort dans une des plus belles
   région de France
