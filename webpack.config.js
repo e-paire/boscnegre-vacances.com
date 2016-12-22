@@ -125,6 +125,7 @@ export default (config = {}) => {
       new CopyWebpackPlugin([
         {from: "_uploads", to: "uploads"},
         {from: "favicons"},
+        {from: "_redirects"}, // Handle server-side redirections on Netlify
       ]),
       ...config.production && [
         new webpack.optimize.DedupePlugin(),
