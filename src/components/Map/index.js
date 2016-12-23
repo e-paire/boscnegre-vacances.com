@@ -1,6 +1,4 @@
 import React, {Component, PropTypes} from "react"
-import remark from "remark"
-import html from "remark-html"
 import GoogleMap from "react-google-map"
 import GoogleMapLoader from "react-google-maps-loader"
 
@@ -33,8 +31,7 @@ class Map extends Component {
   }
 
   onMarkerLoaded(googleMaps, map, marker, description, isOpen) {
-    const content = remark().use(html).process(description).contents
-    const infoWindow = new googleMaps.InfoWindow({content})
+    const infoWindow = new googleMaps.InfoWindow({content: description})
 
     googleMaps.event.addListener(marker, "click", () => {
       infoWindow.open(map, marker)

@@ -7,6 +7,8 @@ import {phenomicLoader} from "phenomic"
 import PhenomicLoaderFeedWebpackPlugin from "phenomic/lib/loader-feed-webpack-plugin"
 import PhenomicLoaderSitemapWebpackPlugin from "phenomic/lib/loader-sitemap-webpack-plugin"
 
+import {mdifyObject, mdifyText} from "./src/utils/markdown"
+
 import pkg from "./package.json"
 
 export default (config = {}) => {
@@ -32,6 +34,22 @@ export default (config = {}) => {
   return {
     ...config.dev && {
       devtool: "#cheap-module-eval-source-map",
+    },
+    phenomic: {
+      plugins: [
+        require("phenomic/lib/loader-plugin-init-head-property-from-config").default,
+        require("phenomic/lib/loader-plugin-init-head-property-from-content").default,
+        require("phenomic/lib/loader-plugin-init-body-property-from-content").default,
+        // require("phenomic/lib/loader-plugin-transform-md-body-property-to-html").default,
+        ({ result }) => {
+        // console.log(result.head, mdifyObject(result.head))
+        return {
+          ...result,
+          head: mdifyObject(result.head),
+          body: mdifyText(result.body),
+        }
+      }
+      ],
     },
     module: {
       noParse: /\.min\.js/,
