@@ -9,7 +9,7 @@ import Image from "components/Image"
 
 import styles from "./index.css"
 
-const Cottage = ({beds, body, crush, cover, description, ctoutvertId, intl, title}) => {
+const Cottage = ({beds, crush, cover, description, ctoutvertId, intl, title}) => {
   return (
     <div className={styles.cottage}>
       <div className={styles.cover}>
@@ -18,7 +18,7 @@ const Cottage = ({beds, body, crush, cover, description, ctoutvertId, intl, titl
       <div className={styles.content}>
         <div className={styles.title}>{title}</div>
         <BodyContainer className={styles.description}>
-          {body || description}
+          {description}
         </BodyContainer>
         <div className={styles.meta}>
           {beds &&
@@ -50,7 +50,6 @@ Cottage.propTypes = {
     image: PropTypes.string.isRequired,
   }),
   ctoutvertId: PropTypes.number.isRequired,
-  body: PropTypes.string,
   description: PropTypes.string.isRequired,
   intl: intlShape.isRequired,
   title: PropTypes.string.isRequired,

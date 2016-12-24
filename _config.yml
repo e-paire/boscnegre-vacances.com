@@ -2,9 +2,6 @@
 title: Bosc Negre vacances
 timezone: Europe/Paris
 collections:
-  fr_cottages:
-    title: FR_cottages
-    output: true
   fr_cottages_categories:
     title: FR_cottages_categories
     output: true
@@ -19,9 +16,6 @@ collections:
     output: true
   fr_services:
     title: FR_services
-    output: true
-  nl_cottages:
-    title: NL_cottages
     output: true
   nl_cottages_categories:
     title: NL_cottages_categories
@@ -44,21 +38,6 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: fr_cottages
-  values:
-    layout: Cottage
-    route: gite-1
-    title: Gite 1
-    cover:
-      image: 
-      alt: 
-    position: 1
-    cottages_category_route: gites-indiv-4-6
-    beds: 5 couchages + canapé lit
-    crush: Le calme et l’espace entre chaque gîte
-    ctoutvertId: 
-- scope:
-    path: ''
     type: fr_cottages_categories
   values:
     layout: CottagesCategory
@@ -67,11 +46,20 @@ defaults:
     metaTitle: Gîtes individuels 4/6 personnes
     navTitle: Gîtes indiv 4/6 pers.
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     capacityMin: 4
     capacityMax: 6
     priceMin: 1000
+    cottages:
+    - title:
+      description:
+      cover:
+        image:
+        alt:
+      beds:
+      crush:
+      ctoutvertId:
 - scope:
     path: ''
     type: fr_groups
@@ -82,26 +70,26 @@ defaults:
     metaTitle: Scolaires & loisirs
     navTitle: Loisirs
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     position: 1
     icon: suitcase
-    imagesTitle: 
+    imagesTitle:
     images:
-    - image: 
-      alt: 
+    - image:
+      alt:
 - scope:
     path: ''
     type: fr_pages
   values:
-    layout: 
+    layout:
     route: ma-page
     title: Ma page
     metaTitle: Ma page
     navTitle: Loisirs
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: fr_posts
@@ -112,8 +100,8 @@ defaults:
     metaTitle: Mon article
     navTitle: Article
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: fr_services
@@ -124,23 +112,8 @@ defaults:
     metaTitle: Le meta-title du service
     navTitle: Le titre qui apparaitra dans le menu
     cover:
-      image: 
-      alt: 
-- scope:
-    path: ''
-    type: nl_cottages
-  values:
-    layout: Cottage
-    route: gite-1
-    title: Gite 1
-    cover:
-      image: 
-      alt: 
-    position: 1
-    cottages_category_route: gites-indiv-4-6
-    beds: 5 couchages + canapé lit
-    crush: Le calme et l’espace entre chaque gîte
-    ctoutvertId: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_cottages_categories
@@ -151,23 +124,32 @@ defaults:
     metaTitle: Gîtes individuels 4/6 personnes
     navTitle: Gîtes indiv 4/6 pers.
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     capacityMin: 4
     capacityMax: 6
     priceMin: 1000
+    cottages:
+    - title:
+      description:
+      cover:
+        image:
+        alt:
+      beds:
+      crush:
+      ctoutvertId:
 - scope:
     path: ''
     type: nl_pages
   values:
-    layout: 
+    layout:
     route: ma-page
     title: Ma page
     metaTitle: Ma page
     navTitle: Loisirs
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_posts
@@ -178,8 +160,8 @@ defaults:
     metaTitle: Mon article
     navTitle: Article
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_services
@@ -190,5 +172,5 @@ defaults:
     metaTitle: Le meta-title du service
     navTitle: Le titre qui apparaitra dans le menu
     cover:
-      image: 
-      alt: 
+      image:
+      alt:

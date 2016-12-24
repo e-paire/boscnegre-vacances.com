@@ -15,7 +15,7 @@ const CottagesCategory = ({head, body, ...props}) => {
         ]}
       />
       <Content>
-        <Cottages category_route={head.route} />
+        <Cottages cottages={head.cottages} />
       </Content>
       {body &&
         <Content childrenIsText>

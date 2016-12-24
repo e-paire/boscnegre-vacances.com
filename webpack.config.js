@@ -40,9 +40,7 @@ export default (config = {}) => {
         require("phenomic/lib/loader-plugin-init-head-property-from-config").default,
         require("phenomic/lib/loader-plugin-init-head-property-from-content").default,
         require("phenomic/lib/loader-plugin-init-body-property-from-content").default,
-        // require("phenomic/lib/loader-plugin-transform-md-body-property-to-html").default,
         ({ result }) => {
-        // console.log(result.head, mdifyObject(result.head))
         return {
           ...result,
           head: mdifyObject(result.head),

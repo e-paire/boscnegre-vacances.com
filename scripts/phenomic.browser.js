@@ -20,14 +20,12 @@ phenomicClient({metadata, routes, store})
 // md files processed via phenomic-loader to JSON & generate collection
 require.context("../_fr_pages", true, /\.(md|markdown)$/)
 require.context("../_fr_posts", true, /\.(md|markdown)$/)
-require.context("../_fr_cottages", true, /\.(md|markdown)$/)
 require.context("../_fr_cottages_categories", true, /\.(md|markdown)$/)
 require.context("../_fr_services", true, /\.(md|markdown)$/)
 require.context("../_fr_groups", true, /\.(md|markdown)$/)
 
 require.context("../_nl_pages", true, /\.(md|markdown)$/)
 require.context("../_nl_posts", true, /\.(md|markdown)$/)
-require.context("../_nl_cottages", true, /\.(md|markdown)$/)
 require.context("../_nl_cottages_categories", true, /\.(md|markdown)$/)
 require.context("../_nl_services", true, /\.(md|markdown)$/)
 
@@ -44,15 +42,10 @@ if (module.hot) {
   // hot load app
   module.hot.accept(
     ["../src/metadata.js", "../src/routes.js", "../src/store.js"],
-    // webpack 1
     () => phenomicClient({
       metadata: require("../src/metadata.js").default,
       routes: require("../src/routes.js").default,
       store: require("../src/store.js").default,
     })
-    // webpack 2
-    /*
-    () => phenomicClient({ metadata, routes, store })
-    */
   )
 }
