@@ -1,5 +1,5 @@
 ---
-title: Tous les services proposées au Bosc Nègre
+title: Tous les services proposés au Bosc Nègre
 position: 2
 route: tous-les-services
 metaTitle: Tous les services au Bosc Nègre
