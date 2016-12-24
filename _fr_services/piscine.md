@@ -1,6 +1,6 @@
 ---
 title: Piscine
-position: 2
+position: 3
 route: activites/piscine
 metaTitle: Toutes les activités au Bosc Nègre
 navTitle: Piscine
