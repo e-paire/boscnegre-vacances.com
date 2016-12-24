@@ -1,6 +1,6 @@
 ---
 title: Le restaurant avec produits locaux du Bosc Nègre
-position: 0
+position: 1
 route: restaurant
 metaTitle: Restaurant du Bosc Negre
 navTitle: Restaurant
