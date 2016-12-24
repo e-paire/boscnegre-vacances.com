@@ -1,6 +1,6 @@
 ---
 title: Sport
-position: 3
+position: 1
 route: activites/sport
 metaTitle: Des vacances sportives au Hameau du Bosc Nègre
 navTitle: Sport

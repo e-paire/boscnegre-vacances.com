@@ -1,6 +1,6 @@
 ---
 title: Animations en vacances
-position: 2
+position: 3
 route: activites/animations
 metaTitle: Toutes les animations au Bosc Nègre
 navTitle: Animations
