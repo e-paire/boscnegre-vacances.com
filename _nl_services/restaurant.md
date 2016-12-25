@@ -1,7 +1,7 @@
 ---
 title: Restaurant
 position: 1
-route: nl/restaurant
+route: nl/faciliteiten/restaurant
 metaTitle: Vakantiepark in Dordogne met restaurant op Bosc Negre
 navTitle: Restaurant
 cover:
