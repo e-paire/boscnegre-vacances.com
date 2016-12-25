@@ -1,9 +1,9 @@
 ---
-title: Alle activiteiten op de Bosc Negre
+title: Alle faciliteiten op de Bosc Negre
 position: 2
-route: "/nl/activiteiten"
+route: "/nl/faciliteiten"
 metaTitle: Gezellige activiteiten op de Bosc Negre
-navTitle: Activiteiten
+navTitle: Faciliteiten
 cover:
   image: "/uploads/atelier_cookies.JPG"
   alt: Activiteiten voor iedereen op de Bosc Negre
