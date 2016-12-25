@@ -1,7 +1,7 @@
 ---
 title: Les dernières news du Bosc Nègre
 position: 6
-route: news
+route: blog
 metaTitle: Les dernières nouveautés du Bosc Nègre
 navTitle: News
 cover:
