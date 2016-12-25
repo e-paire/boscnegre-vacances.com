@@ -1,7 +1,7 @@
 ---
 title: Vakantiepark met animatie dordogne
 position: 3
-route: "/nl/activiteiten/animatie"
+route: "/nl/faciliteiten/animatie"
 metaTitle: Activiteiten op vakantiepark in Dordogne Bosc Negre
 navTitle: Activiteiten
 cover:
