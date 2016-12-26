@@ -4,7 +4,6 @@ position: 3
 route: gites-mitoyen-7-9
 metaTitle: Gîtes mitoyen 7/9 pers.
 navTitle: Gîtes mitoyen 7/9 pers.
-metaDescription: 
 cover:
   image: "/uploads/chambre_grand_gite_Bosc_Negre.jpg"
   alt: gite pour 7 à 9 personnes au Bosc Negre
@@ -25,17 +24,6 @@ cottages:
   beds: 7 couchages + canapé lit
   crush: la proximité des animations
   ctoutvertId: 63370
-- title: Gîte de la ferme 5 (PMR)
-  description: Ce gîte est équipé pour les personnes à mobilité réduite. De par sa
-    proximité immédiate avec le restaurant et la piscine, vous êtes au centre des
-    animations du Bosc Nègre.
-  cover:
-    image: "/uploads/gite_PMR_Bosc_Negre.jpg"
-    alt: Les gites de la ferme au Bosc Negre
-  cottages_category_route: gites-mitoyen-5-7
-  beds: 5 couchages + canapé lit
-  crush: L'accessibilité
-  ctoutvertId: 63374
 - title: Grand gîte n°4 de la ferme
   description: 'Deux chambres à l''étage: une avec trois lits de 1 personne, la 2ème
     avec 4 lits de 1 personne. Salle d''eau avec douche. Rez-de-chaussée: séjour avec
@@ -46,6 +34,7 @@ cottages:
   beds: 7 lits + canapé lit
   crush: La proximité des animations
   ctoutvertId: 63376
+metaDescription: 
 layout: CottagesCategory
 ---
 
