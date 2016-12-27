@@ -37,7 +37,11 @@ const Seminar = ({head, body, ...props}) => {
               </div>
               <div className={styles.content}>
                 <div className={styles.description}>
-                  {service.description}
+                  {service.description &&
+                    <BodyContainer>
+                      {service.description}
+                    </BodyContainer>
+                  }
                 </div>
               </div>
             </div>
