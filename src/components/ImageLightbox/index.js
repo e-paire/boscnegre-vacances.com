@@ -28,7 +28,9 @@ class ImageLightbox extends Component {
     const {index} = this.state
     const {images} = this.props
     this.setState({
-      index: (index + 1) % images.length,
+      index: images
+        ? (index + 1) % images.length
+        : 0,
     })
   }
 
@@ -36,7 +38,9 @@ class ImageLightbox extends Component {
     const {index} = this.state
     const {images} = this.props
     this.setState({
-      index: (index + images.length - 1) % images.length,
+      index: images
+        ? (index + images.length - 1) % images.length
+        : 0,
     })
   }
 

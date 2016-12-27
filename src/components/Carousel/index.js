@@ -25,7 +25,7 @@ class Carousel extends Component {
   }
 
   render() {
-    const {arrowsClassName, browser, noKeys, slides_number, theme} = this.props
+    const {arrowsClassName, browser, children, noKeys, slides_number, theme} = this.props
     const settings = {
       arrows: false,
       accessibility: !noKeys,
@@ -34,17 +34,18 @@ class Carousel extends Component {
       slidesToShow: slides_number[browser.mediaType],
       slidesToScroll: slides_number[browser.mediaType],
     }
+    const childrenIsArray = children && Array.isArray(children)
     return (
       <div className={styles.slider}>
         <Slick ref={ref => this.ref_slider = ref} {...settings}>
-          {this.props.children}
+          {children}
         </Slick>
-        {slides_number[browser.mediaType] < this.props.children.length &&
+        {childrenIsArray && slides_number[browser.mediaType] < children.length &&
           <span className={classNames(styles[`left_${theme}`], arrowsClassName)} onClick={this.handlePrevious}>
             <Icon name="angle-left" />
           </span>
         }
-        {slides_number[browser.mediaType] < this.props.children.length &&
+        {childrenIsArray && slides_number[browser.mediaType] < children.length &&
         <span className={classNames(styles[`right_${theme}`], arrowsClassName)} onClick={this.handleNext}>
           <Icon name="angle-right" />
         </span>

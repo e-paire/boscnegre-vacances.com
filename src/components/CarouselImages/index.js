@@ -35,7 +35,7 @@ class CarouselImages extends Component {
   render() {
     const {lightboxIndex, isLightboxOpen} = this.state
     const {images, theme} = this.props
-    return images.length > 0
+    return images && images.length > 0
       ? <ImageLightbox
           index={lightboxIndex}
           images={images.map(({image, alt}) => ({

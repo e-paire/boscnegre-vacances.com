@@ -5,7 +5,7 @@ import Title from "components/Title"
 import styles from "./index.css"
 
 const PricesExamples = ({prices}) => {
-  return prices.length > 0
+  return prices && prices.length > 0
     ? <div>
         <Title id="titles.prices_examples" theme="yellow" />
         <div className={styles.wrapper}>

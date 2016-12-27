@@ -89,7 +89,7 @@ class Nav extends Component {
                     : cottagesCategoriesPage.title
                   }
                   </Link>
-                  {cottagesCategories.length > 0 &&
+                  {cottagesCategories && cottagesCategories.length > 0 &&
                     <ul className={styles.sublist}>
                       {cottagesCategories.map((category, i) => (
                         <li key={i} className={styles.item}>
@@ -113,7 +113,7 @@ class Nav extends Component {
                     : servicesPage.title
                   }
                   </Link>
-                  {services.length > 0 &&
+                  {services && services.length > 0 &&
                     <ul className={styles.sublist}>
                       {services.map((service, i) => (
                         <li key={i} className={styles.item}>
@@ -157,7 +157,7 @@ class Nav extends Component {
                     : groupsPage.title
                   }
                   </Link>
-                  {groups.length > 0 &&
+                  {groups && groups.length > 0 &&
                     <ul className={styles.sublist}>
                       {groups.map((group, i) => (
                         <li key={i} className={styles.item}>

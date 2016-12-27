@@ -11,9 +11,11 @@ class TextLink extends Component {
     const {url, text} = this.props
     return (
       <div>
-        <BodyContainer className={styles[url ? "textWithUrl" : "text"]}>
-          {text}
-        </BodyContainer>
+        {text &&
+          <BodyContainer className={styles[url ? "textWithUrl" : "text"]}>
+            {text}
+          </BodyContainer>
+        }
         {url &&
           <div className={styles.button}>
             <Link className={styles.link} to={url}>

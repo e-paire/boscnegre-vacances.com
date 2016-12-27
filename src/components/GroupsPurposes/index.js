@@ -27,7 +27,7 @@ class GroupsPurposes extends Component {
       sort: "position",
     })
 
-    return groups.length > 0
+    return groups && groups.length > 0
       ? <div>
           <Title id="titles.group_holidays" theme="yellow" />
           {groupsPage && groupsPage.cover &&

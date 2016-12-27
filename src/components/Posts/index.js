@@ -16,7 +16,7 @@ class Posts extends Component {
       sort: "date",
     })
 
-    return posts.length > 0
+    return posts && posts.length > 0
     ? <div className={styles.post}>
         {posts.map((post, i) => (
           <div key={i}>

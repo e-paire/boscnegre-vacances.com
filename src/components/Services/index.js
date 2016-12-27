@@ -18,7 +18,7 @@ class Services extends Component {
       sort: "position",
     })
 
-    return services.length > 0 ? (
+    return services && services.length > 0 ? (
       <div>
         <Title id="titles.discover_services" />
         <div className={styles.services}>

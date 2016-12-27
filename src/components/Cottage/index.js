@@ -18,9 +18,11 @@ const Cottage = ({beds, crush, cover, description, ctoutvertId, intl, title}) =>
       <div className={styles.content}>
         <div className={styles.text}>
           <div className={styles.title}>{title}</div>
-          <BodyContainer className={styles.description}>
-            {description}
-          </BodyContainer>
+          {description &&
+            <BodyContainer className={styles.description}>
+              {description}
+            </BodyContainer>
+          }
           <div className={styles.meta}>
             {beds &&
               <div className={styles.box}>

@@ -56,7 +56,7 @@ class CottagesCategories extends Component {
       src: cover && cover.image,
     }))
 
-    return cottagesCategories.length > 0
+    return cottagesCategories && cottagesCategories.length > 0
       ? <div>
           <Title id="titles.our_cottages" />
           <ImageLightbox

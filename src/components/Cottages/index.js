@@ -7,7 +7,7 @@ import styles from "./index.css"
 class Cottages extends Component {
   render() {
     const {cottages} = this.props
-    return cottages.length > 0
+    return cottages && cottages.length > 0
       ? <div className={styles.cottages}>
           {cottages.map((cottage, index) => (
             <div key={index} className={styles.cottage}>
