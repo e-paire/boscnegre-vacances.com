@@ -4,7 +4,7 @@ import html from "remark-html"
 
 export function mdifyText(text) {
   return remark()
-    .use(html, { entities: "escape" })
+    .use(html, {entities: "escape"})
     .process(text, {
       commonmark: true,
     })

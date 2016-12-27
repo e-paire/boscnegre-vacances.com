@@ -17,7 +17,7 @@
   "phenomic": {
     "CNAME": false,
     "assets": false,
-    "verbose": false,
+    "verbose": true,
     "open": false,
     "source": ""
   },

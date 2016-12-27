@@ -13,7 +13,6 @@ class Services extends Component {
   render() {
     const {collection} = this.context
     const {intl} = this.props
-    console.log(collection)
     const services = enhanceCollection(collection, {
       filter: (page) => customFilter(page, intl.locale, "Service"),
       sort: "position",
