@@ -22,7 +22,7 @@ class Contact extends Component {
           name="contact"
           className={styles.form}
           action={afterContactPage && afterContactPage.__url}
-          netlify
+          netlify="netlify"
         >
           <input
             className={styles.input}
