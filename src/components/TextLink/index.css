@@ -40,19 +40,20 @@
 
 @media (--mq-gt-s) {
   .text {
-    padding: 30px;
+    padding: 20px;
   }
 
   .textWithUrl {
     composes: text;
     padding-right: 100px;
+    max-width: 400px;
   }
 
   .link {
-    font-size: 20px;
+    font-size: 16px;
     padding: 20px;
-    height: 150px;
-    width: 150px;
+    height: 120px;
+    width: 120px;
   }
 
   .link::before {

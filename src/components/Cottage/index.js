@@ -16,23 +16,25 @@ const Cottage = ({beds, crush, cover, description, ctoutvertId, intl, title}) =>
         <Image src={cover.image} alt={cover.alt} />
       </div>
       <div className={styles.content}>
-        <div className={styles.title}>{title}</div>
-        <BodyContainer className={styles.description}>
-          {description}
-        </BodyContainer>
-        <div className={styles.meta}>
-          {beds &&
-            <div className={styles.box}>
-              <Icon className={styles.bed} name="bed" />
-              {beds}
-            </div>
-          }
-          {crush &&
-            <div className={styles.box}>
-              <Icon className={styles.heart} name="heart" />
-              {crush}
-            </div>
-          }
+        <div className={styles.text}>
+          <div className={styles.title}>{title}</div>
+          <BodyContainer className={styles.description}>
+            {description}
+          </BodyContainer>
+          <div className={styles.meta}>
+            {beds &&
+              <div className={styles.box}>
+                <Icon className={styles.bed} name="bed" />
+                {beds}
+              </div>
+            }
+            {crush &&
+              <div className={styles.box}>
+                <Icon className={styles.heart} name="heart" />
+                {crush}
+              </div>
+            }
+          </div>
         </div>
         <ExternalLink className={styles.button} href={`${getUrl("secureholiday", intl.locale)}/product.popup?idProduct=${ctoutvertId}`}>
           <FormattedMessage id="buttons.check_prices" />

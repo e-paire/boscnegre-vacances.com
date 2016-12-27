@@ -2,14 +2,19 @@
 @import "styles/mq.css";
 
 .content {
-  background: var(--color_gray);
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+}
+
+.text {
+  border: 1px solid var(--color_gray);
+  border-bottom: 0;
 }
 
 .title {
   font-size: 24px;
-  background: var(--color_bosc_green);
   font-family: var(--font-title);
-  color: #fff;
   text-transform: uppercase;
   padding: 10px;
   text-align: center;
@@ -62,11 +67,14 @@
   }
 
   .cover {
-    flex: 1 1 30%;
+    flex: 1 1 40%;
   }
 
   .content {
-    flex: 1 1 70%;
+    flex: 1 1 60%;
+  }
+
+  .text {
     display: flex;
     flex-direction: column;
     align-content: stretch;

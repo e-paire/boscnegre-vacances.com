@@ -13,6 +13,7 @@ class Posts extends Component {
     const {intl} = this.props
     const posts = enhanceCollection(collection, {
       filter: (page) => customFilter(page, intl.locale, "Post"),
+      sort: "date",
     })
 
     return posts.length > 0

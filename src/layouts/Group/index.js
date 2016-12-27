@@ -15,10 +15,6 @@ const Group = ({head, body, ...props}) => {
           {layout: "Groups"},
         ]}
       />
-      <Content>
-        <CarouselImages images={head.images} theme="yellow" />
-        {head.imagesTitle && <Title id={head.imagesTitle} theme="yellow" />}
-      </Content>
       {body &&
         <Content childrenIsText>
           <BodyContainer>

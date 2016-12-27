@@ -1,9 +1,10 @@
 @import "styles/variables.css";
 
-.cottage + .cottage {
-  margin-top: 20px;
+.cottages {
+  max-width: 1000px;
+  margin: auto;
 }
 
-.even {
-  background: var(--color_gray);
+.cottage + .cottage {
+  margin-top: 20px;
 }

@@ -54,6 +54,12 @@ class Image extends Component {
         <img
           className={classNames(styles.image, loaded && styles.image_loaded)}
           src={this.getSrc()}
+          sizes={`
+            (max-width: 669px),
+            (min-width: 670px) and (max-width: 1023px),
+            (min-width: 1024px) and (max-width: 1359px),
+            (min-width: 1360px),
+          `}
           alt={alt}
           onLoad={this.handleLoaded}
         />

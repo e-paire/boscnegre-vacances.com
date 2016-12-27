@@ -1,5 +1,4 @@
 import React, {Component, PropTypes} from "react"
-import classNames from "classnames"
 
 import Cottage from "components/Cottage"
 
@@ -9,11 +8,9 @@ class Cottages extends Component {
   render() {
     const {cottages} = this.props
     return cottages.length > 0
-      ? <div>
+      ? <div className={styles.cottages}>
           {cottages.map((cottage, index) => (
-            <div key={index}
-              className={classNames(styles.cottage, index % 2 == 0 && styles.even)}
-            >
+            <div key={index} className={styles.cottage}>
               <Cottage {...cottage} />
             </div>
           ))}
