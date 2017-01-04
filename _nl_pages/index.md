@@ -18,8 +18,8 @@ offers:
 layout: Homepage
 ---
 
-Welkom op de Bosc Nègre, een **kleinschalig door Nederlanders gerund vakantiepark in de Dordogne** met 23 ruim gelegen gites, veel privacy op een bosrijk terrein in een prachtige omgeving. \
+Welkom op de Bosc Nègre, een **kleinschalig door Nederlanders gerund vakantiepark in de Dordogne** met 23 ruim gelegen gites, veel privacy, op een bosrijk terrein in een prachtige omgeving. \
 \
 Het park is ideaal voor een vakantie met uw gezin. Geniet van alle voorzieningen voor een geslaagde vakantie voor de hele familie. Een restaurant, verwarmd zwembad, tennisbaan, sportvelden, een activiteitenprogramma met voor elk wat wils en vele mogelijkheden voor uitstapjes in de omgeving. Succes gegarandeerd voor kinderen, tieners en hun ouders.\
 \
-Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn de sleutelwoorden die passen bij een **vakantie in de Dordogne**.\
+Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn de sleutelwoorden die passen bij een **vakantie in de Dordogne**.
