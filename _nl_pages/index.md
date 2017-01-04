@@ -9,7 +9,7 @@ cover:
   alt: Vakantiepark Bosc Negre
 metaDescription: Vakantiehuisjes op Bosc Nègre met restaurant, verwarmd zwembad en
   tennisbaan. Een kleinschalige vakantiepark tussen Dordogne en Lot voor het gezin
-slogan: 23 vakantie huisjes in de Dordogne
+slogan: 23 vakantiehuisjes in de Dordogne
 offers:
   cover:
     image: "/uploads/castle.png"
@@ -18,8 +18,8 @@ offers:
 layout: Homepage
 ---
 
-Welcome op de Bosc-Nègre, een **kleinschalig vakantiepark in Dordogne** met 23 gites ruim gelegen op een terrein van 21 hectare, met veel privacy. \
+Welkom op de Bosc Nègre, een **kleinschalig door Nederlanders gerund vakantiepark in de Dordogne** met 23 ruim gelegen gites, veel privacy op een bosrijk terrein in een prachtige omgeving. \
 \
-Het park is ideaal voor een vakantie met uw gezin. Genieten van alle voorzieningen voor het slagen van een vakantie voor de hele familie. Met een restaurant, een verwarmd zwembad, een tennisbaan en een activiteitenprogramma met voor elk wat wils, is succes gegarandeerd voor kinderen, tieners en hun ouders.\
+Het park is ideaal voor een vakantie met uw gezin. Geniet van alle voorzieningen voor een geslaagde vakantie voor de hele familie. Een restaurant, verwarmd zwembad, tennisbaan, sportvelden, een activiteitenprogramma met voor elk wat wils en vele mogelijkheden voor uitstapjes in de omgeving. Succes gegarandeerd voor kinderen, tieners en hun ouders.\
 \
-En vooral voor: Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn dè sleutelwoorden die passen bij een **vakantie in Dordogne met nederlandse eigenaar**.\
+Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn de sleutelwoorden die passen bij een **vakantie in de Dordogne**.\
