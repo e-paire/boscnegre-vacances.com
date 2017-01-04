@@ -19,6 +19,7 @@ class Contact extends Component {
       <div className={styles.wrapper}>
         <Title id="contact_form.contact_us" />
         <form
+          method="post"
           name="contact"
           className={styles.form}
           action={afterContactPage && afterContactPage.__url}
@@ -36,6 +37,7 @@ class Contact extends Component {
             rows="10"
             placeholder={intl.formatMessage({id: "contact_form.message"})}
           />
+          <input type="hidden" name="form-name" value="contact" />
           <button className={styles.button}>
             <FormattedMessage id="contact_form.send" />
           </button>
