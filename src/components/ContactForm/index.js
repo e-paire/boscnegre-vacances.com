@@ -22,7 +22,7 @@ class Contact extends Component {
           name="contact"
           className={styles.form}
           action={afterContactPage && afterContactPage.__url}
-          netlify="netlify"
+          data-netlify
         >
           <input
             className={styles.input}
@@ -36,7 +36,7 @@ class Contact extends Component {
             rows="10"
             placeholder={intl.formatMessage({id: "contact_form.message"})}
           />
-          <button className={styles.button} type="submit">
+          <button className={styles.button}>
             <FormattedMessage id="contact_form.send" />
           </button>
         </form>
