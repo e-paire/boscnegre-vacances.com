@@ -32,6 +32,7 @@ class Image extends Component {
     const {metadata: {pkg}} = this.context
     const {src} = this.props
     const options = [
+      "w_256",
       "q_auto",
       "c_fill",
     ]
