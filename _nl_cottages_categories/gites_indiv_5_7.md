@@ -19,7 +19,7 @@ cottages:
   cover:
     image: "/uploads/Gite_du_pre_Bosc_Negre.jpg"
     alt: Vakantiehuisjes "Gîtes du Pré" op de Bosc Negre
-  beds: 5 bedden + slaapbank
+  beds: 5 bedden + vakantiebed
   crush: De ruimte in de huisjes
   ctoutvertId: 63382
 - title: Vakantiehuisjes "Gîtes du Pré" op de heuvel
