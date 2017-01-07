@@ -8,19 +8,23 @@ import "./styles/index.css"
 
 import Container from "./components/Container"
 import DefaultHeadMeta from "./components/DefaultHeadMeta"
+import GATracker from "./components/GoogleAnalyticsTracker"
 
 class AppContainer extends Component {
   render() {
     const {children, location} = this.props
     const locale = getLocale(location.pathname)
     const intl = getIntl(locale)
+
     return (
-      <IntlProvider {...intl}>
-        <Container>
-          <DefaultHeadMeta />
-          {children}
-        </Container>
-      </IntlProvider>
+      <GATracker params={this.props.params}>
+        <IntlProvider {...intl}>
+          <Container>
+            <DefaultHeadMeta />
+            {children}
+          </Container>
+        </IntlProvider>
+      </GATracker>
     )
   }
 }
@@ -28,6 +32,7 @@ class AppContainer extends Component {
 AppContainer.propTypes = {
   location: PropTypes.object.isRequired,
   children: PropTypes.node,
+  params: PropTypes.object.isRequired,
 }
 
 export default AppContainer

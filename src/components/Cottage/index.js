@@ -54,7 +54,7 @@ Cottage.propTypes = {
     image: PropTypes.string.isRequired,
   }),
   ctoutvertId: PropTypes.number.isRequired,
-  description: PropTypes.string.isRequired,
+  description: PropTypes.string,
   intl: intlShape.isRequired,
   title: PropTypes.string.isRequired,
 }

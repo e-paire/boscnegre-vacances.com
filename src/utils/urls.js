@@ -8,7 +8,7 @@ const urls = {
     facebook: "https://www.facebook.com/BoscNegre",
     secureholiday: "https://boscnegrevacancesfr.premium.secureholiday.net/fr/14230",
     tripadvisor: "https://www.tripadvisor.fr/Hotel_Review-g1856959-d2058207-Reviews-Village_de_vacances_Bosc_Negre-Lacapelle_Biron_Lot_et_Garonne_Nouvelle_Aquitaine.html",
-    villagesdegites: "http://www.villagesdegites.fr/",
+    villagedegites: "http://www.villagesdegites.fr/",
     youtube: "https://www.youtube.com/channel/UCnlRv-Wb9sXyFP9LEUQ4LpQ",
   },
   nl: {
