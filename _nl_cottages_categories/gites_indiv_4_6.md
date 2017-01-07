@@ -19,7 +19,7 @@ cottages:
   cover:
     image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
     alt: Vakantiehuisjes gîtes du Lac op de Bosc Negre
-  beds: 4 bedden + slaapbank
+  beds: 4 bedden + vakantiebed
   crush: Midden in het parc gelegen maar toch rustig
   ctoutvertId: 63377
 - title: Vakantiehuisje "Gîte de la forêt"
@@ -27,7 +27,7 @@ cottages:
   cover:
     image: "/uploads/gite_14_Bosc_Negre.jpg"
     alt: Vakantiehuisje 14 midden in het bos op de Bosc Negre
-  beds: 4 bedden + slaapbank
+  beds: 4 bedden + vakantiebed
   crush: De rust midden in het bos
   ctoutvertId: 63379
 layout: CottagesCategory
