@@ -32,22 +32,6 @@ gallery:
     alt: 
   - image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
     alt: 
-- title: Le restaurant
-  images:
-  - image: "/uploads/castle.png"
-    alt: castle
-  - image: "/uploads/castle.png"
-    alt: castle
-  - image: "/uploads/castle.png"
-    alt: castle
-  - image: "/uploads/castle.png"
-    alt: castle
-  - image: "/uploads/castle.png"
-    alt: castle
-  - image: "/uploads/castle.png"
-    alt: castle
-  - image: "/uploads/castle.png"
-    alt: castle
 layout: Photos
 ---
 
