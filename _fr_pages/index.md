@@ -17,7 +17,7 @@ slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord No
 offers:
   cover:
     image: "/uploads/castle.png"
-    alt: les offres spéciales du Bosc Nègre
+    alt: les offres du Bosc Nègre
   text: Profitez des offres en cours du Bosc Nègre pour partir en vacances au meilleur
     prix !
 layout: Homepage
