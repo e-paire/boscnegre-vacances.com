@@ -1,6 +1,6 @@
 ---
 title: Geniet van een gite in Dordogne met een zwembad
-position: 2
+position: 0
 route: "/nl/faciliteiten/verwarmd-zwembad"
 metaTitle: Gites dordogne met zwembad op de Bosc Negre
 navTitle: Verwarmd  zwembad
