@@ -15,9 +15,10 @@ const DefaultHeadMeta = (props, {metadata: {pkg}}) => (
     />
     { /* meta viewport safari/chrome/edge */ }
     <Helmet
-      meta={[{
-        name: "viewport", content: "width=device-width, initial-scale=1, user-scalable=no",
-      }]}
+      meta={[
+        {name: "viewport", content: "width=device-width, initial-scale=1, user-scalable=no"},
+        {name: "google-site-verification", content: pkg.universalAnalytics},
+      ]}
     />
     { /* favicons */ }
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
