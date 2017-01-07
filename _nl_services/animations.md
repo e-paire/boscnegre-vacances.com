@@ -1,6 +1,6 @@
 ---
 title: Sporten op de Bosc Negre
-position: 2
+position: 3
 route: "/nl/faciliteiten/sportief"
 metaTitle: Sportieve vakantie in de Dordogne op de Bosc Negre
 navTitle: Sport
