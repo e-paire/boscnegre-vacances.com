@@ -12,7 +12,7 @@ metaDescription: Vakantiehuisjes op Bosc Nègre met restaurant, verwarmd zwembad
 slogan: 23 vakantiehuisjes in de Dordogne
 offers:
   cover:
-    image: "/uploads/castle.png"
+    image: "/uploads/chateau_biron_village_biron.jpg"
     alt: castle
   text: Geniet van de beste prijzen voor uw vakantie op de Bosc Negre
 layout: Homepage
