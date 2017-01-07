@@ -9,16 +9,10 @@ cover:
   alt: Grande salle de séminaire au Bosc Negre pour votre réunion de travail
 icon: suitcase
 images:
-- image: "/uploads/Demi_salle_epi__Bosc_Negre.jpg"
-  alt: Demi salle de séminaire au Bosc Negre
-- image: "/uploads/Demi_salle_U__Bosc_Negre.jpg"
-  alt: Demi salle de séminaire en U au Bosc Negre
 - image: "/uploads/Grande_salle_U_vue_de_face_Bosc_Negre.jpg"
   alt: Grande salle de séminaire au Bosc Negre pour votre réunion de travail
 - image: "/uploads/Demi_salle_U_Bosc_Negre.jpg"
   alt: Demi salle de séminaire en U pour 40 personnes au Bosc Negre
-- image: "/uploads/Demi_salle_epi__Bosc_Negre.jpg"
-  alt: Demi salle de séminaire en epi au Bosc Negre
 metaDescription: Organisez votre séminaire ou votre réunion en plein forêt du Périgord,
   Lot et Garonne. Bénéficiez également d’hébergements et d’une pension complète. Nous
   proposons des séminaires sur mesure en fonction de vos besoins !
