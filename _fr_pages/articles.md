@@ -7,7 +7,7 @@ navTitle: News
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Les nouveautés du Bosc Nègre
-is_visible: true
+is_visible: false
 layout: Posts
 ---
 
