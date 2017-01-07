@@ -11,25 +11,6 @@ capacityMin: 5
 capacityMax: 7
 priceMin: 450
 cottages:
-- title: Ruim vakantiehuisje n°2
-  description: Wilt u het huisje delen met vrienden of bent u een samengesteld gezin
-    met 4 of 5 kinderen? Dan is gite n° 2 een goede keuze voor 9 personen
-  cover:
-    image: "/uploads/chambre_grand_gite_Bosc_Negre.jpg"
-  beds: 7 bedden + slaapbank
-  crush: Dichtbij de activiteiten
-  ctoutvertId: 63370
-- title: Ruim vakantiehuisjes n°4
-  description: 'Op de eerste verdieping : 1 slaapkamer met drie 1-persoons bedden,
-    1 slaapkamer met vier 1-persoons bedden. Badkamer met douche. Op de begane grond
-    : living met keuken/kitchenette, wc, slaapbank voor 2 personen, houten meubels,
-    enz.'
-  cover:
-    image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
-    alt: Een ruim vakantiehuisje op de Bosc Negre
-  beds: 7 bedden + slaapbank
-  crush: Dichtbij de activiteiten
-  ctoutvertId: 63376
 - title: Vakantiehuisje "Gîte de la ferme" 3
   description: 'Op de eerste verdieping : 1 slaapkamer met een 2-persoonsbed, 1 slaapkamer
     met drie 1-persoons bedden (geen stapelbedden). Badkamer met douche. Op de begane
