@@ -5,7 +5,7 @@ route: activites/piscine
 metaTitle: Toutes les activités au Bosc Nègre
 navTitle: Piscine
 cover:
-  image: "/uploads/Piscine%20en%20famille.JPG"
+  image: "/uploads/piscine_famille_Bosc_Negrejpg"
   alt: Piscine chauffée Bosc Nègre
 metaDescription: Amusez-vous dans la piscine chauffé ou dans la pateogoire. Tout est
   fait pour ravir petits et grands au Hameau de Bosc Nègre en Lot-et-Garonne, limitrophe
