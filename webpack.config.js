@@ -131,7 +131,7 @@ export default (config = {}) => {
         },
       }),
       new PhenomicLoaderSitemapWebpackPlugin({
-        site_url: "http://boscnegre.netlify.com",
+        site_url: pkg.homepage,
         collectionOptions: {
           filter: (c) => typeof (c.isInSitemap) === "undefined" || c.isInSitemap === true,
           sort: "__url",

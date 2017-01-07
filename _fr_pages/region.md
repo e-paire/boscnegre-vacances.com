@@ -106,6 +106,6 @@ Retrouvez sur la carte les différents lieux touristiques que nous vous recomman
 
 * Marchés très appréciés et réunissant de nombreux exposants sont organisés partout dans la région. Nos préférés sont le marché d’Issigeac, le marché de Monpazier ainsi que celui de Villeréal.
 
-Le région regorge également d’un terroir unique avec le foie gras, le magret de canard, la truffe, les noix, les pruneaux, le vin et bien d’autre produits gourmands. Retrouvez toute ces spécialités dans la cuisine de notre [restaurant](http://boscnegre.netlify.com/restaurant/).
+Le région regorge également d’un terroir unique avec le foie gras, le magret de canard, la truffe, les noix, les pruneaux, le vin et bien d’autre produits gourmands. Retrouvez toute ces spécialités dans la cuisine de notre [restaurant](/restaurant/).
 
 Pour plus d’informations sur la région, nous vous conseillons de consulter le site de [l’office de tourisme du fumélois](http://www.tourisme-fumel.com/fr/decouvrir/5-visites.html#.VOGfpfmG-So).
