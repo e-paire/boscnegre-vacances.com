@@ -32,6 +32,18 @@ gallery:
     alt: 
   - image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
     alt: 
+- title: La belle région autour du Bosc Nègre
+  images:
+  - image: "/uploads/chateau_biron_village_biron.jpg"
+    alt: 
+  - image: "/uploads/ruelle_monflanquin.jpg"
+    alt: 
+  - image: "/uploads/la_tour_du_chateau_de_bonaguil.JPG"
+    alt: 
+  - image: "/uploads/les_vignes_dordogne.JPG"
+    alt: 
+  - image: "/uploads/vu_sur_le_lot_Puy_leveque.JPG"
+    alt: 
 layout: Photos
 ---
 
