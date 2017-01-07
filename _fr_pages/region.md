@@ -32,7 +32,7 @@ coordinates:
   color: green
 - title: Monpazier
   latitude: 44.682499
-  longitude: 0.894904
+  longitude: 44.682499
   description: |-
     Plus beau village de France
 
@@ -72,7 +72,7 @@ coordinates:
   latitude: 44.891645
   longitude: 1.207299
   color: grey
-  description: Capitale du Perigord
+  description: 'Sarlat-la-Canéda : Capitale du Perigord'
 - title: Bergerac
   latitude: 44.854342
   longitude: 0.482802
@@ -82,12 +82,13 @@ coordinates:
   latitude: 44.815989
   longitude: 1.148815
   color: blue
-  description: Château de Castelnaud surplombant la vallée de la Dordogne
+  description: 'Castelnaud-la-Chapelle : Magnifique château de Castelnaud surplombant
+    la vallée de la Dordogne'
 - title: Saint-Cyprien
   latitude: 44.87841
   longitude: 1.024565
   color: grey
-  description: Lieu de départ idéal pour une après-midi canoë
+  description: Saint-Cyprien :Lieu de départ idéal pour une après-midi canoë
 layout: Region
 ---
 
