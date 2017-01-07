@@ -19,7 +19,7 @@ cottages:
   cover:
     image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
     alt: Een ruim vakantiehuisje op de Bosc Negre
-  beds: 5 bedden + slaapbank
+  beds: 5 bedden + vakantiebed
   crush: Dichtbij het zwembad
   ctoutvertId: 63373
 - title: Vakantiehuisje "Gîte de la ferme" 5
@@ -27,7 +27,7 @@ cottages:
   cover:
     image: "/uploads/gite_PMR_Bosc_Negre.jpg"
     alt: Vakantiehuisje nummer 5 op de Bosc Negre
-  beds: 5 bedden + slaapbank
+  beds: 5 bedden + vakantiebed
   crush: Voor mindervaliden
   ctoutvertId: 63374
 - title: Vakantiehuisjes "Bergerie"
@@ -38,7 +38,7 @@ cottages:
   cover:
     image: "/uploads/gites_de_la_bergerie.jpg"
     alt: vakantiehuisjes Bergerie op de Bosc Negre
-  beds: 5 bedden + slaapbank
+  beds: 5 bedden + vakantiebed
   crush: Het grasveld voor de huisjes
   ctoutvertId: 63380
 layout: CottagesCategory
