@@ -17,6 +17,51 @@ coordinates:
   description: "**Vakantiepark Bosc Negre**  \nBois de las putas  \n47150 Lacapelle-Biron
     \ \nLat : 44.597091  \nLong : 0.873799"
   color: orange
+- title: Monflanquin
+  latitude: 44.532771
+  longitude: 0.765645
+  description: 'Monflanquin: Eén van de mooiste dorpen in Frankrijk'
+  color: green
+- title: Monpazier
+  latitude: 44.682499
+  longitude: 44.682499
+  description: 'Monpazier: Eén van de mooiste dorpen in Frankrijk'
+  color: green
+- title: Villefranche-du-Périgord
+  latitude: 44.62974
+  longitude: 1.0813
+  description: 'Villefranche-du-Périgord: Eén van de mooiste dorpen in Frankrijk'
+  color: green
+- title: Biron
+  latitude: 44.631365
+  longitude: 0.87071
+  description: Kasteel van Biron (5km loopafstand van de Bosc Negre)
+  color: blue
+- title: Issigeac
+  latitude: 44.730668
+  longitude: 0.606769
+  description: 'Issigeac: een leuke markt elke zondag morgen'
+  color: yellow
+- title: Bonaguil
+  latitude: 44.53846
+  longitude: 1.014307
+  description: 'Kasteel van Bonaguil: een middeleuwse kasteel van de XIIIde eeuw'
+  color: yellow
+- title: Gavaudun
+  latitude: 44.560756
+  longitude: 44.560756
+  description: Kasteel van Gavaudun (loopafstand van de Bosc Negre)
+  color: blue
+- title: Vallei van de lot
+  latitude: 44.411468
+  longitude: 0.736099
+  description: Prachtige vallei met veel fietsroutes
+  color: grey
+- title: Sarlat-la-Canéda
+  latitude: 44.891645
+  longitude: 1.207299
+  description: 'Sarlat-la-Canéda: hoodstad van de Perigord'
+  color: grey
 layout: Region
 ---
 
