@@ -5,12 +5,15 @@ route: "/groupes/scolaire-centre-de-loisirs"
 metaTitle: Groupes scolaires et centre de loisirs au Hameau du Bosc Nègre
 navTitle: Scolaire & Centre de Loisirs
 cover:
-  image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
-  alt: bosc
+  image: "/uploads/pique-nique_bosc_negre.jpg"
+  alt: sejour avec votre centre de loisirs au Bosc Negre
 icon: child
+images:
+- image: "/uploads/activites_ecole_bosc_negre.JPG"
+  alt: Activités ludiques avec enfants durant votre séjour au Bosc NEgre
 metaDescription: Séjour classe découverte en Lot-Garonne avec hébergement et pension
   complète jusqu'à 80 personnes
-slogan: 
+slogan: Ecole et classe découverte au Bosc Negre
 layout: Group
 ---
 
