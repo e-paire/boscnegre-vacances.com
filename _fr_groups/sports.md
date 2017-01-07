@@ -12,8 +12,8 @@ slogan: Un week-end en famille avec pension complète
 metaDescription: Vous êtes à la recherche d'un lieu de vacances pour une réunion familiale
   en pleine nature ? Profitez de toutes nos installations pour un week-end réussi
 images:
-- image:
-  alt:
+- image: 
+  alt: 
 layout: Group
 ---
 
