@@ -62,6 +62,23 @@ coordinates:
   longitude: 1.207299
   description: 'Sarlat-la-Canéda: hoodstad van de Perigord'
   color: grey
+- title: Bergerac
+  latitude: 44.854342
+  longitude: 0.482802
+  description: 'Ontdek de streek van Bergerac en de wijn '
+  color: grey
+- title: Castelnaud-la-Chapelle
+  latitude: 44.815989
+  longitude: 1.148815
+  description: 'Castelnaud-la-Chapelle: prachtig uitzicht over de rivier van de Dordogne
+    vanaf het kasteel Castelnaud'
+  color: blue
+- title: Saint-Cyprien
+  latitude: 44.87841
+  longitude: 1.024565
+  description: 'Saint-Cyprien: ideal om van Saint-Cyprien te vertrekken voor een middag
+    kanoen'
+  color: blue
 layout: Region
 ---
 
