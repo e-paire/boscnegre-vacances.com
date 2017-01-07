@@ -17,7 +17,7 @@ cottages:
     grond : living met keuken/kitchenette, wc, slaapbank voor 2 personen, houten meubels,
     enz.'
   cover:
-    image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
+    image: "/uploads/gite%202%20et%203.jpg"
     alt: Een ruim vakantiehuisje op de Bosc Negre
   beds: 5 bedden + vakantiebed
   crush: Dichtbij het zwembad
