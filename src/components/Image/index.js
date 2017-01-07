@@ -30,13 +30,12 @@ class Image extends Component {
 
   getResizeUrl() {
     const {metadata: {pkg}} = this.context
-    const {resize: {width, height}, src} = this.props
+    const {src} = this.props
     const options = [
-      ...(width ? [`w_${width}`] : []),
-      ...(height ? [`h_${height}`] : []),
       "q_auto",
       "c_fill",
     ]
+
     return `${getUrl("cloudinary_fetch")}/${options.join(",")}/${CLOUDINARY_ID}/${pkg.homepage}${src}`
   }
 
@@ -44,6 +43,22 @@ class Image extends Component {
     return process.env.NODE_ENV === "production"
       ? this.getResizeUrl()
       : this.getUrl()
+  }
+
+  getSrcSet() {
+    const {metadata: {pkg}} = this.context
+    const {src} = this.props
+
+    if (process.env.NODE_ENV === "production") {
+      return `
+        ${getUrl("cloudinary_fetch")}/w_256/${CLOUDINARY_ID}/${pkg.homepage}${src} 256w,
+        ${getUrl("cloudinary_fetch")}/w_512/${CLOUDINARY_ID}/${pkg.homepage}${src} 512w,
+        ${getUrl("cloudinary_fetch")}/w_1024/${CLOUDINARY_ID}/${pkg.homepage}${src} 1024w,
+        ${getUrl("cloudinary_fetch")}/w_2048/${CLOUDINARY_ID}/${pkg.homepage}${src} 2048w
+      `
+    }
+
+    return null
   }
 
   render() {
@@ -54,12 +69,8 @@ class Image extends Component {
         <img
           className={classNames(styles.image, loaded && styles.image_loaded)}
           src={this.getSrc()}
-          sizes={`
-            (max-width: 669px),
-            (min-width: 670px) and (max-width: 1023px),
-            (min-width: 1024px) and (max-width: 1359px),
-            (min-width: 1360px),
-          `}
+          srcSet={this.getSrcSet()}
+          sizes="100vw"
           alt={alt}
           onLoad={this.handleLoaded}
         />
