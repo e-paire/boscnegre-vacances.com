@@ -14,7 +14,7 @@ offers:
   cover:
     image: "/uploads/castle.png"
     alt: castle
-  text: Geweldige prijzen en Bosc op vakantie gaan voor de beste prijs-Negro
+  text: Geniet van de beste prijzen voor uw vakantie op de Bosc Negre
 layout: Homepage
 ---
 
