@@ -17,7 +17,7 @@ cottages:
     Rez-de-chaussée: séjour avec coin cuisine équipé, un canapé-lit pour 2 personnes
     , mobilier en pin, etc.'
   cover:
-    image: "/uploads/gite%202%20et%203.jpg"
+    image: "/uploads/gite_2%20_3_BoscNegre.JPG"
     alt: gite 3 au Bosc Nègre
   beds: 5 couchages
   crush: La proximité avec la piscine
