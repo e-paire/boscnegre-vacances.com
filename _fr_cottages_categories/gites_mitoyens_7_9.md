@@ -5,7 +5,7 @@ route: gites-mitoyen-7-9
 metaTitle: Gîtes mitoyen 7/9 pers.
 navTitle: Gîtes mitoyen 7/9 pers.
 cover:
-  image: "/uploads/chambre_grand_gite_Bosc_Negre.jpg"
+  image: "/uploads/gite_2_Bosc_Negre.JPG"
   alt: gite pour 7 à 9 personnes au Bosc Negre
 capacityMin: 7
 capacityMax: 9
@@ -19,7 +19,7 @@ cottages:
     douche. WC Rez-de-chaussée : séjour avec coin cuisine équipé, un canapé-lit pour
     2 pers. mobilier en pin etc.'
   cover:
-    image: "/uploads/chambre_grand_gite_Bosc_Negre.jpg"
+    image: "/uploads/gite_2_Bosc_Negre.JPG"
     alt: Grand Gîte 2 de la ferme au Bosc Negre
   beds: 7 couchages + canapé lit
   crush: la proximité des animations
