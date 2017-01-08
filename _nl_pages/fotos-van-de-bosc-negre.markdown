@@ -34,6 +34,24 @@ gallery:
     alt: 
   - image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
     alt: 
+- title: Sportieve activiteiten op de Bosc Negre
+  images:
+  - image: "/uploads/Randonnee_pedestre_Bosc_Negre.JPG"
+    alt: 
+  - image: "/uploads/jogging_Bosc_Negre.jpg"
+    alt: 
+  - image: "/uploads/vtt-en-dordogne.jpg"
+    alt: 
+  - image: "/uploads/football_Bosc_Negre.JPG"
+    alt: 
+  - image: "/uploads/court_de_tennis_Bosc_Negre.jpg"
+    alt: 
+  - image: "/uploads/volleyball_Bosc_Negre.jpg"
+    alt: 
+  - image: "/uploads/Tennis_Bosc_Negre_2.JPG"
+    alt: 
+  - image: "/uploads/Yoga_Bosc_Negre.JPG"
+    alt: 
 - title: De prachtige regio rond de Bosc Negre
   images:
   - image: "/uploads/chateau_biron_village_biron.jpg"
