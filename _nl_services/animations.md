@@ -15,10 +15,16 @@ images:
   alt: Wandelaan rond de Bosc Negre
 - image: "/uploads/jogging_Bosc_Negre.jpg"
   alt: 
-- image: "/uploads/Tennis_Bosc_Negre_2.JPG"
-  alt: Tennisbaan Bosc Negre
 - image: "/uploads/vtt-en-dordogne.jpg"
   alt: 'Fietsen in de Dordogne '
+- image: "/uploads/football_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/court_de_tennis_Bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/volleyball_Bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/Tennis_Bosc_Negre_2.JPG"
+  alt: 
 layout: Service
 ---
 
