@@ -24,6 +24,8 @@ images:
   alt: 
 - image: "/uploads/Tennis_Bosc_Negre_2.JPG"
   alt: Tennis au Bosc Negre
+- image: "/uploads/Yoga_Bosc_Negre.JPG"
+  alt: 
 layout: Service
 ---
 
