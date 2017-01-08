@@ -6,10 +6,19 @@ route: equipements-services
 metaTitle: Les équipements et services du Bosc Negre
 navTitle: Equipements
 cover:
-  image: "/uploads/piscine_bosc_negre.JPG"
+  image: "/uploads/Trampoline_Bosc_Negre.JPG"
   alt: Piscine au Bosc Negre
 metaDescription: 
 slogan: 
 layout: Service
 ---
 
+**Equipements et services gratuits :**
+
+Repassage : matériel fourni. Salon de jardin, parasol. Emplacement piscine (bains de soleil, chaises, parasols). Activités prévues sur le site pour les enfants et adultes. Soirées à thèmes (sauf repas pour locataires et ½ pensionnaires)
+
+Le dimanche : apéritif de bienvenue offert au bord de la piscine, remise du planning des activités, animations et services proposés (juillet et août).
+
+Chaque gîte à sa vaisselle et batterie de cuisine complète (sauf cocotte-minute), sa terrasse avec table et chaises, un barbecue et un parking voiture. Tous sont équipés de couettes, d’oreillers, et d’alaises. Ne sont pas fournis : draps, taies, linge de maison et de toilette pour les locataires (possibilité de location).
+
+Au Bosc-Nègre nous aimons les animaux, nous en avons quelques uns. Vos chiens et chats bien élevés sont admis en laisse et non agressifs (carnet de santé à jour obligatoire).
