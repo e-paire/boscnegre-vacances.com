@@ -1,6 +1,6 @@
 ---
 title: Vakantiepark met animatie dordogne
-position: 2
+position: 4
 route: "/nl/faciliteiten/animatie"
 metaTitle: Activiteiten op vakantiepark in Dordogne Bosc Negre
 navTitle: Activiteiten
@@ -13,16 +13,24 @@ slogan: Vakantiepark met animatie dordogne
 images:
 - image: "/uploads/Waterpoloe_Bosc_Negre.JPG"
   alt: Waterpolo voor volwassenen op de Bosc Negre
-- image: "/uploads/60_secondes_chrono_Bosc_Negre.JPG"
+- image: "/uploads/soiree_masque_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/badminton_Bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/Waterpolo_enfant.JPG"
+  alt: Waterpolo voor kinderen
+- image: "/uploads/tournois-six-epreuves.jpg"
+  alt: 6 kamp tournoi op de Bosc Negre
+- image: "/uploads/Tir_a_l_arc_bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/Jeu_ludique_bosc_Negre.jpg"
   alt: 60 seconden spel op de Bosc Negre
 - image: "/uploads/football_Bosc_NEgre%202.JPG"
   alt: Footballen op de Bosc Negre
-- image: "/uploads/Waterpolo_enfant.JPG"
-  alt: Waterpolo voor kinderen
-- image: "/uploads/yurgen%20et%20florette.JPG"
+- image: "/uploads/Yoga_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
   alt: Optreden van goochelaar Yurgen op de Bosc Negre
-- image: "/uploads/tournois-six-epreuves.jpg"
-  alt: 6 kamp tournoi op de Bosc Negre
 layout: Service
 ---
 
