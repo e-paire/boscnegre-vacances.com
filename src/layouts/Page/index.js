@@ -31,7 +31,6 @@ const Page = ({children, footer, head, header}) => {
     {name: "twitter:title", content: metaTitle},
     {name: "twitter:description", content: head.description},
     {name: "description", content: head.description},
-    {name: "robots", content: "noindex"},
   ]
 
   return (

@@ -1,2 +1,60 @@
-/pages/fr/accueil.php         /              301
-/pages/nl/accueil.php         /nl            301
+https://boscnegre.netlify.com/*                   https://www.boscnegre-vacances.com/:splat         301!
+
+# fr
+/pages/fr/accueil.php	                            /
+/pages/fr/region.php	                            /region/
+/pages/fr/gites.php	                              /tous-les-gites/
+/pages/fr/gites/la-bergerie.php	                  /gites-mitoyen-5-7/
+/pages/fr/gites/la-ferme.php	                    /gites-mitoyen-7-9/
+/pages/fr/gites/gites-du-lac.php	                /gites-individuel-4-6/
+/pages/fr/gites/gites-du-pre.php	                /gites-indiv-5-7/
+/pages/fr/gites/gites-de-la-foret.php	            /gites-individuel-4-6/
+/pages/fr/groupes.php	                            /groupes/
+/pages/fr/groupes/sportives-et-familles.php	      /groupes/vacances-sportives/
+/pages/fr/groupes/anniversaire.php	              /groupes/anniversaires/
+/pages/fr/groupes/seminaire.php	                  /seminaires/
+/pages/fr/groupes/scolaires-et-centres-de-l.php	  /groupes/scolaire-centre-de-loisirs/
+/pages/fr/groupes/tarifs-et-contrat-groupes.php	  /groupes/
+/pages/fr/activites.php	                          /equipements-services/
+/pages/fr/activites/animation.php	                /activites/animations/
+/pages/fr/activites/sportif.php	                  /activites/sport/
+/pages/fr/activites/pour-les-petits.php	          /activites/animations/
+/pages/fr/installations.php	                      /tous-les-services/
+/pages/fr/installations/restaurant.php	          /restaurant/
+/pages/fr/installations/piscine-chauffee.php	    /activites/piscine/
+/pages/fr/installations/tennis.php	              /activites/sport/
+/pages/fr/installations/location-de-velos.php	    /activites/sport/
+/pages/fr/installations/internet.php	            /equipements-services/
+/pages/fr/infos.php	                              /contact/
+/pages/fr/infos/itineraire.php	                  /contact/
+/pages/fr/infos/assurance-annulation.php	        /contact/
+/pages/fr/infos/news.php	                        /blog/
+/pages/fr/tarifs.php	                            https://premium.secureholiday.net/fr/14230/weekprices
+/pages/fr/disponibilitereservation.php	          https://premium.secureholiday.net/fr/14230/
+
+# nl
+/pages/nl/home.php	                              /nl/
+/pages/nl/omgeving.php	                          /nl/omgeving/
+/pages/nl/gites.php	                              /nl/vakantiehuis/
+/pages/nl/gites/la-bergerie.php	                  /nl/geschakelde-vakantiehuisjes-5-7/
+/pages/nl/gites/la-ferme.php	                    /nl/geschakelde-vakantiehuisjes-7-9/
+/pages/nl/gites/gites-du-lac.php	                /nl/vrijstaande-vakantiehuisjes-4-6/
+/pages/nl/gites/gites-du-pre.php	                /nl/vrijstaande-vakantiehuisjes-5-7/
+/pages/nl/gites/gites-de-la-foret.php	            /nl/vrijstaande-vakantiehuisjes-4-6/
+/pages/nl/faciliteiten.php	                      /nl/faciliteiten/
+/pages/nl/faciliteiten/restaurant.php	            /nl/faciliteiten/restaurant/
+/pages/nl/faciliteiten/verwarmd-zwembad.php	      /nl/faciliteiten/verwarmd-zwembad/
+/pages/nl/faciliteiten/tennis.php	                /nl/faciliteiten/sportief/
+/pages/nl/faciliteiten/fietsenverhuur.php	        /nl/faciliteiten/sportief/
+/pages/nl/faciliteiten/internet.php	              /nl/faciliteiten/
+/pages/nl/activiteiten.php	                      /nl/faciliteiten/
+/pages/nl/activiteiten/animatie.php	              /nl/faciliteiten/animatie/
+/pages/nl/activiteiten/sportief.php	              /nl/faciliteiten/sportief/
+/pages/nl/activiteiten/bezoeken.php	              /nl/omgeving/
+/pages/nl/activiteiten/voor-de-kleintjes.php	    /nl/faciliteiten/animatie/
+/pages/nl/info.php	                              /nl/contact/
+/pages/nl/info/routebeschrijving.php	            /nl/contact/
+/pages/nl/info/annuleringsverzekering.php	        /nl/contact/
+/pages/nl/info/blog.php	                          /nl/blog/
+/pages/nl/tarieven.php	                          https://premium.secureholiday.net/nl/14230/weekprices
+/pages/nl/beschikbaarheid-en-online-boeken.php	  https://premium.secureholiday.net/nl/14230/weekprices
