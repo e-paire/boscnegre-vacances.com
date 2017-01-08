@@ -19,4 +19,4 @@ Au Bosc Nègre, vos hôtes sont Coby & Alfred. C'est avec plaisir que nous répo
 **Assurance annulation**\
 Vous recherchez une assurance annulation, responsabilité civile locative (casse...),\
 Le cabinet ALBINET via son site ADUCIEL vous propose une solution adaptée à vos besoins\
-[Cliquez pour obtenir le montant de votre prime](http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?id=641500)\\
+<a href="http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?id=641500" target="_blank" rel="nofollow noopener noreferrer">Cliquez pour obtenir le montant de votre prime</a>
