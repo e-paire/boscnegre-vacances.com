@@ -29,7 +29,7 @@ images:
   alt: tournoi de football au Bosc Negre
 - image: "/uploads/Yoga_Bosc_Negre.JPG"
   alt: 
-- image: "/uploads/yurgen%20et%20florette.JPG"
+- image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
   alt: spectacle du magicien Yurgen au Bosc Negre
 layout: Service
 ---
