@@ -1,6 +1,6 @@
 ---
 title: Sporten op de Bosc Negre
-position: 4
+position: 2
 route: "/nl/faciliteiten/sportief"
 metaTitle: Sportieve vakantie in de Dordogne op de Bosc Negre
 navTitle: Sport
@@ -11,10 +11,10 @@ metaDescription: ATB fietsen, wandelen, golven, paardrijden, tennissen, bergbekl
   kanoën, boomtop klimmen, talrijke sportieve mogelijkheden in de bossen rond Bosc
   Nègre
 images:
-- image: "/uploads/court_de_tennis_Bosc_Negre.jpg"
-  alt: Tennisbaan Bosc Negre
-- image: "/uploads/location_vtt_Bosc_Negre.jpg"
-  alt: fietsen huren Bosc Negre
+- image: "/uploads/Randonnee_pedestre_Bosc_Negre.JPG"
+  alt: Wandelaan rond de Bosc Negre
+- image: "/uploads/jogging_Bosc_Negre.jpg"
+  alt: 
 - image: "/uploads/Tennis_Bosc_Negre_2.JPG"
   alt: Tennisbaan Bosc Negre
 - image: "/uploads/vtt-en-dordogne.jpg"
