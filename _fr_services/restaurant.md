@@ -5,13 +5,13 @@ route: restaurant
 metaTitle: Restaurant du Bosc Negre
 navTitle: Restaurant
 cover:
-  image: "/uploads/repas_convivial_ete_Bosc_Negre.jpg"
+  image: "/uploads/repas_de_groupe_ete.JPG"
   alt: restaurant du Hameau du Bosc Nègre
 metaDescription: Dégustez tous les produits régionaux au restaurant du Bosc Nègre.
   Parmi les spécialités du chef, le magret de canard avec sauce à l'orange. Un vraie
   régal pendant vos vacances détente en Dordogne.
 images:
-- image: "/uploads/repas_de_groupe_ete.JPG"
+- image: "/uploads/repas_convivial_ete_Bosc_Negre.jpg"
   alt: Repas commun en été au Bosc Negre
 - image: "/uploads/restaurant_paella_bosc_negre.jpg"
   alt: 
