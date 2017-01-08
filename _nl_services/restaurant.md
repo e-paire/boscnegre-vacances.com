@@ -1,5 +1,5 @@
 ---
-title: Restaurant
+title: Restaurant met streekproducten van de Dordogne
 position: 1
 route: nl/faciliteiten/restaurant
 metaTitle: Vakantiepark in Dordogne met restaurant op Bosc Negre
