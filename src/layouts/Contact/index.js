@@ -12,7 +12,7 @@ const Contact = ({body, head, ...props}) => {
   return (
     <Page {...props} head={head}>
       <Breadcrumb head={head} />
-      <Content className={styles.content}>
+      <Content className={styles.content} childrenIsText>
         <div className={styles.text}>
           {body &&
             <BodyContainer>
