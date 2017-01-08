@@ -1,5 +1,5 @@
 ---
-title: Sport
+title: Faire du sport pendant vos vacances au Bosc Negre
 position: 1
 route: activites/sport
 metaTitle: Des vacances sportives au Hameau du Bosc Nègre
@@ -10,14 +10,20 @@ cover:
 metaDescription: Vous êtes sportifs ? Alors le Bosc-Nègre est fait pour vous. VTT,
   ballades, tennis ... Explorez la Dordogne en vélo
 images:
+- image: "/uploads/jogging_Bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/Randonnee_pedestre_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/football_Bosc_Negre.JPG"
+  alt: 
 - image: "/uploads/court_de_tennis_Bosc_Negre.jpg"
   alt: Court de tennis au Bosc Negre
-- image: "/uploads/location_vtt_Bosc_Negre.jpg"
-  alt: location VTT au Bosc Negre
-- image: "/uploads/Tennis_Bosc_Negre_2.JPG"
-  alt: Tennis au Bosc Negre
 - image: "/uploads/vtt-en-dordogne.jpg"
   alt: VTT en Dordogne depuis le Bosc Negre
+- image: "/uploads/Tennis_Bosc_Negre_2.JPG"
+  alt: Tennis au Bosc Negre
+- image: "/uploads/volleyball_Bosc_Negre.jpg"
+  alt: 
 layout: Service
 ---
 
