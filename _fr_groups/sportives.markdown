@@ -33,6 +33,9 @@ slogan: Un hébergement détente et sportif en Lot-et-Garonne
 metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre club sportif
   ? Consultez nos offres pour clubs sportifs et les ballades découvertes de la région
   Dordogne et Lot-et-Garonne
+pricesExamples:
+- description: 
+  price: 
 layout: Group
 ---
 
