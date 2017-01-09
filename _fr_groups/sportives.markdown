@@ -34,8 +34,18 @@ metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre clu
   ? Consultez nos offres pour clubs sportifs et les ballades découvertes de la région
   Dordogne et Lot-et-Garonne
 pricesExamples:
-- description: 
-  price: 
+- description: |-
+    Tarif en pension complète pour une nuit avec un repas festif.
+
+    ¼ de vin, café et draps fournis, toutes charges comprises
+  price: '76€ par adulte / enfants entre 12 et 15 ans : 59€ / enfants entre 4 et 11
+    ans : 54€'
+- description: |-
+    Tarif en pension complète pour deux nuits dont un soir avec un repas festif.
+
+    ¼ de vin, café et draps fournis, toutes charges comprises.
+  price: '130€ par adulte / enfants entre 12 et 15 ans : 98€ / enfants entre 4 et
+    11 ans : 88€'
 layout: Group
 ---
 
