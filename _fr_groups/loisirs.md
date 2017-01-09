@@ -10,7 +10,11 @@ cover:
 icon: child
 images:
 - image: "/uploads/activites_ecole_bosc_negre.JPG"
-  alt: Activités ludiques avec enfants durant votre séjour au Bosc NEgre
+  alt: Activités ludiques avec enfants durant votre séjour au Bosc Negre
+- image: "/uploads/pique-nique_bosc_negre.jpg"
+  alt: 
+- image: "/uploads/groupe_scolaires_Bosc_Negre.JPG"
+  alt: 
 metaDescription: Séjour classe découverte en Lot-Garonne avec hébergement et pension
   complète jusqu'à 80 personnes
 slogan: Ecole et classe découverte au Bosc Negre
