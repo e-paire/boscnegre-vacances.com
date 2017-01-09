@@ -24,8 +24,10 @@ metaDescription: Le Bosc Nègre vous propose la location d'une salle de récepti
   limitrophe Dordogne
 slogan: Soirée d'anniversaire avec salle de réception et gîtes
 pricesExamples:
-- description: 
-  price: 
+- description: "1er jour : repas et soirée d'anniversaire \n\n2ème jour : brunch servi
+    jusqu'à 13h\n\nVous pouvez profitez gratuitement de toutes nos installations pendant
+    votre séjour."
+  price: 79€ TTC par personne
 layout: Group
 ---
 
