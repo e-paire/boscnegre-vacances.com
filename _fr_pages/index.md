@@ -2,6 +2,9 @@
 title: Village de Vacances Bosc-Nègre
 position: 0
 route: "/"
+metaDescription: Bienvenue au village de vacances le Bosc Nègre à côté de la Dordogne.
+  Profitez d'installations gratuites et de gîtes tout confort dans une des plus belles
+  région de France
 metaTitle: Bosc Nègre Village de Vacances
 navTitle: Accueil
 cover:
@@ -10,9 +13,6 @@ cover:
 header:
   text: Vous êtes un groupe ? Nous avons des offres pour vous !
   layoutToLink: Groups
-metaDescription: Bienvenue au village de vacances le Bosc Nègre à côté de la Dordogne.
-  Profitez d'installations gratuites et de gîtes tout confort dans une des plus belles
-  région de France
 slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord Noir
 offers:
   cover:
