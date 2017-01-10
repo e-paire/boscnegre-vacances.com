@@ -24,7 +24,8 @@ images:
 layout: Service
 ---
 
-**Restaurant et bar sur place au Bosc Nègre**\
+## **Restaurant et bar sur place au Bosc Nègre**
+
 Venez déguster les délicieux repas du terroir préparés dans notre restaurant.  Au restaurant du Bosc Nègre, nous vous proposons des menus variés ou à thème, réalisés avec des produits frais et locaux, pour le plaisir de vos papilles.
 
 **Restaurant à la carte en juillet et août**\
