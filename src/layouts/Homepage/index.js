@@ -14,7 +14,6 @@ class Homepage extends Component {
     return (
       <Page {...props} head={{
         ...head,
-        title: null,
       }}>
         <Content>
           <CottagesCategories />
