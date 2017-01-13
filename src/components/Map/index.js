@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from "react"
+import {FormattedMessage} from "react-intl"
 import GoogleMap from "react-google-map"
 import GoogleMapLoader from "react-google-maps-loader"
 
@@ -51,23 +52,23 @@ class Map extends Component {
             <div className={styles.legends}>
               <div className={styles.legend}>
                 <img src={iconMarkerOrange} />
-                <div>{"Bosc Nègre"}</div>
+                <div><FormattedMessage id="markers.orange" /></div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerGreen} />
-                <div>{"Plus beaux villages de France"}</div>
+                <div><FormattedMessage id="markers.green" /></div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerYellow} />
-                <div>{"Joli marchés"}</div>
+                <div><FormattedMessage id="markers.yellow" /></div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerBlue} />
-                <div>{"Châteaux"}</div>
+                <div><FormattedMessage id="markers.blue" /></div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerGray} />
-                <div>{"Lieux touristiques"}</div>
+                <div><FormattedMessage id="markers.gray" /></div>
               </div>
             </div>
           </Content>

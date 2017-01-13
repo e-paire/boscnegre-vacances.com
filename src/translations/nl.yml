@@ -42,5 +42,12 @@ contact_form:
   contact_us: "Contact met ons op"
 
 errors:
-  404: Page not found
-  back_home: Come back to home
+  404: "Page not found"
+  back_home: "Come back to home"
+
+markers:
+  orange: "Bosc Nègre"
+  green: "mooiste dorpen van Frankrijk"
+  yellow: "markten"
+  blue: "kastelen"
+  gray: "bezienswaardigheden"

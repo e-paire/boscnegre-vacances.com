@@ -44,4 +44,11 @@ contact_form:
 
 errors:
   404: "Vous vous êtes égarés ? Revenez sur le droit chemin !"
-  back_home: Retourner à l'accueil
+  back_home: "Retourner à l'accueil"
+
+markers:
+  orange: "Bosc Nègre"
+  green: "Plus beaux villages de France"
+  yellow: "Joli marchés"
+  blue: "Châteaux"
+  gray: "Lieux touristiques"
