@@ -1,5 +1,5 @@
 ---
-title: Village de Vacances Bosc-Nègre
+title: Bienvenue au Village de Vacances Bosc-Nègre
 position: 0
 route: "/"
 metaTitle: Bosc Nègre Village de Vacances
