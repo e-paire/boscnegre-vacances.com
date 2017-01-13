@@ -19,6 +19,12 @@ const Page = ({children, footer, head, header}) => {
       ? head.title
       : DEFAULT_META_TITLE
 
+  const metaDescription = head.metaDescription
+    ? head.metaDescription
+    : head.description
+      ? head.description
+      : ""
+
   const meta = [
     {property: "og:type", content: "article"},
     {property: "og:title", content: metaTitle},
@@ -30,7 +36,7 @@ const Page = ({children, footer, head, header}) => {
     {name: "twitter:card", content: "summary"},
     {name: "twitter:title", content: metaTitle},
     {name: "twitter:description", content: head.description},
-    {name: "description", content: head.description},
+    {name: "description", content: metaDescription},
   ]
 
   return (
