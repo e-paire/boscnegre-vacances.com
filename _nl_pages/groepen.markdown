@@ -15,11 +15,11 @@ layout: Groups
 
 Location de gîte et restauration dans un village de vacances
 
-Wij welkomen groepen het hele jaar (behalve juli/augustus) voor één nacht, een weekend of een langer verblijf. U kunt genieten van al onze verzienningen ter plekke zoals een vergaarderzaal, een feestzaal, een zwembad en medere sport terreinen. Geniet van een verblijf midden in het natuur in de Lot-et-Garonne, naast de Dordogne.
+Bent u opzoek naar een top locatie voor groepen ? Kies dan een verblijf op de Bosc Negre. Wij welkomen groepen het hele jaar (behalve juli/augustus) voor één nacht, een weekend of een langer verblijf. U kunt genieten van al onze voorzieningen ter plekke zoals een vergaderzaal, een feestzaal, een zwembad en medere sport terreinen. Geniet van een verblijf midden in het natuur in de Lot-et-Garonne, naast de Dordogne.
 
 ## Hébergement en gîte et restauration sur place
 
-De 23 vakantiehuisjes liggen op 5 hectare. Elke huisje is voor 2 tot 9 personen en hebben allemaal minimaal twee slaapkamers en een vakantiebed. Voor meer informatie over de vakantiehuisjes kunt u onze [vakantiehuisjes van de Bosc Negre](/nl/vakantiehuis/) pagina bezoeken. Om uw verblijf zo onstpannend mogelijk te maken bieden wij een vol pension tijdens uw verblijf. Het restaurant serveert streek maaltijden gemaakt met streekproducten.
+De 23 vakantiehuisjes liggen op 5 hectares. Elke huisje is voor 2 tot 9 personen en hebben allemaal minimaal twee slaapkamers en een vakantiebed. Voor meer informatie over de vakantiehuisjes kunt u onze [vakantiehuisjes van de Bosc Negre](/nl/vakantiehuis/) pagina bezoeken. Om uw verblijf zo ontspannend mogelijk te maken bieden wij een vol pension tijdens uw verblijf. Het restaurant serveert streek maaltijden gemaakt met streekproducten.
 
 ## Les formules de groupes
 
