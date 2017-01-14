@@ -1,7 +1,7 @@
 ---
 title: Faire du sport pendant vos vacances au Bosc Negre
 position: 1
-route: activites/sport
+route: sport
 metaTitle: Des vacances sportives au Hameau du Bosc Nègre
 navTitle: Sport
 cover:
