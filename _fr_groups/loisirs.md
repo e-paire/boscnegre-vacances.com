@@ -16,7 +16,7 @@ images:
 - image: "/uploads/groupe_scolaires_Bosc_Negre.JPG"
   alt: 
 - image: "/uploads/baignade_groupe_scolaires_Bosc_Negre.jpg"
-  alt: 
+  alt: baignade pendant classe verte au bosc negre
 metaDescription: Séjour classe découverte en Lot-Garonne avec hébergement et pension
   complète jusqu'à 80 personnes
 slogan: Ecole et classe découverte au Bosc Negre
