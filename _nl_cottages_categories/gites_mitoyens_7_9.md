@@ -3,8 +3,6 @@ title: Geschakelde vakantiehuisjes voor 7/9 pers.
 position: 3
 route: nl/geschakelde-vakantiehuisjes-7-9
 metaTitle: Geschakelde vakantiehuisjes voor 7/9 pers.
-metaDescription: Boek een vakantiehuisje voor 7 tot 9 personen op de Bosc Negre. Huisje
-  2 en 4 zijn in het hoofdgebouw dus dicht bij alle activiteiten en voorzieningen.
 navTitle: Geschakelde vakantiehuisjes 7/9 pers.
 cover:
   image: "/uploads/gite_2_Bosc_Negre.JPG"
@@ -20,7 +18,7 @@ cottages:
     image: "/uploads/gite_2_Bosc_Negre.JPG"
     alt: 
   beds: 7 bedden + vakantiebed
-  crush: Dichtbij de activiteiten
+  crush: 3 slaapkamers
   ctoutvertId: 63370
 - title: Ruim vakantiehuisjes n°4
   description: 'Op de eerste verdieping : 1 slaapkamer met drie 1-persoons bedden,
@@ -31,8 +29,10 @@ cottages:
     image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
     alt: Een ruim vakantiehuisje op de Bosc Negre
   beds: 7 bedden + vakantiebed
-  crush: Dichtbij de activiteiten
+  crush: Veel ruimte
   ctoutvertId: 63376
+metaDescription: Boek een vakantiehuisje voor 7 tot 9 personen op de Bosc Negre. Huisje
+  2 en 4 zijn in het hoofdgebouw dus dicht bij alle activiteiten en voorzieningen.
 layout: CottagesCategory
 ---
 
