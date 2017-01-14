@@ -1,5 +1,5 @@
 ---
-title: Séjour de groupe au Bosc Nègre
+title: Séjour de groupe en Dordogne et pension complète au Bosc Nègre
 position: 5
 route: groupes
 metaTitle: Hébergement de groupes au Hameau de Bosc Nègre
