@@ -4,8 +4,10 @@ date: 2016-12-18 18:50:00 +01:00
 published: false
 position: 5
 route: nl/groepen
-metaDescription: 
-slogan: 
+metaTitle: Boek een verblijf met een groep in zuid-Frankrijk - Bosc Negre
+metaDescription: Op de Bosc Negre kunt u tot 80 personen genieten van een groepsvakantie
+  in de Dordogne. Meer informatie op deze pagina. Boek online!
+slogan: 'Vakantiepark voor grote groepen in Frankrijk '
 navTitle: Groepen
 cover:
   image: "/uploads/table_reception_Bosc_Negre.JPG"
