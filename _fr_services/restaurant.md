@@ -43,5 +43,5 @@ Aviez-vous pensé à organiser un weekend en famille, entre amis ou entre collè
 Pour nos locataires, nous préparons un repas pensionnaire à la demande toute l'année. Veuillez trouver les tarifs ci-dessous.
 
 **Tarifs repas pensionnaire. Par personne et par jour sur réservation.**\
-\(café compris pour les adultes)        Adultes et enfants (>15ans)        Enfants entre 12 et 15 ans        Enfants de 4 à 11 ans
-Repas du soir : entrée, plat et dessert         13,50€        11€        9€
+\(Repas du soir : entrée, plat,dessert, café compris pour les adultes)        Adultes et enfants (>15ans) 13,50€\       Enfants entre 12 et 15 ans 11€        Enfants de 4 à 11 ans 9€
+                        
