@@ -8,6 +8,15 @@ cover:
   image: "/uploads/soiree_familiale_Bosc_Negre.jpg"
   alt: Séjour en famille au Bosc Negre
 icon: child
+images:
+- image: "/uploads/table_reception_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/soiree_anime_anniversaire_Bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/reunion_familiales_bosc_negre.jpg"
+  alt: 
+- image: "/uploads/petit_dejeuner_Bosc_Negre.JPG"
+  alt: 
 slogan: Un week-end en famille avec pension complète
 metaDescription: Vous êtes à la recherche d'un lieu de vacances pour une réunion familiale
   en pleine nature ? Profitez de toutes nos installations pour un week-end réussi
