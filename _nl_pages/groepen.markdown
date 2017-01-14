@@ -13,7 +13,7 @@ is_visible: false
 layout: Groups
 ---
 
-Vakant
+## Groepsvakantie in de Dordogne voor 80 personen
 
 Bent u opzoek naar een top locatie voor groepen in Frankrijk die ruimte bied voor grote reisgezelschappen? Kies dan een verblijf op de Bosc Negre! 
 
@@ -25,6 +25,6 @@ Het vakantiepark van de Bosc Negre bevindt zicht in de regio Lot-et-Garonne, naa
 
 ## Ontdek de regio tijdens uw groepsvakantie in Frankrijk
 
-Wij treven een hele mooie regio met veel bezienwaardigheden. Wij geven advies over alles want u kunt doen tijdens uw verblijf op onze [regio pagina](/nl/regio/).
+Wij treven een hele mooie regio met veel bezienswaardigheden. Wij geven advies over alles want u kunt doen tijdens uw verblijf op onze [regio pagina](/nl/regio/).
 
 Voor meer informatie kunt u contact met ons opnemen via de [contact pagina](/nl/contact/)
