@@ -5,12 +5,12 @@ published: false
 position: 5
 route: nl/groepen
 metaTitle: Boek een verblijf met een groep in zuid-Frankrijk - Bosc Negre
-metaDescription: Op de Bosc Negre kunt u tot 80 personen genieten van een groepsvakantie
-  in de Dordogne. Meer informatie op deze pagina. Boek online!
-slogan: 'Vakantiepark voor grote groepen in Frankrijk '
 navTitle: Groepen
 cover:
   image: "/uploads/table_reception_Bosc_Negre.JPG"
+metaDescription: Op Bosc Negre kunt u tot 80 personen genieten van een groepsvakantie
+  in de Dordogne. Meer informatie op deze pagina. Boek online!
+slogan: 'Vakantiepark voor grote groepen in Frankrijk '
 is_visible: false
 layout: Groups
 ---
@@ -19,18 +19,18 @@ layout: Groups
 
 Bent u opzoek naar een top locatie voor groepen in Frankrijk die ruimte bied voor grote reisgezelschappen? Kies dan een verblijf op de Bosc Negre! 
 
-Wij welkomen groepen het hele jaar (behalve juli/augustus) voor één nacht, een weekend of een langer verblijf. U kunt genieten van al onze voorzieningen ter plekke zoals een vergaderzaal, een feestzaal, een zwembad en medere sport terreinen. Geniet van een verblijf midden in het natuur in de Lot-et-Garonne, naast de Dordogne.
+Wij verwelkomen groepen het hele jaar (behalve juli/augustus) voor één nacht, een weekend of een langer verblijf. U kunt genieten van al onze voorzieningen ter plaatse zoals een vergaderzaal, een feestzaal, een zwembad en meerdere sportterreinen. Geniet van een verblijf midden in het natuur in de Lot-et-Garonne, grenzend aan de Dordogne.
 
-## Toegankelijk vanaf Nederland
+## Toegankelijkheid vanaf Nederland
 
-Het vakantiepark van de Bosc Negre bevindt zicht in de regio Lot-et-Garonne, naast de Dordogne. U kunt makkelijk vanuit Nederland naar ons toe komen. Het [vliegveld van Bergerac](http://www.bergerac.aeroport.fr/en/) gaat 4x per week naar Nederland en naar Brussel en ligt 40 minuten van de Bosc Negre af. Het vliegveld van Toulouse en Bordeaux liggen 2uur van ons vandaan. 
+Het vakantiepark van de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend aan de Dordogne. U kunt ons gemakkelijk bereiken vanuit Nederland. Vanaf [vliegveld Bergerac](http://www.bergerac.aeroport.fr/en/) gaan meerdere keren per week vluchten naar Nederland en Brussel Van het vliegveld naar ons vakantiepark is een ritje van maar 40 minuten. De vliegvelden Toulouse en Bordeaux zijn op 2 uur rijden vanaf het park verwijderd. 
 
 ## De inrichting van het park
 
-Het park bezit 23 vakantiehuisjes voor 2 tot 9 personen. Elke huisjes is volledig ingericht en heeft alles wat uw nodig bent voor een kort of lang verblijf : 2 slaapkamers en een vakantiebed, keuken, badkamer, terras. Lakens en handdoeken kunt u bij ons huren. Geniet van alle voorzieningen die wij bezitten zoals een restaurant, een zwembad, een speeltuin, medere sport terreinen.
+Het park heeft 23 vakantiehuisjes voor 2 tot 9 personen. Elke huisje is volledig ingericht en heeft alles wat u nodig bent voor een kort of lang verblijf : 2 slaapkamers en een slaapbank, keuken, badkamer, terras. Lakens en handdoeken kunt u bij ons huren. Geniet van alle voorzieningen die wij bieden zoals het restaurant, het zwembad, de speeltuin en meerdere sportterreinen.
 
 ## Ontdek de regio tijdens uw groepsvakantie in Frankrijk
 
-Wij treven een hele mooie regio met veel bezienswaardigheden. Wij geven advies over alles want u kunt doen tijdens uw verblijf op onze [regio pagina](/nl/regio/).
+Wij bevinden ons in een prachtige regio met veel bezienswaardigheden. Wij geven advies over alles want u kunt ondernemen tijdens uw verblijf. [regio pagina](/nl/regio/).
 
 Voor meer informatie kunt u contact met ons opnemen via de [contact pagina](/nl/contact/)
