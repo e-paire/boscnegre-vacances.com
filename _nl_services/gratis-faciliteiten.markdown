@@ -2,7 +2,7 @@
 title: Gratis faciliteiten
 date: 2016-12-25 10:51:00 +01:00
 position: 4
-route: nl/faciliteiten/voorzieningen
+route: nl/voorzieningen
 metaTitle: Gratis faciliteiten van de Bosc Negre
 navTitle: Voorzieningen
 cover:
