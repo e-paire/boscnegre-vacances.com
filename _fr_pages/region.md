@@ -22,6 +22,7 @@ coordinates:
     Long : 0.873799
   color: orange
   is_open: true
+  images: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
 - title: Monflanquin
   latitude: 44.532771
   longitude: 0.765645
