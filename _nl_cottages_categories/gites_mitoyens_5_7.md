@@ -13,7 +13,7 @@ priceMin: 450
 cottages:
 - title: Vakantiehuisje "Gîte de la ferme" 3
   description: 'Op de eerste verdieping : 1 slaapkamer met een 2-persoonsbed, 1 slaapkamer
-    met drie 1-persoons bedden (geen stapelbedden). Badkamer met douche. Op de begane
+    met drie 1-persoons bedden (geen stapelbedden), badkamer met douche. Op de begane
     grond : living met keuken/kitchenette, wc, slaapbank voor 2 personen, houten meubels,
     enz.'
   cover:
@@ -33,7 +33,7 @@ cottages:
 - title: Vakantiehuisjes "Bergerie"
   description: De vakantiehuisjes 'Gîtes la Bergerie' zijn het meest rustig gelegen.
     La Bergerie bestaat uit 3 geschakelde huisjes met ieder hun eigen terras en privacy.
-    De kinderen zich kunnen uitleven op het grote grasveld welke voor de huisjes is
+    De kinderen kunnen zich uitleven op het grote grasveld dat voor de huisjes is
     gelegen.
   cover:
     image: "/uploads/gites_de_la_bergerie.jpg"
