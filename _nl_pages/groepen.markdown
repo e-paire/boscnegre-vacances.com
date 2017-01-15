@@ -21,7 +21,7 @@ Wij verwelkomen groepen het hele jaar (behalve juli/augustus) voor één nacht, 
 
 ## Toegankelijkheid vanaf Nederland
 
-Het vakantiepark van de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend aan de Dordogne. U kunt ons gemakkelijk bereiken vanuit Nederland. Vanaf [vliegveld Bergerac](http://www.bergerac.aeroport.fr/en/) gaan meerdere keren per week vluchten naar Nederland en Brussel. Van het vliegveld naar ons vakantiepark is een ritje van maar 40 minuten. De vliegvelden Toulouse en Bordeaux zijn op 2 uur rijden vanaf het park verwijderd.
+Het vakantiepark van de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend aan de Dordogne. U kunt ons gemakkelijk bereiken vanuit Nederland. Vanaf Amsterdam en Brussel gaan meerdere keren per week vluchtn naar [vliegveld Bergerac](http://www.bergerac.aeroport.fr/en/). Van dit vliegveld naar ons vakantiepark is een ritje van maar 40 minuten. De vliegvelden Toulouse en Bordeaux zijn op 2 uur rijden vanaf het park verwijderd.
 
 ## De inrichting van het park
 
