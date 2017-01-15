@@ -36,12 +36,11 @@ Enfin, nos locataires trouveront affiché au bar le menu du jour, que nous propo
 
 ## **Restaurant hors juillet et août : sur réservation pour les groupes**
 
-Le restaurant du Bosc Nègre est aussi ouvert sur réservation toute l'année pour vos repas de groupe. Demandez nous un devis pour vos repas d’anniversaire, de baptême, de cousinade, ou encore pour vos repas entre amis. Nous pouvons établir un menu entre 12€ et 30€ par personne.
+Le restaurant du Bosc Nègre est aussi ouvert sur réservation toute l'année pour vos [repas de groupe](/groupes/). Demandez nous un devis pour vos repas d’anniversaire, de baptême, de cousinade, ou encore pour vos repas entre amis. Nous pouvons établir un menu entre 12€ et 30€ par personne.
 Aviez-vous pensé à organiser un weekend en famille, entre amis ou entre collègues ? Rendez-vous sur notre page dédiée aux groupes pour plus d’informations.
 
 **Tarifs repas pensionnaires**\
 Pour nos locataires, nous préparons un repas pensionnaire à la demande toute l'année. Veuillez trouver les tarifs ci-dessous.
 
 **Tarifs repas pensionnaire. Par personne et par jour sur réservation.**\
-\(Repas du soir : entrée, plat,dessert, café compris pour les adultes)        Adultes et enfants (>15ans) 13,50€\       Enfants entre 12 et 15 ans 11€\        Enfants de 4 à 11 ans 9€
-                        
+\(Repas du soir : entrée, plat,dessert, café compris pour les adultes)        Adultes et enfants (>15ans) 13,50€\\       Enfants entre 12 et 15 ans 11€\\        Enfants de 4 à 11 ans 9€
