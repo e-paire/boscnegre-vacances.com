@@ -12,9 +12,9 @@ layout: CottagesCategories
 
 ## Heerlijk genieten in een gite in Dordogne
 
-Op vakantiepark Bosc Nègre ervaart u het heerlijke gevoel van vrijheid en echte vakantie.
+Op vakantiepark de Bosc Nègre ervaart u het heerlijke gevoel van vrijheid en echte vakantie.
 
-De kleinschalheid en royale opzet van het vakantiepark garandeert u veel privacy. Dee rustige ligging en de gevarieerde indeling van het park geven u een echte vakantiebeleving.
+De kleinschalheid en royale opzet van het vakantiepark garandeert u veel privacy. De rustige ligging en de gevarieerde indeling van het park geven u een echte vakantiebeleving.
 In en bij uw huisje kunt u puur genieten van de stilte, natuur en vrijheid.
 
 ## Volledig ingericht gite
