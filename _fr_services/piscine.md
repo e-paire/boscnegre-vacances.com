@@ -2,7 +2,7 @@
 title: Piscine
 position: 3
 route: piscine
-metaTitle: Toutes les activités au Bosc Nègre
+metaTitle: L'espace piscine du Bosc Nègre
 navTitle: Piscine
 cover:
   image: "/uploads/piscine_famille_Bosc_Negrejpg"
@@ -13,12 +13,10 @@ metaDescription: Amusez-vous dans la piscine chauffé ou dans la pateogoire. Tou
 images:
 - image: "/uploads/piscine_bosc_nege_2.JPG"
   alt: la piscine du Bosc Negre
-- image: "/uploads/piscine_soir.JPG"
-  alt: la piscine du Bosc Negre le soir
+- image: "/uploads/aquagym_bosc_negre.JPG"
+  alt: activité aquagym au Bosc Negre
 - image: "/uploads/piscine_famille_Bosc_Negrejpg"
   alt: jouer à la piscine du Bosc Negre
-- image: "/uploads/piscine_bosc_negre.JPG"
-  alt: la piscine animé du Bosc Negre
 layout: Service
 ---
 
