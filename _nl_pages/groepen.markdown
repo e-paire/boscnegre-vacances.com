@@ -1,7 +1,6 @@
 ---
 title: Vakantiehuisjes voor groepen in zuid-Frankrijk
 date: 2016-12-18 18:50:00 +01:00
-published: false
 position: 5
 route: nl/groepen
 metaTitle: Boek een verblijf met een groep in zuid-Frankrijk - Bosc Negre
@@ -11,19 +10,18 @@ cover:
 metaDescription: Op Bosc Negre kunt u tot 80 personen genieten van een groepsvakantie
   in de Dordogne. Meer informatie op deze pagina. Boek online!
 slogan: 'Vakantiepark voor grote groepen in Frankrijk '
-is_visible: false
 layout: Groups
 ---
 
 ## Groepsvakantie in de Dordogne voor 80 personen
 
-Bent u opzoek naar een top locatie voor groepen in Frankrijk die ruimte bied voor grote reisgezelschappen? Kies dan een verblijf op de Bosc Negre! 
+Bent u opzoek naar een top locatie voor groepen in Frankrijk die ruimte bied voor grote reisgezelschappen? Kies dan een verblijf op de Bosc Negre!
 
 Wij verwelkomen groepen het hele jaar (behalve juli/augustus) voor één nacht, een weekend of een langer verblijf. U kunt genieten van al onze voorzieningen ter plaatse zoals een vergaderzaal, een feestzaal, een zwembad en meerdere sportterreinen. Geniet van een verblijf midden in het natuur in de Lot-et-Garonne, grenzend aan de Dordogne.
 
 ## Toegankelijkheid vanaf Nederland
 
-Het vakantiepark van de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend aan de Dordogne. U kunt ons gemakkelijk bereiken vanuit Nederland. Vanaf [vliegveld Bergerac](http://www.bergerac.aeroport.fr/en/) gaan meerdere keren per week vluchten naar Nederland en Brussel Van het vliegveld naar ons vakantiepark is een ritje van maar 40 minuten. De vliegvelden Toulouse en Bordeaux zijn op 2 uur rijden vanaf het park verwijderd. 
+Het vakantiepark van de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend aan de Dordogne. U kunt ons gemakkelijk bereiken vanuit Nederland. Vanaf [vliegveld Bergerac](http://www.bergerac.aeroport.fr/en/) gaan meerdere keren per week vluchten naar Nederland en Brussel. Van het vliegveld naar ons vakantiepark is een ritje van maar 40 minuten. De vliegvelden Toulouse en Bordeaux zijn op 2 uur rijden vanaf het park verwijderd.
 
 ## De inrichting van het park
 
