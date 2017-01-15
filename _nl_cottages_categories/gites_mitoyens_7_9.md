@@ -22,7 +22,7 @@ cottages:
   ctoutvertId: 63370
 - title: Ruim vakantiehuisjes n°4
   description: 'Op de eerste verdieping : 1 slaapkamer met drie 1-persoons bedden,
-    1 slaapkamer met vier 1-persoons bedden. Badkamer met douche. Op de begane grond
+    1 slaapkamer met vier 1-persoons bedden, badkamer met douche. Op de begane grond
     : living met keuken/kitchenette, wc, slaapbank voor 2 personen, houten meubels,
     enz.'
   cover:
