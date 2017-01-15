@@ -17,11 +17,11 @@ layout: Groups
 
 Bent u opzoek naar een top locatie voor groepen in Frankrijk die ruimte bied voor grote reisgezelschappen? Kies dan een verblijf op de Bosc Negre!
 
-Wij verwelkomen groepen het hele jaar (behalve juli/augustus) voor één nacht, een weekend of een langer verblijf. U kunt genieten van al onze voorzieningen ter plaatse zoals een vergaderzaal, een feestzaal, een zwembad en meerdere sportterreinen. Geniet van een verblijf midden in het natuur in de Lot-et-Garonne, grenzend aan de Dordogne.
+Wij verwelkomen groepen vanaf 20 tot 80 personene het hele jaar (behalve juli/augustus) voor één nacht, een weekend of een langer verblijf. U kunt genieten van al onze voorzieningen ter plaatse zoals een vergaderzaal, een feestzaal, een zwembad en meerdere sportterreinen. Geniet van een verblijf midden in het natuur in de Lot-et-Garonne, grenzend aan de Dordogne.
 
 ## Toegankelijkheid vanaf Nederland
 
-Het vakantiepark van de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend aan de Dordogne. U kunt ons gemakkelijk bereiken vanuit Nederland. Vanaf Amsterdam en Brussel gaan meerdere keren per week vluchtn naar [vliegveld Bergerac](http://www.bergerac.aeroport.fr/en/). Van dit vliegveld naar ons vakantiepark is een ritje van maar 40 minuten. De vliegvelden Toulouse en Bordeaux zijn op 2 uur rijden vanaf het park verwijderd.
+Het vakantiepark van de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend aan de Dordogne. U kunt ons gemakkelijk bereiken vanuit Nederland. Vanaf Amsterdam en Brussel gaan meerdere malen per week vluchten naar [vliegveld Bergerac](http://www.bergerac.aeroport.fr/en/). Van dit vliegveld naar ons vakantiepark is een ritje van maar 40 minuten. De vliegvelden Toulouse en Bordeaux zijn op 2 uur rijden vanaf het park verwijderd.
 
 ## De inrichting van het park
 
