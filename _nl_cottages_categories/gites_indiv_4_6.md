@@ -11,12 +11,14 @@ capacityMax: 6
 priceMin: 450
 cottages:
 - title: Vakantiehuisjes "Gîtes du Lac"
-  description: Deze huisjes 'Gîtes du Lac' zijn zeer geschikt voor gezinnen met één
+  description: "Deze huisjes 'Gîtes du Lac' zijn zeer geschikt voor gezinnen met één
     of twee jonge kinderen. De huisjes zijn eenvoudig en klein, doch zeer praktisch
-    ingericht. Gelijkvloers, zonder opstapjes van binnen naar buiten, een bad ipv
-    een douche en zicht op de speeltuin om de kinderen van afstand in de gaten te
-    houden als ze spelen met hun vriendjes. De grasvelden er omheen geven de kleinsten
-    bovendien veel bewegingsvrijheid.
+    ingericht. Gelijkvloers, zonder opstapjes van binnen naar buiten. Dit zijn de
+    enige huisjes met een bad in de badkamer. Vanaf uw stoel heeft u zicht op de speeltuin
+    om de kinderen van afstand in de gaten te houden als ze spelen met hun vriendjes.
+    De grasvelden er omheen geven de kleinsten bovendien veel bewegingsvrijheid.\nVan
+    de 5 huisjes heeft alleen huisje 7 een mezzanine. De mezzanine is zeer geliefd
+    door 6 tot 12 jarigen. Daar kan ook gemakkelijk een derde bed bijgezet worden. "
   cover:
     image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
     alt: Vakantiehuisjes gîtes du Lac op de Bosc Negre
