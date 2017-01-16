@@ -35,6 +35,6 @@ layout: Service
 ---
 
 Zondagavond bieden wij een welkomstdrankje aan op het terras bij het zwembad en informeren wij u over ons vakantiepark.\
-Tegelijkertijd krijgt u dan het programma voor de hele week! Vaste prik daarop: aqua joggen, jeu de boulen, voetbalwedstrijdje, waterpolo, wandeltocht, ping-pongen, volleybal, knutselen, dansavond, yoga, pijl en boogschieten en gezellige avond.
+Tegelijkertijd krijgt u dan het programma voor de hele week! Vaste prik daarop: aqua joggen, jeu de boulen, voetbalwedstrijdje, waterpolo, wandeltocht, ping-pongen, volleybal, knutselen, dansavond, yoga lessen, pijl en boogschieten en gezellige avond.
 
 Activiteiten in hoogseizoen eerste maandag van juli tm laatste vrijdag van augustus.
