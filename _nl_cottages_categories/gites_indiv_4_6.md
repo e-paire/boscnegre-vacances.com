@@ -16,7 +16,7 @@ cottages:
     ingericht. Gelijkvloers, zonder opstapjes van binnen naar buiten. Dit zijn de
     enige huisjes met een bad in de badkamer. Vanaf uw stoel heeft u zicht op de speeltuin
     om de kinderen van afstand in de gaten te houden als ze spelen met hun vriendjes.
-    De grasvelden er omheen geven de kleinsten bovendien veel bewegingsvrijheid.\nVan
+    De grasvelden er omheen geven de kleinsten bovendien veel bewegingsvrijheid.\\\n\nVan
     de 5 huisjes heeft alleen huisje 7 een mezzanine. De mezzanine is zeer geliefd
     door 6 tot 12 jarigen. Daar kan ook gemakkelijk een derde bed bijgezet worden. "
   cover:
@@ -32,11 +32,11 @@ cottages:
     onder de eikenbomen. \n\nHeeft u een hond die het lieftst de koelte van de bomen
     zoekt in het zonnige franse zuiden? Voor hem een lange lijn en voor u een hangmat
     en dan is het tijd voor uw welverdiende rust, terwijl de kinderen profiteren van
-    alle vriendjes. "
+    het spelen met hun vriendjes. "
   cover:
     image: "/uploads/gite_14_Bosc_Negre.jpg"
     alt: Vakantiehuisje 14 midden in het bos op de Bosc Negre
-  beds: 4 slaapplaasen + vakantiebed
+  beds: 4 slaapplaatsen + vakantiebed
   crush: De rust midden in het bos
   ctoutvertId: 63379
 layout: CottagesCategory
