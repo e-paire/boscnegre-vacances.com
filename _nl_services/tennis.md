@@ -28,7 +28,7 @@ images:
 - image: "/uploads/football_Bosc_NEgre%202.JPG"
   alt: Voetbal op de Bosc Negre
 - image: "/uploads/Yoga_Bosc_Negre.JPG"
-  alt: Yoga op Bosc Nègre
+  alt: Yoga les op Bosc Nègre
 - image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
   alt: Optreden van goochelaar Yurgen op de Bosc Negre
 layout: Service
