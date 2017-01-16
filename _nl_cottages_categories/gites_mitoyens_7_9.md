@@ -29,7 +29,7 @@ cottages:
   description: "De meest ruime gite met een groot terras onder een afdak. Op dit terras
     heeft u de minste overlast van het zwembad. \nDe benedenverdieping is onderverdeeld
     in een living met open keuken en een tweede ruimte heeft een slaapbank. De twee
-    slaapkamers op de eerste étage beide groot.\n\n\nLiving met keuken/kitchenette,
+    slaapkamers op de eerste étage zijn beide groot.\n\n\nLiving met keuken/kitchenette,
     wc, slaapbank voor 2 personen, houten meubels, op de eerste verdieping : 1 slaapkamer
     met 3 éénpersoons bedden, 1 slaapkamer met 4 éénpersoons bedden, badkamer met
     douche. "
