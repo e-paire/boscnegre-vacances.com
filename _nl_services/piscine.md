@@ -20,4 +20,4 @@ images:
 layout: Service
 ---
 
-Het vermarmd zwembad is goed beveiligd voor de kleintjes. Het gehele zwembad is afgesloten zodat kinderen er niet alleen bij kunnen, want er is een beveiligd toegangshek. Het kinderbadje heeft een eigen zonneterras om samen met de kinderen te genieten van zon en water. Het grote bad heeft een diepte van 30cm aflopend tot 1m90, verwarmd van begin mei tot eind september.
+Het verwarmd zwembad is goed beveiligd voor de kleintjes. Het gehele zwembad is met een beveiligd toegangshek afgesloten, zodat kinderen er niet alleen bij kunnen. Het kinderbadje heeft een eigen zonneterras om samen met de kinderen te genieten van zon en water. Het grote bad heeft een diepte van 30cm aflopend tot 1m90, verwarmd van begin mei tot eind september.
