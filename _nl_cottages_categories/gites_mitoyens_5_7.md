@@ -12,24 +12,20 @@ capacityMax: 7
 priceMin: 450
 cottages:
 - title: Vakantiehuisje "Gîte de la ferme" 3
-  description: "Vakantiehuisjes 'Gites la ferme' zijn geschikt voor gezinnen met jonge
+  description: Vakantiehuisjes 'Gites la ferme' zijn geschikt voor gezinnen met jonge
     kinderen. Terwijl de kinderen nabij spelen in de speeltuin leest u op het terras
-    van uw beste boek. Onder de reuze eikenboom kunt genieten van zijn schaduw om
-    te barbequen en te tafelen.\n\nLiving met keuken/kitchenette, wc, slaapbank voor
-    2 personen, houten meubels, enz.Op de eerste verdieping slaapkamer met 1 tweepersoonsbed,
-    slaapkamer met 3 éenpersoons bedden,  badkamer met douche. "
+    van uw beste boek. Onder de reuze eikenboom kunt u genieten van zijn schaduw om
+    te barbequen en te tafelen.
   cover:
     image: "/uploads/gite%202%20et%203.jpg"
     alt: Een ruim vakantiehuisje op de Bosc Negre
-  beds: 5 bedden + vakantiebed
+  beds: 5 slaapplaatsen + vakantiebed
   crush: Dichtbij het zwembad
   ctoutvertId: 63373
 - title: Vakantiehuisje "Gîte de la ferme" 5
   description: "Net als bij la Ferme 3 heeft het het voordeel in de buurt te zijn
     van uw spelende kinderen. Het grasveld naast ferme 5 geven de kleinsten bovendien
-    veel bewegingsvrijheid. \n\nLiving met keuken/kitchenette, wc, slaapbank voor
-    2 personen, houten meubels, enz. ruime slaapkamer met twee éenpersoonsbedden,
-    slaapkamer met een éenpersoons bed en een stapelbed, badkamer met douche. "
+    veel bewegingsvrijheid. \n\n "
   cover:
     image: "/uploads/gite_PMR_Bosc_Negre.jpg"
     alt: Vakantiehuisje nummer 5 op de Bosc Negre
@@ -44,7 +40,7 @@ cottages:
   cover:
     image: "/uploads/gites_de_la_bergerie.jpg"
     alt: vakantiehuisjes Bergerie op de Bosc Negre
-  beds: 5 bedden + vakantiebed
+  beds: 5 slaapplaatsen + vakantiebed
   crush: Het grasveld voor de huisjes
   ctoutvertId: 63380
 layout: CottagesCategory
