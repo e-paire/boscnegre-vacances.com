@@ -17,8 +17,7 @@ cottages:
     om de kinderen op kleine afstand in de gaten te houden als ze spelen met hun vriendjes;
     niet ver van het zwembad zodat u met de babyfoon kunt zonnen tijdens de middagslaapjes
     van de kleinste. \nWilt u het huisje delen met vrienden of bent u een samengesteld
-    gezin met 4 of 5 kinderen? Dan is gite n° 2 een met drie slaapkamers goede keuze
-    voor 9 personen."
+    gezin met 4 of 5 kinderen? Dan is gite n° 2 een met drie slaapkamers goede keuze."
   cover:
     image: "/uploads/gite_2_Bosc_Negre.JPG"
     alt: 
@@ -29,10 +28,7 @@ cottages:
   description: "De meest ruime gite met een groot terras onder een afdak. Op dit terras
     heeft u de minste overlast van het zwembad. \nDe benedenverdieping is onderverdeeld
     in een living met open keuken en een tweede ruimte heeft een slaapbank. De twee
-    slaapkamers op de eerste étage zijn beide groot.\n\n\nLiving met keuken/kitchenette,
-    wc, slaapbank voor 2 personen, houten meubels, op de eerste verdieping : 1 slaapkamer
-    met 3 éénpersoons bedden, 1 slaapkamer met 4 éénpersoons bedden, badkamer met
-    douche. "
+    slaapkamers op de eerste étage zijn beide groot."
   cover:
     image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
     alt: Een ruim vakantiehuisje op de Bosc Negre
