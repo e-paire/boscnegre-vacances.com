@@ -14,27 +14,27 @@ images:
 - image: "/uploads/Waterpoloe_Bosc_Negre.JPG"
   alt: Waterpolo voor volwassenen op de Bosc Negre
 - image: "/uploads/soiree_masque_Bosc_Negre.JPG"
-  alt: 
+  alt: Knutselen met de animatrice op Bosc Nègre
 - image: "/uploads/badminton_Bosc_Negre.jpg"
-  alt: 
+  alt: Badminton op Bosc Nègre
 - image: "/uploads/Waterpolo_enfant.JPG"
   alt: Waterpolo voor kinderen
 - image: "/uploads/tournois-six-epreuves.jpg"
-  alt: 6 kamp tournoi op de Bosc Negre
+  alt: Zeskamp tournoi op de Bosc Negre
 - image: "/uploads/Tir_a_l_arc_bosc_Negre.jpg"
-  alt: 
+  alt: Pijl en boog schieten op Bosc Nègre
 - image: "/uploads/Jeu_ludique_bosc_Negre.jpg"
   alt: 60 seconden spel op de Bosc Negre
 - image: "/uploads/football_Bosc_NEgre%202.JPG"
-  alt: Footballen op de Bosc Negre
+  alt: Voetbal op de Bosc Negre
 - image: "/uploads/Yoga_Bosc_Negre.JPG"
-  alt: 
+  alt: Yoga op Bosc Nègre
 - image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
   alt: Optreden van goochelaar Yurgen op de Bosc Negre
 layout: Service
 ---
 
-Zondagavond bieden wij een welkomstdrankje aan op het terras bij het zwembad en informeren u over ons vakantiepark.\
-Tegelijkertijd overhandigen wij dan het programma voor de hele week! Daarop vinden we elke week : aquajoggen, jeu de boulen, voetbalwedstrijdje, waterpolo, wandeltocht, ping-pongen, volleybal, knutselen, dansavond, yoga, pijl en boogschieten en quizavond.
+Zondagavond bieden wij een welkomstdrankje aan op het terras bij het zwembad en informeren wij u over ons vakantiepark.\
+Tegelijkertijd krijgt u dan het programma voor de hele week! Vaste prik daarop: aquajoggen, jeu de boulen, voetbalwedstrijdje, waterpolo, wandeltocht, ping-pongen, volleybal, knutselen, dansavond, yoga, pijl en boogschieten en gezellige avond.
 
-Hoogseizoen in 2016: van zondag 3 juli tm vrijdag 26 augustus.
+Activiteiten in hoogseizoen eerste maandag van juli tm laatste vrijdag van augustus.
