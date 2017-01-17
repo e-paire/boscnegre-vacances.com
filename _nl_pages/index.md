@@ -1,5 +1,5 @@
 ---
-title: Vakantiepark Bosc Negre
+title: Welkom op de vakantiepark Bosc Negre
 position: 0
 route: nl
 metaTitle: Vakantiepark Hameau de Bosc Nègre
