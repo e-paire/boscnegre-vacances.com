@@ -12,10 +12,12 @@ capacityMax: 7
 priceMin: 450
 cottages:
 - title: Vakantiehuisje "Gîte de la ferme" 3
-  description: Vakantiehuisjes 'Gites la ferme' zijn geschikt voor gezinnen met jonge
-    kinderen. Terwijl de kinderen nabij spelen in de speeltuin leest u op het terras
-    van uw beste boek. Onder de reuze eikenboom kunt u genieten van zijn schaduw om
-    te barbequen en te tafelen.
+  description: "Vakantiehuisjes 'Gites la ferme' zijn in het byzonder schikt voor
+    gezinnen met jonge kinderen. Terwijl de kinderen nabij spelen in de speeltuin
+    leest u op het terras van uw beste boek. Onder de reuze eikenboom kunt u genieten
+    van zijn schaduw om te barbequen en te tafelen. \nDicht bij het de speeltuin doet
+    vermoeden dat het met de rust gedaan is, maar niets is minder waar. 'La Ferme'
+    heet de naam van een ruim huisje voor een perfecte vakantie."
   cover:
     image: "/uploads/gite%202%20et%203.jpg"
     alt: Een ruim vakantiehuisje op de Bosc Negre
@@ -25,7 +27,8 @@ cottages:
 - title: Vakantiehuisje "Gîte de la ferme" 5
   description: "Net als bij la Ferme 3 heeft het het voordeel in de buurt te zijn
     van uw spelende kinderen. Het grasveld naast ferme 5 geven de kleinsten bovendien
-    veel bewegingsvrijheid. \n\n "
+    veel bewegingsvrijheid. \nOverdag is het huisje lekker koel en 's avonds heeft
+    het de fijne avondzon.\n\n\n "
   cover:
     image: "/uploads/gite_PMR_Bosc_Negre.jpg"
     alt: Vakantiehuisje nummer 5 op de Bosc Negre
@@ -34,9 +37,10 @@ cottages:
   ctoutvertId: 63374
 - title: Vakantiehuisjes "Bergerie"
   description: |-
-    De vakantiehuisjes 'Gîtes la Bergerie' zijn het meest rustig gelegen. La Bergerie bestaat uit 3 geschakelde huisjes met ieder hun eigen terras en privacy. De kinderen kunnen zich uitleven op het grote grasveld dat voor de huisjes is gelegen. Komt u met meerdere gezinnen? Dan is dit bij uitstek interessant voor u.
+    De vakantiehuisjes 'Gîtes la Bergerie' zijn het meest rustig gelegen. La Bergerie bestaat uit 3 geschakelde huisjes met ieder hun eigen terras en privacy. De kinderen kunnen zich uitleven op het grote grasveld dat voor de huisjes is gelegen.
+    De tuin van duizend vierkante meter voor het huisje geeft een heerlijk vrij gevoel.
 
-    Indeling van het huisje zoals bovenstaanden.
+    Komt u met meerdere gezinnen? Dan is dit bij uitstek interessant voor u.
   cover:
     image: "/uploads/gites_de_la_bergerie.jpg"
     alt: vakantiehuisjes Bergerie op de Bosc Negre
