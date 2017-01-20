@@ -21,7 +21,6 @@ class Homepage extends Component {
 
         <Offers
           cover={head.offers.cover}
-          url="/"
           text={head.offers.text}
         />
 
