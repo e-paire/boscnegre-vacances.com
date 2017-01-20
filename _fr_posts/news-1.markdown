@@ -1,13 +1,13 @@
 ---
 title: Nouvelle 1
 date: 2016-10-07 12:16:00 +02:00
+tags:
+- tag1
+- tag2
 layout: Post
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Les nouveautés du Bosc Nègre
-tags:
-- tag1
-- tag2
 route: nouvelle-1
 ---
 
