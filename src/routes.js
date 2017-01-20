@@ -18,6 +18,7 @@ import PageError from "layouts/PageError"
 import Photos from "layouts/Photos"
 import Post from "layouts/Post"
 import Posts from "layouts/Posts"
+import PostsByTag from "layouts/PostsByTag"
 import Region from "layouts/Region"
 import Seminar from "layouts/Seminar"
 import Service from "layouts/Service"
@@ -51,6 +52,8 @@ const PageContainer = (props) => (
 
 export default (
   <Route component={AppContainer}>
+    <Route path="tag/:tag" component={PostsByTag} />
+    <Route path="nl/tag/:tag" component={PostsByTag} />
     <Route path="*" component={PageContainer} />
   </Route>
 )

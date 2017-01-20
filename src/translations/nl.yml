@@ -51,3 +51,7 @@ markers:
   yellow: "markten"
   blue: "kastelen"
   gray: "bezienswaardigheden"
+
+postsByTags:
+  title: "Alle nieuws {tag} op de vakantieblog van de Bosc Negre"
+  description: "Alle nieuws van het categorie {tag} op de vakantieblog van de Bosc Negre"

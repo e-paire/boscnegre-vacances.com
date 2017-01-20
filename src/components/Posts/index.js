@@ -10,16 +10,21 @@ import styles from "./index.css"
 class Posts extends Component {
   render() {
     const {collection} = this.context
-    const {intl} = this.props
+    const {intl, tag} = this.props
     const posts = enhanceCollection(collection, {
-      filter: (page) => customFilter(page, intl.locale, "Post"),
-      sort: "date",
+      filter: (page) => {
+        const isLocalizedPost = customFilter(page, intl.locale, "Post")
+        const hasTag = tag && Array.isArray(page.tags) && (page.tags.indexOf(tag) > -1)
+        return tag
+          ? isLocalizedPost && hasTag
+          : isLocalizedPost
+      },
     })
 
     return posts && posts.length > 0
-    ? <div className={styles.post}>
+    ? <div className={styles.posts}>
         {posts.map((post, i) => (
-          <div key={i}>
+          <div key={i} className={styles.post}>
             <PostPreview {...post} />
           </div>
         ))}
@@ -34,11 +39,7 @@ Posts.contextTypes = {
 
 Posts.propTypes = {
   intl: intlShape.isRequired,
-  posts: PropTypes.array,
-}
-
-Posts.defaultProps = {
-  posts: [],
+  tag: PropTypes.string,
 }
 
 export default injectIntl(Posts)

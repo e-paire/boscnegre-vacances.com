@@ -1,3 +1,24 @@
+@import "styles/mq.css";
+
+.posts {
+  display: flex;
+}
+
 .post {
-  text-align: center;
+  flex: 0 0 100%;
+  padding: 10px;
+}
+
+@media (--mq-m) {
+  .post {
+    flex: 0 0 50%;
+    padding: 10px;
+  }
+}
+
+@media (--mq-gt-m) {
+  .post {
+    flex: 0 0 25%;
+    padding: 20px;
+  }
 }

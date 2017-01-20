@@ -1,0 +1,22 @@
+@import "styles/variables.css";
+
+.tags {
+  text-align: center;
+}
+
+.icon {
+  color: var(--color_bosc_green);
+  margin-right: 5px;
+}
+
+.tag {
+  font-family: var(--font-title);
+  padding: 0 5px;
+  margin: 0 5px;
+  border: 1px solid var(--color_gray);
+  border-radius: 2px;
+}
+
+.tag:hover {
+  border-color: var(--color_bosc_green);
+}

@@ -4,6 +4,7 @@ import {BodyContainer} from "phenomic"
 import Breadcrumb from "components/Breadcrumb"
 import Content from "components/Content"
 import Page from "layouts/Page"
+import Tags from "components/Tags"
 
 const Post = ({head, body, ...props}) => (
   <Page {...props} head={head}>
@@ -12,6 +13,9 @@ const Post = ({head, body, ...props}) => (
         {layout: "Posts"},
       ]}
     />
+    <Content>
+      <Tags tags={head.tags} />
+    </Content>
     {body &&
       <Content childrenIsText>
         <BodyContainer>

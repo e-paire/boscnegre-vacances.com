@@ -52,3 +52,7 @@ markers:
   yellow: "Joli marchés"
   blue: "Châteaux"
   gray: "Lieux touristiques"
+
+postsByTags:
+  title: "Les actus {tag} sur le blog du Bosc Nègre"
+  description: "Retrouvez toutes les actualités du Bosc Nègre sur le thème {tag}"
