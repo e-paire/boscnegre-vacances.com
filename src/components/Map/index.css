@@ -15,7 +15,7 @@
 }
 
 .legend {
-  flex: 1;
+  flex: 1 1 auto;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -17,14 +17,7 @@ export default (config = {}) => {
     require("postcss-import")({
       path: path.resolve(__dirname, "src"),
     }),
-    require("postcss-cssnext")({
-      browsers: "last 2 versions",
-      features: {
-        customProperties: {
-          variables: {},
-        },
-      },
-    }),
+    require("postcss-cssnext")(),
     require("postcss-reporter")(),
     ...!config.production ? [
       require("postcss-browser-reporter")(),
