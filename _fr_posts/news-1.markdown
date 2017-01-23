@@ -11,9 +11,13 @@ cover:
 layout: Post
 ---
 
+## Le Bosc Nègre gagne le Award 2017 de Camping2be
+
 Grâce aux nombreux avis très favorable des hôtes du Bosc Nègre, le site d'avis Camping2be a de nouveau récompensé ce village de vacances avec le prix de 'Award Winner 2017".
 
-Camping2be distingue les avis certifiés car chaque avis est lié à une réservation. Chaque hôte évalue le Bosc Nègre mais également le gîte loué. Les futurs hôtes du Bosc Nègre ont un avis complet sur le Bosc Nègre ainsi que sur tous les gîtes. Lisez les avis.
+Camping2be distingue les avis certifiés car chaque avis est lié à une réservation. Chaque hôte évalue le Bosc Nègre mais également le gîte loué. Les futurs hôtes du Bosc Nègre ont un avis complet sur le Bosc Nègre ainsi que sur tous les gîtes. [Lisez les avis](https://www.camping2be.com/france/lacapelle-biron/avis-clients-village-de-vacances-bosc-negre).
+
+## Nous étudions chaque avis pour améliorer le parc
 
 Les hôtes ont la possibilité de laisser des points négatifs sur le village. Nous étudions chaque avis pour améliorer les points négatifs si possible et recevoir aux mieux nos hôtes l'année d'après. Bien entendu, les points positifs sont également mis en avant. Tout cela permet aux futurs vacanciers de tout savoir sur son prochain séjour au Bosc Nègre et de faire le meilleur choix du gîte.
 
