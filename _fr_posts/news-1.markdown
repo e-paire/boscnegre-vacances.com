@@ -4,6 +4,7 @@ date: 2016-10-07 12:16:00 +02:00
 tags:
 - general
 route: 2017-01-les-avis-des-hotes
+metaTitle: Bosc Nègre gagne le Award 2017 des meilleurs avis
 navTitle: Awards 2017
 cover:
   image: "/uploads/camping2be_awards_Bosc_Negre.jpg"
