@@ -1,16 +1,16 @@
 ---
 title: Et le "winner" est ...
-date: 2016-10-07 12:16:00 +02:00
+date: 2016-01-02 12:16:00 +01:00
 tags:
 - general
 route: 2017-01-les-avis-des-hotes
-navTitle: Awards 2017
 metaTitle: Bosc Nègre gagne le Award 2017 des meilleurs avis
-metaDescription: Le Bosc Nègre a gagné le prix Awards 2017 des meilleurs avis sur
-  le site internet de Camping2be.
+navTitle: Awards 2017
 cover:
   image: "/uploads/camping2be_awards_Bosc_Negre.jpg"
   alt: Les nouveautés du Bosc Nègre
+metaDescription: Le Bosc Nègre a gagné le prix Awards 2017 des meilleurs avis sur
+  le site internet de Camping2be.
 layout: Post
 ---
 
