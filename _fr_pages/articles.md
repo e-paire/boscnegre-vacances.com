@@ -7,8 +7,8 @@ navTitle: Blog
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Les nouveautés du Bosc Nègre
+is_visible: true
 layout: Posts
-is_visible: false
 ---
 
 Retrouvez sur cette page les dernières actualités du Bosc-Nègre
