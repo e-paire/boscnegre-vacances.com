@@ -4,9 +4,15 @@ date: 2017-01-23 08:30:00 +01:00
 tags:
 - restaurant
 route: 2017-01-bien-etre-et-sante
+navTitle: Bien-être
 cover:
   image: "/uploads/bien_sante_Bosc_Negre.JPG"
   alt: Bien être et santé au Bosc Negre
+images:
+- image: "/uploads/bien_sante_2_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/bien_sante_Bosc_Negre.JPG"
+  alt: 
 ---
 
 Bien-être et sante.. Cette année la carte du restaurant du Bosc Nègre va se diversifier. Des produits biologiques, locaux si possibles,  des plats végétariens, des desserts avec un taux de sucre réduit et des produits pauvres en glycémie vont être plus présents sur la carte ainsi que dans les menus du jour.
