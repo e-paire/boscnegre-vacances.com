@@ -268,6 +268,7 @@
     "style-loader": "^0.13.0",
     "stylelint": "^7.6.0",
     "stylelint-config-standard": "^15.0.0",
+    "unist-util-select": "~1.5.0",
     "webpack": "^1.11.0 || ^2.1.0-beta.25",
     "whatwg-fetch": "^2.0.1",
     "yaml-loader": "^0.4.0"
