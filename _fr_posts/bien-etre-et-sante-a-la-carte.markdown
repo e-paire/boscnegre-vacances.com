@@ -8,6 +8,11 @@ navTitle: Bien-être
 cover:
   image: "/uploads/bien_sante_Bosc_Negre.JPG"
   alt: Bien être et santé au Bosc Negre
+images:
+- image: "/uploads/bien_sante_2_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/bien_sante_Bosc_Negre.JPG"
+  alt: 
 layout: Post
 ---
 
