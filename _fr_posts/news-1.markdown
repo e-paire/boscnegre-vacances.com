@@ -2,8 +2,7 @@
 title: Et le "winner" est ...
 date: 2016-10-07 12:16:00 +02:00
 tags:
-- tag1
-- tag2
+- general
 route: 2017-01-les-avis-des-hotes
 navTitle: Awards 2017
 cover:
