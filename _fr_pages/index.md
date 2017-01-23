@@ -31,4 +31,6 @@ Dans ce **village de vacances** **du Sud de la France**, vous pouvez vous ressou
 
 Notre **centre de vacances** vous propose de nombreux services dont vous pouvez profiter pleinement : un bar restaurant avec des suggestions locales, wifi, dépôt de pain, piscine chauffée, plusieurs terrains de sport.
 
+Le Bosc Nègre se situe à seulement 3 minutes de Lacapelle-Biron où vous pouvez trouver une pharmacie, médecin, boucherie, une poste, un distributeur ainsi qu'une petite superette. 
+
 Au Bosc Nègre, les grands comme les petits seront séduits !
