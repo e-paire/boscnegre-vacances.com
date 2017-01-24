@@ -1,5 +1,5 @@
 ---
-title: Les locations de gîtes au Bosc Nègre
+title: Gîtes calmes et confortables au coeur de la forêt au Bosc Nègre
 position: 1
 route: "/tous-les-gites"
 metaTitle: Tous les gîtes de charme au Hameau du Bosc Nègre
