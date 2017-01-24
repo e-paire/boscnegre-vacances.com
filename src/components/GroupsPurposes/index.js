@@ -31,7 +31,7 @@ class GroupsPurposes extends Component {
       ? <div>
           <Title id="titles.group_holidays" theme="yellow" />
           {groupsPage && groupsPage.cover &&
-            <Image className={styles.cover} src={groupsPage.cover.image} alt={groupsPage.cover.alt} />
+            <Image className={styles.cover} src={groupsPage.cover.image} alt={groupsPage.cover.alt} sizes={["256", "512", "1024", "2048"]}  />
           }
           <div className={styles.groups}>
             <Content>

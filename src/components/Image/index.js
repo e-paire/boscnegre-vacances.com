@@ -5,8 +5,6 @@ import styles from "./index.css"
 
 import {getUrl} from "utils/urls"
 
-const CLOUDINARY_ID = "v1480958467"
-
 class Image extends Component {
   constructor() {
     super()
@@ -33,11 +31,10 @@ class Image extends Component {
     const {defaultWidth, src} = this.props
     const options = [
       `w_${defaultWidth}`,
-      "q_auto:good",
-      "c_fill",
+      "q_70",
     ]
 
-    return `${getUrl("cloudinary_fetch")}/${options.join(",")}/${CLOUDINARY_ID}/${pkg.homepage}${src}`
+    return `${getUrl("cloudinary_fetch")}/${options.join(",")}/${pkg.homepage}${src}`
   }
 
   getSrc() {
@@ -53,7 +50,7 @@ class Image extends Component {
     if (process.env.NODE_ENV === "production") {
       return sizes
         .map(size =>
-          `${getUrl("cloudinary_fetch")}/w_${size},q_auto:good,c_fill/${CLOUDINARY_ID}/${pkg.homepage}${src} ${size}w`
+          `${getUrl("cloudinary_fetch")}/w_${size},q_70/${pkg.homepage}${src} ${size}w`
         )
         .join(", ")
     }

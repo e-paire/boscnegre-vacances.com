@@ -23,7 +23,7 @@
 
   .cover,
   .content {
-    flex: 1 1 auto;
+    flex: 1 1 50%;
   }
 
   .service:nth-child(odd) .cover,
