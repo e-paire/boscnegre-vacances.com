@@ -79,11 +79,16 @@
 }
 
 .camping2be {
-  height: 150px;
+  width: 150px;
 }
 
 .tripAdvisor {
-  width: 130px;
+  width: 120px;
+  display: block;
+}
+
+.zoover {
+  width: 100px;
   display: block;
 }
 

@@ -12,8 +12,9 @@ import Logo from "components/Logo"
 import Content from "components/Content"
 import NewsletterForm from "components/NewsletterForm"
 import TripAdvisorLogo from "components/TripAdvisorLogo"
+import ZooverLogo from "components/ZooverLogo"
 
-import Camping2beLogo from "./assets/camping2be.jpg"
+import Camping2beLogo from "./assets/camping2be.png"
 import VillageGitesLogo from "./assets/villages-de-gites.png"
 
 import styles from "./index.css"
@@ -98,6 +99,9 @@ class Footer extends Component {
               <div className={styles.consumerReviews}>
                 <ExternalLink href={getUrl("camping2be", intl.locale)}>
                   <img className={styles.camping2be} src={Camping2beLogo} alt="Camping2be" />
+                </ExternalLink>
+                <ExternalLink href={getUrl("zoover", intl.locale)}>
+                  <ZooverLogo className={styles.zoover} />
                 </ExternalLink>
                 <ExternalLink href={getUrl("tripadvisor", intl.locale)}>
                   <TripAdvisorLogo className={styles.tripAdvisor} />
