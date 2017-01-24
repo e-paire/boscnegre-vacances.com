@@ -9,7 +9,13 @@ class GoogleAnalyticsTracker extends Component {
     if (isClient) {
       const {pkg} = this.context.metadata
       if (isProduction) {
-        ReactGA.initialize(pkg.googleAnalytics)
+        ReactGA.initialize(pkg.googleAnalytics, {
+          gaOptions: {
+            allowLinker: true,
+          }
+        })
+        ReactGA.ga("require", "linker")
+        ReactGA.ga("linker:autoLink", ["premium.secureholiday.net", "www.secureholiday.net"])
       }
       else {
         console.info("ga.create", pkg.googleAnalytics)
