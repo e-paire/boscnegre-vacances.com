@@ -64,15 +64,6 @@
   }
 }
 
-@media (--mq-gt-s) {
-  .text {
-    right: 150px;
-    bottom: 150px;
-    max-width: 400px;
-    display: block;
-  }
-}
-
 @media (--mq-gt-m) {
   .title {
     margin: 0 50px;

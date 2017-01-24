@@ -18,3 +18,12 @@
 .image_loaded {
   opacity: 1;
 }
+
+.wrapper_noObjectFit {
+  background-size: cover;
+  background-position: center center;
+}
+
+.wrapper_noObjectFit .image_loaded {
+  opacity: 0;
+}

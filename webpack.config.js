@@ -103,6 +103,14 @@ export default (config = {}) => {
           test: /\.yml$/,
           loader: "json!yaml",
         },
+        {
+          test: /\.modernizrrc.js$/,
+          loader: "modernizr"
+        },
+        {
+          test: /\.modernizrrc(\.json)?$/,
+          loader: "modernizr!json"
+        }
       ],
     },
     postcss: postcssPlugins,
@@ -152,6 +160,9 @@ export default (config = {}) => {
     resolve: {
       extensions: [".js", ".json", ""],
       root: [path.join(__dirname, "node_modules"), path.join(__dirname, "src")],
+      alias: {
+        modernizr$: path.resolve(__dirname, ".modernizrrc")
+      }
     },
     resolveLoader: {root: [path.join(__dirname, "node_modules")]},
   }
