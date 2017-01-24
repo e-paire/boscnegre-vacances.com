@@ -5,18 +5,18 @@ route: piscine
 metaTitle: L'espace piscine du Bosc Nègre
 navTitle: Piscine
 cover:
-  image: "/uploads/piscine_famille_Bosc_Negrejpg"
+  image: "/uploads/piscine_bosc_nege_2.JPG"
   alt: Piscine chauffée Bosc Nègre
 metaDescription: Amusez-vous dans la piscine chauffée ou dans la pateogoire. Tout
   est fait pour ravir petits et grands au Bosc Nègre en Lot-et-Garonne, limitrophe
   Dordogne
 images:
-- image: "/uploads/piscine_bosc_nege_2.JPG"
-  alt: la piscine du Bosc Negre
 - image: "/uploads/aquagym_bosc_negre.JPG"
   alt: activité aquagym au Bosc Negre
 - image: "/uploads/piscine_famille_Bosc_Negrejpg"
   alt: jouer à la piscine du Bosc Negre
+- image: "/uploads/piscine_bosc_nege_2.JPG"
+  alt: la piscine du Bosc Negre
 layout: Service
 ---
 
