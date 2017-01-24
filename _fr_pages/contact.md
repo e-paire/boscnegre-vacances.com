@@ -1,5 +1,5 @@
 ---
-title: Prenez contact avec Coby & Alfred
+title: Pour toute question, n'hésitez pas à prendre contact avec Coby & Alfred
 position: 7
 route: contact
 metaTitle: Contactez Coby au Hameau du Bosc Nègre
