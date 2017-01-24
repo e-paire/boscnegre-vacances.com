@@ -99,7 +99,7 @@ Depuis le Village de vacances du Bosc Nègre, vous pouvez partir à la découver
 
 Retrouvez sur la carte les différents lieux touristiques que nous vous recommandons pour vos vacances à Monflanquin. Ci-dessous le point sur quelques lieux.
 
-## Les visites à faire en Lot-et-Garonne et Dordogne :
+## Nos conseils touristiques en Lot-et-Garonne et Dordogne :
 
 * Villages classés plus beaux villages de France comme Monflanquin, Belvès et Monpazier. Il s’agit là de bastide historique avec un centre de village animé et chaleureux
 
