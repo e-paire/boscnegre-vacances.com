@@ -63,7 +63,7 @@
 }
 
 .logo {
-  height: 100px;
+  width: 80px;
 }
 
 .partners {
@@ -83,12 +83,12 @@
 }
 
 .tripAdvisor {
-  height: 130px;
+  width: 130px;
   display: block;
 }
 
 .ancv {
-  height: 70px;
+  width: 100px;
   display: block;
 }
 
