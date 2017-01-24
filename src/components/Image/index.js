@@ -30,10 +30,10 @@ class Image extends Component {
 
   getResizeUrl() {
     const {metadata: {pkg}} = this.context
-    const {src} = this.props
+    const {defaultWidth, src} = this.props
     const options = [
-      "w_256",
-      "q_auto",
+      `w_${defaultWidth}`,
+      "q_auto:good",
       "c_fill",
     ]
 
@@ -48,15 +48,14 @@ class Image extends Component {
 
   getSrcSet() {
     const {metadata: {pkg}} = this.context
-    const {src} = this.props
+    const {sizes, src} = this.props
 
     if (process.env.NODE_ENV === "production") {
-      return `
-        ${getUrl("cloudinary_fetch")}/w_256/${CLOUDINARY_ID}/${pkg.homepage}${src} 256w,
-        ${getUrl("cloudinary_fetch")}/w_512/${CLOUDINARY_ID}/${pkg.homepage}${src} 512w,
-        ${getUrl("cloudinary_fetch")}/w_1024/${CLOUDINARY_ID}/${pkg.homepage}${src} 1024w,
-        ${getUrl("cloudinary_fetch")}/w_2048/${CLOUDINARY_ID}/${pkg.homepage}${src} 2048w
-      `
+      return sizes
+        .map(size =>
+          `${getUrl("cloudinary_fetch")}/w_${size},q_auto:good,c_fill/${CLOUDINARY_ID}/${pkg.homepage}${src} ${size}w`
+        )
+        .join(", ")
     }
 
     return null
@@ -87,15 +86,14 @@ Image.contextTypes = {
 Image.propTypes = {
   alt: PropTypes.string.isRequired,
   className: PropTypes.string,
+  defaultWidth: PropTypes.oneOf(["256", "512", "1024", "2048"]),
+  sizes: PropTypes.array,
   src: PropTypes.string.isRequired,
-  resize: PropTypes.shape({
-    width: PropTypes.number,
-    height: PropTypes.number,
-  })
 }
 
 Image.defaultProps = {
-  resize: {}
+  defaultWidth: "512",
+  sizes: ["256", "512", "1024"],
 }
 
 export default Image
