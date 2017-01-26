@@ -36,4 +36,4 @@ Notre **centre de vacances** vous propose de nombreux services dont vous pouvez 
 
 Le Bosc Nègre se situe à seulement 3 minutes du village de Lacapelle-Biron où vous pouvez trouver une pharmacie, médecin, boucherie, une poste, un distributeur ainsi qu'une petite superette.
 
-Au Bosc Nègre, les grands comme les petits seront séduits ! Alors n'hésitez plus, choisissez votre gîte pour vos prochaines vacances 2017.
+Les grands comme les petits seront séduits ! Alors n'hésitez plus, choisissez votre gîte pour vos prochaines vacances 2017.
