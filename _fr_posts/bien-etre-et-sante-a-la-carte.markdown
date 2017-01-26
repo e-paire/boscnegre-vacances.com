@@ -19,7 +19,7 @@ metaDescription: Bien-être et sante.. Cette année la carte  restaurant du Bosc
 layout: Post
 ---
 
-# Bien-être et sante..
+# Bien-être et sante...
 
 Cette année la carte [du restaurant du Bosc Nègre](/restaurant/) va se diversifier. Des produits biologiques, locaux si possibles,  des plats végétariens, des desserts avec un taux de sucre réduit et des produits pauvres en glycémie vont être plus présents sur la carte ainsi que dans les menus du jour.
 
