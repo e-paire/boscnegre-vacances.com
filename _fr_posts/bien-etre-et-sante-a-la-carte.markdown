@@ -16,7 +16,6 @@ images:
   alt: 
 metaDescription: Bien-être et sante.. Cette année la carte  restaurant du Bosc Nègre
   va se diversifier. Des produits biologiques, locaux si possibles et des plats végétariens
-Field name: 
 layout: Post
 ---
 
