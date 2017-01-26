@@ -78,18 +78,20 @@
   justify-content: space-around;
 }
 
+.consumerReviews a {
+  flex: 1 1 33.33%;
+}
+
 .camping2be {
-  width: 150px;
+  width: 100%;
 }
 
 .tripAdvisor {
-  width: 120px;
-  display: block;
+  width: 100%;
 }
 
 .zoover {
-  width: 100px;
-  display: block;
+  width: 100%;
 }
 
 .ancv {
@@ -136,7 +138,8 @@
   .infos,
   .partners,
   .social {
-    flex: 1 1 auto;
+    width: 33.33%;
+    flex: 1 1 33.33%;
     margin: 0;
   }
 }
