@@ -25,7 +25,7 @@ Welkom op de Bosc Nègre, een kleinschalig door Nederlanders gerund **vakantiepa
 
 Het vakantiepark bevindt zich in het zuid-westen van Frankrijk. Een regio die vandaag de dag ‘Nouvelle-Aquitaine’ genoemd mag worden. 23 [Vakantiehuisjes] (/vakantiehuis/) zijn verdeeld over 5 hectare. Het geringe aantal huisjes op een groot terrein geeft ieder en elk de rust die het verdiend. Ieder huisje heeft z’n eigen terras en alles wat u nodig heeft voor een onbezorgde vakantie in het departement Lot en Garonne en natuurgebied de Périgord-noir. 
 
-###Verschillende voorzieningen tot uw beschikking tijdens uw vakantie op dit vakantiepark.
+### Verschillende voorzieningen tot uw beschikking tijdens uw vakantie op dit vakantiepark.
 
 Het park is ideaal voor een vakantie met uw gezin. Geniet van alle voorzieningen voor een geslaagde vakantie voor de hele familie. In het [restaurant] (/restaurant/) kunt u iedere dag en de gehele dag terecht voor de familiale gerechten met lokale producten. Het zwembad opent om tien uur en is  verwarmd. De tennisbaan in de kleuren aarde en steen passen in het landschap van de okergele kleigronden. Sportmogelijkheden zijn er legio: volleybalveld, voetbalveld een tafeltennistafel. Het is teveel om op te noemen. En wat te denken van een mountainbikerit. De fietsen worden verhuurd bij de receptie en regelmatig worden er tochten gereden, gezamenlijk met andere gasten.  Een animatrice verzorgt gedurende de week ieder dagdeel een **activiteitenprogramma**. Deze [activiteiten] (/animatie/) zijn sportief, creatief en cultureel voor jong en oud en voor elk wat wils. Door de diverse activiteiten vinden kinderen snel aansluiting bij andere kinderen en dus uzelf wellicht ook.
 
