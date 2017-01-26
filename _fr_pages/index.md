@@ -1,15 +1,16 @@
 ---
-title: Bienvenue au Village de Vacances Bosc-Nègre
+title: Bienvenue au Village de Vacances Bosc-Nègre, en Lot-et-Garonne, limitrophe
+  Dordogne
 position: 0
 route: "/"
-metaTitle: Bosc Nègre Village de Vacances
+metaTitle: Bosc Nègre, Village de Vacances
+metaDescription: Bienvenue au village de vacances le Bosc Nègre en Lot-et-Garonne,
+  à côté de la Dordogne. Profitez de gîtes au calme et d'installations gratuites dans
+  une des plus belles région de France.
 navTitle: Accueil
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Village de vacances du Bosc Nègère
-metaDescription: Bienvenue au village de vacances le Bosc Nègre à côté de la Dordogne.
-  Profitez d'installations gratuites et de gîtes tout confort dans une des plus belles
-  région de France
 header:
   text: Vous êtes un groupe ? Nous avons des offres pour vous !
   layoutToLink: Groups
