@@ -28,4 +28,4 @@ Profitez de notre piscine, qui est chauffée de début mai à fin septembre. Ég
 
 ## Piscine a proximité des gîtes
 
-Le gîtes sont éparpillés sur le parc afin que vous puissiez profiter du calme pendant **vos vacances aux portes de la Dordogne**. Tout en profitant du calme, vous êtes également proche de la piscine ce qui vous permet de faire des aller retour au gîte sans devoir marcher trop longtemps.
+Les [gîtes sont éparpillés sur le parc](/tous-les-gites/) afin que vous puissiez profiter du calme pendant **vos vacances aux portes de la Dordogne**. Tout en profitant du calme, vous êtes également proche de la piscine ce qui vous permet de faire des aller retour au gîte sans devoir marcher trop longtemps.
