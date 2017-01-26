@@ -12,7 +12,7 @@ cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Village de vacances du Bosc Nègère
 header:
-  text: Vous êtes un groupe ? Nous avons des offres pour vous !
+  text: Vous êtes un groupe ? Consultez nos pages dédiées.
   layoutToLink: Groups
 slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord Noir
 offers:
