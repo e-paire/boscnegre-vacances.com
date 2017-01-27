@@ -12,8 +12,8 @@ capacityMax: 6
 priceMin: 450
 cottages:
 - title: Vakantiehuisjes "Gîtes du Lac"
-  description: "### De huisjes 'Gîtes du Lac' zijn zeer geschikt voor gezinnen met
-    één of twee jonge kinderen. \nDe huisjes zijn eenvoudig en doen vermoeden klein
+  description: "### De huisjes Gîtes du Lac zijn zeer geschikt voor gezinnen met één
+    of twee jonge kinderen. \n\nDe huisjes zijn eenvoudig en doen vermoeden klein
     te zijn met 32 M2, doch hun praktische inrichting neemt dit vooroordeel meteen
     weg. \nVan de 5 huisjes gites du lac n° 6 tot en met 10 zijn er 4 gelijkvloers,
     zonder opstapjes van binnen naar buiten. Alleen huisje 7 een mezzanine. Deze open
