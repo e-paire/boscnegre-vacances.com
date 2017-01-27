@@ -37,13 +37,20 @@ cottages:
   crush: Midden in het park gelegen maar toch rustig
   ctoutvertId: 63377
 - title: Vakantiehuisje "Gîte de la forêt"
-  description: "Dit boshuisje is bij uitstek geschikt voor ouders die een compromis
-    zoeken tussen een 'hutje op de hei' en een vakantiepark bomvol activiteiten voor
-    hun kinderen. Geniet van dit 4 persoonshuisje temidden van de schaduwrijke plekken
-    onder de eikenbomen. \n\nHeeft u een hond die het lieftst de koelte van de bomen
-    zoekt in het zonnige franse zuiden? Voor hem een lange lijn en voor u een hangmat
-    en dan is het tijd voor uw welverdiende rust, terwijl de kinderen profiteren van
-    het spelen met hun vriendjes. "
+  description: "### Een verwezenlijking van een huisje op de hei\n\nOp **vakantiepark
+    Bosc Nègre** zijn de huisjes verschillend van sfeer en van ligging. Dit boshuisje
+    is bij uitstek geschikt voor ouders die een compromis zoeken tussen een 'hutje
+    op de hei' en een vakantiepark bomvol activiteiten voor hun kinderen. Geniet van
+    dit 4 persoonshuisje te midden van de schaduwrijke plekken onder de eikenbomen.
+    \nEcht een toppertje om voor honderd procent te genieten van de natuur. Een hertje
+    zou zomaar uw terras kunnen passeren. Hebt u een hond die het liefst de koelte
+    van de bomen zoekt in het zonnige Franse zuiden? Voor hem een lange lijn en voor
+    u een hangmat en is het tijd voor uw welverdiende rust. De kinderen zullen ondertussen
+    genieten van alle [activiteiten] (/nl/animatie) die worden aangeboden en profiteren
+    van het spelen met hun vriendje.\nIn de eerste slaapkamer is een tweepersoonsbed,
+    in de tweede slaapkamer zijn twee 1 persoonsbedden. Voor de overige indeling verwijzen
+    we u terug naar de algemene pagina van de [vakantiehuisjes] (/nl/vakantiehuis/)
+    \n"
   cover:
     image: "/uploads/gite_14_Bosc_Negre.jpg"
     alt: Vakantiehuisje 14 midden in het bos op de Bosc Negre
