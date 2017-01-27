@@ -28,8 +28,8 @@ cottages:
     is een tweepersoonsbed, in de tweede slaapkamer is een stapelbed. Voor de rest
     van de indeling, verwijzen we u terug naar de algemene informatie van de [vakantiehuisjes]
     (/nl/vakantiehuis/) \n\nZo ziet u, alle functies van deze vakantiehuisjes op Bosc
-    Nègre zijn gericht op het welzijn van jonge gezinnen. En bovenal, hebben de kinderen
-    het naar de zin? dan is uw vakantiegeluk gewaarborgd. "
+    Nègre zijn kindvriendelijk. En bovenal, hebben de kinderen het naar de zin? dan
+    is uw vakantiegeluk gewaarborgd. "
   cover:
     image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
     alt: Vakantiehuisjes gîtes du Lac op de Bosc Negre
@@ -59,6 +59,7 @@ cottages:
   ctoutvertId: 63379
 Key:
 - 
+Mega Description: Gites voor 4 personen op Bosc Nègre vakantiepark in de Dordogne
 layout: CottagesCategory
 ---
 
