@@ -33,5 +33,5 @@ Bij de receptie kunt u altijd terecht voor adviezen voor de vele mogelijkheden v
 
 De Bosc Nègre is gelegen op enkel 3 minuten van **Lacapelle-Biron**. Een dorpje met verschillende winkeltjes en diensten :  superette, benzinestation, drogisterij, slagerij, huisartsenpost en een postkantoor, 
 
-Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn de sleutelwoorden die passen bij een vakantie op de [Bosc Nègre] (http://www.villagesdegites.fr/fr/il4-village_i35804-bosc-negre-village-de-vacances-lot-et-garonne.aspx). Volwassenen en kinderen worden snel verleid. Twijfel niet meer en kies uw vakantiehuisje voor uw vakantie van 2017.
+Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn de sleutelwoorden die passen bij een vakantie op de [Bosc Nègre] (http://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark) Volwassenen en kinderen worden snel verleid. Twijfel niet meer en kies uw vakantiehuisje voor uw vakantie van 2017.
 
