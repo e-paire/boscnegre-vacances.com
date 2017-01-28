@@ -34,6 +34,6 @@ Le parc possède 23 gîtes répartis sur 5 hectares vous sont proposés à la lo
 
 Notre **centre de vacances** vous propose de [nombreux services](/tous-les-services/) dont vous pouvez profiter pleinement : un bar restaurant avec des suggestions locales, wifi, dépôt de pain, piscine chauffée et plusieurs terrains de sport.
 
-Le [Bosc Nègre]http://www.villagesdegites.fr/fr/il4-village_i65573-village-de-vacances-bosc-negre-lot-et-garonne.aspx) se situe à seulement 3 minutes du village de Lacapelle-Biron où vous pouvez trouver une pharmacie, médecin, boucherie, une poste, un distributeur ainsi qu'une petite superette.
+Le [Bosc Nègre](http://www.villagesdegites.fr/fr/il4-village_i65573-village-de-vacances-bosc-negre-lot-et-garonne.aspx) se situe à seulement 3 minutes du village de Lacapelle-Biron où vous pouvez trouver une pharmacie, médecin, boucherie, une poste, un distributeur ainsi qu'une petite superette.
 
 Les grands comme les petits seront séduits ! Alors n'hésitez plus, choisissez votre gîte pour vos prochaines vacances 2017.
