@@ -30,7 +30,7 @@ cottages:
     van de indeling, verwijzen we u terug naar de algemene informatie van de [vakantiehuisjes]
     (/nl/vakantiehuis/) \n\nZo ziet u, alle functies van deze vakantiehuisjes op Bosc
     Nègre zijn kindvriendelijk. En bovenal, hebben de kinderen het naar de zin? dan
-    is uw vakantiegeluk gewaarborgd. \n\nMeer weten over de {beschikbaarheid en de
+    is uw vakantiegeluk gewaarborgd. \n\nMeer weten over de [beschikbaarheid en de
     prijzen] (https://premium.secureholiday.net/fr/14230/product.popup?idProduct=63377)"
   cover:
     image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
