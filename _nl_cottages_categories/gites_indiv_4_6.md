@@ -13,16 +13,16 @@ capacityMax: 6
 priceMin: 450
 cottages:
 - title: Vakantiehuisjes "Gîtes du Lac"
-  description: "### De huisjes Gîtes du Lac zijn zeer geschikt voor gezinnen met één
-    of twee jonge kinderen. \n\nDe huisjes zijn eenvoudig en doen vermoeden klein
-    te zijn met 32 M2, doch hun praktische inrichting neemt dit vooroordeel meteen
-    weg. \nVan de 5 huisjes **gites du lac** n° 6 tot en met 10 zijn er 4 huisjes
-    gelijkvloers, zonder opstapjes van binnen naar buiten. Alleen huisje 7 heeft een
-    mezzanine. Deze open verdieping wordt zeer gewaardeerd door 6 tot 12 jarigen.
-    De kinderen kunnen er overdag lekker spelen en toch nog lekker bij u in de buurt
-    zijn. Hebt u drie kinderen, dan kan in deze slaapkamer gemakkelijk een derde bed
-    bijgezet worden. \n\nVan alle huisjes op het park zijn deze 5 huisjes de enige
-    met een bad in de badkamer. \n\nIn de beide slaapkamers is het mogelijk een campingbedje
+  description: "### De huisjes Gîtes du Lac zijn zeer geschikt voor gezinnen met jonge
+    kinderen. \n\nDe huisjes zijn eenvoudig en doen vermoeden klein te zijn met 32
+    M2, doch hun praktische inrichting neemt dit vooroordeel meteen weg. \nVan de
+    5 huisjes **gites du lac** n° 6 tot en met 10 zijn er 4 huisjes gelijkvloers,
+    zonder opstapjes van binnen naar buiten. Alleen huisje 7 heeft een mezzanine.
+    Deze open verdieping wordt zeer gewaardeerd door 6 tot 12 jarigen. De kinderen
+    kunnen er overdag lekker spelen en toch nog lekker bij u in de buurt zijn. Hebt
+    u drie kinderen, dan kan in deze slaapkamer gemakkelijk een derde bed bijgezet
+    worden. \n\nVan alle huisjes op het park zijn deze 5 huisjes de enige met een
+    bad in de badkamer. \n\nIn de beide slaapkamers is het mogelijk een campingbedje
     bij te zetten. \n\nVanaf uw stoel heeft u zicht op de speeltuin om de kinderen
     van afstand in de gaten te houden als ze spelen met vriendjes. De grasvelden er
     omheen geven de kleinsten bovendien veel bewegingsvrijheid. \n\nIn de eerste slaapkamer
