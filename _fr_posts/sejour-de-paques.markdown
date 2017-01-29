@@ -8,9 +8,10 @@ navTitle: Promo
 cover:
   image: "/uploads/Promo%20vacances%20de%20Paques%20Bosc%20Negre-5282d7.png"
   alt: Promotion séjour de Pâques
-MetaDescription: Découvrez notre promotion pour les vacances de Pâques tous le mois
+metaDescription: Découvrez notre promotion pour les vacances de Pâques tous le mois
   d'Avril au Bosc Nègre village de vacances
-Slogan: Offre de promotion pour les vacances de Pâques dans le Lot et Garonne
+slogan: Offre de promotion pour les vacances de Pâques dans le Lot et Garonne
+layout: Post
 ---
 
 #Découvrez notre promotion et préparez vos vacances de Pâques.
