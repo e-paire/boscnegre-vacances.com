@@ -1,7 +1,9 @@
 ---
 title: Séjour de Pâques
 date: 2017-01-28 23:27:00 +01:00
-route: 2017-03-sejour-de-paques
+tags:
+- pâques
+route: 2017-01-sejour-de-paques
 metaTitle: Promotion séjour de Pâques
 navTitle: Promo
 cover:
