@@ -12,7 +12,7 @@ cover:
 metaDescription: Découvrez notre promotion pour les vacances de Pâques tous le mois
   d'Avril au Bosc Nègre village de vacances
 slogan: Offre de promotion pour les vacances de Pâques dans le Lot et Garonne
-is_visible: false
+is_visible: true
 layout: Post
 ---
 
