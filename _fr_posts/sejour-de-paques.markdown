@@ -14,12 +14,12 @@ is_visible: false
 layout: Post
 ---
 
-#Découvrez notre promotion et préparez vos vacances de Pâques.
+# Découvrez notre promotion et préparez vos vacances de Pâques.
 
 Sortir quelques jours pendant **les vacances de Pâques** avec vous enfants ou vos petits-enfants? 
 Au Bosc Nègre, dans le Lot et Garonne, vous trouverez un lieu où vous pouvez vous reposer, où les enfants peuvent courir et s'amuser sans vous déranger. 
 
-Découvrez notre offre pour les vacances du mois d'avril à tarif intéressant. A vous de choisir les dates et la durée. Vous pouvez arriver à chaque jour de la semaine. 
+Découvrez notre offre pour les vacances du mois d'avril à tarif intéressant. A vous de [choisir les dates](https://premium.secureholiday.net/fr/14230/result?arrivalDate=01/04/2017&departureDate=08/04/2017&productType=L) et la durée. Vous pouvez arriver à chaque jour de la semaine. 
 
 Des visites culturelles, des sorties sportives, de bons repas du terroir, des jeux en famille, des vacances au calme ... il y en a pour tous les goûts ! Retrouvez toutes les informations sur notre page [de la Région](/region/) 
 
