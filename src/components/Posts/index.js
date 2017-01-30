@@ -19,6 +19,8 @@ class Posts extends Component {
           ? isLocalizedPost && hasTag
           : isLocalizedPost
       },
+      sort: "date",
+      reverse: true,
     })
 
     return posts && posts.length > 0

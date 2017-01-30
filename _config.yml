@@ -45,21 +45,23 @@ defaults:
     title: Gîtes individuels 4/6 pers.
     metaTitle: Gîtes individuels 4/6 personnes
     navTitle: Gîtes indiv 4/6 pers.
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     capacityMin: 4
     capacityMax: 6
     priceMin: 1000
     cottages:
-    - title: 
-      description: 
+    - title:
+      description:
       cover:
-        image: 
-        alt: 
-      beds: 
-      crush: 
-      ctoutvertId: 
+        image:
+        alt:
+      beds:
+      crush:
+      ctoutvertId:
 - scope:
     path: ''
     type: fr_groups
@@ -69,27 +71,31 @@ defaults:
     title: Scolaires & loisirs
     metaTitle: Scolaires & loisirs
     navTitle: Loisirs
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     position: 1
     icon: suitcase
-    imagesTitle: 
+    imagesTitle:
     images:
-    - image: 
-      alt: 
+    - image:
+      alt:
 - scope:
     path: ''
     type: fr_pages
   values:
-    layout: 
+    layout:
     route: ma-page
     title: Ma page
     metaTitle: Ma page
     navTitle: Loisirs
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: fr_posts
@@ -99,9 +105,11 @@ defaults:
     title: Mon article
     metaTitle: Mon article
     navTitle: Article
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: fr_services
@@ -111,9 +119,11 @@ defaults:
     title: Le titre du service
     metaTitle: Le meta-title du service
     navTitle: Le titre qui apparaitra dans le menu
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_cottages_categories
@@ -123,33 +133,37 @@ defaults:
     title: Gîtes individuels 4/6 pers.
     metaTitle: Gîtes individuels 4/6 personnes
     navTitle: Gîtes indiv 4/6 pers.
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
     capacityMin: 4
     capacityMax: 6
     priceMin: 1000
     cottages:
-    - title: 
-      description: 
+    - title:
+      description:
       cover:
-        image: 
-        alt: 
-      beds: 
-      crush: 
-      ctoutvertId: 
+        image:
+        alt:
+      beds:
+      crush:
+      ctoutvertId:
 - scope:
     path: ''
     type: nl_pages
   values:
-    layout: 
+    layout:
     route: ma-page
     title: Ma page
     metaTitle: Ma page
     navTitle: Loisirs
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_posts
@@ -159,9 +173,11 @@ defaults:
     title: Mon article
     metaTitle: Mon article
     navTitle: Article
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
 - scope:
     path: ''
     type: nl_services
@@ -171,6 +187,8 @@ defaults:
     title: Le titre du service
     metaTitle: Le meta-title du service
     navTitle: Le titre qui apparaitra dans le menu
+    metaDescription:
+    slogan:
     cover:
-      image: 
-      alt: 
+      image:
+      alt:
