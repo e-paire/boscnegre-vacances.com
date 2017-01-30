@@ -19,8 +19,8 @@ offers:
   cover:
     image: "/uploads/chateau_biron_village_biron.jpg"
     alt: les offres du Bosc Nègre
-  text: Profitez des offres en cours du Bosc Nègre pour partir en vacances au meilleur
-    prix !
+  text: Consultez nos tarifs par gîte sur toute l'année & choisissez directement le
+    gîte qui vous correspond le mieux !
 layout: Homepage
 ---
 
