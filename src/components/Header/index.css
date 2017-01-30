@@ -75,4 +75,10 @@
   .photo {
     height: calc(100vh - 170px);
   }
+
+  .text {
+    display: block;
+    right: 200px;
+    bottom: 200px;
+  }
 }

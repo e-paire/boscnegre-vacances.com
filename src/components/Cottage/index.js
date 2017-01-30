@@ -4,6 +4,7 @@ import {FormattedMessage, injectIntl, intlShape} from "react-intl"
 import {BodyContainer} from "phenomic"
 
 import {getUrl} from "utils/urls"
+import Content from "components/Content"
 import ExternalLink from "components/ExternalLink"
 import Image from "components/Image"
 
@@ -19,9 +20,11 @@ const Cottage = ({beds, crush, cover, description, ctoutvertId, intl, title}) =>
         <div className={styles.text}>
           <div className={styles.title}>{title}</div>
           {description &&
-            <BodyContainer className={styles.description}>
-              {description}
-            </BodyContainer>
+            <Content childrenIsText>
+              <BodyContainer className={styles.description}>
+                {description}
+              </BodyContainer>
+            </Content>
           }
           <div className={styles.meta}>
             {beds &&
