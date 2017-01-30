@@ -13,7 +13,7 @@ Slogan: Keuze uit 23 vakantiehuisjes Bosc Nègre
 layout: CottagesCategories
 ---
 
-## Heerlijk genieten in een gite in Dordogne
+## Heerlijk genieten in een gite in de Dordogne, een brede keuze van vakantiehuisjes 
 
 Op **vakantiepark de Bosc Nègre** midden in de bossen van de Dordogne ervaart u het heerlijke gevoel van vrijheid, blijheid. In een tijd, waarin het in het dagelijkse leven draait om efficiency en doelmatigheid, willen we allemaal minder stress en meer tijd besteden aan leuke dingen. Op de Bosc Nègre midden in de ongerepte natuur van de Dordogne vindt u de rust en de u tijd samen met uw kinderen te genieten van alle leuke dingen die u worden geboden. 
 De kleinschaligheid van en royale opzet van het vakantiepark garandeert u veel privacy. De rustige ligging en de gevarieerde indeling van het park geven u een echte vakantiebeleving. In en bij uw huisje kunt u puur genieten van de stilte, natuur en vrijheid. Het Franse label voor een **Vakantiepark** is een waarborg voor rust. Een plaats waar de circulatie van verkeer zoveel mogelijk wordt beperkt tot buitenom het vakantiepark, waar ontspanning wordt aangeboden als wel een eetgelegenheid wordt aangeboden. 
