@@ -1,5 +1,5 @@
 ---
-title: Alle vakantiehuisjes van de Bosc Negre
+title: Comfortabele vakantiehuisjes opn de Bosc Negre in de Dordogne
 position: 1
 route: nl/vakantiehuis
 metaTitle: Al onze vakantiehuisjes
