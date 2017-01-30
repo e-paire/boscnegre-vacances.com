@@ -22,7 +22,7 @@ Sortir quelques jours pendant **les vacances de Pâques** avec vous enfants ou v
 Un lieu parfait au cœur de la nature du Périgord pour se détendre en famille, venez profiter des premiers beaux jours.
 Au Bosc Nègre, dans le Lot et Garonne, vous trouverez le lieu où vous pouvez vous reposer, où les enfants peuvent courir et s'amuser sans vous déranger. 
 
-Découvrez [notre offre pour les vacances du mois d'avril](https://premium.secureholiday.net/fr/14230/result?arrivalDate=01/04/2017&departureDate=08/04/2017&productType=L) à tarif intéressant. Profitez des ponts pour séjourner plus longtemps. A vous de [choisir les dates](https://premium.secureholiday.net/fr/14230/result?arrivalDate=01/04/2017&departureDate=08/04/2017&productType=L) et la durée. Vous pouvez arriver à chaque jour de la semaine. A **tarif réduit** de 50€ (au lieu de 75€) la nuit par logement. 
+Découvrez [notre offre pour les vacances du mois d'avril](https://premium.secureholiday.net/fr/14230/specialoffers)à tarif très intéressant. Profitez des ponts pour séjourner plus longtemps. A vous de [choisir les dates](https://premium.secureholiday.net/fr/14230/specialoffers) et la durée. Vous pouvez arriver à chaque jour de la semaine. A **tarif réduit** de 50€ (au lieu de 75€) la nuit par logement. 
 
 Des visites culturelles, des sorties sportives, de bons repas du terroir, des jeux en famille, des vacances au calme ... il y en a pour tous les goûts ! Retrouvez toutes les informations sur notre page [de la Région](/region/) 
 
