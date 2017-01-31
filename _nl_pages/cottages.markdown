@@ -31,6 +31,7 @@ Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het re
 
 ## Kies een vakantiehuisje die bij u past op één van de volgende pagina’s:
 Een gezin met  2 kinderen onder de 8 : [Gites du lac] (/nl/vrijstaande-vakantiehuisjes-4-6/)
+
 Een gezin met 3 kinderen onder de 10 : [Gites du pré] (/nl/vrijstaande-vakantiehuisjes-5-7/)
 
 Een gezin met 3 kinderen onder de 16 : [Gites du pré op de heuvel]  (/nl/vrijstaande-vakantiehuisjes-5-7/)
