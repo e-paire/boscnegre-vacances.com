@@ -13,7 +13,7 @@ cover:
 layout: CottagesCategories
 ---
 
-## Heerlijk genieten in een gite in de Dordogne, een brede keuze van vakantiehuisjes 
+# Heerlijk genieten in een gite in de Dordogne, een brede keuze van vakantiehuisjes 
 
 Op **vakantiepark de Bosc Nègre** midden in de bossen van de Dordogne ervaart u het heerlijke gevoel van vrijheid, blijheid. In een tijd, waarin het in het dagelijkse leven draait om efficiency en doelmatigheid, willen we allemaal minder stress en meer tijd besteden aan leuke dingen. Op de Bosc Nègre midden in de ongerepte natuur van de Dordogne vindt u de rust en de u tijd samen met uw kinderen te genieten van alle leuke dingen die u worden geboden. 
 De kleinschaligheid van en royale opzet van het vakantiepark garandeert u veel privacy. De rustige ligging en de gevarieerde indeling van het park geven u een echte vakantiebeleving. In en bij uw huisje kunt u puur genieten van de stilte, natuur en vrijheid. Het Franse label voor een **Vakantiepark** is een waarborg voor rust. Een plaats waar de circulatie van verkeer zoveel mogelijk wordt beperkt tot buitenom het vakantiepark, waar ontspanning wordt aangeboden als wel een eetgelegenheid wordt aangeboden. 
@@ -24,7 +24,7 @@ Drie **gites La Bergerie** hebben de grootste tuin welke een kind zich nauwelijk
 Van de serie individuele **gites du pré** staan er vier op een heuvelrug met een uitzicht over het het gehele vakantiepark. Anderen staan op een meer centrale plaats waar jongere kinderen gemakkelijker de weg terug vinden. 
 Het ‘huisje op de hei’ onder de hoge eikenbomen **gites de la foret** biedt plaats voor mensen die houden van de rust van de natuur en ook activiteiten zoeken voor hun gezin. 
 
-# Indeling van de volledig ingericht gite
+## Indeling van de volledig ingericht gite
 De vakantiehuisjes zijn allemaal verschillend gelegen en u kunt kiezen uit verschillende niveaus van comfort en grootte. Standaard zijn ze voorzien van alle voorzieningen om te koken: een keuken met koelkast, magnetron, koffiezet apparaat (filter), kookplaten en pannen. Voorzien van eettafel en in de hoek een slaapbank voor twee personen. Ieder huisje heeft een badkamer met douche (tenzij anders vermeld) en een apart toilet (tenzij anders vermeld). Ieder huisje heeft een **barbecue** of een gedeelde vaste barbecue. 
 
 Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het restaurant of iets af te halen. Lekker voor je laten koken, dat willen we toch allemaal? Bij de bar van [restaurant Bosc Nègre] (nl/restaurant/) kunt u zich dagelijks inschrijven voor een dagmenu of maaltijd à la carte. 
