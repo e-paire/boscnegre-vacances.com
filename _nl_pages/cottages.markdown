@@ -25,9 +25,9 @@ Van de serie individuele **gites du pré** staan er vier op een heuvelrug met ee
 Het ‘huisje op de hei’ onder de hoge eikenbomen **gites de la foret** biedt plaats voor mensen die houden van de rust van de natuur en ook activiteiten zoeken voor hun gezin. 
 
 # Indeling van de volledig ingericht gite
-De vakantiehuisjes zijn allemaal verschillend gelegen en u kunt kiezen uit verschillende niveaus van comfort en grootte. Standaard zijn ze voorzien van alle voorzieningen om te koken: een kleine keuken met koelkast, magnetron, koffiezet apparaat (filter), kookplaten en pannen. In de woonkeuken staan houten meubelen: een eettafel en een slaapbank voor twee personen. Ieder huisje heeft een badkamer met douche (tenzij anders vermeld) en een apart toilet (tenzij anders vermeld). Ieder huisje heeft een **barbecue** of een gedeelde vaste barbecue. 
+De vakantiehuisjes zijn allemaal verschillend gelegen en u kunt kiezen uit verschillende niveaus van comfort en grootte. Standaard zijn ze voorzien van alle voorzieningen om te koken: een keuken met koelkast, magnetron, koffiezet apparaat (filter), kookplaten en pannen. Voorzien van eettafel en in de hoek een slaapbank voor twee personen. Ieder huisje heeft een badkamer met douche (tenzij anders vermeld) en een apart toilet (tenzij anders vermeld). Ieder huisje heeft een **barbecue** of een gedeelde vaste barbecue. 
 
-Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het restaurant of iets af te halen. Lekker voor je laten koken, dat willen we toch allemaal? Bij de bar van [restaurant Bosc Nègre] (nl/restaurant/) kunt u zich dagelijks inschrijven voor een dagmenu of eten à la carte. 
+Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het restaurant of iets af te halen. Lekker voor je laten koken, dat willen we toch allemaal? Bij de bar van [restaurant Bosc Nègre] (nl/restaurant/) kunt u zich dagelijks inschrijven voor een dagmenu of maaltijd à la carte. 
 
 ## Kies een vakantiehuisje die bij u past op één van de volgende pagina’s:
 Een gezin met  2 kinderen onder de 8 : [Gites du lac] (/nl/vrijstaande-vakantiehuisjes-4-6/)
