@@ -98,7 +98,7 @@ In de omgeving heten de meeste dorpen een bastide. Een bastide is een vestingsta
 
 **Vakantiepark Bosc Nègre** bevindt zich tussen de twee rivieren de Dordogne en de Lot. Beide op een afstand van bijna 30 minuten rijden kunnen we genieten van deze prachtige valleien. De rivier de Dordogne staat bekend als zijnde de meest schone rivier van Frankrijk. Genoeg reden deze rivier te verkennen per [kano](nl/sportief/). Vanaf Sioroc du Périgord kunt u al een [kanobedrijf](http://www.a-canoe-raid.com) vinden. Langs de rivier staan verschillende kastelen, vaak hoog gelegen langs de rivier. [Kasteel Castelnaud](http://www.castelnaud.com) is met het prachtige uitzicht over de rivier en een verzameling wapens uit de middeleeuwen een aanrader voor het hele gezin. 
 
-Langs de Lot vinden we een ['Veloroute'](http://http://www.vallee-lot-47.eu/carte-de-la-veloroute). Een door het dal leidende fietsroute langs de wijnvelden van de **AOC Cahors**. Start u in Fumel en fietst u tot Puy l'Eveque dan beleefd u een prachtige fietstocht.
+Langs de Lot vinden we een ['Veloroute'](http://http://www.vallee-lot-47.eu/carte-de-la-veloroute). Een door het dal leidende vlakke fietsroute langs de wijnvelden van de **AOC Cahors**. Start u in Fumel en fietst u tot Puy l'Eveque dan beleefd u een prachtige fietstocht.
 
 De regio staat ook bekend om zijn gastronomische keuken. Eveneens bevindt u zich hier tussen de wijngebieden van Duras, Bergerac en Cahors! Alle lokale specialiteiten kunt u proeven in ons [restaurant](nl/restaurant/)
 .
