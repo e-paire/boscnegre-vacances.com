@@ -89,7 +89,8 @@ De prachtige regio nodigt u uit om haar unieke prehistorische-, historische- en 
 De streken Périgord, Quercy en Agenais bevinden zich ver van het alledaagse jachtige leven en zijn een oase van rust en stilte. Het is een gebied waar men kan ontspannen en zalig nietsdoen of actief zijn met genoeg om te doen en te zien. Er is in de eerste plaats een prima klimaat en gezellige mensen: alle ingrediënten voor een onvergetelijke vakantie!
 
 Bekijk de kaart met alle mooie plaatsen die u kunt bezoeken tijdens uw vakantie in de Dordogne.
-De bezienswaardigheden in de Dordogne en de Lot en Garonne.
+
+##De bezienswaardigheden in de Dordogne en de Lot en Garonne.
 
 Het gebied staat bekend om haar authentieke karakter. Dit is terug te vinden in het nabijgelegen dorpje St. Avit bijvoorbeeld, kasteel Biron of Donjon Gavaudun. Ze zijn allen op loopafstand van Bosc Nègre gelegen. Vele wandelpaden leiden naar deze authentieke plaatsen. Vergeet niet een wandelkaart mee te nemen, of vraag ernaar in de receptie. [Kasteel Bonaguil] (www.chateau-bonaguil.com) is één van de mooiste vesting kastelen van Frankrijk. Dit kasteel is te bezichtigen met Nederlandse Gids en zeker de moeite waard, u maakt hier de prachtigste fotos.  
 
