@@ -4,13 +4,13 @@ position: 4
 route: region
 metaTitle: Découvrez la région du Lot-et-Garonne depuis le Hameau du Bosc Nègre
 navTitle: Région
-cover:
-  image: "/uploads/chateau_biron_proche_bosc_negre.jpg"
-  alt: Quoi visiter en Dordogne pendant vos vacances
 metaDescription: Partez à la découverte du Périgord et les départements limitrophe
   pour vos prochaines vacances en gîte avec votre famille, vos amis, clus sportif
   ou association
 slogan: A la découverte d'une belle région dans un gîte en Lot-et-Garonne
+cover:
+  image: "/uploads/chateau_biron_proche_bosc_negre.jpg"
+  alt: Quoi visiter en Dordogne pendant vos vacances
 coordinates:
 - title: Bosc Nègre
   latitude: 44.597091
@@ -22,7 +22,6 @@ coordinates:
     Long : 0.873799
   color: orange
   is_open: true
-  images: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
 - title: Monflanquin
   latitude: 44.532771
   longitude: 0.765645
