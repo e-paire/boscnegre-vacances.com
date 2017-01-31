@@ -5,11 +5,12 @@ position: 4
 route: nl/omgeving
 metaTitle: 'Vakantiepark Bosc Negre grenzend aan de Périgord, de Quercy en de Lot  '
 navTitle: Omgeving
+metaDescription: De regio rond Bosc Nègre nodigt u uit om haar unieke prehistorische-,
+  historische- en gastronomische erfgoed te komen ontdekken
+slogan: Kom ontdekken welke plaatsen u kunt bezoeken tijdens uw verblijf op Bosc Nègre
 cover:
   image: "/uploads/chateau_biron_proche_bosc_negre.jpg"
   alt: Bezienswaardigheden in Dordogne
-metaDescription: De regio rond Bosc Nègre nodigt u uit om haar unieke prehistorische-,
-  historische- en gastronomische erfgoed te komen ontdekken
 coordinates:
 - title: Bosc Negre
   latitude: 44.597091
@@ -82,27 +83,22 @@ coordinates:
 layout: Region
 ---
 
-## Vakantiepark grenzend aan de Périgord, de Quercy en de Lot
+# Vakantiepark grenzend aan de Périgord, de Quercy en de Lot
 
 De prachtige regio nodigt u uit om haar unieke prehistorische-, historische- en gastronomische erfgoed te komen ontdekken, evenals de ouderwetse lust voor leven.
+De streken Périgord, Quercy en Agenais bevinden zich ver van het alledaagse jachtige leven en zijn een oase van rust en stilte. Het is een gebied waar men kan ontspannen en zalig nietsdoen of actief zijn met genoeg om te doen en te zien. Er is in de eerste plaats een prima klimaat en gezellige mensen: alle ingrediënten voor een onvergetelijke vakantie!
 
-De streken Périgord, Quercy en Agenais bevinden zich ver van het alledaagse jachtige leven en zijn een oase van rust en stilte. Het is een gebied waar men kan ontspannen en zalig nietsdoen of actief zijn met genoeg om te doen en te zien. Er is in de eerste plaats een prima klimaat en gezellige mensen : alle ingrediënten voor een onvergetelijke vakantie !
+Bekijk de kaart met alle mooie plaatsen die u kunt bezoeken tijdens uw vakantie in de Dordogne.
+De bezienswaardigheden in de Dordogne en de Lot en Garonne.
 
-Bekijk de kaart om alle mooie plaatsen die u kunt bezoeken tijdens uw vakantie in de Dordogne.
+Het gebied staat bekend om haar authentieke karakter. Dit is terug te vinden in het nabijgelegen dorpje St. Avit bijvoorbeeld, kasteel Biron of Donjon Gavaudun. Ze zijn allen op loopafstand van Bosc Nègre gelegen. Vele wandelpaden leiden naar deze authentieke plaatsen. Vergeet niet een wandelkaart mee te nemen, of vraag ernaar in de receptie. [Kasteel Bonaguil] (www.chateau-bonaguil.com) is één van de mooiste vesting kastelen van Frankrijk. Dit kasteel is te bezichtigen met Nederlandse Gids en zeker de moeite waard, u maakt hier de prachtigste fotos.  
 
-## Dordogne bezienswaardigheden
+In de omgeving heten de meeste dorpen een bastide. Een bastide is een vestingstadje uit de middeleeuwen, in de harde strijd tegen de Engelsen kon men in de strategisch gelegen dorpen de inwoners goed beschermen. Vanaf de kerktoren was het dorp met z’n rechte straten gemakkelijk te verdedigen. **Monflanquin**, **Monpazier**, **Villefranche du Périgord** en **Villeréal** zijn er voorbeelden van. De dorpen hadden ook zeker een economisch reden van bestaan. Het was een trefplaats voor markten en beurzen. Deze markten bestaan al 8 eeuwen en zijn heden de meest gezellige markten waar we prachtige en overheerlijke producten vinden van deze streek. **Issigeac** is op zondagmorgen de meest idyllische markt van deze streek. 
 
-Het gebied staat bekend om haar authentieke karakter. Dit is terug te vinden in het nabijgelegen dorpje St. Avit bijvoorbeeld.
+**Vakantiepark Bosc Nègre** bevindt zich tussen de twee rivieren de Dordogne en de Lot. Beide op een afstand van bijna 30 minuten rijden kunnen we genieten van deze prachtige valleien. De rivier de Dordogne staat bekend als zijnde de meest schone rivier van Frankrijk. Genoeg reden deze rivier te verkennen per [kano](/nl/sportief/). Vanaf Sioroc du Périgord kunt u al een [kanobedrijf] (www.a-canoe-raid.com) vinden. Langs de rivier staan verschillende kastelen, vaak hoog gelegen langs de rivier. [Kasteel Castelnaud] (www.castelnaud.com) is met het prachtige uitzicht over de rivier en een verzameling wapens uit de middeleeuwen een aanrader voor het hele gezin. 
 
-* Beroemde kastelen : de kastelen van Biron, Gavaudun en Bonaguil
+De regio staat ook bekend om zijn gastronomische keuken. Eveneens bevindt u zich hier tussen de wijngebieden van Duras, Bergerac en Cahors! Alle lokale specialiteiten kunt u proeven in ons [restaurant](nl/restaurant/)
+.
+Voor meer informatie over de regio, bekijk dan de website [van Tourist Information Fumel Vallée du Lot] (http://www.tourisme-fumel.com). 
 
-* Middeleeuwse dorpen en bastides van Monflanquin, Villeréal, Belvès, Monpazier, Issigeac en Villefranche du Perigord
-
-* De valleien van de rivieren de Dordogne en de Lot brengen u terug in de tijd. \
-
-
-Lacapelle-Biron (op 2 km van ons park) heeft alle voorzieningen: winkels, apotheek, arts, restaurants, garage, tennis, enz. De bakker bezorgt iedere morgen vers brood, traditioneel gebakken in een watermolen.
-
-De regio staat ook bekend om zijn gastronomische keuken. Het is genieten in een omgeving met weidse uitzichten, kastelen, grotten en holwoningen. Eveneens bevindt u zich hier in de wijngebieden van Duras, Bergerac en Cahors! Alle lokale specialiteiten kunt u proeven in ons restaurant.\
-
-Voor meer informatie over de regio, bekijk dan de website van Tourist Information Fumel Vallée du Lot.
+**Lacapelle-Biron** (op 2 km van ons park) heeft alle voorzieningen: winkels, apotheek, arts, restaurants, garage, enz. De bakker bezorgt iedere morgen vers brood, traditioneel gebakken in een watermolen.
