@@ -4,12 +4,12 @@ position: 1
 route: nl/vakantiehuis
 metaTitle: Overzicht van alle vakantiehuisjes
 navTitle: Vakantiehuisjes op Bosc Nègre
+metaDescription: Kies een vakantiehuisje dat bij u past op vakantiepark Bosc Nègre
+  in de Dordogne
+slogan: Keuze uit verschillende vakantiehuisjes
 cover:
   image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
   alt: familiaal vakantiepark in Dordogne
-Metadéscription: Kies een vakantiehuisjes dat bij u past of familiaal vakantiepark
-  Bosc Nègre in de Dordogne.
-Slogan: Keuze uit 23 vakantiehuisjes Bosc Nègre
 layout: CottagesCategories
 ---
 
@@ -31,10 +31,10 @@ Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het re
 
 ## Kies een vakantiehuisje die bij u past op één van de volgende pagina’s:
 Een gezin met  2 kinderen onder de 8 : [Gites du lac] (/nl/vrijstaande-vakantiehuisjes-4-6/)
-Een gezin met 3 kinderen onder de 10 : [Gites du pré] (/nl/vrijstaande-vakantiehuisjes-5-7/)
+Een gezin met 3 kinderen onder de 10 : [Gites du pré] (/nl/vrijstaande-vakantiehuisjes-5-7/)/
 Een gezin met 3 kinderen onder de 16 : [Gites du pré op de heuvel]  (/nl/vrijstaande-vakantiehuisjes-5-7/)
-Samen met vrienden op vakantie:  [Gites la Bergerie] (/nl/geschakelde-vakantiehuisjes-5-7/)
-Samen met vrienden een huisje delen: [Gites la Ferme  7/9 pers] (/nl/geschakelde-vakantiehuisjes-7-9/)
-Een samengesteld of groot gezin : [Gites la Ferme  7/9 pers] (/nl/geschakelde-vakantiehuisjes-7-9/)
-Een gezin met jonge kinderen: [Gites la Ferme 5/7 pers] (/nl/geschakelde-vakantiehuisjes-5-7/)
+Samen met vrienden op vakantie:  [Gites la Bergerie] (/nl/geschakelde-vakantiehuisjes-5-7/)/
+Samen met vrienden een huisje delen: [Gites la Ferme  7/9 pers] (/nl/geschakelde-vakantiehuisjes-7-9/)/
+Een samengesteld of groot gezin : [Gites la Ferme  7/9 pers] (/nl/geschakelde-vakantiehuisjes-7-9/)/
+Een gezin met jonge kinderen: [Gites la Ferme 5/7 pers] (/nl/geschakelde-vakantiehuisjes-5-7/)/
 
