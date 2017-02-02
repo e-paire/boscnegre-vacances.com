@@ -9,7 +9,7 @@ metaDescription: Boek een vakantiehuisje voor 7 tot 9 personen op de Bosc Negre.
 slogan: Vakantiehuis voor grote gezinnen op Bosc Nègre
 cover:
   image: "/uploads/gite_2_Bosc_Negre.JPG"
-  alt: Vakantiehuisje voor 7 tot 9 personen op de Bosc NEgre
+  alt: Vakantiehuisje voor 7 tot 9 personen op de Bosc Negre
 capacityMin: 7
 capacityMax: 9
 priceMin: 660
