@@ -32,7 +32,7 @@ Het vakantiepark de Bosc Negre bevindt zich in de regio Lot-et-Garonne, grenzend
 ## De inrichting van het park
 Het park heeft 23 vakantiehuisjes voor 2 tot 9 personen. Voor ieder een eigen vakantiehuisje en toch samen op vakantie, dat geeft iedereen de privacy en de rust voor en paar gezellige dagen samen. Ieder huisje is volledig ingericht en heeft alles wat u nodig bent voor een kort of lang verblijf: 2 slaapkamers en een slaapbank, badkamer, terras. Lakens en handdoeken is veelal inbegrepen in de all-in prijs.
 
-## Ontdek de [regio](/nl/regio) tijdens uw groepsvakantie in Frankrijk.
+## Ontdek de streek tijdens uw groepsvakantie in Frankrijk.
 
 **Bosc Nègre vakantiepark** bevindt zich in een prachtige omgeving met veel bezienswaardigheden. Wij geven advies over alles want u kunt ondernemen tijdens uw verblijf op de [regio pagina](nl/regio/).
 
