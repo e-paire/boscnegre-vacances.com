@@ -6,7 +6,7 @@ metaTitle: Overzicht van alle vakantiehuisjes
 navTitle: Vakantiehuisjes op Bosc Nègre
 metaDescription: Kies een vakantiehuisje dat bij u past op vakantiepark Bosc Nègre
   in de Dordogne
-slogan: Keuze uit verschillende vakantiehuisjes
+slogan: Keuze uit verschillende vakantiehuisjes op Bosc Nègre
 cover:
   image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
   alt: familiaal vakantiepark in Dordogne
