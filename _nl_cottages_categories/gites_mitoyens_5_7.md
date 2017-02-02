@@ -4,6 +4,9 @@ position: 2
 route: nl/geschakelde-vakantiehuisjes-5-7
 metaTitle: Geschakelde vakantiehuisjes voor 5/7 pers.
 navTitle: Geschakelde vakantiehuisjes 5/7 pers.
+metaDescription: Boek een vakantiehuisje voor 5 tot 7 personen op de Bosc Negre. Huisje
+  3 en 5 zijn in het hoofdgebouw dus dicht bij alle activiteiten en voorzieningen.
+slogan: 'Vakantiehuis op familiaal vakantiepark Bosc Nègre '
 cover:
   image: "/uploads/gite_PMR_Bosc_Negre.jpg"
   alt: Vakantiehuisje voor mindervaliden op de Bosc Negre
