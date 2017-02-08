@@ -45,10 +45,10 @@ In de zomermaanden juli en augustus kunt u iedere avond à la carte of het dagme
 Een salade of een heerlijk vleesgerecht van de grill tussen 7 en 17 euro, of het volledige ‘menu Auberge voor 19 euro. Voor kinderen hebben we verschillende gerechten vanaf 7,50 euro. De hele middag serveren we salades en heerlijke lunchgerechten. Daarnaast bieden we u de gehele dag een uitgebreide kaart met Café gourmand, tapas en cocktails!
 
 Huisje huren inclusief een drie gangen (incl. koffie) menu iedere avond? Dat kan. 
-Prijs dagmenu:
-Volwassenen en kinderen ouder dan 15 jr 14€00,  
-Kinderen van 12 tm 15 jaar 11€, 
-Kinderen van 4 tm 11 jaar 9€.
+Prijs dagmenu:\
+Volwassenen en kinderen ouder dan 15 jr 14€\ 
+Kinderen van 12 tm 15 jaar 11€,\ 
+Kinderen van 4 tm 11 jaar 9€.\
 
 **Buiten de maanden juli en augustus**
 
