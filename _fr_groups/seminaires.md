@@ -4,6 +4,10 @@ position: 1
 route: seminaires
 metaTitle: Salle de réunion et hébergement de 20 à 80 personnes dans le Lot et Garonne
 navTitle: Séminaires
+metaDescription: Organisez votre séminaire ou votre réunion en plein forêt du Périgord,
+  Lot et Garonne. Bénéficiez également d’hébergements et d’une pension complète. Nous
+  proposons des séminaires sur mesure en fonction de vos besoins !
+slogan: Séminaire de travail avec hébergement dans le Périgord Noir
 cover:
   image: "/uploads/Grande_salle_U_vue_de_face_Bosc_Negre.jpg"
   alt: Grande salle de séminaire au Bosc Negre pour votre réunion de travail
@@ -19,10 +23,6 @@ images:
   alt: 
 - image: "/uploads/Demi_salle_epi__Bosc_Negre.jpg"
   alt: 
-metaDescription: Organisez votre séminaire ou votre réunion en plein forêt du Périgord,
-  Lot et Garonne. Bénéficiez également d’hébergements et d’une pension complète. Nous
-  proposons des séminaires sur mesure en fonction de vos besoins !
-slogan: Séminaire de travail avec hébergement dans le Périgord Noir
 services:
 - description: |-
     ## Une salle de réunion de 95m² pouvant accueillir jusqu’à 80 personnes
@@ -39,7 +39,7 @@ services:
     23 gîtes de deux chambres sont à votre disposition. Ceux-ci ont chacun une chambre double et une chambre individuelle (avec trois couchages), ainsi qu’une salle de bain/salle d’eau, toilettes, cuisine et salon
   cover:
     image: "/uploads/chambre_individuelle_pendant_seminaire_Bosc_Negre.jpg"
-    alt: 48 chambres individuelles au Bosc Negre disponibles pour votre séminaire
+    alt: 47 chambres individuelles au Bosc Negre disponibles pour votre séminaire
 - description: |-
     ## Profiter d’une pension complète pendant votre séminaire
 
@@ -58,10 +58,9 @@ prices:
     image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
     alt: Le Village de Vacances du Bosc Negre
 pricesExamples:
-- description: |-
-    1er jour : café de bienvenue - déjeuner - pause - repas du terroir et nuitée en chambre individuelle
-
-    2ème jour : petit déjeuner - pause - déjeuner
+- description: "1er jour : \ncafé de bienvenue - \ndéjeuner - \npause - \nrepas du
+    terroir \net nuitée en chambre individuelle\n\n\n2ème jour : \npetit déjeuner
+    - \npause - \ndéjeuner"
   price: 112€ HT par personne
 layout: Seminar
 ---
