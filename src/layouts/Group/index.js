@@ -5,6 +5,7 @@ import Breadcrumb from "components/Breadcrumb"
 import CarouselImages from "components/CarouselImages"
 import Content from "components/Content"
 import Page from "layouts/Page"
+import PricesExamples from "components/PricesExamples"
 import Title from "components/Title"
 
 const Group = ({head, body, ...props}) => {
@@ -26,6 +27,11 @@ const Group = ({head, body, ...props}) => {
         {head.imagesTitle && <Title id={head.imagesTitle} theme="yellow" />}
         <CarouselImages images={head.images} theme="yellow" />
       </Content>
+      {head.pricesExamples &&
+        <Content>
+          <PricesExamples prices={head.pricesExamples} />
+        </Content>
+      }
     </Page>
   )
 }

@@ -58,9 +58,11 @@ const Seminar = ({head, body, ...props}) => {
           text={head.prices.text}
         />
       }
-      <Content>
-        <PricesExamples prices={head.pricesExamples} />
-      </Content>
+      {head.pricesExamples &&
+        <Content>
+          <PricesExamples prices={head.pricesExamples} />
+        </Content>
+      }
     </Page>
   )
 }
