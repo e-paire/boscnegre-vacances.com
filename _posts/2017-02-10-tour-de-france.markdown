@@ -17,7 +17,7 @@ is-visible: true
 
 Hebt u samen met de kinderen weleens de tour bezocht? Een live bezoek aan de **Tour de France** is een belevenis, die zullen de kinderen niet snel vergeten, zelf beleven, daar kan niets tegenop. Deze unieke wielerwedstrijd moet men een keer hebben meegemaakt.
 
-Het zal niet de reden zijn om de vakantie te boeken naar de Dordogne, maar als het langs uw **vakantieadres Bosc Nègre** gaat mag u het niet missen! Deel samen met uw kinderen de ervaring van het aanmoedigen van de renners in de tour de France. Maar ook het spektakel van de reclamekaravaan, de officials 
+Het zal niet de reden zijn om de vakantie te boeken naar de Dordogne, maar als het langs uw **vakantieadres Bosc Nègre** gaat mag u het niet missen! Deel samen met uw kinderen de ervaring van het aanmoedigen van de renners in de tour de France. Maar ook het spektakel van het hele tourcircus.  
 
 De Tour de France start de 10e etappe in Perigueux op Dinsdag 11 juli met als eindpunt **Bergerac**. Via de grotten van Lascaux vervolgt de tour zijn weg via Sarlat, de Vallei van de Dordogne (34 km vanaf Bosc Nègre) eindigt op die dag in Bergerac (49 km vanaf Bosc Nègre). 
 Herkansing op woensdag 12 juli, dan vervolgt de tour zijn weg door de provincie Lot en Garonne. De 11e etappe start in Eymet en zal via Miramont de Guyenne (49 km vanaf Bosc Nègre) doorrijden naar Pau. 
