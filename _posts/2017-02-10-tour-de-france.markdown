@@ -3,14 +3,15 @@ title: Tour de France
 date: 2017-02-10 20:08:00 +01:00
 tags:
 - Tour de France
-metaText: Tour de France langs de Bosc Nègre
+route: 2017-02-tour-de-france
+metaTitle: Tour de France langs de Bosc Nègre
 navTitle: tour
 metaDescription: Tour de France doorkruist de Dordogne, dichtbij Bosc Nègre vakantiepark
 slogan: Mis niet de Tour de France door de Dordogne
 cover:
   image: "/uploads/Tour%20de%20France.jpg"
   alt: Tour de France
-is-visible: true
+is_visible: true
 ---
 
 # Tour de France doorkruist de Dordogne.
