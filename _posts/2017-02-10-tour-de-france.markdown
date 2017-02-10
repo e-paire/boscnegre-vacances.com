@@ -14,7 +14,7 @@ cover:
 is_visible: true
 ---
 
-# Tour de France doorkruist de Dordogne.
+# Tour de France passeert de Dordogne.
 
 Hebt u samen met de kinderen weleens de tour bezocht? Een live bezoek aan de **Tour de France** is een belevenis, die zullen de kinderen niet snel vergeten, zelf beleven, daar kan niets tegenop. Deze unieke wielerwedstrijd moet men een keer hebben meegemaakt.
 
