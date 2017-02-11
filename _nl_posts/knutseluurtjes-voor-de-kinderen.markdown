@@ -3,6 +3,7 @@ title: Knutseluurtjes voor de kinderen
 date: 2017-02-11 15:09:00 +01:00
 tags:
 - activiteiten zomer
+route: nl/knutseluurtjes-voor-de-kinderen
 metaTitle: Knutseluurtje voor de kinderen
 navTitle: knutselen
 metaDescription: Knutseluurtje voor de kinderen op vakantiepark Bosc Nègre
