@@ -6,6 +6,9 @@ metaTitle: Tour de France langs de Bosc Nègre
 navTitle: tour
 metaDescription: Tour de France doorkruist de Dordogne, dichtbij Bosc Nègre vakantiepark
 slogan: Mis niet de Tour de France door de Dordogne
+cover:
+  image: "/uploads/Tour%20de%20France.jpg"
+  alt: Tour de France 2017
 layout: Post
 ---
 
