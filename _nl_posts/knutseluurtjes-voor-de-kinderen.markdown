@@ -11,6 +11,7 @@ slogan: kom knutselen tijdens de vakantie
 cover:
   image: "/uploads/MASKER.jpg"
   alt: knutseluurtje
+layout: Post
 ---
 
 # Knutseluurtjes voor de kinderen twee maal per week in uw vakantie
