@@ -9,6 +9,9 @@ slogan: Mis niet de Tour de France door de Dordogne
 cover:
   image: "/uploads/Tour%20de%20France.jpg"
   alt: Tour de France 2017
+images:
+- image: "/uploads/Tour%20de%20France.jpg"
+  alt: Tour de France 2017
 layout: Post
 ---
 
