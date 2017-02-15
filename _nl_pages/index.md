@@ -5,8 +5,8 @@ route: nl
 metaTitle: 'Vakantiepark Bosc Nègre '
 navTitle: Home pagina
 metaDescription: 'Vakantiehuisjes op Bosc Nègre met restaurant, verwarmd zwembad en
-  tennisbaan. Een kleinschalig vakantiepark tussen Dordogne en Lot voor het gezin,
-  met welness, sport en ontspanning  '
+  tennisbaan. Een kleinschalig vakantiepark tussen Dordogne en Lot in Frankrijk voor
+  het gezin, met welness, sport en ontspanning  '
 slogan: kleinschalig vakantiepark Dordogne
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
@@ -21,9 +21,9 @@ layout: Homepage
 
 ### Familiale en ontspannende sfeer op Bosc Nègre vakantiepark 
 
-Welkom op de Bosc Nègre, een kleinschalig door Nederlanders gerund **vakantiepark in de Dordogne**. Alfred en Coby zijn uw gastheer en gastvrouw tijdens uw verblijf. Gedurende 16 jaar is het park veranderd en verbeterd, om u een onvergetelijke vakantie te bezorgen. U kunt energie opdoen in alle rust in één van de vakantiehuisjes, met veel privacy, op een bosrijk terrein in de prachtige omgeving op de grens van de Dordogne et de Lot en Garonne.
+Welkom op de Bosc Nègre, een kleinschalig door Nederlanders gerund **vakantiepark in de Dordogne**. Alfred en Coby zijn uw gastheer en gastvrouw tijdens uw verblijf. Gedurende 16 jaar is het park veranderd en verbeterd, om u een onvergetelijke vakantie te bezorgen. U kunt energie opdoen in alle rust in één van de vakantiehuisjes, met veel privacy, op een bosrijk terrein in de prachtige omgeving op de grens van de **Dordogne** et de Lot en Garonne.
 
-Het vakantiepark bevindt zich in het zuid-westen van Frankrijk. Een regio die vandaag de dag ‘Nouvelle-Aquitaine’ genoemd mag worden. 23 [Vakantiehuisjes] (/nl/vakantiehuis/) zijn verdeeld over 5 hectare. Het geringe aantal huisjes op een groot terrein geeft ieder en elk de rust die het verdiend. Ieder huisje heeft z’n eigen terras en alles wat u nodig heeft voor een onbezorgde vakantie in het departement Lot en Garonne en natuurgebied de Périgord-noir. 
+Het vakantiepark bevindt zich in het zuid-westen van **Frankrijk**. Een regio die vandaag de dag ‘Nouvelle-Aquitaine’ genoemd mag worden. 23 [Vakantiehuisjes] (/nl/vakantiehuis/) zijn verdeeld over 5 hectare. Het geringe aantal **huisjes** op een groot terrein geeft ieder en elk de rust die het verdiend. Ieder huisje heeft z’n eigen terras en alles wat u nodig heeft voor een onbezorgde vakantie in het departement Lot en Garonne en natuurgebied de Périgord-noir. 
 
 ### Verschillende voorzieningen tot uw beschikking tijdens uw vakantie op dit vakantiepark.
 
