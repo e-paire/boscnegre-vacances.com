@@ -1,6 +1,8 @@
 ---
 title: Tour de France doorkruist de Dordogne
 date: 2017-02-10 12:16:00 +01:00
+tags:
+- activiteiten zomer
 route: nl/tour-de-france
 metaTitle: Tour de France langs de Bosc Nègre
 navTitle: tour
