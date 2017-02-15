@@ -11,6 +11,7 @@ slogan: Kom feesten in Monflanquin
 cover:
   image: "/uploads/journees-medievales-de-monflanquin.jpg"
   alt: Fête médiévale Monflanquin
+layout: Post
 ---
 
 # Beleef de middeleeuwse feesten in één van de mooiste dorpen ('les plus beaux villages de France') van Frankrijk. 
