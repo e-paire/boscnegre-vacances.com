@@ -3,6 +3,7 @@ title: Feest op 15 augustus
 date: 2017-02-15 08:32:00 +01:00
 tags:
 - activiteiten zomer
+route: nl/feest-op-15-augustus
 metaTitle: Midddeleeuwse feesten op 15 augustus in Monflanquin
 navTitle: Feest Monflanquin
 metaDescription: Kom het beleven, de middeleeuwse feesten in Monflanquin  op 15 augustus
@@ -12,7 +13,7 @@ cover:
   alt: Fête médiévale Monflanquin
 ---
 
-# Beleef de middeleeuwse feesten in één van de mooiste dorpen (les plus beau villages de France) van Frankrijk. 
+# Beleef de middeleeuwse feesten in één van de mooiste dorpen ('les plus beaux villages de France') van Frankrijk. 
 
 ## Om franse cultuur op te snuiven mag je dit jaarlijkse event in de buurt van **Bosc Nègre niet missen**. 
 
