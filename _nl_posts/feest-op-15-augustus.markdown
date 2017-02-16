@@ -18,7 +18,7 @@ layout: Post
 
 ## Om franse cultuur op te snuiven mag je dit jaarlijkse event in de buurt van **Bosc Nègre niet missen**. 
 
-Eenmaal per jaar is er in [Monflanquin](https://coeurdebastides.jimdo.com/) een grootst gevierd middeleeuwse feest. Gedurende een paar dagen rond en op 15 augustus gaat het sfeervolle dorpje weer terug naar de tijd in de middeleeuwen. Het festival biedt een aantal dagen decors die speciaal voor de gelegenheid gemaakt zijn, om zich in roerige sfeer van de riddertijd te wanen. De plaatselijke bevolking, de marktkramen en de muziek tonen de sfeer van de 16e eeuw. 
+Eenmaal per jaar wordt er in [Monflanquin](https://coeurdebastides.jimdo.com/) een grootst middeleeuwse feest gevierd. Gedurende een paar dagen rond en op 15 augustus gaat het sfeervolle dorpje weer terug naar de tijd in de middeleeuwen. Het festival biedt een aantal dagen decors die speciaal voor de gelegenheid gemaakt zijn, om zich in roerige sfeer van de riddertijd te wanen. De plaatselijke bevolking, de marktkramen en de muziek tonen de sfeer van de 16e eeuw. 
 
 Tijdens deze feestelijke dagen is er een gevuld programma met troubadours, jongleerders en getalenteerde speelmannen die de bastide weer doen herleven als in de middeleeuwen. Op het programma staan ook gevechtsdemonstraties en paardengevecht toernooien. Vele herbergiers zorgen voor het eten en drinken in overvloed. U zult met de kinderen eindeloos genieten van de optochten, de muzikale optredens en de vuurwerkshow als afsluiter. 
 
