@@ -12,6 +12,9 @@ slogan: Musée Palissy à visiter
 cover:
   image: "/uploads/foto%20blog%20palissy.jpg"
   alt: Exposition Claude Champy et Jean-François Fouilhoux
+  Key: 
+is_visible: true
+layout: Post
 ---
 
 # Musée de céramique Bernard Palissy à Saint Avit
