@@ -1,7 +1,6 @@
 ---
 title: Musée de céramique Bernard Palissy
 date: 2017-02-02 15:42:00 +01:00
-published: false
 tags:
 - Musée
 route: 2017-02-musee-palissy
@@ -10,6 +9,9 @@ navTitle: Musée
 metaDescription: Musée Bernard Palissy à deux pas du village de vacances Bosc Nègre
   à visiter
 slogan: Musée Palissy à visiter
+cover:
+  image: "/uploads/foto%20blog%20palissy.jpg"
+  alt: Exposition Claude Champy et Jean-François Fouilhoux
 ---
 
 # Musée de céramique Bernard Palissy à Saint Avit
