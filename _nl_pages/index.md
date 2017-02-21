@@ -19,11 +19,11 @@ offers:
 layout: Homepage
 ---
 
-### Familiale en ontspannende sfeer op Bosc Nègre vakantiepark 
+### Familiaal kleinschalig vakantiepark Bosc Nègre
 
 Welkom op de Bosc Nègre, een kleinschalig door Nederlanders gerund **vakantiepark in de Dordogne**. Alfred en Coby zijn uw gastheer en gastvrouw tijdens uw verblijf. Gedurende 16 jaar is het park veranderd en verbeterd, om u een onvergetelijke vakantie te bezorgen. U kunt energie opdoen in alle rust in één van de vakantiehuisjes, met veel privacy, op een bosrijk terrein in de prachtige omgeving op de grens van de **Dordogne** et de Lot en Garonne.
 
-Het vakantiepark bevindt zich in het zuid-westen van **Frankrijk**. Een regio die vandaag de dag ‘Nouvelle-Aquitaine’ genoemd mag worden. 23 [Vakantiehuisjes] (/nl/vakantiehuis/) zijn verdeeld over 5 hectare. Het geringe aantal **huisjes** op een groot terrein geeft ieder en elk de rust die het verdiend. Ieder huisje heeft z’n eigen terras en alles wat u nodig heeft voor een onbezorgde vakantie in het departement Lot en Garonne en natuurgebied de Périgord-noir. 
+Dit **bungalowpark** bevindt zich in het zuid-westen van **Frankrijk**. Een regio die vandaag de dag ‘Nouvelle-Aquitaine’ genoemd mag worden. 23 [Vakantiehuisjes] (/nl/vakantiehuis/) zijn verdeeld over 5 hectare. Het geringe aantal **huisjes** op een groot terrein geeft ieder en elk de rust die het verdiend. Ieder huisje heeft z’n eigen terras en alles wat u nodig heeft voor een onbezorgde vakantie in het departement Lot en Garonne en natuurgebied de Périgord-noir. 
 
 ### Verschillende voorzieningen tot uw beschikking tijdens uw vakantie op dit vakantiepark.
 
