@@ -9,7 +9,7 @@ navTitle: Feest Monflanquin
 metaDescription: Kom het beleven, de middeleeuwse feesten in Monflanquin  op 15 augustus
 slogan: Kom feesten in Monflanquin
 cover:
-  image: "/uploads/journees-medievales-de-monflanquin.jpg"
+  image: "/uploads/m%C3%A9di%C3%A9val%20montflanquin.jpg"
   alt: Fête médiévale Monflanquin
 layout: Post
 ---
