@@ -12,7 +12,7 @@ const Offers = ({cover, intl, text}) => {
       <ImageText
         cover={cover}
         text={text}
-        url={getUrl("secureholiday", intl.locale) + "/weekprices"}
+        url={getUrl("secureholiday", intl.locale) + "/specialoffers"}
         external
       />
     </div>
