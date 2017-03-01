@@ -44,11 +44,11 @@ class TopBar extends Component {
           </div>
           <a
             className={styles.email}
-            href="mailto:info@boscnegre-vacances.fr"
+            href="mailto:info@boscnegre-vacances.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            {"info@boscnegre-vacances.fr"}
+            {"info@boscnegre-vacances.com"}
           </a>
           <a
             className={styles.phone}

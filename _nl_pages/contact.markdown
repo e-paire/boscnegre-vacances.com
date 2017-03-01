@@ -12,7 +12,7 @@ layout: Contact
 ---
 
 Wilt u informatie? Bel Coby \+33 6 70 54 70 39 of \+33 5 53 40 99 27\
-of mail <a href="mailto:info@boscnegre-vacances.fr" target="_blank" rel="nofollow noopener noreferrer">info@boscnegre-vacances.fr</a>
+of mail <a href="mailto:info@boscnegre-vacances.com" target="_blank" rel="nofollow noopener noreferrer">info@boscnegre-vacances.com</a>
 
 Reserveren kan op de pagina <a href="https://premium.secureholiday.net/nl/14230/" target="_blank" rel="nofollow noopener noreferrer">online boeken</a>
 
