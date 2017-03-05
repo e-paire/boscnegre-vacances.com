@@ -11,6 +11,9 @@ slogan: Kom feesten in Monflanquin
 cover:
   image: "/uploads/m%C3%A9di%C3%A9val%20montflanquin.jpg"
   alt: Fête médiévale Monflanquin
+image: "/uploads/m%C3%A9di%C3%A9val2.jpg"
+alt: Middeleeuwse feesten Monflanquin
+Field name: 
 layout: Post
 ---
 
