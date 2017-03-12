@@ -1,6 +1,8 @@
 ---
 title: Laat ze maar spelen
 date: 2017-03-12 10:43:00 +01:00
+tags:
+- activiteiten zomer
 route: 2017-03-laat-ze-maar-spelen
 metaTitle: Speeltuin vernieuwd
 navTitle: Speeltuin
@@ -12,6 +14,7 @@ cover:
   image: "/uploads/speeltuinn.jpg"
   alt: Speeltuin vernieuwd op Bosc Nègre vakantiepark
 is_visible: true
+layout: Post
 ---
 
 #Speeltuin in metamorphose
