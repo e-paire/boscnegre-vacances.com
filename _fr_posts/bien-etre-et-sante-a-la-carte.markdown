@@ -6,6 +6,9 @@ tags:
 route: 2017-01-bien-etre-et-sante
 metaTitle: Bien-être et santé
 navTitle: Bien-être
+metaDescription: Bien-être et sante.. Cette année la carte  restaurant du Bosc Nègre
+  va se diversifier. Des produits biologiques, locaux si possibles et des plats végétariens
+slogan: Le bien-être pendant les vacances
 cover:
   image: "/uploads/bien_sante_Bosc_Negre.JPG"
   alt: Bien être et santé au Bosc Negre
@@ -14,8 +17,6 @@ images:
   alt: 
 - image: "/uploads/bien_sante_Bosc_Negre.JPG"
   alt: 
-metaDescription: Bien-être et sante.. Cette année la carte  restaurant du Bosc Nègre
-  va se diversifier. Des produits biologiques, locaux si possibles et des plats végétariens
 Slogan: Nouveau au Bosc Nègre la santé dans l'assiètte
 layout: Post
 ---
