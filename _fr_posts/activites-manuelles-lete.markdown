@@ -1,6 +1,9 @@
 ---
 title: Activités manuelles l'été
 date: 2017-03-12 10:06:00 +01:00
+tags:
+- activités
+route: 2017-03-activités-manuelles
 metaTitle: Activités manuelles l'été pour les enfants
 navTitle: activités
 metaDescription: L'activités manuelle est un des activités du planning d'été. Des
@@ -9,6 +12,7 @@ slogan: Des vacances actives pour vos enfants
 cover:
   image: "/uploads/MASKER-156e90.jpg"
   alt: activités manuelles au Bosc Nègre
+is_visible: true
 ---
 
 Décorer vos photobooths lors des activités manuelles l’été avec l’animatrice du Bosc Nègre. Particulièrement apprécié par les enfants entre 4 et 13 ans, ces activités donnent aux enfants le temps de laisser libre court à leur créativité. A la fin de la séance on s’amuse à faire des photos pour montrer le superbe résultat fièrement à tous.
