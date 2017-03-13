@@ -3,7 +3,7 @@ title: Activités manuelles l'été
 date: 2017-03-12 10:06:00 +01:00
 tags:
 - activités
-route: 2017-03-activités-manuelles
+route: 2017-03-activites-manuelles
 metaTitle: Activités manuelles l'été pour les enfants
 navTitle: activités
 metaDescription: L'activités manuelle est un des activités du planning d'été. Des
