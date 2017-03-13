@@ -3,7 +3,7 @@ title: Laat ze maar spelen
 date: 2017-03-12 10:43:00 +01:00
 tags:
 - activiteiten zomer
-route: 2017-03-laat-ze-maar-spelen
+route: nl/laat-ze-maar-spelen
 metaTitle: Speeltuin vernieuwd
 navTitle: Speeltuin
 metaDescription: De speeltuin geheel is fors uitgebreid op Vakantiepark Bosc Nègre
