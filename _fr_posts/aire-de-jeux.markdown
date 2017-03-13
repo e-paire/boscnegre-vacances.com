@@ -24,5 +24,6 @@ Plus d’aménagements pour encore plus d'aventures ensemble avec les copains de
 Pour les petits comme pour les grands, pour les aventuriers en herbe et pour les grimpeurs prudents. Comme pour la piscine, on a également pensé à la sécurité pour le terrain de jeu. Grâce à tous ces équipements, les enfants peuvent grimper avec leurs amis, s’amuser sur la balançoire et escalader la pyramide tous ensemble.  Cet été, l’aire de jeu sera un endroit où les enfants peuvent jouer pendant des heures avec leurs amis.
 
 ## Vue sur le terrain de jeux
-Le terrain de jeux est situé à côté de la piscine et de la terrasse, c’est-à-dire dans un endroit central. Tout en buvant tranquillement une tasse de café sur la terrasse ou en sirotant votre cocktail, vous pourrez garder un œil sur vos enfants à l'aire de jeux. Notez qu’aussi depuis la plupart des gîtes, vous avez une vue sur le terrain de jeu.
+Le terrain de jeux est situé à côté de la piscine et de la terrasse, c’est-à-dire dans un endroit central. Tout en buvant tranquillement une tasse de café sur la terrasse ou en sirotant votre cocktail, vous pourrez garder un œil sur vos enfants à l'aire de jeux. Notez qu’aussi depuis la plupart des gîtes, vous avez une vue sur le terrain de jeux.
 
+Mais ce n'est pas tout, il y a aussi des activités organisées.
