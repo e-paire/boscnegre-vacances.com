@@ -2,7 +2,7 @@
 title: Musée de céramique Bernard Palissy
 date: 2017-02-02 15:42:00 +01:00
 tags:
-- Musée
+- à visiter
 route: 2017-02-musee-palissy
 metaTitle: Musée de céramique Bernard Palissy
 navTitle: Musée
