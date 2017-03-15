@@ -7,7 +7,7 @@ route: 2017-03-du-vin-bio-de-biron
 metaTitle: Domaine de la Tuque passe en bio
 navTitle: du vin bio
 metaDescription: 'Le domaine de la Tuque sera certifié biologique '
-slogan: Du bon vin biologique à biron
+slogan: Du bon vin biologique à Biron
 cover:
   image: "/uploads/domainedelatuqu.jpg"
   alt: domaine de la tuque passe en bio
