@@ -15,7 +15,7 @@ is_visible: true
 layout: Post
 ---
 
-# Le domaine de la Tuque passe en Bio.
+# Le domaine de la Tuque passe au Bio.
 
 A quelques kilomètres du **village de vacances Bosc Nègre** se trouve le vignoble Domaine de la Tuque.
 
