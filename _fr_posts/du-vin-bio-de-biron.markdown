@@ -12,6 +12,7 @@ cover:
   image: "/uploads/domainedelatuqu.jpg"
   alt: domaine de la tuque passe en bio
 is_visible: true
+layout: Post
 ---
 
 # Le domaine de la Tuque passe en Bio.
