@@ -30,4 +30,4 @@ De uitbreiding in de speeltuin met een enorm groot klimrek,  een schommel voor m
 ## Uitzicht op de speeltuin
 De speeltuin is naast het zwembad en het terras gelegen op een centrale plaats. Terwijl u rustig een kopje koffie drinkt op het terras kunt u een oogje in het zeil houden op de speeltuin. Maar ook vanaf de meeste huisjes hebben we zicht op de speeltuin. 
 
-Gedurende de dag wordt er ook nog [activiteiten](https://www.boscnegre-vacances.com/nl/animatie/) georganiseerd 
+Gedurende de dag worden er ook nog [activiteiten](https://www.boscnegre-vacances.com/nl/animatie/) georganiseerd 
