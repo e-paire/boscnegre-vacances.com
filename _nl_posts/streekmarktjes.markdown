@@ -39,6 +39,6 @@ Donderdags moet u kiezen uit drie die ieder op 15 minuten afstand vanaf ons dome
 
 * Villeréal, gezellige drukke markt, en vele terrasjes op het marktplein.
 
-* Zondag
+  Zondag
 
 * Issigeac, de grootste markt, met veel terrasjes in de middeleeuwse straatjes. Voor ons de mooiste markt in de regio, maar in de zomer wel erg druk.
