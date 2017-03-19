@@ -29,7 +29,7 @@ Alle marktjes zijn ’s morgens.
 Donderdags moet u kiezen uit drie die ieder op 15 minuten afstand vanaf ons domein **Bosc Nègre vakantiepark** zijn.
 
 * Monflanquin, kleine gezellige markt in een prachtig middeleeuwse bastide met lokale producten.
-
+![marche boutique monflanquin.jpg](/uploads/marche%20boutique%20monflanquin.jpg)
 * Monpazier, markt in middeleeuwse bastide, waar ook een legio aan leuke boetiekjes zijn te vinden.
 
 * Monsempron-Libos, de grootste markt, meteen ook de belangrijkste voor de plaatselijke bevolking.
