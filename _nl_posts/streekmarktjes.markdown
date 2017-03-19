@@ -23,10 +23,10 @@ layout: Post
 Onze eerste tip: Een dorp bezoeken als er een wekelijkse markt is, een beetje bedrijvigheid brengt meteen wat gezelligheid. De tweede tip: neem een terrasje en geniet van de Franse sfeer. Een kopje koffie drinken op het marktplein, aanschouw hoe de dorpsbewoners elkaar begroeten, een praatje maken, hoe de beste man er soms een uur over doet om enkele meters verder te geraken. Na het genieten van dit schouwspel vervolgens heerlijk rondslenteren langs kramen met aanbod van vele lokale producten. Laat u verleiden door de gekonfijte eend, de foie gras, hazelnoten, pruimen kazen of een van de vele andere heerlijke streekproducten van de Dordogne om uw smaakpapillen te prikkelen.
 En uw kinderen? Die kunnen te kust en te keur kiezen uit de snuisterijtjes. Teveel om te kiezen voor het besteden van de zakcentjes.
 
-* Zie hieronder een opsomming van de leukste marktjes iedere week.
-  Alle marktjes zijn ’s morgens.
+Zie hieronder een opsomming van de leukste marktjes iedere week.
+Alle marktjes zijn ’s morgens.
 
-  Donderdags moet u kiezen uit drie die ieder op 15 minuten afstand vanaf ons domein **Bosc Nègre vakantiepark** zijn.
+Donderdags moet u kiezen uit drie die ieder op 15 minuten afstand vanaf ons domein **Bosc Nègre vakantiepark** zijn.
 
 * Monflanquin, kleine gezellige markt in een prachtig middeleeuwse bastide met lokale producten.
 
@@ -38,6 +38,7 @@ En uw kinderen? Die kunnen te kust en te keur kiezen uit de snuisterijtjes. Teve
   Zaterdag (en in juli en augustus ook op woensdag)
 
 * Villeréal, gezellige drukke markt, en vele terrasjes op het marktplein.
-  Zondag
+
+* Zondag
 
 * Issigeac, de grootste markt, met veel terrasjes in de middeleeuwse straatjes. Voor ons de mooiste markt in de regio, maar in de zomer wel erg druk.
