@@ -29,9 +29,7 @@ Op donderdagmorgen moet u kiezen uit drie die ieder op 15 minuten afstand vanaf 
 Monflanquin, kleine gezellige markt in een prachtig middeleeuwse bastide met lokale producten
 Monpazier, markt in middeleeuwse bastide, waar ook een legio aan leuke boetiekjes zijn te vinden 
 Monsempron-Libos, de grootste markt, meteen ook de belangrijkste voor de plaatselijke bevolking 
-
 Zaterdag (en in juli en augustus ook op woensdag)
 Villeréal, gezellige drukke markt, en vele terrasjes op het marktplein. 
-
 Zondag
 Issigeac, de grootste markt, met veel terrasjes in de middeleeuwse straatjes. Voor ons de mooiste markt in de regio, maar in de zomer wel erg druk
