@@ -19,3 +19,5 @@ Envie de parcourir le Périgord et le pays des bastides en vélo pendant quelque
 Profiter tout un séjour pour découvrir le Pays de Bastides, héberger au **Bosc Nègre** et manger des bons repas du Périgord. Pendant un séjour vous pouvez découvrir les circuits de vélo de 80 kilomètres environ autour de nous.\\
 
 Un circuit qui vous mènera vers la Dordogne, un autre vers le Château de Bonaguil, un troisième pour Villeneuve sur Lot, mais il y en a d'autres !
+
+Le club de Vichy nous raconte son séjour et leurs balades, [les chemins parcourus](https://cyclodhv.jimdo.com/nos-nombreuses-photos-de-sorties-et-de-manifestations-de-2006-%C3%A0-2015/s%C3%A9jour-d-avril-2013-dans-le-p%C3%A9rigord/) et leurs loisirs pendant le séjour. 
