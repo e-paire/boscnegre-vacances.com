@@ -54,4 +54,4 @@ Au retour, avant de prendre l’apéritif vous pouvez profiter d’une petite pa
 
 ### Des témoignages
 
-Le club de Vichy nous raconte son séjour et [leurs chemins parcourus](https://cyclodhv.jimdo.com/nos-nombreuses-photos-de-sorties-et-de-manifestations-de-2006-%C3%A0-2015/s%C3%A9jour-d-avril-2013-dans-le-p%C3%A9rigord/) et leurs loisirs pendant le séjour.
+Le club de Vichy nous raconte [leurs chemins parcourus](https://cyclodhv.jimdo.com/nos-nombreuses-photos-de-sorties-et-de-manifestations-de-2006-%C3%A0-2015/s%C3%A9jour-d-avril-2013-dans-le-p%C3%A9rigord/) et leurs loisirs pendant le séjour.
