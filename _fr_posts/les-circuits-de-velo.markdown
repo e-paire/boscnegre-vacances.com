@@ -1,7 +1,6 @@
 ---
 title: Les circuits de vélo
 date: 2017-01-30 09:24:00 +01:00
-published: false
 tags:
 - groupes
 route: 2017-01-les-circuits-de-velo
@@ -24,7 +23,8 @@ Nous vous proposons de parcourir notre région, en arpentant des itinéraires qu
 Venez découvrir les routes pittoresques du Périgord Pourpre. L’appellation Périgord Pourpre a été créée pour compléter les différentes couleurs du pays de la Dordogne: pourpre, noir, blanc et vert. Franchissez le château de Biron, classé monument historique et la Bastide de Monpazier. Cette dernière, créée en 1284 par le roi d’Angleterre, est une bastide modèle des 300 bastides du grand Sud-Ouest. Ou bien pédalez jusqu’à Belves. A30 km au sud de Sarlat, cette bastide est la plus belle du Périgord Noir. N’oublions pas le plus beau château fort de la France, le château de Bonaguil, ainsi que la vallée du Lot.
 En définitive, loin des grandes villes, le Périgord, riche de sa diversité, est attractif pour les amoureux de vélo, de paysages, de patrimoine et de nature.
 
-Bosc Nègre village de vacances vous p[ropose un séjour pour groupes de cyclistes](https://www.boscnegre-vacances.com/groupes/vacances-sportives/)\ 
+Bosc Nègre village de vacances vous [propose un séjour pour groupes de cyclistes](https://www.boscnegre-vacances.com/groupes/vacances-sportives/)
+
 (Suggestion de programme, les cartographies seront remises par vos hôtes)
 
 * JOUR 1\
