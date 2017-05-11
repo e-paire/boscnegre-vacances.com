@@ -12,6 +12,8 @@ cover:
   image: "/uploads/speeltuinn%20(2).jpg"
   alt: Nouvelle aire de jeux au Bosc Nègre village de vacances
 is_visible: true
+Key:
+  Image: "/uploads/aire%20de%20jeux%201.jpg"
 layout: Post
 ---
 
