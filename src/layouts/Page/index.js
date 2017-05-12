@@ -1,4 +1,5 @@
-import React, {PropTypes} from "react"
+import PropTypes from "prop-types"
+import React from "react"
 import {StickyContainer} from "react-sticky"
 import Helmet from "react-helmet"
 import {joinUri} from "phenomic"

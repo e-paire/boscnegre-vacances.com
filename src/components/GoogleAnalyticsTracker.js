@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from "react"
+import PropTypes from "prop-types"
+import React, {Component} from "react"
 import ReactGA from "react-ga"
 
 const isProduction = process.env.NODE_ENV === "production"
@@ -18,6 +19,7 @@ class GoogleAnalyticsTracker extends Component {
         ReactGA.ga("linker:autoLink", ["premium.secureholiday.net", "www.secureholiday.net"])
       }
       else {
+        // eslint-disable-next-line no-console
         console.info("ga.create", pkg.googleAnalytics)
       }
       this.logPageview()
@@ -37,6 +39,7 @@ class GoogleAnalyticsTracker extends Component {
         ReactGA.pageview(window.location.pathname)
       }
       else {
+        // eslint-disable-next-line no-console
         console.info("New pageview", window.location.href)
       }
     }

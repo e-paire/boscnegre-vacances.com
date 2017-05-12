@@ -49,21 +49,9 @@ if (!Modernizr.objectfit) {
 
 // hot loading
 if (module.hot) {
-
-  // Enable Webpack hot module replacement for reducers
-  module.hot.accept("../src/reducers", () => {
-    const nextRootReducer = require("../src/reducers")
-
-    store.replaceReducer(nextRootReducer)
-  })
-
   // hot load app
   module.hot.accept(
     ["../src/metadata.js", "../src/routes.js", "../src/store.js"],
-    () => phenomicClient({
-      metadata: require("../src/metadata.js").default,
-      routes: require("../src/routes.js").default,
-      store: require("../src/store.js").default,
-    })
+    () => phenomicClient({metadata, routes, store})
   )
 }

@@ -1,4 +1,5 @@
-import React, {PropTypes} from "react"
+import PropTypes from "prop-types"
+import React from "react"
 import {injectIntl, intlShape} from "react-intl"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 
@@ -12,6 +13,7 @@ const TagsAll = ({intl}, {collection}) => {
   })
   const tags = posts.reduce((prev, post) => {
     const postTags = post.tags || []
+    // eslint-disable-next-line no-undef
     return [...new Set([...prev, ...postTags])] // Remove duplicates
   }, [])
   return tags && tags.length > 0

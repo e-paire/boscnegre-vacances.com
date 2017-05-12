@@ -12,35 +12,17 @@ import {mdifyObject, mdifyText} from "./src/utils/markdown"
 import pkg from "./package.json"
 
 export default (config = {}) => {
-  const postcssPlugins = () => [
-    require("stylelint")(),
-    require("postcss-import")({
-      path: path.resolve(__dirname, "src"),
-    }),
-    require("postcss-cssnext")(),
-    require("postcss-reporter")(),
-    ...!config.production ? [
-      require("postcss-browser-reporter")(),
-    ] : [],
-  ]
+  const postcssPluginFile = require.resolve("./postcss.config.js")
+  const postcssPlugins = (webpackInstance) => {
+    webpackInstance.addDependency(postcssPluginFile)
+    delete require.cache[postcssPluginFile]
+    // eslint-disable-next-line import/no-dynamic-require
+    return require(postcssPluginFile)(config)
+  }
 
   return {
     ...config.dev && {
       devtool: "#cheap-module-eval-source-map",
-    },
-    phenomic: {
-      plugins: [
-        require("phenomic/lib/loader-plugin-init-head-property-from-config").default,
-        require("phenomic/lib/loader-plugin-init-head-property-from-content").default,
-        require("phenomic/lib/loader-plugin-init-body-property-from-content").default,
-        ({result}) => {
-          return {
-            ...result,
-            head: mdifyObject(result.head),
-            body: mdifyText(result.body),
-          }
-        }
-      ],
     },
     module: {
       noParse: /\.min\.js/,
@@ -51,11 +33,23 @@ export default (config = {}) => {
           exclude: /node_modules/,
           query: {
             context: path.join(__dirname, config.source),
+            plugins: [
+              require("phenomic/lib/loader-plugin-init-head-property-from-config").default,
+              require("phenomic/lib/loader-plugin-init-head-property-from-content").default,
+              require("phenomic/lib/loader-plugin-init-body-property-from-content").default,
+              ({result}) => {
+                return {
+                  ...result,
+                  head: mdifyObject(result.head),
+                  body: mdifyText(result.body),
+                }
+              }
+            ],
           },
         },
         {
           test: /\.json$/,
-          loader: "json",
+          loader: "json-loader",
         },
         {
           test: /\.js$/,
@@ -64,36 +58,46 @@ export default (config = {}) => {
             path.resolve(__dirname, "src"),
           ],
           loaders: [
-            "babel?cacheDirectory",
-            "eslint" + (config.dev ? "?emitWarning" : ""),
+            "babel-loader?cacheDirectory",
+            "eslint-loader" + (config.dev ? "?emitWarning" : ""),
           ],
         },
         {
           test: /\.css$/,
           include: path.resolve(__dirname, "src"),
           exclude: /node_modules/,
-          loader: ExtractTextPlugin.extract(
-            "style",
-            [`css?modules&localIdentName=${
-              config.production
-              ? "[hash:base64:5]"
-              : "[path][name]--[local]--[hash:base64:5]"
-              }`,
-              "postcss",
-            ].join("!"),
-          ),
+          loader: ExtractTextPlugin.extract({
+            fallback: "style-loader",
+            use: [
+              {
+                loader: "css-loader",
+                query: {
+                  modules: true,
+                  localIdentName: (
+                   config.production
+                   ? "[hash:base64:5]"
+                   : "[path][name]--[local]--[hash:base64:5]"
+                 ),
+                },
+              },
+              {
+                loader: "postcss-loader",
+              },
+            ],
+          }),
         },
         {
           test: /\.css$/,
           include: /node_modules/,
           exclude: path.resolve(__dirname, "src"),
-          loader: ExtractTextPlugin.extract(
-            "style", "css",
-          ),
+          loader: ExtractTextPlugin.extract({
+            fallback: "style-loader",
+            use: "css-loader",
+          }),
         },
         {
           test: /\.(html|ico|jpe?g|png|gif|eot|otf|webp|svg|ttf|woff2?)/,
-          loader: "file",
+          loader: "file-loader",
           query: {
             name: "assets/media/[name].[ext]",
             context: path.join(__dirname, config.source),
@@ -101,20 +105,26 @@ export default (config = {}) => {
         },
         {
           test: /\.yml$/,
-          loader: "json!yaml",
+          loader: "json-loader!yaml-loader",
         },
         {
           test: /\.modernizrrc.js$/,
-          loader: "modernizr"
+          loader: "modernizr-loader"
         },
         {
           test: /\.modernizrrc(\.json)?$/,
-          loader: "modernizr!json"
+          loader: "modernizr-loader!json-loader"
         }
       ],
     },
-    postcss: postcssPlugins,
     plugins: [
+      new webpack.LoaderOptionsPlugin({
+        test: /\.css$/,
+        options: {
+          postcss: postcssPlugins,
+          context: __dirname,
+        },
+      }),
       new PhenomicLoaderFeedWebpackPlugin({
         feedsOptions: {
           title: pkg.name,
@@ -138,14 +148,16 @@ export default (config = {}) => {
           sort: "__url",
         },
       }),
-      new ExtractTextPlugin("assets/css/[name].[hash].css", {disable: config.dev}),
+      new ExtractTextPlugin({
+        filename: "assets/css/[name].[hash].css",
+        disable: config.dev,
+      }),
       new CopyWebpackPlugin([
         {from: "_uploads", to: "uploads"},
         {from: "favicons"},
         {from: "_redirects"}, // Handle server-side redirections on Netlify
       ]),
       ...config.production && [
-        new webpack.optimize.DedupePlugin(),
         new webpack.optimize.UglifyJsPlugin(
           {compress: {warnings: false}}
         ),
@@ -158,12 +170,15 @@ export default (config = {}) => {
     },
 
     resolve: {
-      extensions: [".js", ".json", ""],
-      root: [path.join(__dirname, "node_modules"), path.join(__dirname, "src")],
+      extensions: [".js", ".json"],
       alias: {
-        modernizr$: path.resolve(__dirname, ".modernizrrc")
+        modernizr$: path.resolve(__dirname, ".modernizrrc"),
+        components: path.resolve(__dirname, "src/components/"),
+        layouts: path.resolve(__dirname, "src/layouts/"),
+        utils: path.resolve(__dirname, "src/utils/"),
+        styles: path.resolve(__dirname, "src/styles/"),
+        translations: path.resolve(__dirname, "src/translations/"),
       }
     },
-    resolveLoader: {root: [path.join(__dirname, "node_modules")]},
   }
 }
