@@ -6,10 +6,8 @@ route: equipements-services
 metaTitle: Les équipements et services du Bosc Negre
 navTitle: Equipements
 cover:
-  image: "/uploads/Trampoline_Bosc_Negre.JPG"
+  image: "/uploads/aire%20de%20jeux%201.jpg"
   alt: Piscine au Bosc Negre
-metaDescription: 
-slogan: 
 layout: Service
 ---
 
