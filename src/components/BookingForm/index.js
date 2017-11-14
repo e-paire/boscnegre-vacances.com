@@ -53,7 +53,7 @@ class BookingForm extends Component {
     })
   }
 
-  handleDayClick(e, day) {
+  handleDayClick(day) {
     const {from, isSelectingLastDay} = this.state
 
     if (day < new Date()) {
@@ -79,9 +79,8 @@ class BookingForm extends Component {
           to: null,
           temp: null,
         })
-      }
-      // Reset everything if the clicked day is the same as the current from-day
-      else if (isSameDay(day, from)) {
+      } else if (isSameDay(day, from)) {
+        // Reset everything if the clicked day is the same as the current from-day
         this.setState({
           isSelectingLastDay: false,
           from: null,
@@ -128,7 +127,11 @@ class BookingForm extends Component {
   }
 
   formatDay(date) {
-    return this.formatDate(date, {day: "numeric", month: "long", year: "numeric"})
+    return this.formatDate(date, {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+    })
   }
 
   formatMonthTitle(date) {
@@ -175,7 +178,10 @@ class BookingForm extends Component {
     const {intl} = this.props
     const arrivalDate = format(this.getDefaultFrom(), "DD%2FMM%2FYYYY")
     const departureDate = format(this.getDefaultTo(), "DD%2FMM%2FYYYY")
-    return `${getUrl("secureholiday", intl.locale)}/result?arrivalDate=${arrivalDate}&departureDate=${departureDate}`
+    return `${getUrl(
+      "secureholiday",
+      intl.locale
+    )}/result?arrivalDate=${arrivalDate}&departureDate=${departureDate}`
   }
 
   render() {
@@ -184,11 +190,20 @@ class BookingForm extends Component {
     const now = new Date()
     return (
       <div className={styles.wrapper}>
-        {isSelecting && <div className={styles.overlay} onClick={this.handleClose} />}
-        <Sticky className={styles.formWrapper} stickyClassName={styles.sticky} isActive={browser.greaterThan.m}>
+        {isSelecting && (
+          <div className={styles.overlay} onClick={this.handleClose} />
+        )}
+        <Sticky
+          className={styles.formWrapper}
+          stickyClassName={styles.sticky}
+          isActive={browser.greaterThan.m}
+        >
           <Content>
             <div className={styles.form}>
-              <div className={styles.message} onClick={isSelecting ? this.handleClose : this.handleOpen}>
+              <div
+                className={styles.message}
+                onClick={isSelecting ? this.handleClose : this.handleOpen}
+              >
                 <div className={styles.type}>
                   <FormattedMessage id="booking_form.my_stay" />
                 </div>
@@ -210,23 +225,32 @@ class BookingForm extends Component {
                 </div>
               </div>
               <div className={styles.submit}>
-                <a className={styles.button} href={this.getSecureHolidayUrl()} target="_blank" rel="nofollow noopener noreferrer">
+                <a
+                  className={styles.button}
+                  href={this.getSecureHolidayUrl()}
+                  target="_blank"
+                  rel="nofollow noopener noreferrer"
+                >
                   <FormattedMessage id="booking_form.book" />
                 </a>
               </div>
             </div>
           </Content>
-          {isSelecting &&
+          {isSelecting && (
             <div className={styles.dropdown}>
               <ReactDayPicker
                 className="bn-range"
                 numberOfMonths={2}
                 fromMonth={now}
-                selectedDays={day => from && (temp && isWithinRange(day, from, temp)) || (to && isWithinRange(day, from, to))}
+                selectedDays={day =>
+                  (from && (temp && isWithinRange(day, from, temp))) ||
+                  (to && isWithinRange(day, from, to))}
                 disabledDays={day => day < now}
                 modifiers={{
                   from: day => isSameDay(day, from),
-                  to: day => (temp && isSameDay(day, temp)) || (to && isSameDay(day, to)),
+                  to: day =>
+                    (temp && isSameDay(day, temp)) ||
+                    (to && isSameDay(day, to)),
                 }}
                 onDayClick={this.handleDayClick}
                 onDayMouseEnter={this.handleDayMouseEnter}
@@ -234,7 +258,7 @@ class BookingForm extends Component {
                 localeUtils={this.localeUtils}
               />
             </div>
-          }
+          )}
         </Sticky>
       </div>
     )
@@ -247,6 +271,4 @@ BookingForm.propTypes = {
   onChange: PropTypes.func,
 }
 
-export default connect(
-  ({browser}) => ({browser}),
-)(injectIntl(BookingForm))
+export default connect(({browser}) => ({browser}))(injectIntl(BookingForm))

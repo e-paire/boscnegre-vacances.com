@@ -26,7 +26,14 @@ class Carousel extends Component {
   }
 
   render() {
-    const {arrowsClassName, browser, children, noKeys, slides_number, theme} = this.props
+    const {
+      arrowsClassName,
+      browser,
+      children,
+      noKeys,
+      slides_number,
+      theme,
+    } = this.props
     const settings = {
       arrows: false,
       accessibility: !noKeys,
@@ -38,19 +45,27 @@ class Carousel extends Component {
     const childrenIsArray = children && Array.isArray(children)
     return (
       <div className={styles.slider}>
-        <Slick ref={ref => this.ref_slider = ref} {...settings}>
+        <Slick ref={ref => (this.ref_slider = ref)} {...settings}>
           {children}
         </Slick>
-        {childrenIsArray && slides_number[browser.mediaType] < children.length &&
-          <span className={classNames(styles[`left_${theme}`], arrowsClassName)} onClick={this.handlePrevious}>
-            <Icon name="angle-left" />
-          </span>
-        }
-        {childrenIsArray && slides_number[browser.mediaType] < children.length &&
-        <span className={classNames(styles[`right_${theme}`], arrowsClassName)} onClick={this.handleNext}>
-          <Icon name="angle-right" />
-        </span>
-        }
+        {childrenIsArray &&
+          slides_number[browser.mediaType] < children.length && (
+            <span
+              className={classNames(styles[`left_${theme}`], arrowsClassName)}
+              onClick={this.handlePrevious}
+            >
+              <Icon name="angle-left" />
+            </span>
+          )}
+        {childrenIsArray &&
+          slides_number[browser.mediaType] < children.length && (
+            <span
+              className={classNames(styles[`right_${theme}`], arrowsClassName)}
+              onClick={this.handleNext}
+            >
+              <Icon name="angle-right" />
+            </span>
+          )}
       </div>
     )
   }
@@ -81,6 +96,4 @@ Carousel.defaultProps = {
   theme: "green",
 }
 
-export default connect(
-  ({browser}) => ({browser}),
-)(Carousel)
+export default connect(({browser}) => ({browser}))(Carousel)
