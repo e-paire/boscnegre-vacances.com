@@ -4,6 +4,10 @@ position: 3
 route: groupes/anniversaires
 metaTitle: Location de salle d'anniversaire au Bosc Nègre
 navTitle: Anniversaires
+metaDescription: Le Bosc Nègre vous propose la location d'une salle de réception pour
+  organiser votre anniversaire. Hébergement et restauration sur place en Lot-et-Garonne,
+  limitrophe Dordogne
+slogan: Soirée d'anniversaire avec salle de réception et gîtes
 cover:
   image: "/uploads/Tables_dressess_repas_de_fete_bosc_negre.jpg"
   alt: table dressée pour repas d'anniversaire au Bosc Negre
@@ -19,13 +23,9 @@ images:
   alt: Table dressée pour repas d'anniversaire au Bosc Negre
 - image: "/uploads/table_reception_Bosc_Negre-5fa5c6.JPG"
   alt: Salle de réception au Bosc Negre
-metaDescription: Le Bosc Nègre vous propose la location d'une salle de réception pour
-  organiser votre anniversaire. Hébergement et restauration sur place en Lot-et-Garonne,
-  limitrophe Dordogne
-slogan: Soirée d'anniversaire avec salle de réception et gîtes
 pricesExamples:
 - description: "1er jour : repas et soirée d'anniversaire \n\n2ème jour : brunch servi
-    jusqu'à 13h\n\nVous pouvez profitez gratuitement de toutes nos installations pendant
+    jusqu'à 13h\n\nVous pouvez profiter gratuitement de toutes nos installations pendant
     votre séjour."
   price: 79€ TTC par personne
 layout: Group
