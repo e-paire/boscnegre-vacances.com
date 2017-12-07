@@ -18,11 +18,15 @@ images:
 - image: "/uploads/Demi_salle_epi_Bosc_Negre.jpg"
   alt: 
 - image: "/uploads/Demi_salle_U_Bosc_Negre.jpg"
-  alt: Demi salle de séminaire en U pour 40 personnes au Bosc Negre
+  alt: Demi salle de séminaire en U pour 20 personnes au Bosc Negre
 - image: "/uploads/Demi_salle_U__Bosc_Negre.jpg"
-  alt: 
+  alt: Salle entière en U pour 40 personnes
 - image: "/uploads/Demi_salle_epi__Bosc_Negre.jpg"
-  alt: 
+  alt: Demi salle de séminaire en scolaire pour 20 personnes au Bosc Negre
+  Key: 
+- image: "/uploads/IMG_8837.JPG"
+  alt: Salle assis en cercle
+  Key: 
 services:
 - description: |-
     ## Une salle de réunion de 95m² pouvant accueillir jusqu’à 80 personnes
