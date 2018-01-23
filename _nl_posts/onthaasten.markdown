@@ -3,6 +3,7 @@ title: Onthaasten door een geweldig massage
 date: 2018-01-23 18:26:00 +01:00
 tags:
 - activiteiten zomer
+route: nl/onthaasten
 metaTitle: Onthaasten door massage
 navTitle: Massage
 metaDescription: Onthaasten door een geweldig massage zit nieuw in ons aanbod.
