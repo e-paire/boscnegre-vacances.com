@@ -7,6 +7,7 @@ metaTitle: Onthaasten door massage
 navTitle: Massage
 metaDescription: Onthaasten door een geweldig massage zit nieuw in ons aanbod.
 slogan: Laat je raken door een massage
+layout: Post
 ---
 
 #Onthaasten door een geweldig massage dat is helemaal genieten!
