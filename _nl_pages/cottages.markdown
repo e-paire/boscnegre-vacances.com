@@ -8,7 +8,7 @@ metaDescription: Kies een vakantiehuisje dat bij u past op vakantiepark Bosc Nè
   in de Dordogne
 slogan: Keuze uit verschillende vakantiehuisjes op Bosc Nègre
 cover:
-  image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
+  image: "/uploads/photo%20%20Bosc%20N%C3%A8gre%20NUMERote.jpg"
   alt: familiaal vakantiepark in Dordogne
 layout: CottagesCategories
 ---
