@@ -1,5 +1,5 @@
 ---
-title: Onthaasten door een geweldig massage
+title: Onthaasten door een heerlijke massage
 date: 2018-01-23 18:26:00 +01:00
 tags:
 - activiteiten zomer
@@ -8,6 +8,8 @@ metaTitle: Onthaasten door massage
 navTitle: Massage
 metaDescription: Onthaasten door een geweldig massage zit nieuw in ons aanbod.
 slogan: Laat je raken door een massage
+cover:
+  image: "/uploads/massage%20bosc%20negre.jpg"
 layout: Post
 ---
 
