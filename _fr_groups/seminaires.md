@@ -13,7 +13,7 @@ cover:
   alt: Grande salle de séminaire au Bosc Negre pour votre réunion de travail
 icon: suitcase
 images:
-- image: "/uploads/repos_randonnees_Bosc_negre.jpg"
+- image: "/uploads/travaille%20plein%20air%203.jpg"
   alt: 
 - image: "/uploads/Demi_salle_epi_Bosc_Negre.jpg"
   alt: 
