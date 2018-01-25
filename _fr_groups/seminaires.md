@@ -19,11 +19,8 @@ images:
   alt: 
 - image: "/uploads/Demi_salle_U_Bosc_Negre.jpg"
   alt: Demi salle de séminaire en U pour 20 personnes au Bosc Negre
-- image: "/uploads/Demi_salle_U__Bosc_Negre.jpg"
+- image: "/uploads/SALLE%20DE%20REUNION%20BOSC%20NEGRE.jpg"
   alt: Salle entière en U pour 40 personnes
-- image: "/uploads/Demi_salle_epi__Bosc_Negre.jpg"
-  alt: Demi salle de séminaire en scolaire pour 20 personnes au Bosc Negre
-  Key: 
 - image: "/uploads/IMG_8837.JPG"
   alt: Salle assis en cercle
   Key: 
