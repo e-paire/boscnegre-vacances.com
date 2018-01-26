@@ -15,7 +15,7 @@ layout: Post
 
 # Onthaasten door een geweldig massage dat is helemaal genieten!
 
-## Vele gasten hebben de vorige zomer al kunnen genieten van onze massageruimte waar Anna twee maal per week de gelegenheid geeft voor een ontspanningsmassage of een bewustwordingsmassage. 
+## Vele gasten hebben de vorige zomer al mogen kennismaken met onze massageruimte waar Anna twee maal per week de gelegenheid geeft voor een ontspanningsmassage of een bewustwordingsmassage. 
 
 Eerst even bijkomen van de lange reis, je eigen maken met de nieuwe omgeving en je onderkomen samen met je gezin. En na een paar heerlijke dagen vakantie, is een ontspannen behandeling van een massagetherapeut een kers op de taart. 
 Een ontspanningsmassage is even helemaal onthaasten. Met of zonder klachten, door massage kan je even helemaal tot rust komen. In de manuele behandeling van Anna ‘[Rumah Senang](http://www.rumah-senang.nl/)’ mag je thuiskomen bij jezelf. Anna wil met haar massage de mogelijkheid geven te voelen wat er is en ook wil ze je uitnodigen bewust te worden wat er in je lichaam gebeurt waardoor je jezelf beter leert kennen en makkelijker de spanningen kan loslaten.
