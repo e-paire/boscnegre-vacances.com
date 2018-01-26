@@ -31,4 +31,4 @@ Laissez-vous tenter !
 
 Prix : 30 € par demi-heure, 55 € par heure, 75 € par heure et demie.
 
-[Par Anna QUIST methode ‘Rumah Senang’} (http://www.rumah-senang.nl/?page_id=7)
+[Par Anna QUIST methode ‘Rumah Senang’](http://www.rumah-senang.nl/?page_id=7)
