@@ -15,9 +15,10 @@ layout: Post
 
 # Profitez d’une remise de -75€* sur votre séjour été 2018 pour tout paiement en Chèques Vacances ou e-chèques vacances. 
 
-## Les vacances d’été s’approche à grands pas, le chèque-vacance est le partenaire de la réservation de séjours pour profiter au maximum de ce temps libre qui se profile. Petit focus sur le bon plan. 
+## Les vacances d’été approchent à grands pas et le chèque-vacances est le partenaire idéal de la réservation de séjours pour profiter au maximum du temps libre qui se profile. Petit focus sur le bon plan. 
 
-Réservez votre séjour au **village de vacances Bosc Nègre** avec vos chèques vacances et et profitez de suite de cette avantage.
+Réservez votre séjour au **village de vacances Bosc Nègre** avec vos chèques-vacances et profitez immédiatement de cet avantage. 
+
 Sur place vous pouvez toujours profiter de la possibilité de payer en chèques vacances, car il permet de payer les dépenses du [restaurant du Bosc Nègre] (https://www.boscnegre-vacances.com/restaurant/). 
 
 
