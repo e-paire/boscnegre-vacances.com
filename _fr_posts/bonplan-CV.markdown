@@ -1,0 +1,27 @@
+---
+title: "-75€ Promotion chèques vacances"
+date: 2018-01-28 17:47:00 +01:00
+tags:
+- general
+route: bonplan-CV
+metaTitle: 'Profitez d’une remise de -75€* sur votre séjour été 2018 '
+navTitle: Promotion chèques vacances
+metaDescription: 'Promo '
+slogan: Offre de promotion pour paiement avec chèques vacances
+cover:
+  image: "/uploads/blog%20LOGO_ANCV.jpg"
+layout: Post
+---
+
+Profitez d’une remise de -75€* sur votre séjour été 2018 pour tout paiement en Chèques Vacances ou e-cheque vacances. 
+
+Les vacances d’été s’approche à grands pas, le chèque-vacance est le partenaire de la réservation de séjours pour profiter au maximum de ce temps libre qui se profile. Petit focus sur le bon plan. 
+
+Réservez votre séjour au **village de vacances Bosc Nègre** avec vos chèques vacances et et profitez de suite de cette avantage.
+Sur place vous pouvez toujours profiter de la possibilité de payer en chèques vacances, car il permet de payer les dépenses du [restaurant du Bosc Nègre] (https://www.boscnegre-vacances.com/restaurant/). 
+
+
+Cliquez sur le lien [offres spéciales] (https://premium.secureholiday.net/fr/14230/specialoffers) pour en savoir plus sur la promotion et les possibilités de réservation. 
+
+
+*1 offre par famille par dossier / 7 pers maximum, non cumulable avec la réduction pour séjour de Pâques, les avantages groupes, non valable sur les séjours inférieurs à 7 nuits ainsi que d’autres offres présentées sur le site internet.
