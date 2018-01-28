@@ -10,6 +10,7 @@ metaDescription: 'Promo '
 slogan: Offre de promotion pour paiement avec chèques vacances
 cover:
   image: "/uploads/remise%20cheque%20vacances.jpg"
+  alt: Remise cheques vacances
 layout: Post
 ---
 
