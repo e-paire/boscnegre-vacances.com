@@ -4,12 +4,12 @@ date: 2018-01-28 17:47:00 +01:00
 tags:
 - general
 route: bonplan-CV
-metaTitle: 'Profitez d’une remise de -75€* sur votre séjour été 2018 '
+metaTitle: Profitez d'une remise de 75€ sur votre sejour
 navTitle: Promotion chèques vacances
 metaDescription: 'Promo '
 slogan: Offre de promotion pour paiement avec chèques vacances
 cover:
-  image: "/uploads/blog%20LOGO_ANCV%20(2).jpg"
+  image: "/uploads/remise%20cheque%20vacances.jpg"
 layout: Post
 ---
 
@@ -25,4 +25,4 @@ Sur place vous pouvez toujours profiter de la possibilité de payer en chèques 
 Cliquez sur le lien [offres spéciales] (https://premium.secureholiday.net/fr/14230/specialoffers) pour en savoir plus sur la promotion et les possibilités de réservation. 
 
 
-*1 offre par famille par dossier / 7 pers maximum, non cumulable avec la réduction pour séjour de Pâques, les avantages groupes, non valable sur les séjours inférieurs à 7 nuits ainsi que d’autres offres présentées sur le site internet.
+*1 offre par famille par dossier / 7 pers maximum, montant en chèques vacances 100€ minimum, non cumulable avec la réduction pour séjour de Pâques, les avantages groupes, non valable sur les séjours inférieurs à 7 nuits ainsi que d’autres offres présentées sur le site internet.
