@@ -9,13 +9,13 @@ navTitle: Promotion chèques vacances
 metaDescription: 'Promo '
 slogan: Offre de promotion pour paiement avec chèques vacances
 cover:
-  image: "/uploads/blog%20LOGO_ANCV.jpg"
+  image: "/uploads/blog%20LOGO_ANCV%20(2).jpg"
 layout: Post
 ---
 
-Profitez d’une remise de -75€* sur votre séjour été 2018 pour tout paiement en Chèques Vacances ou e-cheque vacances. 
+# Profitez d’une remise de -75€* sur votre séjour été 2018 pour tout paiement en Chèques Vacances ou e-chèques vacances. 
 
-Les vacances d’été s’approche à grands pas, le chèque-vacance est le partenaire de la réservation de séjours pour profiter au maximum de ce temps libre qui se profile. Petit focus sur le bon plan. 
+## Les vacances d’été s’approche à grands pas, le chèque-vacance est le partenaire de la réservation de séjours pour profiter au maximum de ce temps libre qui se profile. Petit focus sur le bon plan. 
 
 Réservez votre séjour au **village de vacances Bosc Nègre** avec vos chèques vacances et et profitez de suite de cette avantage.
 Sur place vous pouvez toujours profiter de la possibilité de payer en chèques vacances, car il permet de payer les dépenses du [restaurant du Bosc Nègre] (https://www.boscnegre-vacances.com/restaurant/). 
