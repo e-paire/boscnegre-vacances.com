@@ -6,7 +6,8 @@ tags:
 route: bonplan-cheques-vacances
 metaTitle: Profitez d'une remise de 75€ sur votre sejour
 navTitle: Promotion chèques vacances
-metaDescription: 'Promo '
+metaDescription: découvrez la remise avec vos chèques vacances au bosc negre village
+  de vacances pour vos vacances d'été
 slogan: Offre de promotion pour paiement avec chèques vacances
 cover:
   image: "/uploads/remise%20cheque%20vacances.jpg"
