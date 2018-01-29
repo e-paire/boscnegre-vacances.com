@@ -9,7 +9,7 @@ navTitle: sejour clé en main
 metaDescription: Quatre parcours de vélo dans le Périgord noir, séjour clé en main
 slogan: Profitez du séjour clé en main au Bosc Nègre pour votre club de cyclotourisme
 cover:
-  image: "/uploads/cyclotourisme%20monpazier.JPG"
+  image: "/uploads/cyclotourisme%20monpazier%20(2).JPG"
   alt: 'séjour clé en main cyclotourisme '
 layout: Post
 ---
