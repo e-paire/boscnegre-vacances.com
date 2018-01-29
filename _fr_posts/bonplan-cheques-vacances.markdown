@@ -26,4 +26,4 @@ Sur place vous pouvez toujours profiter de la possibilité de payer en chèques 
 Cliquez sur le lien [offres spéciales] (https://premium.secureholiday.net/fr/14230/specialoffers) pour en savoir plus sur la promotion et les possibilités de réservation. 
 
 
-*1 offre par famille par dossier / 7 pers maximum, montant en chèques vacances 100€ minimum, non cumulable avec la réduction pour séjour de Pâques, les avantages groupes, non valable sur les séjours inférieurs à 7 nuits ainsi que d’autres offres présentées sur le site internet.
+* *1 offre par famille par dossier / 7 pers maximum, montant en chèques vacances 100€ minimum, non cumulable avec la réduction pour séjour de Pâques, les avantages groupes, non valable sur les séjours inférieurs à 7 nuits ainsi que d’autres offres présentées sur le site internet.*
