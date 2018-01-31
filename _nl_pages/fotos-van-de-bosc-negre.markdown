@@ -14,7 +14,7 @@ gallery:
   images:
   - image: "/uploads/piscine_famille_Bosc_Negrejpg"
     alt: 
-  - image: "/uploads/piscine_soir.JPG"
+  - image: "/uploads/baignade_groupe_scolaires_Bosc_Negre.jpg"
     alt: 
   - image: "/uploads/piscine_bosc_negre.JPG"
     alt: 
