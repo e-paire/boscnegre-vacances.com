@@ -22,7 +22,7 @@ cottages:
     vermoeden dat het met de rust gedaan is, maar niets is minder waar. 'La Ferme'
     heet de naam van een ruim huisje voor een perfecte vakantie."
   cover:
-    image: "/uploads/gite%202%20et%203.jpg"
+    image: "/uploads/gite_2%20_3_BoscNegre.JPG"
     alt: Een ruim vakantiehuisje op de Bosc Negre
   beds: 5 slaapplaatsen + vakantiebed
   crush: Dichtbij het zwembad
