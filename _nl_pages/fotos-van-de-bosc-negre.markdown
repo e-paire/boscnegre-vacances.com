@@ -25,7 +25,7 @@ gallery:
 - title: De vakantiehuisjes
   images:
   - image: "/uploads/photo%20plan%20Bosc%20N%C3%A8gre%20num%C3%A9rot%C3%A9s%20mail.jpg"
-    alt: luchtfoto bosc negre
+    alt: luchtfoto bosc negre (vergroot om numering te lezen)
   - image: "/uploads/gite_du_pre_22_Bosc_Negre.jpg"
     alt: 
   - image: "/uploads/chambre_individuelle_pendant_seminaire_Bosc_Negre.jpg"
