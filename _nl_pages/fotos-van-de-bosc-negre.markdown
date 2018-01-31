@@ -27,13 +27,13 @@ gallery:
   - image: "/uploads/photo%20plan%20Bosc%20N%C3%A8gre%20num%C3%A9rot%C3%A9s%20mail.jpg"
     alt: luchtfoto bosc negre (vergroot om numering te lezen)
   - image: "/uploads/gite_du_pre_22_Bosc_Negre.jpg"
-    alt: 
+    alt: gite du pré 22
   - image: "/uploads/chambre_individuelle_pendant_seminaire_Bosc_Negre.jpg"
-    alt: 
+    alt: slaapkamer gite du pré
   - image: "/uploads/gite_du_lac_8.jpg"
-    alt: 
+    alt: Kamer gite du lac
   - image: "/uploads/le_parc_du_Bosc_Negre.jpg"
-    alt: 
+    alt: Zicht vanaf zwembad op gites du lac en gites du pré
   - image: "/uploads/vacances_famille_detente_Bosc_Negre.JPG"
     alt: gite du pré 16
   - image: "/uploads/gite_du_pre_sur_la_colinne_Bosc_Negre-12ad79.jpg"
