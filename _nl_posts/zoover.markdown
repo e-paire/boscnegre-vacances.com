@@ -3,7 +3,7 @@ title: De meningen op Zoover, dat telt mee in uw keuze
 date: 2018-02-02 11:23:00 +01:00
 tags:
 - algemeen
-route: zoover
+route: nl/zoover
 metaTitle: 'De meningen van anderen over de Bosc Nègre vakantiepark '
 navTitle: Meningen
 metaDescription: Alle meningen van reizigers van Bosc Nègre op de site van Zoover
@@ -29,8 +29,6 @@ Deze meningen worden geschreven nadat onze gasten hebben genoten van hun vakanti
 Wellicht heeft ieder huisje een negatieve puntje, ieder huisje heeft toch zeker en puntje verbetering? En dat waarderen wij ten sterkste.
 Door uw meningen proberen wij ons voortdurend te verbeteren. 
 
+Vergelijk dat met de resultaten van [Zoover] (https://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark) om een goed totaalbeeld te krijgen alvorens te boeken.
 
-
-
-
-`<div class="zvr-widget zvr-widget--type3"><div id="zoover-widget-entity-container" class="zvr-widget-container color--zvr-white"><div class="acco-name section"><a href="https://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark" target="_blank">Hameau de Bosc Nègre****</a></div><div id="widgets-content-158987-3"></div><div class="widget-footer"><a href="#" id="zvr-widget3-logo-158987" target="_blank" class="logo-overall"></a><object class="zvr-logo" data="https://www.zoover.nl/Shared/images2/Widgets/zvr-logo-orange.svg" type="image/svg+xml"><img src="https://www.zoover.nl/Shared/images2/ie8/logo-orange.png"></object></div></div></div><script type="text/javascript">var logoLink = document.getElementById("zvr-widget3-logo-158987");logoLink.href = "https://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark";</script><script id="dynamicContentScript" type="text/javascript" src="https://www.zoover.nl/widgets/loadwidgetdynamiccontent.aspx?entid=158987&amp;entlvl=accommodation&amp;widgetType=3&amp;position=widgets-content-158987-3&amp;generalScore=true&amp;photo=false"></script><script type="text/javascript">var fileref = document.createElement("link");fileref.setAttribute("rel", "stylesheet");fileref.setAttribute("type", "text/css");fileref.setAttribute("href", "https://www.zoover.nl/Shared/Css/zoover-widgets.v2.css");var head = document.getElementsByTagName('head')[0];var headerContent = head.innerHTML;if(headerContent.indexOf("https://www.zoover.nl/Shared/Css/zoover-widgets.v2.css") == -1){head.appendChild(fileref);}</script>`
+Toch nog vraagtekens? App dan even met de receptie :  +33 6 70 54 70 39 
