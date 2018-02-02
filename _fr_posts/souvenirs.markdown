@@ -20,18 +20,17 @@ Key:
 layout: Post
 ---
 
-Pendant ces froides journées d'hiver, nous avons envie de nous remémorer les souvenirs d'un été chaud et ensoleillé. Partagez avec vos amis les photos prises au **village de vacances Bosc Nègre**. 
-Sur la page [animations](https://www.boscnegre-vacances.com/animations/) vous trouverez plus d'informations.
+Pendant ces froides journées d'hiver, nous avons envie de nous remémorer les souvenirs d'un été chaud et ensoleillé. Partagez avec vos amis les photos prises au **village de vacances Bosc Nègre**.
+Sur la page [animations au Bosc Nègre](https://www.boscnegre-vacances.com/animations/) vous trouverez plus d'informations.
 
-### Voyons les photos en bas de la page 
--Les sorties canoé pour le début et la fin de la saison (photo en haut de la page) 
+### Voyons les photos en bas de la page
 
+-Les sorties canoé pour le début et la fin de la saison (photo en haut de la page)
 
 -Avec Yurgen et Florette on passe une soirée inoubliable.
 
--Les activités manuelles, un plaisir pour les enfants. 
+-Les activités manuelles, un plaisir pour les enfants.
 
 -Piscine chauffée pour la détente et le divertissement.
 
 Et trouver plus de photos sur la page [FACEBOOK](https://www.facebook.com/pg/BoscNegre/photos/?tab=album&album_id=308056744262)
-
