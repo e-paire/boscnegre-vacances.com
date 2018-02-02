@@ -11,7 +11,9 @@ slogan: 'Revivre l''été à travers des souvenirs '
 cover:
   image: "/uploads/sortie_canoe_bosc_negre.jpg"
   alt: sortie canoé sur la Dordogne
-Image: "/uploads/volleyball_Bosc_Negre.jpg"
+  Is_visible: true
+Is_visible: true
+Image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
 image: "/uploads/MASKER.jpg"
 layout: Post
 ---
@@ -22,10 +24,8 @@ Sur la page [animations](https://www.boscnegre-vacances.com/animations/) vous tr
 ### Voyons les photos en bas de la page 
 -Les sorties canoé pour le début et la fin de la saison (photo en haut de la page) 
 
--Piscine chauffée pour la détente et le divertissement.
 
 -Avec Yurgen et Florette on passe une soirée inoubliable.
 
 -Les activités manuelles, un plaisir pour les enfants. 
 
--Soirée volley-ball pour les bons moments ensemble.
