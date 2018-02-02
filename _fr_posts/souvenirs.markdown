@@ -14,7 +14,7 @@ cover:
   Is_visible: true
 Is_visible: true
 Key:
-  Image: "/uploads/piscine_bosc_negre.JPG"
+  Image: "/uploads/Piscine.png"
   Alt: Piscine chauffée pour la détente et le divertissement.
   Is_visible: true
 layout: Post
@@ -35,4 +35,4 @@ Sur la page [animations au Bosc Nègre](https://www.boscnegre-vacances.com/anima
 
 Et trouver plus de photos sur la page [FACEBOOK](https://www.facebook.com/pg/BoscNegre/photos/?tab=album&album_id=308056744262)
 
-![piscine_du_bosc_negre.jpg](/uploads/piscine_bosc_negre.JPG)
+![piscine_du_bosc_negre.jpg](/uploads/Piscine.png)
