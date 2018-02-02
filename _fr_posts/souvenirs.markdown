@@ -16,6 +16,7 @@ Is_visible: true
 Key:
   Image: "/uploads/piscine_bosc_negre.JPG"
   Alt: Piscine chauffée pour la détente et le divertissement.
+  Is_visible: true
 layout: Post
 ---
 
