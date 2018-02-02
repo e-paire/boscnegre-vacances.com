@@ -13,8 +13,9 @@ cover:
   alt: sortie canoé sur la Dordogne
   Is_visible: true
 Is_visible: true
-Image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
-image: "/uploads/MASKER.jpg"
+Key:
+  Image: "/uploads/piscine_bosc_negre.JPG"
+  Alt: Piscine chauffée pour la détente et le divertissement.
 layout: Post
 ---
 
@@ -28,4 +29,8 @@ Sur la page [animations](https://www.boscnegre-vacances.com/animations/) vous tr
 -Avec Yurgen et Florette on passe une soirée inoubliable.
 
 -Les activités manuelles, un plaisir pour les enfants. 
+
+-Piscine chauffée pour la détente et le divertissement.
+
+Et trouver plus de photos sur la page [FACEBOOK](https://www.facebook.com/pg/BoscNegre/photos/?tab=album&album_id=308056744262)
 
