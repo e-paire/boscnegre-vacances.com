@@ -12,6 +12,7 @@ slogan: Ontdek van andere gasten hebben ervaren op vakantiepark Bosc Nègre
 cover:
   image: "/uploads/Zoover_awards_2017_JPG.jpg"
   alt: Zoover award Bosc Nègre 2017
+Is_visible: true
 layout: Post
 ---
 
