@@ -9,7 +9,7 @@ navTitle: Niets doen
 metaDescription: Op Bosc Nègre zorgen we dat u helemaal niets moet
 slogan: Kom ervaren wat het is om helemaal niets te moeten op vakantiepark Bosc Nègre
 cover:
-  image: "/uploads/hangmat.jpg"
+  image: "/uploads/hangmat%20(2).jpg"
   alt: hangmat
 layout: Post
 ---
