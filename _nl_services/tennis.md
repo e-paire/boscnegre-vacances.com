@@ -34,7 +34,7 @@ images:
 layout: Service
 ---
 
-# In de maanden juli en augustus nodigen wij om half 6 op de zondagmiddag uit voor een welkomstdrankje.
+# In de maanden juli en augustus nodigen wij u uit voor een welkomstdrankje om half 6 op de zondagmiddag .
 
 ## Van dit moment profiteren we om u op de hoogte te brengen van de activiteiten die die week op het programma staan.
 
