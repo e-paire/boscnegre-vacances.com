@@ -28,4 +28,4 @@ De grootste klacht van de ouders op **vakantiepark Bosc Negre**, leest u de meni
 
 Alle reden voor u om zich niet al te druk te maken over wat er allemaal ondernomen moet worden, want in de eerste plaats hoeft u nu even helemaal niets :-).
 Even geen zin in boodschappen doen of te koken? In het [restaurant](https://www.boscnegre-vacances.com/nl/restaurant/) kunt u de hele dag terecht voor een snack of een streekgerecht. 
-Want op **Bosc Nègre vakantiepark**zullen we alles doen dat u even helemaal niets moet.
+Want op **Bosc Nègre vakantiepark** zullen we alles doen dat u even helemaal niets moet.
