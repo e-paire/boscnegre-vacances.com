@@ -14,9 +14,11 @@ cover:
 layout: Post
 ---
 
-# Knutseluurtjes voor de kinderen twee maal per week in uw vakantie
+# Knutseluurtjes voor de kinderen 
 
-Zelf photoboothts maken tijdens de knutseluurtjes in de zomer met de activiteitenbegeleidster van de Bosc Nègre. Dit is voor de kinderen tussen 4 en 13 jaar een feest. Deze uurtjes geeft de kinderen de tijd op te gaan in hun eigen creativiteit en deze te opnieuw te ontdekken. De materialen worden klaargezet, een voorbeeld wordt gegeven en daarna kunnen ze naar hartenlust bezig. Aan het einde vermaken we ons kostelijk met het maken van grappige foto's als herinnering.
+## Daarmee begint de weekplanning van de [activiteiten](https://www.boscnegre-vacances.com/nl/animatie/).
+
+Zelf photoboothts maken tijdens de knutseluurtjes in de zomer met de activiteitenbegeleidster van **vakantiepark  Bosc Nègre**. Dit is voor de kinderen tussen 4 en 13 jaar een feest. Deze uurtjes geeft de kinderen de tijd op te gaan in hun eigen creativiteit en deze te opnieuw te ontdekken. De materialen worden klaargezet, een voorbeeld wordt gegeven en daarna kunnen ze naar hartenlust bezig. Aan het einde vermaken we ons kostelijk met het maken van grappige foto's als herinnering.
 
 Van kleine tot grote kinderen vinden elkaar voor deze activiteit in de grote zaal, iedere maandag- en donderdag morgen na een lesje Aqua-gym. Iedere keer verzinnen we een andere manier om de creativiteit te stimuleren. Kleien met d gele klei, verven van de door de kinderen zelf gemaakte objecten, knippen, plakken, kleurwedstrijden.. Het is te veel om op te noemen. 
 
@@ -24,4 +26,4 @@ Alle kinderen zullen zich niet alleen goed vermaken, het is voor hun ook een gew
 
 En voor u ouders? U heeft tijd om nu eindelijk het boek eens te lezen liggend langs het zwembad of om andere ouders te ontmoeten bij de bar of in het zonnetje op het terras onder het genot van een kopje koffie tijdens deze activiteit van de kinderen. Of om gewoon nog langer op bed te blijven.. 
 
-Zin in? Kijk snel of er nog iets voor u vrij is deze zomer.
+Zin in? Kijk snel of er [nog iets voor u vrij](https://premium.secureholiday.net/nl/14230/) is deze zomer.
