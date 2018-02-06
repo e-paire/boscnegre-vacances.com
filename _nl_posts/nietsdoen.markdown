@@ -1,5 +1,5 @@
 ---
-title: Even helemaal niets doen
+title: Helemaal niets moeten
 date: 2018-02-05 22:23:00 +01:00
 tags:
 - activiteiten zomer
@@ -9,12 +9,12 @@ navTitle: Niets doen
 metaDescription: Op Bosc Nègre zorgen we dat u helemaal niets moet
 slogan: Kom ervaren wat het is om helemaal niets te moeten op vakantiepark Bosc Nègre
 cover:
-  image: "/uploads/hangmat%20(2).jpg"
+  image: "/uploads/nietsdoen.jpg"
   alt: hangmat
 layout: Post
 ---
 
-# Helemaal niets doen
+# Even helemaal niets doen
 
 ## Is de wens van de gedachte aan een vakantiedag in Zuid Frankrijk toch ?
 
