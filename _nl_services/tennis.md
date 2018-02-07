@@ -50,7 +50,7 @@ Daarna even lekker [helemaal niets](https://www.boscnegre-vacances.com/nl/nietsd
 De maandagmiddag is gereserveerd voor een partijtje jeu de boulen. Om drie uur ‘s middags, na de lunch en na de siësta kunt u de fransen eens uitdagen voor een partijtje pétanque. Hebt u geen jeu de boule ballen, dan leent u de onze. In de schaduw van de hoge eikenbomen, samen met uw kinderen dit spel ontdekken en wellicht bent u samen sterker dan de fransozen? Het zou zo maar eens kunnen!
 Voor de winnaar een trofee bij de bar in de vorm van een consumptie, want daar moet natuurlijk op gedronken worden.
 
-De maandagavond hebt u de kinderen misschien ingeschreven voor het [kinderrestaurant]. Denk er wel aan dit ‘s morgens al even te noteren op het inschrijfformulier bij de bar of app het even met de receptie.
+De maandagavond hebt u de kinderen misschien ingeschreven voor het [kinderrestaurant](https://www.boscnegre-vacances.com/nl/kinderrestaurant/). Denk er wel aan dit ‘s morgens al even te noteren op het inschrijfformulier bij de bar of app het even met de receptie.
 
 Zoveel leuke dingen op één dag! Op naar de dinsdag. De dag waar sport centraal staat.
 Met de voetbal in de ochtend en de [waterpolo] gepland in de middag is het voor ieder een welverdiend moment van beloning voor een gezamenlijke maaltijd op de dinsdagavond. Vooraf opgeven in het [restaurant] (https://www.boscnegre-vacances.com/nl/restaurant/) voor deze maaltijd aan lange tafels die wordt vergezeld van een muzikant of een goochelshow van 'Mister Yurgen'. Bij deze maaltijden samen met de kinderen aan lange tafels op het terras naast het zwembad. Afwisselend van week tot week maakt Alfred een gigantische pan Paella, een grote plan Mosselen met friet of een ander typisch gerecht.
