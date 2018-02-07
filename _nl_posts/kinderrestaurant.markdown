@@ -20,10 +20,10 @@ layout: Post
 
 ## Eens in de twee weken staat kinderrestaurant op de weekplanning.
 
-Kinderen tussen vijf en twaalf jaar, verzamelen zich die avond in de zaal -verboden voor ouders- voor een gezellig samen zijn zonder ouders.
+Kinderen tussen vijf en twaalf jaar, verzamelen zich die avond in de zaal -verboden voor ouders- voor een gezellig samen zijn zonder papa's en mama's.
 Het menu wordt vooraf bekend gemaakt tijdens de uitleg van de [activiteiten] ( https://www.boscnegre-vacances.com/nl/animatie/) en bereid door de kinderen zelf onder begeleiding van de activiteitenbegeleidsters. Moet er iets gebakken worden dan wordt dat gedaan door de begeleiders.
 Nadat er van alle gerechten een foto is gemaakt voor de competitie “wie is de beste hulpkok” eten de kinderen allemaal samen. Bereiden, tafel dekken, opruimen, het hoort allemaal bij de gezellige avond, die wordt afgesloten met ludieke spelletjes.
 
-Alles met het doel u samen een tête-à-tête avond te bezorgen waar u onbezorgd en rustig kunt genieten van uw maaltijd of misschien à la carte in [restaurant]  (https://www.boscnegre-vacances.com/nl/restaurant/)  van **vakantiepark Bosc Nègre**. Een avond zonder kinderen op het terras, het lijkt warempel wel Valentijnsdag.
+Alles met het doel u samen een tête-à-tête avond te bezorgen waar u onbezorgd en rustig kunt genieten van uw maaltijd of misschien à la carte in het [restaurant]  (https://www.boscnegre-vacances.com/nl/restaurant/)  van **vakantiepark Bosc Nègre**. Een avond zonder kinderen op het terras, het lijkt warempel wel Valentijnsdag.
 
 Wel even reserveren, net als bij het restaurant.
