@@ -26,6 +26,6 @@ install: yarn
 notifications:
   email:
     recipients:
-      - xuopled@gmail.com
+      - noushka.hoogenberg@gmail.com
     on_success: change
     on_failure: always
