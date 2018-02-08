@@ -10,7 +10,7 @@ metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre clu
   Dordogne et Lot-et-Garonne
 slogan: Un hébergement détente et sportif en Lot-et-Garonne
 cover:
-  image: "/uploads/cyclotourisme%20Biron.jpg"
+  image: "/uploads/cyclotourisme%20lacapelle%20biron.jpg"
   alt: Groupe de VTT en vacances au Bosc Negre
 icon: users
 imagesTitle: Photos
