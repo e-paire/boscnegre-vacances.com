@@ -5,8 +5,12 @@ position: 2
 route: "/groupes/vacances-sportives"
 metaTitle: Hébergement pour clubs sportifs au Hameau de Bosc Nègre
 navTitle: Groupe Sportif
+metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre club sportif
+  ? Consultez nos offres pour clubs sportifs et les ballades découvertes de la région
+  Dordogne et Lot-et-Garonne
+slogan: Un hébergement détente et sportif en Lot-et-Garonne
 cover:
-  image: "/uploads/club_VTT_Belves_au_Bosc_Negre.jpg"
+  image: "/uploads/cyclotourisme%20Biron.jpg"
   alt: Groupe de VTT en vacances au Bosc Negre
 icon: users
 imagesTitle: Photos
@@ -29,10 +33,6 @@ images:
   alt: 
 - image: "/uploads/club_motos_Bosc_Negre.jpg"
   alt: Club moto au Bosc Negre
-slogan: Un hébergement détente et sportif en Lot-et-Garonne
-metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre club sportif
-  ? Consultez nos offres pour clubs sportifs et les ballades découvertes de la région
-  Dordogne et Lot-et-Garonne
 pricesExamples:
 - description: |-
     Tarif en pension complète pour une nuit avec un repas festif.
@@ -57,7 +57,7 @@ Depuis le Bosc Nègre, vous pouvez profiter de nombreux sentiers à travers les 
 
 ## Les randonnées du Périgord Noir
 
-Pour les cyclotouristes ou vététiste, nous mettons à votre disposition la [cartographie des différents circuits de VTT en Dordogne](http://hameauboscnegre.blogspot.fr/p/nous-proposons-de-traverser-notre-pays.html). Une fois rentrée de votre balade, vous pouvez bénéficier des équipements mis à votre disposition pour nettoyer les vélos ou les vêtements de randonnées.
+Pour les cyclotouristes ou vététiste, nous mettons à votre disposition la [cartographie des différents circuits de VTT en Dordogne](https://www.boscnegre-vacances.com/sejour-cyclotourisme/). Une fois rentrée de votre balade, vous pouvez bénéficier des équipements mis à votre disposition pour nettoyer les vélos ou les vêtements de randonnées.
 
 ## La formule pension-complète
 
