@@ -16,7 +16,7 @@ layout: Post
 
 # Séjour cyclotourisme clé en main dans le Lot-et-Garonne 
 
-### Exemple de prestation en pension complète pour trois nuits dont un soir avec un repas festif. ¼ de vin, café et draps fournis, [toutes charges comprises en bas de cette page](https://www.boscnegre-vacances.com/groupes/vacances-sportives/). 
+### Exemple de prestation en pension complète pour trois nuits dont un soir avec un repas festif. ¼ de vin, café et draps fournis, [toutes charges comprises en bas de cette page **groupes**](https://www.boscnegre-vacances.com/groupes/vacances-sportives/). 
 
 ## 1er jour Circuit Périgord Noir : 85 km 
 
