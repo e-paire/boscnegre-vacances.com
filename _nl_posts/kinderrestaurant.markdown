@@ -18,7 +18,7 @@ layout: Post
 
 # Kinderrestaurant
 
-## Eens in de twee weken staat kinderrestaurant op de weekplanning.
+## Eens in de twee weken staat kinderrestaurant op de [weekplanning](https://www.boscnegre-vacances.com/nl/animatie/).
 
 Kinderen tussen vijf en twaalf jaar, verzamelen zich die avond in de zaal -verboden voor ouders- voor een gezellig samen zijn zonder papa's en mama's.
 Het menu wordt vooraf bekend gemaakt tijdens de uitleg van de [activiteiten] ( https://www.boscnegre-vacances.com/nl/animatie/) en bereid door de kinderen zelf onder begeleiding van de activiteitenbegeleidsters. Moet er iets gebakken worden dan wordt dat gedaan door de begeleiders.
