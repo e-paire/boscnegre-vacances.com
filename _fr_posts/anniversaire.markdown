@@ -32,6 +32,8 @@ Envie de profiter d'une grasse matinée ? Le lendemain de fête nous pouvons vou
 
 Et vous ? Vos invités vont vous manquer et vous aurez besoin de vous remettre de toutes ces émotions vécues au **Bosc Nègre village de vacances**
 
+[EN SAVOIR PLUS SUR LES TARIFS](https://www.boscnegre-vacances.com/groupes/anniversaires/)
 
+Ou [contactez nous](https://www.boscnegre-vacances.com/contact/) pour un devis personalisé.
 
 Photo by Annie Spratt on Unsplash
