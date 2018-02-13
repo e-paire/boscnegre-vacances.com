@@ -32,4 +32,5 @@ Parkeert u aan de voet van het kasteel, dan kunt u genieten van de boetiekjes en
 Bent een fan van fotograferen en wilt u de mooiste kiekjes dan is dit kasteel zeker de moeite waard. ‘s Morgens in bijzonder als de zon een prachtige kleur geeft door de schietgaten op de gele kalksteenmuren.
 
 Wilt u een rondleiding in uw eigen taal, vraag dan bij de receptie om de juiste tijden.
+
 In het eerste weekend van juli is er ook nog eens een middeleeuws festival, wat een feest ! 
