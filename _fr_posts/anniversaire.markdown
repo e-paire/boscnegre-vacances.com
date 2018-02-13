@@ -18,7 +18,7 @@ layout: Post
 
 # Fêter votre anniversaire	
 
-## Au village de vacances Bosc Nègre vous disposez d’une salle et hébergement pouvant accueillir jusqu’à 80 personnes.
+## Au village de vacances Bosc Nègre vous disposez d’une salle et l'hébergement pouvant accueillir jusqu’à 80 personnes.
 
 Vous souhaitez [fêter votre anniversaire]( https://www.boscnegre-vacances.com/groupes/anniversaires/),  un départ à la retraite ou encore votre anniversaire de mariage ? Au village de vacances Bosc Nègre vous disposez d’une salle et des hébergements pouvant accueillir jusqu’à 80 personnes.
 
@@ -32,8 +32,8 @@ Envie de profiter d'une grasse matinée ? Le lendemain de fête nous pouvons vou
 
 Et vous ? Vos invités vont vous manquer et vous aurez besoin de vous remettre de toutes ces émotions vécues au **Bosc Nègre village de vacances**
 
-[EN SAVOIR PLUS SUR LES TARIFS](https://www.boscnegre-vacances.com/groupes/anniversaires/)
+[EN SAVOIR PLUS SUR LES TARIFS](https://www.boscnegre-vacances.com/groupes/anniversaires/). Ou [contactez nous](https://www.boscnegre-vacances.com/contact/) pour un devis personalisé.
 
-Ou [contactez nous](https://www.boscnegre-vacances.com/contact/) pour un devis personalisé.
+
 
 Photo by Annie Spratt on Unsplash
