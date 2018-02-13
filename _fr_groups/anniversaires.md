@@ -31,7 +31,7 @@ pricesExamples:
 layout: Group
 ---
 
-## Restaurant et salle d’anniversaire avec hébergement
+## Restaurant et salle d’anniversaire avec hébergement pour 80 personnes. 
 
 Le Bosc-Nègre vous propose une **salle de réception** de 99m2 pouvant accueillir jusqu’à 80 personnes. La salle est équipée de lumières de soirée pour faire la fête et danser.
 Pour la restauration, nous proposons un apéritif, entrée, plat principal, fromage et un dessert d’anniversaire.
@@ -45,3 +45,5 @@ Pour un séjour de 1 nuit et 2 jours, nous vous proposons une pension complète 
 Toutes les installations sont mises à votre disposition durant votre séjour afin que tous vos invités puissent se détendre et s’amuser comme la piscine, la pétanque ou encore le terrain de tennis. Vous pouvez également partir à la découverte des départements qui nous entourent à savoir le Lot-et-Garonne, la Dordogne et le Lot. Ces belles régions regorgent de lieux à découvrir et à admirer sans plus attendre.
 
 La parc du Bosc-Nègre ainsi que son personnel peut être privatisé sur demande.
+
+[Découvrez comment votre week-end pourrait ce dérouler](https://www.boscnegre-vacances.com/anniversaire/).
