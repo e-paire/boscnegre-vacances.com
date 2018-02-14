@@ -18,7 +18,7 @@ offers:
   cover:
     image: "/uploads/chateau_biron_village_biron.jpg"
     alt: les offres du Bosc Nègre
-  text: "[Consultez nos offres spéciales pour les vacances de Pâques](https://premium.secureholiday.net/fr/14230/specialoffers)]"
+  text: "[Consultez nos offres spéciales pour les vacances de Pâques](https://premium.secureholiday.net/fr/14230/specialoffers)"
 layout: Homepage
 ---
 
