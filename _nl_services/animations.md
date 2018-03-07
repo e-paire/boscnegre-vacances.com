@@ -4,12 +4,12 @@ position: 2
 route: "/nl/sportief"
 metaTitle: Sportieve vakantie in de Dordogne op de Bosc Negre
 navTitle: Sport
-cover:
-  image: "/uploads/location_vtt_Bosc_Negre.jpg"
-  alt: vacances sportives au bosc negre
 metaDescription: ATB fietsen, wandelen, golven, paardrijden, tennissen, bergbeklimmen,
   kanoën, boomtop klimmen, talrijke sportieve mogelijkheden in de bossen rond Bosc
   Nègre
+cover:
+  image: "/uploads/location_vtt_Bosc_Negre.jpg"
+  alt: vacances sportives au bosc negre
 images:
 - image: "/uploads/Randonnee_pedestre_Bosc_Negre.JPG"
   alt: Wandelen rond de Bosc Negre
@@ -30,9 +30,24 @@ images:
 layout: Service
 ---
 
-Bent u sportief?
-Dan kunt u zich uitleven op vakantiepark Bosc Nègre. Op het terrein kunt u al genieten van een verwarmd zwembad, tennisbaan, voetbalveld, jeu-de-boulesbaan, volleybalveld.
-Wij verhuren mountainbikes om de bossen te verkennen in de directe omgeving. We lenen u fiets- en wandelroutes naar kasteel Biron, Lacapelle Biron of nog verder.
-Neem uw eigen racket mee voor een potje tennis met je kinderen. Bent u ze vergeten, dan lenen we u de racktes bij de receptie. De tennisbaan is altijd open. Alleen als er teveel vraag is moet je je inschrijven bij de bar.
+# Bent u sportief?
+
+## Dan hebben we u veel te bieden 
+
+### Met legio sportmogelijkheden (https://www.boscnegre-vacances.com/nl/stoeresporters/) ter plaatse
+
+U kunt zich uitleven op **vakantiepark Bosc Nègre**. Op het terrein kunt u al genieten van een verwarmd zwembad, tennisbaan, voetbalveld, jeu-de-boulesbaan, volleybalveld.
+
+### Mountainbike verhuur
+
+Wij verhuren **mountainbikes** om de bossen te verkennen in de directe omgeving. We lenen u fiets- en wandelroutes naar kasteel Biron, Lacapelle Biron of nog verder.
+
+### Tennisbaan 
+
+Neem uw eigen racket mee voor een potje tennis met je kinderen. Bent u ze vergeten, dan lenen we u de racktes bij de receptie. De **tennisbaan** is altijd open. Alleen als er teveel vraag is moet je je inschrijven bij de bar.
+
+
+## Sporten in de naaste omgeving van Bosc Nègre
+
 Kent u al de activiteit boomtop klimmen? Op Parc en Ciel, op loopafstand van de Bosc Nègre, biedt men 8 parcours met 700 obstakels voor alle leeftijden en alle niveaus.
 Kanovaren, dat is pas genieten van de natuur in alle rust. Of leren wandklimmen, door de grotten kruipen, abseilen vanaf een kasteel of paardrijden het is allemaal op minder dan een kwartier rijden bij ons vandaan. 
