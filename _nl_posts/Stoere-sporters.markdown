@@ -3,7 +3,7 @@ title: Stoere sporters
 date: 2018-03-07 10:07:00 +01:00
 tags:
 - activiteiten zomer
-route: nl/stoere-sporters
+route: nl/Stoere-sporters
 metaTitle: Sportieve activiteiten in de bossen van de Dordogne
 navTitle: Sport
 metaDescription: Heerlijk met je medevakantiegangers sporten in het heuvelachtige
