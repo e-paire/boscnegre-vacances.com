@@ -10,7 +10,7 @@ metaDescription: Heerlijk met je medevakantiegangers sporten in het heuvelachtig
   bosgebied in de Dordogne
 slogan: Joggen, mountainbiken en nog veel meer sporten op de Bosc Negre
 cover:
-  image: "/uploads/sport%20op%20bosc%20negre.jpg"
+  image: "/uploads/vendome%20mai%2016-07f4e8.JPG"
   alt: Joggen mountainbiken tennis waterpolo op bosc negre
 layout: Post
 ---
