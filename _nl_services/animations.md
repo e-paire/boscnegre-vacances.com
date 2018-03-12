@@ -32,7 +32,7 @@ layout: Service
 
 # Bent u sportief?
 
-## Dan hebben we u veel te bieden 
+## Dan hebben we u veel te bieden
 
 ### Met legio sportmogelijkheden (https://www.boscnegre-vacances.com/nl/stoeresporters/) ter plaatse
 
@@ -42,12 +42,11 @@ U kunt zich uitleven op **vakantiepark Bosc Nègre**. Op het terrein kunt u al g
 
 Wij verhuren **mountainbikes** om de bossen te verkennen in de directe omgeving. We lenen u fiets- en wandelroutes naar kasteel Biron, Lacapelle Biron of nog verder.
 
-### Tennisbaan 
+### Tennisbaan
 
 Neem uw eigen racket mee voor een potje tennis met je kinderen. Bent u ze vergeten, dan lenen we u de racktes bij de receptie. De **tennisbaan** is altijd open. Alleen als er teveel vraag is moet je je inschrijven bij de bar.
-
 
 ## Sporten in de naaste omgeving van Bosc Nègre
 
 Kent u al de activiteit boomtop klimmen? Op Parc en Ciel, op loopafstand van de Bosc Nègre, biedt men 8 parcours met 700 obstakels voor alle leeftijden en alle niveaus.
-Kanovaren, dat is pas genieten van de natuur in alle rust. Of leren wandklimmen, door de grotten kruipen, abseilen vanaf een kasteel of paardrijden het is allemaal op minder dan een kwartier rijden bij ons vandaan. 
+Kanovaren, dat is pas genieten van de natuur in alle rust. Of leren wandklimmen, door de grotten kruipen, abseilen vanaf een kasteel of paardrijden het is allemaal op minder dan een kwartier rijden bij ons vandaan.
