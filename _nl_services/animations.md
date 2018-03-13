@@ -46,6 +46,8 @@ Wij verhuren **mountainbikes** om de bossen te verkennen in de directe omgeving.
 
 Neem uw eigen racket mee voor een potje tennis met je kinderen. Geen rackets? Dan lenen we u die bij de receptie. De **tennisbaan** is altijd open. Alleen als er veel vraag is, is er inschrijfformulier bij de bar.
 
+Ontdek de [blog stoere sporters](https://www.boscnegre-vacances.com/nl/stoeresporters/) voor nog meer info.
+
 ## Sporten in de naaste omgeving van Bosc Nègre
 
 Kent u al de activiteit boomtop klimmen? Op Parc en Ciel, op loopafstand van de Bosc Nègre, biedt men 8 parcours met 700 obstakels voor alle leeftijden en alle niveaus.
