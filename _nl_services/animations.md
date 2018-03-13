@@ -34,7 +34,7 @@ layout: Service
 
 ## Dan hebben we u veel te bieden
 
-### Met legio sportmogelijkheden (https://www.boscnegre-vacances.com/nl/stoeresporters/) ter plaatse
+### Met legio sportmogelijkheden ter plaatse
 
 U kunt zich uitleven op **vakantiepark Bosc Nègre**. Op het terrein kunt u al genieten van een verwarmd zwembad, tennisbaan, voetbalveld, jeu-de-boulesbaan, volleybalveld.
 
@@ -44,7 +44,7 @@ Wij verhuren **mountainbikes** om de bossen te verkennen in de directe omgeving.
 
 ### Tennisbaan
 
-Neem uw eigen racket mee voor een potje tennis met je kinderen. Bent u ze vergeten, dan lenen we u de racktes bij de receptie. De **tennisbaan** is altijd open. Alleen als er teveel vraag is moet je je inschrijven bij de bar.
+Neem uw eigen racket mee voor een potje tennis met je kinderen. Geen rackets? Dan lenen we u die bij de receptie. De **tennisbaan** is altijd open. Alleen als er veel vraag is, is er inschrijfformulier bij de bar.
 
 ## Sporten in de naaste omgeving van Bosc Nègre
 
