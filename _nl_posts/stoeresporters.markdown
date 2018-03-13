@@ -10,7 +10,7 @@ metaDescription: Heerlijk met je medevakantiegangers sporten in het heuvelachtig
   bosgebied in de Dordogne
 slogan: Joggen, mountainbiken en nog veel meer sporten op de Bosc Negre
 cover:
-  image: "/uploads/sport%20op%20bosc%20negre.jpg"
+  image: "/uploads/jogging_Bosc_Negre.jpg"
   alt: Joggen mountainbiken tennis waterpolo op bosc negre
 layout: Post
 ---
@@ -25,7 +25,7 @@ Iedereen vindt z'n favoriete activiteit gedurende de week.
 ### Joggen op een zonnige zondagmorgen
 
 In de morgen, als de zon juist begint te schijnen, de kinderen nog op één oor liggen en de vogeltjes fluiten, verzamelen de hardloopfans zich bij de bar voor een run.
-Wil je je conditie bijhouden tijdens de vakantie of juist verbeteren? Lopen in het glooiende landschap is een goede training voor het verbeteren van je gemiddelde runs. De hardloopsessie wordt automatisch een intervaltraining door het op en af rennen van de heuvels. Om u een idee te geven van het niveau: in het tijdsbestek van een uur, bij een snelheid van tien kilometer per uur heeft u een hoogteverschil van 250 meter. Alfred, zelf hardloopfan, sluit zich graag aan bij de groep om de mooiste paadjes te tonen, kris kras door de bossen rondom het vakantiepark richting [kasteel Biron)(https://www.boscnegre-vacances.com/nl/omgeving/).
+Wil je je conditie bijhouden tijdens de vakantie of juist verbeteren? Lopen in het glooiende landschap is een goede training voor het verbeteren van je gemiddelde runs. De hardloopsessie wordt automatisch een intervaltraining door het op en af rennen van de heuvels. Om u een idee te geven van het niveau: in het tijdsbestek van een uur, bij een snelheid van tien kilometer per uur heeft u een hoogteverschil van 250 meter. Alfred, zelf hardloopfan, sluit zich graag aan bij de groep om de mooiste paadjes te tonen, kris kras door de bossen rondom het vakantiepark richting [kasteel Biron](https://www.boscnegre-vacances.com/nl/omgeving/).
 Hoe hard en hoe ver er wordt gelopen, wordt aangepast aan de verschillende deelnemers. Iedereen kan immers meedoen. Bent u een beginner en de buur een marathonloper? Dan rent de marathonloper bepaalde trajecten eens heen en terug. Zo komt u toch immers samen weer aan. Want samen uit, samen thuis dat is de afspraak. Misschien leert u hier hardloopmaatjes kennen waarmee u in de loop van de week de uitdaging nog eens aan kunt gaan.
 
 ### Mountainbiken 
@@ -35,7 +35,7 @@ Vele paden zullen terug naar **Bosc Negre** leiden. Na ongeveer 25 kilometer met
 
 Voor andere fietsbenen gaat er een tweede clubje voor een minder zwaar tempo op de dinsdagmorgen een ritje maken van zo'n 15 kilometer.
 
-Hebt u niet uw eigen [MTB dan kunt u deze huren] (https://www.boscnegre-vacances.com/nl/sportief/) op **vakantiepark Bosc Negre**. 
+Hebt u niet uw eigen mountainbike [huur u die fiets dan] (https://www.boscnegre-vacances.com/nl/sportief/) op **vakantiepark Bosc Negre**. 
 
 ### Tennis
 Hebt u ooit getennist en is het er de laatste jaren niet meer van gekomen? Wilt u graag de kinderen eens uitdagen deze sport te leren kennen? Grijp tijdens uw vakantie de kans om het niveau van u en de kinderen op te krikken. 
