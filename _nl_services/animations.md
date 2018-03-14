@@ -41,6 +41,7 @@ U kunt zich uitleven op **vakantiepark Bosc Nègre**. Op het terrein kunt u al g
 ### Mountainbike verhuur
 
 Wij verhuren **mountainbikes** om de bossen te verkennen in de directe omgeving. We lenen u fiets- en wandelroutes naar kasteel Biron, Lacapelle Biron of nog verder.
+Huur mountainbike (vanaf 12 jaar) 10 € voor halve dag, 15 € voor een hele dag. 
 
 ### Tennisbaan
 
