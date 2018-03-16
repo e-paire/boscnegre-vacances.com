@@ -1,7 +1,7 @@
 ---
 title: Vu du ciel
 date: 2018-03-16 22:23:00 +01:00
-route: vuduciel
+route: nl/vuduciel
 metaTitle: Visite virtuelle avec drone au dessus du village de vacances Bosc NEgre
 navTitle: video
 metaDescription: Visite virtuelle du village de vacances Bosc Negre dans le Périgord
