@@ -1,5 +1,5 @@
 ---
-title: Bosc nègre 'Vu du ciel'
+title: Bosc negre 'Vu du ciel'
 date: 2018-03-17 12:14:00 +01:00
 tags:
 - general
@@ -20,10 +20,7 @@ layout: Post
 ## Pour les vacances familiales et détendues au Bosc Nègre
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LtHxKqg2_mo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.cm/embed/LtHxKqg2_mo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-> 
+ 
 
 Alfred et Coby sont toujours vos hôtes durant votre séjour. Depuis 18 ans, le parc évolue d'année en d'année pour vous offrir des vacances inoubliables. Vous pouvez vous ressourcez en toute tranquillité dans un gîte et apprécier les richesses de la Dordogne et du Lot-et-Garonne.
 
