@@ -18,9 +18,7 @@ cover:
 
 ## Vliegensvlug een virtuele kijk op vakantiepark Bosc Negre
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LtHxKqg2_mo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/LtHxKqg2_mo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Met de techniek die op dit moment voorhanden is, krijgen we een mooi beeld van het geheel. Vanuit de lucht of vanaf de grond, met deze twee minuten vidéo vliegt u, fietst u, wandelt u voor een virtueel bezoek aan ons vakantiepark.
