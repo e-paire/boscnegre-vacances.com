@@ -3,7 +3,7 @@ title: Vanuit de lucht
 date: 2018-03-18 12:40:00 +01:00
 tags:
 - algemeen
-route: luchtopname
+route: nl/luchtopname
 metaTitle: Twee minuten voor een virtueel bezoek aan ons vakantiepark
 navTitle: Luchtopname
 metaDescription: Bezoek aan vakantiepark Bosc Negre in de Lot en Garonne vanuit de
