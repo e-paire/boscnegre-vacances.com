@@ -21,7 +21,7 @@ layout: Post
 
 C’est une des plus grandes mais surtout un des plus belles manifestations pédestres de la Nouvelle-Aquitaine et la plus grande du Lot-et-Garonne avec plus de 1100 participant l’année dernière. La majorité des participants sont originaires de la région, mais des randonneurs arrivent également de toute la France.
 
-[![les 47 du 47 .jpg](/uploads/les%2047%20du%2047%20.jpg)](https://www.randolotetgaronne.net/manifestations/)
+[![les47KMdu47 .jpg](/uploads/les47KMdu47%20.jpg)](https://www.randolotetgaronne.net/manifestations/)
 
 Au départ du centre culturel de Fumel entre 8H et 9H, le circuit traverse les villages en 6 étapes :\
 Cuzorn (7.5km),\
@@ -40,6 +40,6 @@ Plus d’informations avec le programme et le bulletin d’inscription sont tél
 
 ### Profitez pour sortir tout un week-end en Lot-et-Garonnne
 
-Venez en groupe et profitez [d'un week-end en pension complète](https://premium.secureholiday.net/fr/14230/options?tac=NjQ4MDFAcEAyOC8wNC8yMDE4QDI5LzA0LzIwMThANjQ4MDFAQDE4NDA3MQ==&spec=NTQwQDU0MEBAQDBAMEBNQEBAQDBAMTAwQDBAMTBAMTBAODBAQEBAQEA=&checkpms=1&idProduct=64801) avec votre club ou association.\\
+Venez en groupe et profitez [d'un week-end en pension complète](https://premium.secureholiday.net/fr/14230/options?tac=NjQ4MDFAcEAyOC8wNC8yMDE4QDI5LzA0LzIwMThANjQ4MDFAQDE4NDA3MQ==&spec=NTQwQDU0MEBAQDBAMEBNQEBAQDBAMTAwQDBAMTBAMTBAODBAQEBAQEA=&checkpms=1&idProduct=64801) avec votre club ou association.
 
 Pour toute autre demande de location ou de devis personnalisé, allez à la page CONTACT ou appelez Coby : 06 70 54 70 39.
