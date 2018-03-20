@@ -19,7 +19,7 @@ layout: Post
 
 ## Venez participer à la randonnée le 29 avril pour la randonnée qui mène au Château Bonaguil en passant par Saint-Avit et Lacapelle-Biron.
 
-C’est un des plus grandes mais surtout un des plus belles manifestations pédestres de Nouvelle-Aquitaine. La plus grande du Lot-et-Garonne mais aussi devenue une des plus grandes manifestations pédestres de Nouvelle-Aquitaine avec plus de 1100 participant l’année dernière. La majorité des participants sont originaires de la région, mais des randonneurs arrivent également de toute la France
+C’est un des plus grandes mais surtout un des plus belles manifestations pédestres de Nouvelle-Aquitaine. La plus grande du Lot-et-Garonne avec plus de 1100 participant l’année dernière. La majorité des participants sont originaires de la région, mais des randonneurs arrivent également de toute la France
 
 Au départ du centre culturel de Fumel entre 8H et  9H, le circuit traverse les villages  en  6 étapes :
 Cuzorn (7.5km),
