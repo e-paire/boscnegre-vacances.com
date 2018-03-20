@@ -21,6 +21,8 @@ layout: Post
 
 C’est une des plus grandes mais surtout un des plus belles manifestations pédestres de la Nouvelle-Aquitaine et la plus grande du Lot-et-Garonne avec plus de 1100 participant l’année dernière. La majorité des participants sont originaires de la région, mais des randonneurs arrivent également de toute la France.
 
+[![les 47 du 47 .jpg](/uploads/les%2047%20du%2047%20.jpg)](https://www.randolotetgaronne.net/manifestations/)
+
 Au départ du centre culturel de Fumel entre 8H et 9H, le circuit traverse les villages en 6 étapes :\
 Cuzorn (7.5km),\
 Gavaudun (14.5km),\
