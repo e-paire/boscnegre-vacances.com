@@ -15,9 +15,9 @@ cover:
 layout: Post
 ---
 
-\# ‘Les 47km du 47’
+# ‘Les 47km du 47’
 
-\## Venez participer à la randonnée le 29 avril pour la randonnée qui mène au Château Bonaguil en passant par Saint-Avit et Lacapelle-Biron.
+## Venez participer à la randonnée le 29 avril pour la randonnée qui mène au Château Bonaguil en passant par Saint-Avit et Lacapelle-Biron.
 
 C’est un des plus grandes mais surtout un des plus belles manifestations pédestres de Nouvelle-Aquitaine. La plus grande du Lot-et-Garonne mais aussi devenue une des plus grandes manifestations pédestres de Nouvelle-Aquitaine avec plus de 1100 participant l’année dernière. La majorité des participants sont originaires de la région, mais des randonneurs arrivent également de toute la France
 
@@ -32,7 +32,6 @@ pour se terminer à Fumel (47.5 km).
 Un ravitaillement est prévu à Cuzorn, Gavaudun, Lacapelle Biron, Saint Front et Bonaguil.
 
 Chaque participant peut s’arrêter à chaque ravitaillement. Un retour en bus est alors prévu à partir de midi
-
 
 Plus d’informations avec  programme et le bulletin d’inscription sont téléchargeables sur le site du CDRP du lot-et-garonne  :  [www.randolotetgaronne.net ](https://www.randolotetgaronne.net/manifestations/)
 
