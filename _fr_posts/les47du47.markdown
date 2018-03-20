@@ -37,4 +37,4 @@ Plus d’informations avec  programme et le bulletin d’inscription sont télé
 
 Venez en groupe et profitez d'un [week-end en pension complète](https://premium.secureholiday.net/fr/14230/options?tac=NjQ4MDFAcEAyOC8wNC8yMDE4QDI5LzA0LzIwMThANjQ4MDFAQDE4NDA3MQ==&spec=NTQwQDU0MEBAQDBAMEBNQEBAQDBAMTAwQDBAMTBAMTBAODBAQEBAQEA=&checkpms=1&idProduct=64801) avec votre club ou association.
 
-Pour un devis personnalisé, allez à la page CONTACT ou appelez Coby : 06 70 54 70 39.
+Pour toute autre demande de location demandez un devis personnalisé, allez à la page CONTACT ou appelez Coby : 06 70 54 70 39.
