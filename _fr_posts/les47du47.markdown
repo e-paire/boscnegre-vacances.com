@@ -21,7 +21,7 @@ layout: Post
 
 C’est une des plus grandes mais surtout un des plus belles manifestations pédestres de la Nouvelle-Aquitaine et la plus grande du Lot-et-Garonne avec plus de 1100 participant l’année dernière. La majorité des participants sont originaires de la région, mais des randonneurs arrivent également de toute la France.
 
-[![les47KMdu47 .jpg](/uploads/les47KMdu47%20.jpg)](https://www.randolotetgaronne.net/manifestations/)
+![les47KMdu47 .jpg](/uploads/les47KMdu47%20.jpg)
 
 Au départ du centre culturel de Fumel entre 8H et 9H, le circuit traverse les villages en 6 étapes :\
 Cuzorn (7.5km),\
@@ -39,6 +39,8 @@ Chaque participant peut s’arrêter à chaque ravitaillement. Un retour en bus 
 Plus d’informations avec le programme et le bulletin d’inscription sont téléchargeables sur le site du **CDRP du lot-et-garonne** : [www.randolotetgaronne.net](https://www.randolotetgaronne.net/)
 
 ### Profitez pour sortir tout un week-end en Lot-et-Garonnne
+
+Car l'événement \*\*[Lot-et-Garonne De Ferme en Ferme](https://www.facebook.com/Defermeenferme47/)\*\*se déroule le même weekend : 49 fermes réparties sur tout le département s'organisent pour vous accueillir les 28 et 29 avril 2018
 
 Venez en groupe et profitez [d'un week-end en pension complète](https://premium.secureholiday.net/fr/14230/options?tac=NjQ4MDFAcEAyOC8wNC8yMDE4QDI5LzA0LzIwMThANjQ4MDFAQDE4NDA3MQ==&spec=NTQwQDU0MEBAQDBAMEBNQEBAQDBAMTAwQDBAMTBAMTBAODBAQEBAQEA=&checkpms=1&idProduct=64801) avec votre club ou association.
 
