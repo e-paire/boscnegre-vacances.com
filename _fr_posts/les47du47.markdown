@@ -21,9 +21,9 @@ layout: Post
 
 C’est une des plus grandes mais surtout un des plus belles manifestations pédestres de la Nouvelle-Aquitaine et la plus grande du Lot-et-Garonne avec plus de 1100 participant l’année dernière. La majorité des participants sont originaires de la région, mais des randonneurs arrivent également de toute la France.
 
-Au départ du centre culturel de Fumel entre 8H et 9H, le circuit traverse les villages en 6 étapes : 
-Cuzorn (7.5km),\ 
-Gavaudun (14.5km),\ 
+Au départ du centre culturel de Fumel entre 8H et 9H, le circuit traverse les villages en 6 étapes :
+Cuzorn (7.5km),\
+Gavaudun (14.5km),\
 **Lacapelle biron (20km**),\
 SaintFront-sur-Lémance (29.5km),\
 Bonaguil (38 km), \
@@ -32,11 +32,8 @@ pour se terminer à Fumel (47.5 km).
 Un ravitaillement est prévu à Cuzorn, Gavaudun, Lacapelle Biron, Saint Front et Bonaguil.
 Chaque participant peut s’arrêter à chaque ravitaillement. Un retour en bus est alors prévu à partir de midi.
 
-Plus d’informations avec le programme et le bulletin d’inscription sont téléchargeables sur le site du **CDRP du lot-et-garonne** : www.randolotetgaronne.net 
-
+Plus d’informations avec le programme et le bulletin d’inscription sont téléchargeables sur le site du **CDRP du lot-et-garonne** : www.randolotetgaronne.net
 
 Venez en groupe et profitez [d'un week-end en pension complète](https://premium.secureholiday.net/fr/14230/options?tac=NjQ4MDFAcEAyOC8wNC8yMDE4QDI5LzA0LzIwMThANjQ4MDFAQDE4NDA3MQ==&spec=NTQwQDU0MEBAQDBAMEBNQEBAQDBAMTAwQDBAMTBAMTBAODBAQEBAQEA=&checkpms=1&idProduct=64801) avec votre club ou association.
 
-
 Pour toute autre demande de location ou de devis personnalisé, allez à la page CONTACT ou appelez Coby : 06 70 54 70 39.
-
