@@ -42,7 +42,7 @@ Plus d’informations avec le programme et le bulletin d’inscription sont tél
 
 Car l'événement \*\*[Lot-et-Garonne De Ferme en Ferme](https://www.facebook.com/Defermeenferme47/)\*\*se déroule le même weekend : 49 fermes réparties sur tout le département s'organisent pour vous accueillir les 28 et 29 avril 2018
 
-Venez en groupe et profitez [**d'un week-end en pension complète**](https://premium.secureholiday.net/fr/14230/options?tac=NjQ4MDFAcEAyOC8wNC8yMDE4QDI5LzA0LzIwMThANjQ4MDFAQDE4NDA3MQ==&spec=NTQwQDU0MEBAQDBAMEBNQEBAQDBAMTAwQDBAMTBAMTBAODBAQEBAQEA=&checkpms=1&idProduct=64801) avec votre club ou association.
-Ou peut-être vous souhaitez le faire un [**week-end lot-et-garonne **](https://premium.secureholiday.net/fr/14230/result?arrivalDate=28%2F04%2F2018&departureDate=29%2F04%2F2018&promocode=&idProduct=&Inventories=) avec votre ami(e)
+Venez en groupe et profitez [**d'un week-end en pension complète**](https://premium.secureholiday.net/fr/14230/options?tac=NjQ4MDFAcEAyOC8wNC8yMDE4QDI5LzA0LzIwMThANjQ4MDFAQDE4NDA3MQ==&spec=NTQwQDU0MEBAQDBAMEBNQEBAQDBAMTAwQDBAMTBAMTBAODBAQEBAQEA=&checkpms=1&idProduct=64801)** avec votre club ou association.
+Ou peut-être vous souhaitez le faire un [**week-end lot-et-garonne**](https://premium.secureholiday.net/fr/14230/result?arrivalDate=28%2F04%2F2018&departureDate=29%2F04%2F2018&promocode=&idProduct=&Inventories=) avec votre ami(e)
 
 Pour toute autre demande de location ou de devis personnalisé, allez à la page CONTACT ou appelez Coby : 06 70 54 70 39.
