@@ -46,4 +46,4 @@ Toutes les installations sont mises à votre disposition durant votre séjour af
 
 La parc du Bosc-Nègre ainsi que son personnel peut être privatisé sur demande.
 
-[Découvrez comment votre week-end pourrait ce dérouler](https://www.boscnegre-vacances.com/anniversaire/).
+[**Découvrez comment votre week-end pourrait ce dérouler**](https://www.boscnegre-vacances.com/anniversaire/).
