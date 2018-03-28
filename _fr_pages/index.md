@@ -5,9 +5,10 @@ position: 0
 route: "/"
 metaTitle: Bosc Nègre, Village de Vacances
 navTitle: Accueil
-metaDescription: Bienvenue au village de vacances le Bosc Nègre en Lot-et-Garonne,
-  à côté de la Dordogne. Profitez de gîtes au calme et d'installations gratuites .
-slogan: Village de vacances Bosc-Nègre, 23 gîtes de charme dans le Perigord Noir
+metaDescription: 'Découvrez village de vacances le Bosc Nègre en Lot-et-Garonne, limitrophe
+  de la Dordogne. Profitez des gîtes au calme et d''installations nombreux dans ce
+  village de gîtes familiales. '
+slogan: Découvrez ce village de vacances Bosc-Nègre, 23 gîtes de charme dans le Lot-et-Garonne
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
   alt: Village de vacances du Bosc Nègère
