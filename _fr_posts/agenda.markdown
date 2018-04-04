@@ -20,13 +20,13 @@ layout: Post
 
 Entre les marchés de producteurs, les sorties culturelles et le CHASSE AUX POISSONS à Gavaudun, découvrez l'agenda de l'office du tourisme Coeur des quatre Bastides de Monflanquin, Villereal, Cancon et Castionnes.
 
-* **[AGENDA DU CŒUR DES BASTIDES](http://www.coeurdebastides.com/fr/resultat/16/agenda?filtres%5Bfmadates%5D%5Bfrom%5D=30%2F03%2F2018&filtres%5Bfmadates%5D%5Bto%5D=02%2F04%2F2018)**
+* **[AGENDA DU CŒUR DES BASTIDES](http://www.coeurdebastides.com/fr/resultat/16/agenda)**
 
   DU coté de Monpazier et Biron vous trouverez 
 
-* **[L'AGENDA AUTOUR DE MONPAZIER EN DORDOGNE](https://www.pays-bergerac-tourisme.com/fr/agenda/calendrier-des-animations?wei0%5Bid0%5D=%7CLiAgendaV01%7CProximite%7C0%7C1%7CMoAgendaV01%7C%7C-\~2018%2F03%2F30\~2018%2F04%2F02%7C%7C-Monpazier\~44.682669\~0.893716\~20%7CFO%7CFO%7CFO)**
+* **[L'AGENDA AUTOUR DE MONPAZIER EN DORDOGNE](https://www.pays-bergerac-tourisme.com/fr/vacances-scolaires-de-paques)**
 
   Pour les plus sportives ce weekend ça bouge à Lacapelle Biron : 
 
 
-* La randonnée à pied organisé par l'école et** [l'ouverture de Parc en Ciel accrobranche](http://www.parc-en-ciel.com/blog/les-parcours-5/ouverture-de-la-saison-1er-avril-2018--32/)**
+* ** [l'ouverture de Parc en Ciel accrobranche](http://www.parc-en-ciel.com/blog/les-parcours-5/ouverture-de-la-saison-1er-avril-2018--32/)**
