@@ -24,3 +24,4 @@ Pendant votre séjour au village de vacances Bosc Nègre visiter le château de 
 Il détient la particularité de ne pas être sur une position stratégique : le château ne défend pas une ville, ni le passage d'un fleuve, ni une vallée importante ou une route commerciale.
 Hormis la perte de ses charpentes pendant la Révolution Française, le [château de Bonaguil] (http://www.chateau-bonaguil.com/) est aujourd'hui dans un état de conservation remarquable. Il n'eut jamais à subir d'attaque et fut habité jusqu'à la Révolution. 
 
+**Découvrez [l'agenda du château de Bonaguil](http://www.chateau-bonaguil.com/fr/lagenda-du-chateau)**
