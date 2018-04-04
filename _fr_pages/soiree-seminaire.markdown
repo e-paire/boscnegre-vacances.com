@@ -15,20 +15,24 @@ cover:
 layout: Post
 ---
 
-# Pour la soirée de votre séminaire nous pouvons vous aider à trouver une animation : 
-
+# Pour la soirée de votre séminaire nous pouvons vous aider à trouver une animation :
 
 ## Animation gourmande
+
 * Dégustation de miel
+
 * Dégustation de pruneaux
 
-## Animation divertisement
+## Animation divertissement
 
 * Spectacle de magie
+
 * Spectacle de fils de Henry IV 'Janouille La Fripouille
 
-## Animation musical
+## Animation musicale
+
 * Soirée dansante avec DJ
+
 * Soirée avec chanteur « Jun » ou « Call me Didi »
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m1Zt9aMFnf0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
