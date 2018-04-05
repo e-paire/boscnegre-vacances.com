@@ -2,7 +2,7 @@
 title: Exemple de tarifs
 date: 2018-04-05 14:17:00 +02:00
 tags:
-- séminaires
+- séminaire
 route: tarif-seminaire
 metaTitle: Exemple de tarif séminaire deux jours
 navTitle: 'Tarif séminaire '
