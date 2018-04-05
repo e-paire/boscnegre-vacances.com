@@ -68,4 +68,4 @@ layout: Seminar
 
 Vous cherchez un **hébergement pour votre formation** ou pour vos séminaires en pleine campagne et avec une restauration sur place? Dans les forêts du Périgord noir vous trouverez l'hébergement de 46 chambres avec restaurant, salle de conférence et télévision écran plat, paper-board, écran blanc et vidéoprojecteur. Cette salle de travail peut contenir jusqu’à 80 personnes en fonction de la disposition de la salle. 
 
-Consulter le **blog pour des informations supplémentaires**[](https://www.boscnegre-vacances.com/tag/s%C3%A9minaire) ;
+Consulter le [**blog pour des informations supplémentaires**](https://www.boscnegre-vacances.com/tag/s%C3%A9minaire) ;
