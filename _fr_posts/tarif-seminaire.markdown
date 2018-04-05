@@ -32,4 +32,4 @@ layout: Post
 * Pause-café matin
 * Déjeuner
 
-Pour un devis personnalisé, contactez-nous via **info@boscnegre-vacances**
+Pour un devis personnalisé, contactez-nous via [**la page contact**](https://www.boscnegre-vacances.com/contact/)
