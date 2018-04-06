@@ -3,6 +3,7 @@ title: AGENDA
 date: 2018-03-27 23:35:00 +02:00
 tags:
 - à visiter
+- pâques
 route: agenda
 metaTitle: L'Agenda de cette semaine
 navTitle: Des animations autour de nous dans les bastides du Périgord
