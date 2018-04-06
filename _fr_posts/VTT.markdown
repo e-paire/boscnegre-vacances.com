@@ -2,7 +2,7 @@
 title: Du VTT pendant vos vacances au Bosc Nègre
 date: 2018-02-02 11:55:00 +01:00
 tags:
-- general
+- activités
 route: VTT
 metaTitle: Location de VTT au village de vacances Bosc Nègre
 navTitle: location vtt
