@@ -54,7 +54,7 @@ services:
     alt: Pension complète durant votre séminaire au Bosc Negre
 prices:
   text: "[Nous vous proposons des séminaires adaptés à vos besoins. Consultez nos
-    prix et contactez nous pour établir un devis sur mesure](https://www.boscnegre-vacances.com/contact/)"
+    prix et contactez nous pour établir un devis sur mesure](https://www.boscnegre-vacances.com/tarif-seminaire/)"
   cover:
     image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
     alt: Le Village de Vacances du Bosc Negre
