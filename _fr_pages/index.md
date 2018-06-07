@@ -26,7 +26,7 @@ layout: Homepage
 
 ### Vacances familiales et détendues au Bosc Nègre
 
-Bienvenue au Bosc Nègre, **village de vacances du Sud de la France**. Alfred et Coby sont vos hôtes durant votre séjour. Depuis 16 ans, le parc évolue d'année en d'année pour vous offrir des vacances inoubliables. Vous pouvez vous ressourcez en toute tranquillité dans un gîte et apprécier les richesses de la Dordogne et du Lot-et-Garonne.
+Bienvenue au Bosc Nègre, **village de vacances du Sud de la France**. Alfred et Coby sont vos hôtes durant votre séjour. Depuis 20 ans, le parc évolue d'année en d'année pour vous offrir des vacances inoubliables. Vous pouvez vous ressourcez en toute tranquillité dans un gîte et apprécier les richesses de la Dordogne et du Lot-et-Garonne.
 
 Le parc possède 23 gîtes répartis sur 5 hectares vous sont proposés à la location toute l'année. Chaque [gîte](/tous-les-gites/) dispose de sa propre terrasse et de tout l'équipement nécessaire pour profiter de vos vacances dans un village de vacances en Lot-et-Garonne sans tracas.
 
@@ -36,4 +36,4 @@ Notre **centre de vacances** vous propose de [nombreux services](/tous-les-servi
 
 Le [Bosc Nègre](http://www.villagesdegites.fr/fr/il4-village_i65573-village-de-vacances-bosc-negre-lot-et-garonne.aspx) se situe à seulement 3 minutes du village de Lacapelle-Biron où vous pouvez trouver une pharmacie, médecin, boucherie, une poste, un distributeur ainsi qu'une petite superette.
 
-Les grands comme les petits seront séduits ! Alors n'hésitez plus, choisissez votre gîte pour vos prochaines vacances 2017.
+Les grands comme les petits seront séduits ! Alors n'hésitez plus, choisissez votre gîte pour vos prochaines vacances 2018.
