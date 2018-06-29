@@ -11,7 +11,7 @@ cover:
 layout: Service
 ---
 
-**Equipements et services gratuits :**
+**Equipements et services :**
 
 Lave linge et sèche linge collectif (jeton au bar 4€50)
 Repassage : matériel fourni. Salon de jardin, parasol. Emplacement piscine (bains de soleil, chaises, parasols). Activités prévues sur le site pour les enfants et adultes. Soirées à thèmes (sauf repas pour locataires et ½ pensionnaires)
