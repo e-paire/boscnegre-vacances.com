@@ -16,6 +16,8 @@ Elke gîte heeft zijn keuken met kookplaten, oventje, servies, bestek en pannen.
 Bij de receptie vindt u documentatie van de regio.
 Wij geven we u graag inlichtingen en advies voor uw uitstapjes.
 
+Collective wasmachine en droger (niet gratis) 4€50 voor een muntje bij de bar (waspoeder inbegrepen)
+
 Op **Bosc-Negre** houden wij van dieren, wij hebben er zelf enkele. Uw hond of kat, mits wel opgevoed en aangelijnd, is toegestaan maar behoren voorzien te zijn van een geldig dierenpaspoort.
 
 Wifi/internet : Op **Bosc Nègre** bieden we u om en nabij het hoofdgebouw een (beperkte) wifi verbinding. Het bereik met mobiele telefoon is op het franse platteland matig. Op dit vakantiepark is bellen in de openlucht geen probleem. Voor internetverkeer met 3G geldt hetzelfde. 
