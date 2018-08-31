@@ -13,7 +13,7 @@ class Contact extends Component {
     const {collection} = this.context
     const {intl} = this.props
     const afterContactPage = enhanceCollection(collection, {
-      filter: (page) => customFilter(page, intl.locale, "AfterContact"),
+      filter: page => customFilter(page, intl.locale, "AfterContact"),
     }).shift()
 
     return (
@@ -39,6 +39,7 @@ class Contact extends Component {
             placeholder={intl.formatMessage({id: "contact_form.message"})}
           />
           <input type="hidden" name="form-name" value="contact" />
+          <div data-netlify-recaptcha />
           <button className={styles.button}>
             <FormattedMessage id="contact_form.send" />
           </button>
