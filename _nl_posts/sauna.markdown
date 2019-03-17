@@ -7,7 +7,7 @@ route: nl/sauna
 metaTitle: Sauna, de nieuwe wellness service
 navTitle: Sauna
 metaDescription: 'Een sauna sessie zal een pluspunt zijn tijdens uw vakantie '
-slogan: Kom de sauna sessie ontdekken tijdens je vakantie
+slogan: Kom de sauna sessie ontdekken tijdens je vakantie, ten behoeve van het welzijn
 cover:
   image: "/uploads/saunablog.jpg"
 layout: Post
@@ -17,7 +17,7 @@ layout: Post
 
 ## Wellness tijdens de vakantie op Bosc Negre, want het welbevinden en de gezondheid van onze gasten staat al jaren voorop in onze diensten. Dit jaar voegen we daar nog een paar aan toe. Om te beginnen een sauna. Naast het zwembad zult u, op basis van reservering, kunnen genieten van een saunasessie.
 
-Lekker sporten, gezonde en uitgebalanceerde maaltijden, massages, yogalessen en dit jaar ook een sauna. We zijn verheugd dat we ieder jaar nog meer accent kunnen op een ontspannen vakantie. 
+Lekker sporten, gezonde en uitgebalanceerde maaltijden, massages, yogalessen en dit jaar ook een sauna, alles ten behoeve van het welzijn van onze gasten. We zijn verheugd dat we ieder jaar nog meer accent kunnen op een ontspannen vakantie. 
 Een relax-vakantie, daar is iedereen aan toe na een jaar leven in een hectisch bestaan. 
 
 Vergeet niet tijdens uw vakantie vooraf bij de bar even de sauna te reserveren. 
