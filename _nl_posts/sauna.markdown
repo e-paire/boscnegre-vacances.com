@@ -23,7 +23,7 @@ Een relax-vakantie, daar is iedereen aan toe na een jaar leven in een hectisch b
 Vergeet niet tijdens uw vakantie vooraf bij de bar even de sauna te reserveren. 
 De sauna is geschikt voor maximaal 6 personen.
 
-De huurtarieven per half uur, inclusief 1 badhanddoek per persoon 5 € (minimaal 2 personen)
+De huurtarieven per half uur, inclusief 1 badhanddoek per persoon 6 € (minimaal 2 personen)
 
 Vergeet niet dat een massage ook mogelijk is, we hebben er eerder al verteld over '[massage](https://www.boscnegre-vacances.com/nl/onthaasten/)'. Al jaren een daverend succes is door de deskundigheid van onze masseuses. 
 
