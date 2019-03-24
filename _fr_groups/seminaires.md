@@ -62,7 +62,7 @@ pricesExamples:
 - description: "1er jour : \ncafé de bienvenue - \ndéjeuner - \npause - \nrepas du
     terroir \net nuitée en chambre individuelle\n\n\n2ème jour : \npetit déjeuner
     - \npause - \ndéjeuner"
-  price: 112€ HT par personne
+  price: 114€ HT par personne
 layout: Seminar
 ---
 
