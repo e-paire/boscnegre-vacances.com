@@ -17,7 +17,7 @@ layout: Post
 
 # Séminaire résidentiel : 
 
-## 112€ HT/pers (122€ TTC)
+## 114€ HT/pers (126€ TTC)
 
 ### JOUR 1
 * Café d'accueil avec viennoiseries
