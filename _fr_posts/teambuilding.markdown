@@ -13,7 +13,7 @@ slogan: 'Demandez nous les possibilités de teambuilding pour votre équipe et b
   séminaires résidentielles '
 cover:
   image: "/uploads/teambuidling%20au%20bosc%20negre%20seminaire%20-f5eb97.jpg"
-  alt: teambuiding pour votre équipe en pleine nature au Bosc Negre
+  alt: teambuilding pour votre équipe en pleine nature au Bosc Negre
 layout: Post
 ---
 
