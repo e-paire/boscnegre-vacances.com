@@ -13,26 +13,25 @@ slogan: 'Demandez nous les possibilités de teambuilding pour votre équipe et b
 layout: Post
 ---
 
-# Teambuilding
+# Le Team Building va redynamiser votre équipe et renforcer la cohésion entre les collaborateurs.
 
-## Le team Building va faire bouger votre équipe.
-Une séance de Team Building peut s’intégrer dans votre séminaire. 
-Le teambuilding est l’occasion pour votre groupe de travail de sortir et de se réunir du cadre professionnel. Une activité pour fédérer votre équipe.
+## Une séance de Team Building peut s’intégrer dans votre séminaire. 
+C’est l’occasion pour votre groupe de sortir du cadre professionnel et de se réunir pour fédérer votre équipe autour d’une animation ludique de cohésion.
 
 ### Teambuiding sportif. 
-Il s’agit de six jeux d’équipe formateurs et bien souvent très ludiques avec l’objectif de créer l’esprit d’équipe dans un milieu amical. Ces activités sportives est une bonne occasion pour se dépenser, vider le stress du travail, dans un cadre magnifique boisé, déconnecté, tout en respirant l’air frais. Pour participer il suffit de mettre les baskets, sans avoir besoin être un grand sportif.
+Il s’agit de six jeux d’équipe formateurs et bien souvent très ludiques qui ont pour l’objectif de créer une cohésion d’équipe au sein d’un groupe professionnel. Ces activités sportives sont une bonne occasion pour se dépenser, se décharger du stress du travail, dans un cadre magnifique boisé, où vous serez déconnecté des bureaux, tout en respirant l’air frais. Pour participer il suffit d’enfiler des baskets, nul besoin d’être un grand athlète.
 Vos collaborateurs vont prendre conscience que le collectif et l’esprit équipe seront plus forts que la somme des individualités. 
-Les activités prévues pour le team building sportif sont nombreuses, suivant votre demande. Le plus agréable sera un bon assortiment de différents caractères, tout en profitant des terrains de sports multiples :
-•	Des jeux ludiques, 
-•	Des jeux participatifs,
-•	Des jeux de sport d’équipe
+Les activités prévues pour le team building sportif sont nombreuses et peuvent s’adapter en fonction de vos demandes. Le plus agréable sera un bon assortiment de différents types de jeux et challenges, tout en profitant des terrains de sports multiples :
+•	Des jeux ludiques ; 
+•	Des jeux participatifs ;
+•	Des challenges de sport d’équipe ;
 •	Etc.
 
 
 ### Teambuiding musical. 
-Les participants, sectionnés par 6 ou 7, reprennent une chanson. A leur disposition il y aura des attributs,  des paroles et des instruments. Les collaborateurs réinventent les paroles, la présentation déguisée à la façon d’un karaoké, 
-Le chant choral constitue un excellent moyen de renforcer le collectif – à condition d’en réinventer les chansons, pour éviter les clichés. A même temps cette exercice pousse les participants de la prise de parole en public et à vaincre leur appréhension du jugement.  En plus cette activité mettra bien l’ambiance.
+Les participants, sectionnés par groupes de 6 ou 7, reprennent une chanson. A leur disposition il y aura des attributs,  des paroles et des instruments. Le chant choral constitue un excellent moyen de renforcer le collectif – à condition d’en réinventer les chansons, pour éviter les clichés. En même temps cet exercice pousse les participants à prise de parole en public et à vaincre leur appréhension du jugement.  De plus cette activité mettra pour sur l’ambiance pendant votre séminaire ou incentive !
 
-### Conclusion : Le team building est idéal pour créer ou renforcer la cohésion et de laisser aller son créativité.
+### Conclusion : Le team building est idéal pour créer ou renforcer la cohésion et de laisser aller la créativité des collaborateurs, ce qui aura un impact positif sur la manière de travailler de l’équipe.
 
-Pour la soirée, nous pouvons vous aider à chercher une animation. Consultez la page suivante pour en savoir plus [**la soirée de votre séminaire résidentièle](https://www.boscnegre-vacances.com/soiree-seminaire/)
+### Demandez-nous les possibilités le plus adaptés à votre équipe pour animer votre séminaire.
+
