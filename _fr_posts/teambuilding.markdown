@@ -3,7 +3,7 @@ title: Teambuilding
 date: 2019-03-27 14:55:00 +01:00
 tags:
 - séminaire
-route: teambuiding
+route: teambuilding
 metaTitle: Le teambuilding pour séminaire
 navTitle: teambuilding pour séminaire
 metaDescription: Booster votre équipe avec un teambuilding pendant deux jours au Bosc
