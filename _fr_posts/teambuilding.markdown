@@ -12,7 +12,7 @@ slogan: 'Demandez nous les possibilités de teambuilding pour votre équipe et b
   les collaborateurs pendant deux jours au village de vacances Bosc Negre pour les
   séminaires résidentielles '
 cover:
-  image: "/uploads/teambuidling%20au%20bosc%20negre%20seminaire%20.jpg"
+  image: "/uploads/teambuidling%20au%20bosc%20negre%20seminaire%20-f5eb97.jpg"
   alt: teambuiding pour votre équipe en pleine nature au Bosc Negre
 layout: Post
 ---
