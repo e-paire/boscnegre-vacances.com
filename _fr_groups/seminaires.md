@@ -55,7 +55,7 @@ services:
 prices:
   text: |-
     [Nous vous proposons des séminaires adaptés à vos besoins. Consultez nos prix et contactez nous pour établir un devis sur mesure](https://www.boscnegre-vacances.com/tarif-seminaire/)
-    [Trouvez des informations sur la page Exepple de tarif ou contacter nous]
+    [Trouvez des informations sur la page Exemple de tarif ou contactez nous]
     (https://www.boscnegre-vacances.com/tarif-seminaire/)
   cover:
     image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
