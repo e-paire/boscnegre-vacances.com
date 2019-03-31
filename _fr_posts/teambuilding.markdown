@@ -37,5 +37,5 @@ Les participants, sectionnés par groupes de 6 ou 7, reprennent une chanson. A l
 
 ### Conclusion : Le team building est idéal pour créer ou renforcer la cohésion et de laisser aller la créativité des collaborateurs, ce qui aura un impact positif sur la manière de travailler de l’équipe.
 
-### Demandez-nous les possibilités le plus adaptés à votre équipe pour animer votre séminaire.
+### Demandez-nous les possibilités les plus adaptées à votre équipe pour animer votre séminaire.
 
