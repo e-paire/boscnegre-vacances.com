@@ -4,6 +4,9 @@ position: 4
 route: "/groupes/scolaire-centre-de-loisirs"
 metaTitle: Groupes scolaires et centre de loisirs au Hameau du Bosc Nègre
 navTitle: Scolaire & Centre de Loisirs
+metaDescription: Séjour classe découverte en Lot-Garonne avec hébergement et pension
+  complète jusqu'à 60 personnes
+slogan: Ecole et classe découverte au Bosc Negre
 cover:
   image: "/uploads/pique-nique_bosc_negre.jpg"
   alt: sejour avec votre centre de loisirs au Bosc Negre
@@ -17,16 +20,14 @@ images:
   alt: 
 - image: "/uploads/baignade_groupe_scolaires_Bosc_Negre.jpg"
   alt: baignade pendant classe verte au bosc negre
-metaDescription: Séjour classe découverte en Lot-Garonne avec hébergement et pension
-  complète jusqu'à 80 personnes
-slogan: Ecole et classe découverte au Bosc Negre
 layout: Group
 ---
 
 ## Séjour scolaire tout confort dans le Lot-et-Garonne, limitrophe Dordogne
 
 Le Bosc Nègre est adapté pour un séjour de groupe avec enfants. Les installations sont sécurisées et la piscine clôturée.
-Pour votre séjour en classe verte dans le Périgord, nous vous proposons plusieurs répartitions des chambres. Elles sont réparties sur 2 bâtiments : l’un de 30 lits avec chambres de 2 à 4 lits, avec sanitaires individuels. L’autre bâtiment de 21 lits
+Pour votre séjour en classe verte dans le Périgord, nous vous proposons plusieurs répartitions des chambres. Votre classe sera réparties, par 5 enfants accompagnés de leurs éducateurs, sur des logements individuels de 2 chambres avec sanitaires. 
+
 Pour la restauration, nous proposons des plats équilibrés qui plaisent aux enfants. Nous pourrons composer le menu ensemble.
 
 ## Les activités à faire
