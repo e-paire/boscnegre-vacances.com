@@ -1,5 +1,5 @@
 ---
-title: Séjour pour groupes scolaires et centre de loisirs loisirs
+title: Séjour pour groupes scolaires et centre de loisirs
 position: 4
 route: "/groupes/scolaire-centre-de-loisirs"
 metaTitle: Groupes scolaires et centre de loisirs au Hameau du Bosc Nègre
