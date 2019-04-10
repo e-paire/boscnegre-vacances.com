@@ -2,7 +2,7 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const ExternalLink = ({children, href, ...props}) => (
-  <a href={href} target="_blank" rel="noopener noreferrer" {...props}>
+  <a href={href} target="_blank" rel="noopener noreferrer nofollow" {...props}>
     {children}
   </a>
 )

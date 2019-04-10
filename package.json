@@ -79,7 +79,7 @@
     "react-fa": "^4.2.0",
     "react-ga": "^2.2.0",
     "react-google-map": "^3.0.1",
-    "react-google-maps-loader": "^2.0.2",
+    "react-google-maps-loader": "^4.2.0",
     "react-images": "^0.5.2",
     "react-intl": "^2.3.0",
     "react-slick": "^0.14.11",

@@ -13,17 +13,17 @@ class Homepage extends Component {
   render() {
     const {body, head, ...props} = this.props
     return (
-      <Page {...props} head={{
-        ...head,
-      }}>
+      <Page
+        {...props}
+        head={{
+          ...head,
+        }}
+      >
         <Content>
           <CottagesCategories />
         </Content>
 
-        <Offers
-          cover={head.offers.cover}
-          text={head.offers.text}
-        />
+        <Offers cover={head.offers.cover} text={head.offers.text} />
 
         <Content>
           <Services />
@@ -31,13 +31,11 @@ class Homepage extends Component {
 
         <GroupsPurposes />
 
-        {body &&
+        {body && (
           <Content childrenIsText>
-            <BodyContainer>
-              {body}
-            </BodyContainer>
+            <BodyContainer>{body}</BodyContainer>
           </Content>
-        }
+        )}
       </Page>
     )
   }

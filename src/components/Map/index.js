@@ -2,7 +2,7 @@ import PropTypes from "prop-types"
 import React, {Component} from "react"
 import {FormattedMessage} from "react-intl"
 import GoogleMap from "react-google-map"
-import GoogleMapLoader from "react-google-maps-loader"
+import ReactGoogleMapLoader from "react-google-maps-loader"
 
 import Content from "components/Content"
 
@@ -17,18 +17,18 @@ import styles from "./index.css"
 class Map extends Component {
   getIcon(color) {
     switch (color) {
-    case "blue":
-      return iconMarkerBlue
-    case "gray":
-      return iconMarkerGray
-    case "green":
-      return iconMarkerGreen
-    case "orange":
-      return iconMarkerOrange
-    case "yellow":
-      return iconMarkerYellow
-    default:
-      return iconMarkerGray
+      case "blue":
+        return iconMarkerBlue
+      case "gray":
+        return iconMarkerGray
+      case "green":
+        return iconMarkerGreen
+      case "orange":
+        return iconMarkerOrange
+      case "yellow":
+        return iconMarkerYellow
+      default:
+        return iconMarkerGray
     }
   }
 
@@ -53,23 +53,33 @@ class Map extends Component {
             <div className={styles.legends}>
               <div className={styles.legend}>
                 <img src={iconMarkerOrange} />
-                <div><FormattedMessage id="markers.orange" /></div>
+                <div>
+                  <FormattedMessage id="markers.orange" />
+                </div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerGreen} />
-                <div><FormattedMessage id="markers.green" /></div>
+                <div>
+                  <FormattedMessage id="markers.green" />
+                </div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerYellow} />
-                <div><FormattedMessage id="markers.yellow" /></div>
+                <div>
+                  <FormattedMessage id="markers.yellow" />
+                </div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerBlue} />
-                <div><FormattedMessage id="markers.blue" /></div>
+                <div>
+                  <FormattedMessage id="markers.blue" />
+                </div>
               </div>
               <div className={styles.legend}>
                 <img src={iconMarkerGray} />
-                <div><FormattedMessage id="markers.gray" /></div>
+                <div>
+                  <FormattedMessage id="markers.gray" />
+                </div>
               </div>
             </div>
           </Content>
@@ -84,20 +94,33 @@ class Map extends Component {
             }}
             scrollwheel={false}
             coordinates={coordinates.map(coordinate => {
-              const {color, description, is_open, latitude, longitude, title} = coordinate
+              const {
+                color,
+                description,
+                is_open,
+                latitude,
+                longitude,
+                title,
+              } = coordinate
               const isOpen = is_open || false
-              return ({
-                ...title && {title: title},
+              return {
+                ...(title && {title: title}),
                 position: {
                   lat: latitude,
                   lng: longitude,
                 },
                 icon: this.getIcon(color),
-                ...description && {
+                ...(description && {
                   onLoaded: (googleMaps, map, marker) =>
-                    this.onMarkerLoaded(googleMaps, map, marker, description, isOpen),
-                }
-              })
+                    this.onMarkerLoaded(
+                      googleMaps,
+                      map,
+                      marker,
+                      description,
+                      isOpen
+                    ),
+                }),
+              }
             })}
           />
         </div>
@@ -107,18 +130,29 @@ class Map extends Component {
 }
 
 Map.propTypes = {
-  coordinates: PropTypes.arrayOf(PropTypes.shape({
-    color: PropTypes.oneOf(["blue", "gray", "green", "orange", "yellow"]),
-    description: PropTypes.string,
-    latitude: PropTypes.number.isRequired,
-    longitude: PropTypes.number.isRequired,
-    title: PropTypes.string,
-    is_open: PropTypes.bool,
-  })),
+  coordinates: PropTypes.arrayOf(
+    PropTypes.shape({
+      color: PropTypes.oneOf(["blue", "gray", "green", "orange", "yellow"]),
+      description: PropTypes.string,
+      latitude: PropTypes.number.isRequired,
+      longitude: PropTypes.number.isRequired,
+      title: PropTypes.string,
+      is_open: PropTypes.bool,
+    })
+  ),
   googleMaps: PropTypes.object.isRequired,
 }
 
-export default GoogleMapLoader(Map, {
-  libraries: ["places"],
-  key: "AIzaSyDwHC6ADu4QEiTgnoriOAoUOgsUqOs10J0",
-})
+const MapWrapper = props => (
+  <ReactGoogleMapLoader
+    params={{
+      key: "AIzaSyDwHC6ADu4QEiTgnoriOAoUOgsUqOs10J0",
+      libraries: "places",
+    }}
+    render={googleMaps =>
+      googleMaps && <Map googleMaps={googleMaps} {...props} />
+    }
+  />
+)
+
+export default MapWrapper
