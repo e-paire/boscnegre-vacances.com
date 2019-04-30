@@ -1,15 +1,15 @@
 ---
-title: Geniet van een gite in Dordogne met een zwembad
+title: Geniet van een gite in Dordogne met een zwembad en sauna
 position: 1
 route: "/nl/faciliteiten/verwarmd-zwembad"
-metaTitle: Gites dordogne met zwembad op de Bosc Negre
+metaTitle: Gites dordogne met zwembad en sauna op de Bosc Negre
 navTitle: Verwarmd  zwembad
+metaDescription: Vakantiepark met restaurant en zwembad en sauna  in de Dordogne.
+  Wij ontvangen u gedurende het hele jaar voor verblijf voor één nacht, een weekend,
+  of een langer verblijf.
 cover:
   image: "/uploads/piscine_famille_Bosc_Negrejpg"
   alt: verwarmd zwembad in de Dordogne
-metaDescription: Vakantiepark met restaurant en zwembad in de Dordogne. Wij ontvangen
-  u gedurende het hele jaar voor verblijf voor één nacht, een weekend, of een langer
-  verblijf.
 images:
 - image: "/uploads/piscine_bosc_nege_2.JPG"
   alt: Het zwembad van de Bosc Negre
@@ -17,6 +17,9 @@ images:
   alt: Aquagym les op de Bosc NEgre
 - image: "/uploads/piscine_famille_Bosc_Negrejpg"
   alt: Spelen bij het zwembad van de Bosc Negre
+Field name:
+  image: "/uploads/saunablog.jpg"
+  alt: Sauna naast het zwembad op basis van reservering op Bosc Negre
 layout: Service
 ---
 
