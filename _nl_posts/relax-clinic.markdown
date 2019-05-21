@@ -20,7 +20,7 @@ layout: Post
 
 Jullie kennen me als iemand die zich bezig houdt met gezonde voeding. In het restaurant vertel ik er graag over dat we door een paar eenvoudige weetjes al veel betere eetgewoontes kunnen aanleren. Daardoor worden we niet alleen gezonder, we presteren beter bij sportieve activiteiten ook vinden we nog eens  gemakkelijk ons ideale gewicht terug. 
 
-Fietsen, yoga, tai-Chi, joggen, wandelen, het staat niet alleen bij mij en Alfred regelmatig op de planning we voegen het ook al jaren toe aan de planning van de zomeractiviteiten.
+Fietsen, yoga, tai-Chi, [joggen](https://www.boscnegre-vacances.com/nl/stoeresporters/), wandelen, het staat niet alleen bij mij en Alfred regelmatig op de planning we voegen het ook al jaren toe aan de planning van de [zomeractiviteiten](https://www.boscnegre-vacances.com/nl/tag/activiteiten%20zomer).
 
 ## Welzijn
 Voor nog meer welzijn tijdens jullie vakantie heb ik het plezier daar een nieuwe ervaring aan toe te voegen. 
