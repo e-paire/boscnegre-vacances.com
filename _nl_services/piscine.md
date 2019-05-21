@@ -1,5 +1,7 @@
 ---
 title: Geniet van een gite in Dordogne met een zwembad en sauna
+tags:
+- welzijn
 position: 1
 route: "/nl/faciliteiten/verwarmd-zwembad"
 metaTitle: Gites dordogne met zwembad en sauna op de Bosc Negre
@@ -29,3 +31,5 @@ Het verwarmde zwembad is goed beveiligd voor de kleintjes. Het gehele zwembad is
 
 ## Sauna, massage en nog veel meer welzijn
 Lekker sporten, gezonde en uitgebalanceerde maaltijden, massages, yogalessen en een sauna, alles ten behoeve van het welzijn van onze gasten. We zijn verheugd dat we ieder jaar nog meer accent kunnen leggen op een ontspannen vakantie. Een relax-vakantie, daar is iedereen aan toe na een jaar leven in een hectisch bestaan. Dan is het toch heerlijk tot rust te komen en stil te staan bij je gezondheid?
+Lees meer over [sauna](https://www.boscnegre-vacances.com/nl/sauna/)
+en over nog meer [welzijn](https://www.boscnegre-vacances.com/nl/tag/welzijn) op Bosc Nègre vakantiepark
