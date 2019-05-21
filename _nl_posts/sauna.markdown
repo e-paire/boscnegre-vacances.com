@@ -2,7 +2,7 @@
 title: Sauna
 date: 2019-03-17 10:52:00 +01:00
 tags:
-- algemeen
+- welzijn
 route: nl/sauna
 metaTitle: Sauna, de nieuwe wellness service
 navTitle: Sauna
