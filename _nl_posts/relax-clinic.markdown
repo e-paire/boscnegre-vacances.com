@@ -7,7 +7,7 @@ route: nl/relax-clinic
 metaTitle: Een relax clinic tijdens uw wellness vakantie op Bosc Negre
 navTitle: Relaxclinic
 metaDescription: Nog een methode om te ontspannen tijdens uw vakantie
-slogan: Een uurtje relax-clinic voegen we toe als weldaan aan uw vakantie, voor nog
+slogan: Een uurtje relax-clinic voegen we toe als weldaad aan uw vakantie, voor nog
   meer welzijn
 cover:
   image: "/uploads/relax%20clinic%20Bosc%20Negre%20Blog%20.jpg"
