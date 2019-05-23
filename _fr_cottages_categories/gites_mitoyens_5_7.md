@@ -9,7 +9,7 @@ cover:
   alt: Gite PMR au Bosc Negre
 capacityMin: 5
 capacityMax: 7
-priceMin: 450
+priceMin: 450€
 cottages:
 - title: Gîte de la ferme 3
   description: 'Deux chambres à l''étage: une avec un lit de 2 personnes, la 2ème
@@ -44,7 +44,6 @@ cottages:
   beds: 5 couchages + canapé lit
   crush: La verdure devant le gîte
   ctoutvertId: 63380
-metaDescription: 
 layout: CottagesCategory
 ---
 
