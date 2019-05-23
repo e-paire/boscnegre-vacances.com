@@ -4,12 +4,14 @@ position: 3
 route: gites-mitoyen-7-9
 metaTitle: Gîtes mitoyen 7/9 pers.
 navTitle: Gîtes mitoyen 7/9 pers.
+metaDescription: Réservez des gîtes pour 7 à 9 personnes au Bosc Nègre. Ces gîtes
+  sont dans le bâtiment principal, à côté de toutes les activités.
 cover:
   image: "/uploads/gite_2_Bosc_Negre.JPG"
   alt: gite pour 7 à 9 personnes au Bosc Negre
 capacityMin: 7
 capacityMax: 9
-priceMin: 660
+priceMin: 660€
 cottages:
 - title: Grand gîte n°2 de la ferme
   description: 'Les gîte 2 de la ferme est idéals pour les familles en vacances. Voulez-vous
@@ -34,8 +36,6 @@ cottages:
   beds: 7 lits + canapé lit
   crush: Le plus spacieux
   ctoutvertId: 63376
-metaDescription: Réservez des gîtes pour 7 à 9 personnes au Bosc Nègre. Ces gîtes
-  sont dans le bâtiment principal, à côté de toutes les activités.
 layout: CottagesCategory
 ---
 
