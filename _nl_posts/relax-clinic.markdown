@@ -14,7 +14,7 @@ cover:
 layout: Post
 ---
 
-# Feel-good  
+# Feelgood  
 
 ## De vakantie beginnen met een relax-clinic
 
@@ -39,11 +39,11 @@ Ik ben heel benieuwd wie ik daar een ontspannen vakantie door kan bezorgen.
 
 ## Relax Clinic
 Door deze Touch for Health leerde ik veel basis principes over het regenereren van  energie. Energie in balans brengen waardoor we ons beter voelen of waardoor we sneller herstellen.
-Ik vond het zo leuk te leren en dat wil ik graag met jullie delen. 
-Want er zijn veel feel-good technieken die gemakkelijk zijn aan te leren.
-Samen met mijn lerares Floor Bosch hebben we een Relax- clinic opgezet waarbij je dit zelf kunt beleven. 
+Ik vond het zo leuk om te leren en dat wil ik graag met jullie delen. 
+Want er zijn veel feelgood technieken die gemakkelijk zijn aan te leren.
+Samen met mijn lerares Floor Bosch zijn we een Relax- clinic begonnen waarbij dit zelf kunt beleven. 
 Deze relax clinic bieden we jullie aan, aan het begin van de week zodat de jullie vakantie nog leuker wordt! 
-Zelfs tijdens de [knutselclub](https://www.boscnegre-vacances.com/nl/animatie/) gaan we op een speelse manier de kinderen er kennis mee leren maken. Zo worden ze  misschien wel creatiever, of misschien gaan ze relaxt weer thuis komen, wie weet !
+Zelfs tijdens de [knutselclub](https://www.boscnegre-vacances.com/nl/animatie/) gaan we op een speelse manier de kinderen er kennis mee leren maken. Zo worden ze  misschien wel creatiever, of misschien gaan ze een stuk relaxter thuis komen, wie weet !
 
 Benieuwd?
 
