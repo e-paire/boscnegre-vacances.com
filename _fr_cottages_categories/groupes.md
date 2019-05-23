@@ -9,7 +9,7 @@ cover:
   alt: Le parc du Bosc Nègre
 capacityMin: 10
 capacityMax: 80
-priceMin: 1000
+priceMin: 1000€
 cottages:
 - title: Gîte de groupe jusqu'à 80 personnes
   description: |-
