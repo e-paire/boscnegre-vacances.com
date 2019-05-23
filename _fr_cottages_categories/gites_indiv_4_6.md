@@ -4,13 +4,12 @@ position: 0
 route: gites-individuel-4-6
 metaTitle: Gîtes individuels pour 4 à 6 personnes
 navTitle: Gîtes individuels 4/6 pers
-metaDescription: 
 cover:
   image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
   alt: gite individuel 4/6 personnes au Bosc Nègre
 capacityMin: 4
 capacityMax: 6
-priceMin: 450
+priceMin: 450€
 cottages:
 - title: Les gîtes du lac
   description: Les gîtes du lac 6 à 10 sont parfaits pour les familles avec 2 enfants

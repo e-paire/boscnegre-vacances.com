@@ -4,13 +4,12 @@ position: 1
 route: gites-indiv-5-7
 metaTitle: Gîtes individuels pour 5 à 7 personnes
 navTitle: Gîtes individuels 5/7 pers.
-metaDescription: 
 cover:
   image: "/uploads/gite_du_pre_22_Bosc_Negre.jpg"
   alt: Gite du pré au Bosc Negre pour 5 à 7 personnes
 capacityMin: 5
 capacityMax: 7
-priceMin: 450
+priceMin: 450€
 cottages:
 - title: Gîtes du pré
   description: Les gîtes du pré sont conçus pour les familles avec trois enfants.
