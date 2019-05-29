@@ -11,7 +11,7 @@ metaDescription: Se sentir bien pendant les vacances commence avec une détente,
 slogan: En route pour un été détendu
 cover:
   image: "/uploads/relax%20clinic%20Bosc%20Negre%20Blog%20.jpg"
-layout: Posts
+layout: Post
 ---
 
 # Se sentir bien
