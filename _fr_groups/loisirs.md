@@ -40,7 +40,7 @@ Sur place, vous pouvez organiser les jeux que vous souhaitez et profitez pleinem
 
 Nous disposons de l'Agrément Inspection Académique de Lot et Garonne N° I.A. 47/04-13" (à partir de 3 ans). 
 
-Le Bosc Nègre village de vacances est déclaré auprès le service DDCSPP du Lot-et-Garonne Service Jeunesse, Sport et Vie Associative pour accueillir et héberger les mineurs à partir de 6 ans et plus, pour une effectif de 80 personnes, inclus les accompagnateur.
+Le Bosc Nègre village de vacances est déclaré auprès le service DDCSPP du Lot-et-Garonne Service Jeunesse, Sport et Vie Associative pour accueillir et héberger les mineurs à partir de 6 ans et plus, pour une effectif de 80 personnes, inclus les accompagnateurs.
  
 
 
