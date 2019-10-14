@@ -25,7 +25,7 @@ Van de serie individuele **gites du pré** staan er vier op een heuvelrug met ee
 Het ‘huisje op de hei’ onder de hoge eikenbomen **gites de la foret** biedt plaats voor mensen die houden van de rust van de natuur en ook activiteiten zoeken voor hun gezin. 
 
 ## Tarieven
-U vindt de [tarieven voor de zomervakantie 2020](https://www.fichier-pdf.fr/2019/09/26/bosc-negre-village-de-vacances-tarifs-2020/bosc-negre-village-de-vacances-tarifs-2020.pdf) in pdf. Ofwel calculeer uw vakantie op onze [online reserveringssite](https://boscnegrevacancesfr.premium.secureholiday.net/nl/14230/), zonder verplicht te zijn direct te reserveren.
+U vindt de [tarieven voor de zomervakantie 2020](https://www.fichier-pdf.fr/2019/10/14/bosc-negre-village-de-vacances-tarifs-2020/bosc-negre-village-de-vacances-tarifs-2020.pdf) in pdf. Ofwel calculeer uw vakantie op onze [online reserveringssite](https://boscnegrevacancesfr.premium.secureholiday.net/nl/14230/), zonder verplicht te zijn direct te reserveren.
 Heeft u zin om te boeken, maar zijn er factoren die nog onzeker zijn? Neem dan contact met ons op en neem alvast een optie. Dat is zonder enige verplichting en met één simpel appje het meest snel geregeld : +33 670547039. 
 
 ## Indeling van de volledig ingericht gite
