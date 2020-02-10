@@ -30,7 +30,7 @@ Lijkt het u heerlijk zich de hele dag af te zonderen op de plaats die u wenst, e
 Wellicht zullen er nog ideeën bijkomen waar we zelf nog niet aan hadden gedacht. 
 
 ## En de prijs is
-Alleen al door de gedachte krijg ik zelf zin er mijn bureau in te zetten
+Alleen al door het schrijven krijg ik zelf zin in.
 Geeft het u ook ideeën en wilt u uzelf een cadeau doen? 
-Bel Coby om dit te boeken, dat kan per nacht (15Euro), of per week (100Euro)
+Bel Coby om dit te boeken, dat kan per nacht (25Euro), of per week (125Euro)
 
