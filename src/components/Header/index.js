@@ -88,8 +88,8 @@ class Header extends Component {
                 <Icon name="bell" />
               </span>
               {intl.locale === "nl"
-                ? "Info Covid-19: voor elke reservering van juni tot oktober 2020 wachten we op de nieuwe overheidsmaatregelen (gepland voor eind mei - begin juni) voordat we een beslissing kunnen nemen over uw reservering."
-                : "Info Covid-19 : pour toute réservation de juin à octobre 2020 nous attendons les nouvelles mesures du gouvernement (prévues fin mai - début juin) avant de pouvoir prendre une décision sur votre réservation."}
+                ? "Info Covid-19: We zijn open vanaf 2 juni, met respect voor sanitaire maatregelen om u in de beste omstandigheden te ontvangen."
+                : "Info Covid-19 : Nous seront ouverts à partir du 2 juin en respectant les mesures sanitaires afin de vous recevoir dans les meilleures conditions."}
             </span>
           </div>
         )}
