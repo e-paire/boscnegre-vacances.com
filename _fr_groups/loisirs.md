@@ -40,7 +40,7 @@ Sur place, vous pouvez organiser les jeux que vous souhaitez et profitez pleinem
 
 Nous disposons de l'Agrément Inspection Académique de Lot et Garonne N° I.A. 47/04-13" (à partir de 3 ans) et une attestation pour l'accueil de séjours de vacances et l'accueil des groupes en classe découvertes. [Cliquez ici pour télécharger l'attestation](https://www.fichier-pdf.fr/2020/06/11/attestation-sejour-au-bosc-negre-village-de-vacances-laccueil-co/)
 
-Le Bosc Nègre village de vacances est déclaré auprès le service DDCSPP du Lot-et-Garonne Service Jeunesse, Sport et Vie Associative pour accueillir et héberger les mineurs à partir de 6 ans et plus, pour une effectif de 80 personnes, inclus les accompagnateurs. Veuillez trouver l'attestation pour l'accueil de séjours de vacances et l'accueil des groupes en classe découvertes en [Cliquant ici pour télécharger l'attestation](https://www.fichier-pdf.fr/2020/06/11/attestation-sejour-au-bosc-negre-village-de-vacances-laccueil-co/)
+Le Bosc Nègre village de vacances est déclaré auprès le service DDCSPP du Lot-et-Garonne Service Jeunesse, Sport et Vie Associative pour accueillir et héberger les mineurs à partir de 6 ans et plus, pour une effectif de 80 personnes, inclus les accompagnateurs. Veuillez trouver l'attestation pour l'accueil de séjours de vacances et l'accueil des groupes en classe découvertes en [Cliquant ici pour télécharger l'attestation](www.fichier-pdf.fr/2020/10/03/hebergement-mineur-ddcspp-scan"/>Fichier PDF Hebergement mineur DDCSPP scan.pdf)
  
 
 
