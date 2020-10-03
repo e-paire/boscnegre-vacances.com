@@ -34,11 +34,11 @@ layout: Group
 ## Restaurant et salle d’anniversaire avec hébergement pour 80 personnes. 
 
 Le Bosc-Nègre vous propose une **salle de réception** de 99m2 pouvant accueillir jusqu’à 80 personnes. La salle est équipée de lumières de soirée pour faire la fête et danser.
-Pour la restauration, nous proposons un apéritif, entrée, plat principal, fromage et un dessert d’anniversaire.
+Pour la restauration, nous proposons un apéritif avec tapas, entrée, plat principal, fromage et un dessert d’anniversaire.
 Vous pouvez répartir vos convives dans les 23 gîtes disposant chacun de minimum deux chambres, un canapé lit, salle de bain, wc séparé, cuisine et terrasse couverte.\`
 
 *Exemple de séjour
-Pour un séjour de 1 nuit et 2 jours, nous vous proposons une pension complète avec un brunch le lendemain de la soirée d’anniversaire. Tarif : 79€ par adulte ou contactez-nous directement pour discuter ensemble de votre programme et établir un devis correspondant à vos besoins.*
+Pour un séjour de 1 nuit et 2 jours, nous vous proposons une pension complète avec un brunch le lendemain de la soirée d’anniversaire. Tarif : 85€ par adulte ou contactez-nous directement pour discuter ensemble de votre programme et établir un devis correspondant à vos besoins.*
 
 ## Activités sur place
 
