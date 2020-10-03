@@ -2,14 +2,14 @@
 title: Pour toute question, n'hésitez pas à prendre contact avec Coby & Alfred
 position: 7
 route: contact
-metaTitle: Contactez Coby au Hameau du Bosc Nègre
+metaTitle: 'Contactez Coby au  Bosc Nègre '
 navTitle: Contact
+metaDescription: Vous souhaitez poser une option ou demander un renseignement ? Contactez
+  Coby au Bosc Nègre  village de vacances en ligne pour par téléphone
+slogan: Pour toute question, contactez le Bosc-Nègre
 cover:
   image: "/uploads/Alfred_et_coby_Bosc_NEgre.jpg"
   alt: Contacter le Bosc Nègre
-metaDescription: Vous souhaitez poser une option ou demander un renseignement ? Contactez
-  Coby au Hameau du Bosc Nègre en ligne pour par téléphone
-slogan: Pour toute question, contactez le Bosc-Nègre
 layout: Contact
 ---
 
