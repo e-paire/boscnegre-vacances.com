@@ -102,7 +102,7 @@ Retrouvez sur la carte les différents lieux touristiques que nous vous recomman
 
 - Villages classés plus beaux villages de France comme Monflanquin, Belvès et Monpazier. Il s’agit là de bastide historique avec un centre de village animé et chaleureux
 
-- Châteaux anciens comme Castelnaud, Bonaguil ou encore le château de Biron. Pour ce dernier, vous pouvez y aller le visiter à pied depuis votre gîte, comptez à peu près 10km aller/retour.
+- Châteaux anciens comme Bonaguil ou le château de Biron. Pour ce dernier, vous pouvez y aller le visiter à pied depuis votre gîte, comptez à peu près 10km aller/retour.
 
 - Marchés très appréciés et réunissant de nombreux exposants sont organisés partout dans la région. Nos préférés sont le marché d’Issigeac, le marché de Monpazier ainsi que celui de Villeréal.
 
