@@ -4,23 +4,23 @@ position: 5
 route: groupes
 metaTitle: Hébergement de groupes au Bosc Nègre
 navTitle: Groupes
-cover:
-  image: "/uploads/table_reception_Bosc_Negre.JPG"
-  alt: Séjour groupes Dordogne
 metaDescription: Hébergement et pension complète pour les groupes jusqu'à 80 personnes
   en Lot-et-Garonne, limitrophe Dordogne et le beau Périgord
-slogan: Séjour groupes en Dordogne pour 80 personnes
+slogan: Séjour groupes Lot et Gartonne pour 80 personnes
+cover:
+  image: "/uploads/table_reception_Bosc_Negre.JPG"
+  alt: Séjour groupes Lot et Garonne
 layout: Groups
 ---
 
 ## Location de gîte et restauration dans un village de vacances
 
-Au Bosc-Nègre, nous accueillons des groupes toute l’année (sauf juillet-août) pour une nuit, un week-end ou un plus long séjour. Sur place, vous pouvez bénéficier de toutes nos installations comme une salle de réunion ou salle de fête, piscine et de multiples terrains de sports. Profitez d’un séjour en groupe en pleine nature en Lot-et-Garonne, limitrophe Dordogne.
+Au Bosc-Nègre, nous accueillons des groupes toute l’année (sauf juillet-août) pour une nuit, un week-end ou un plus long séjour. Sur place, vous pouvez bénéficier de toutes nos installations comme une salle de réunion ou salle de fête, piscine, sauna et de multiples terrains de sports. Profitez d’un séjour en groupe en pleine nature en Lot-et-Garonne, limitrophe Dordogne.
 
 ## Hébergement en gîte et restauration sur place
 
 Les 23 hébergements sont répartis sur 5 hectares. Chaque gîte peut accueillir entre 2 et 7 personnes et dispose de deux chambres ainsi que d’un canapé convertible. Pour plus d’informations sur les types de gîtes, consultez notre page gîtes dédiée.
-Afin de rendre votre séjour le plus agréable et détendu possible, nous vous proposons une formule de groupe en pension complète ou demi-pension. Le restaurant propose des plats locaux avec des produits de la région.
+Afin de rendre votre séjour le plus agréable et détendu possible, nous vous proposons une formule de groupe en pension complète ou demi-pension. Le restaurant propose des plats locaux avec des produits locaux.
 
 ## Les formules de groupes
 
