@@ -1,11 +1,9 @@
 import PropTypes from "prop-types"
 import React, {Component} from "react"
+import {Carousel} from "src/components/Carousel"
+import {Image} from "src/components/Image"
 
-import Carousel from "components/Carousel"
-import Image from "components/Image"
-import ImageLightbox from "components/ImageLightbox"
-
-import styles from "./index.css"
+import styles from "./index.module.css"
 
 class CarouselImages extends Component {
   constructor() {
@@ -36,39 +34,32 @@ class CarouselImages extends Component {
   render() {
     const {lightboxIndex, isLightboxOpen} = this.state
     const {images, theme} = this.props
-    return images && images.length > 0
-      ? <ImageLightbox
-          index={lightboxIndex}
-          images={images.map(({image, alt}) => ({
-            caption: alt,
-            src: image,
-          }))}
-          onClose={this.handleCloseLightbox}
-          open={isLightboxOpen}
-        >
-          <Carousel theme={theme}>
-            {images.map(({image, alt}, i) => (
-              <div key={i}
-                className={styles.image}
-                onClick={() => this.handleOpenLightbox(i)}
-              >
-                <Image
-                  src={image}
-                  alt={alt}
-                />
-              </div>
-            ))}
-          </Carousel>
-        </ImageLightbox>
-      : null
+    return (
+      images &&
+      images.length > 0 && (
+        <Carousel theme={theme}>
+          {images.map(({image, alt}, i) => (
+            <div
+              key={i}
+              className={styles.image}
+              onClick={() => this.handleOpenLightbox(i)}
+            >
+              <Image src={image} alt={alt} />
+            </div>
+          ))}
+        </Carousel>
+      )
+    )
   }
 }
 
 CarouselImages.propTypes = {
-  images: PropTypes.arrayOf(PropTypes.shape({
-    alt: PropTypes.string.isRequired,
-    image: PropTypes.string.isRequired,
-  })),
+  images: PropTypes.arrayOf(
+    PropTypes.shape({
+      alt: PropTypes.string.isRequired,
+      image: PropTypes.string.isRequired,
+    })
+  ),
   theme: PropTypes.oneOf(["green", "yellow"]),
 }
 
@@ -77,4 +68,4 @@ CarouselImages.defaultProps = {
   theme: "green",
 }
 
-export default CarouselImages
+export {CarouselImages}

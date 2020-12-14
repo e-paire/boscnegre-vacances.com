@@ -1,0 +1,30 @@
+@import "variables.css";
+
+.form {
+  display: flex;
+}
+
+.input {
+  border: 2px solid #fff;
+  padding: 20px;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--color_bosc_yellow);
+}
+
+.button {
+  border: 2px solid var(--color_bosc_yellow);
+  background: var(--color_bosc_yellow);
+  color: #fff;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.button:focus,
+.button:hover {
+  outline: none;
+  background: var(--color_bosc_yellow--darken);
+  border-color: var(--color_bosc_yellow--darken);
+}

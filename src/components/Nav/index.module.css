@@ -1,0 +1,146 @@
+@import "variables.css";
+@import "mq.css";
+
+.nav {
+  background: var(--color_bosc_green);
+  color: #fff;
+  position: absolute;
+  left: 0;
+  right: 0;
+  font-weight: 300;
+  text-transform: uppercase;
+  z-index: var(--zIndex-nav);
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+}
+
+.sublist {
+  text-transform: none;
+}
+
+.item {
+  list-style: none;
+}
+
+.link {
+  display: block;
+  padding: 5px;
+}
+
+@media (--mq-lt-l) {
+  .overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: var(--zIndex-overlay);
+  }
+
+  .nav {
+    display: none;
+    padding: 10px;
+  }
+
+  .sublist {
+    padding: 10px;
+  }
+
+  .nav_open {
+    display: block;
+  }
+}
+
+@media (--mq-gt-m) {
+  .wrapper {
+    background: #fff;
+    border-top: 1px solid var(--color_bosc_green);
+  }
+
+  .nav {
+    background: #fff;
+    position: relative;
+    top: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+  .content {
+    height: 100%;
+  }
+
+  .list {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .list > .item {
+    color: #000;
+    flex: 1 1 auto;
+    flex: 0 0 calc((100% - 100px) / 8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    line-height: 30px;
+    position: relative;
+  }
+
+  .list > .item > .link {
+    height: 40px;
+    overflow: hidden;
+  }
+
+  .list > .item:nth-child(4) {
+    margin-right: 50px;
+  }
+
+  .list > .item:nth-child(5) {
+    margin-left: 50px;
+  }
+
+  .list > .item:nth-child(n + 5) {
+    border-right: 1px solid var(--color_gray);
+  }
+
+  .list > .item:nth-child(-n + 4) {
+    border-left: 1px solid var(--color_gray);
+  }
+
+  .sublist {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    padding: 0 5px;
+    background: #fff;
+    font-size: 12px;
+    line-height: 20px;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s;
+  }
+
+  .list > .item:hover .sublist {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .link {
+    color: #000;
+    width: 100%;
+  }
+
+  .link:hover,
+  .link_active,
+  .sublist .item:hover {
+    color: var(--color_bosc_green);
+  }
+}

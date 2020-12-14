@@ -1,19 +1,15 @@
 :root {
   /* General */
   --color_bosc_green: #8bc59d;
-  --color_bosc_green--darken: color(var(--color_bosc_green) l(-10));
+  --color_bosc_green--darken: #6ab481;
   --color_bosc_yellow: #fdc158;
-  --color_bosc_yellow--darken: color(var(--color_bosc_yellow) l(-10));
+  --color_bosc_yellow--darken: #fdae26;
   --color_gray: #f2f2f2;
-
-  /* Fonts */
-  --font-title: "Lato Light";
 
   /* Z-index */
   --zIndex-sticky: 1;
-  --zIndex-overlay: calc(var(--zIndex-sticky) + 1);
-  --zIndex-dropdown: calc(var(--zIndex-overlay) + 1);
-  --zIndex-logo: calc(var(--zIndex-dropdown) + 1);
-  --zIndex-nav: var(--zIndex-dropdown);
-  --zIndex-locale: calc(var(--zIndex-nav) + 1);
+  --zIndex-overlay: 2;
+  --zIndex-dropdown: 3;
+  --zIndex-logo: 4;
+  --zIndex-nav: 5;
 }

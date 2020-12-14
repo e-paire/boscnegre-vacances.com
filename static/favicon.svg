@@ -1,0 +1,14 @@
+<svg viewBox="0 0 2016 2016" fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path fill="#8BC59D" d="M0 0h2016v2016H0z"/>
+    <path d="M562 785V607h267v178H562zm0 0v223h535V785H562z" stroke="#FED48C" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path clip-rule="evenodd" d="M919 473v223h178V473H919z" stroke="#BAE6FA" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1454 607h-268v401h268v179h-402" stroke="#E9E9E9" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1454 696h-179v223h179M562 1766v-669l134 669v-669" stroke="#FED48C" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M874 1187h-89v186m0 0h89m-89 0v393h490M785 1097h89" stroke="#E9E9E9" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1365 1097H963v580h312v-178h-85" stroke="#BAE6FA" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1052 1588v-312h402v134h-402l120 178" stroke="#FED48C" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1454 1499h-89v134m0 0h58m-58 0v133h89" stroke="#E9E9E9" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M339 518l669-268 669 268" stroke="#D5BB9B" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

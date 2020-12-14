@@ -1,20 +1,18 @@
 import PropTypes from "prop-types"
 import React, {Component} from "react"
-import {FormattedMessage} from "react-intl"
 import GoogleMap from "react-google-map"
 import ReactGoogleMapLoader from "react-google-maps-loader"
-
-import Content from "components/Content"
+import {FormattedMessage} from "react-intl"
+import {Content} from "src/components/Content"
 
 import iconMarkerBlue from "./assets/iconMarkerBlue.svg"
 import iconMarkerGray from "./assets/iconMarkerGray.svg"
 import iconMarkerGreen from "./assets/iconMarkerGreen.svg"
 import iconMarkerOrange from "./assets/iconMarkerOrange.svg"
 import iconMarkerYellow from "./assets/iconMarkerYellow.svg"
+import styles from "./index.module.css"
 
-import styles from "./index.css"
-
-class Map extends Component {
+class MapLoaded extends Component {
   getIcon(color) {
     switch (color) {
       case "blue":
@@ -93,7 +91,7 @@ class Map extends Component {
               lng: 0.873799,
             }}
             scrollwheel={false}
-            coordinates={coordinates.map(coordinate => {
+            coordinates={coordinates.map((coordinate) => {
               const {
                 color,
                 description,
@@ -129,7 +127,7 @@ class Map extends Component {
   }
 }
 
-Map.propTypes = {
+MapLoaded.propTypes = {
   coordinates: PropTypes.arrayOf(
     PropTypes.shape({
       color: PropTypes.oneOf(["blue", "gray", "green", "orange", "yellow"]),
@@ -143,16 +141,14 @@ Map.propTypes = {
   googleMaps: PropTypes.object.isRequired,
 }
 
-const MapWrapper = props => (
+export const Map = (props) => (
   <ReactGoogleMapLoader
     params={{
       key: "AIzaSyDwHC6ADu4QEiTgnoriOAoUOgsUqOs10J0",
       libraries: "places",
     }}
-    render={googleMaps =>
-      googleMaps && <Map googleMaps={googleMaps} {...props} />
+    render={(googleMaps) =>
+      googleMaps && <MapLoaded googleMaps={googleMaps} {...props} />
     }
   />
 )
-
-export default MapWrapper

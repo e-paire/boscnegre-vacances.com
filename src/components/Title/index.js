@@ -2,17 +2,14 @@ import PropTypes from "prop-types"
 import React, {Component} from "react"
 import {FormattedMessage} from "react-intl"
 
-import styles from "./index.css"
+import styles from "./index.module.css"
 
-class Title extends Component {
-  render() {
-    const {id, theme} = this.props
-    return (
-      <h2 className={styles[`title_${theme}`]}>
-        <FormattedMessage id={id} defaultMessage={id} />
-      </h2>
-    )
-  }
+export const Title = ({id, theme}) => {
+  return (
+    <h2 className={styles[`title_${theme}`]}>
+      <FormattedMessage id={id} defaultMessage={id} />
+    </h2>
+  )
 }
 
 Title.propTypes = {
@@ -23,5 +20,3 @@ Title.propTypes = {
 Title.defaultProps = {
   theme: "green",
 }
-
-export default Title

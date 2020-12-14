@@ -1,9 +1,6 @@
-# node / npm
-node_modules
 *.log
+.cache
+.env
+node_modules
+public
 
-# phenomic build
-dist
-
-# OSX
-*.DS_Store

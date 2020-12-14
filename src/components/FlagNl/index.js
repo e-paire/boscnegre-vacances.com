@@ -1,6 +1,6 @@
 import React from "react"
 
-const FlagNl = (props) => (
+export const FlagNl = (props) => (
   <svg viewBox="0 0 640 480" {...props}>
     <g>
       <rect width="640" height="160" y="0" fill="#ce3a4d" rx="0" ry="0" />
@@ -9,5 +9,3 @@ const FlagNl = (props) => (
     </g>
   </svg>
 )
-
-export default FlagNl

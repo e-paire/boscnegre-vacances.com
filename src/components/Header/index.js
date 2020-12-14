@@ -1,99 +1,64 @@
 import PropTypes from "prop-types"
-import React, {Component} from "react"
-import {connect} from "react-redux"
-import {Sticky} from "react-sticky"
-import {injectIntl, intlShape} from "react-intl"
-import enhanceCollection from "phenomic/lib/enhance-collection"
+import React, {useState} from "react"
+import {injectIntl} from "react-intl"
+import BookingForm from "src/components/BookingForm"
+import {Image} from "src/components/Image"
+import {Nav} from "src/components/Nav"
+import {TextLink} from "src/components/TextLink"
+import {TopBar} from "src/components/TopBar"
+import {TopLogo} from "src/components/TopLogo"
+import {useLinks} from "src/hooks/use-links"
 
-import {customFilter} from "utils/collection"
-import Nav from "components/Nav"
-import TopBar from "components/TopBar"
-import TopLogo from "components/TopLogo"
-import Image from "components/Image"
-import TextLink from "components/TextLink"
+import styles from "./index.module.css"
 
-import styles from "./index.css"
+const Header = ({cover, intl, layoutToLink, slogan, text, title}) => {
+  const [isOpen, setIsOpen] = useState(false)
+  const links = useLinks()
 
-class Header extends Component {
-  constructor() {
-    super()
-
-    this.state = {
-      isNavOpen: false,
-    }
-
-    this.handleOpenNav = this.handleOpenNav.bind(this)
-    this.handleCloseNav = this.handleCloseNav.bind(this)
-  }
-
-  handleOpenNav() {
-    this.setState({isNavOpen: true})
-  }
-
-  handleCloseNav() {
-    this.setState({isNavOpen: false})
-  }
-
-  render() {
-    const {collection} = this.context
-    const {browser, cover, intl, layoutToLink, slogan, text, title} = this.props
-
-    const PageToLink = enhanceCollection(collection, {
-      filter: (page) => customFilter(page, intl.locale, layoutToLink),
-    }).shift()
-
-    return (
-      <header className={styles.header}>
-        <TopBar
-          onOpenNav={this.handleOpenNav}
-          slogan={slogan}
-        />
-        <Sticky className={styles.logo} isActive={browser.greaterThan.m}>
-          <TopLogo />
-        </Sticky>
-        {this.state.isNavOpen &&
-          <div className={styles.navOverlay} onClick={this.handleCloseNav} />
-        }
-        <Sticky isActive={browser.greaterThan.m}>
-          <Nav
-            open={this.state.isNavOpen}
+  return (
+    <>
+      <TopBar onOpenNav={() => setIsOpen(true)} slogan={slogan} />
+      <div className={styles.logo}>
+        <TopLogo />
+      </div>
+      {isOpen && (
+        <div className={styles.navOverlay} onClick={() => setIsOpen(false)} />
+      )}
+      <div className={styles.nav}>
+        <Nav open={isOpen} />
+      </div>
+      {cover && (
+        <div className={styles.photo}>
+          <Image
+            src={cover.image}
+            alt={cover.alt}
+            sizes={["256", "512", "1024", "2048"]}
           />
-        </Sticky>
-        {cover &&
-          <div className={styles.photo}>
-            <Image src={cover.image} alt={cover.alt} sizes={["256", "512", "1024", "2048"]} />
-            {title &&
-              <h1 className={styles.title}>{title}</h1>
-            }
-            {text && PageToLink &&
-              <div className={styles.text}>
-                <TextLink text={text} url={PageToLink.__url} />
-              </div>
-            }
-          </div>
-        }
-      </header>
-    )
-  }
-}
-
-Header.contextTypes = {
-  collection: PropTypes.array.isRequired,
+          {title && <h1 className={styles.title}>{title}</h1>}
+          {text && layoutToLink && links.pages[layoutToLink] && (
+            <div className={styles.text}>
+              <TextLink text={text} url={links.pages[layoutToLink].path} />
+            </div>
+          )}
+        </div>
+      )}
+      <div className={styles.form}>
+        <BookingForm />
+      </div>
+    </>
+  )
 }
 
 Header.propTypes = {
-  browser: PropTypes.object.isRequired,
   cover: PropTypes.shape({
     alt: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
   }),
-  intl: intlShape.isRequired,
+
   layoutToLink: PropTypes.string,
   slogan: PropTypes.string,
   text: PropTypes.string,
   title: PropTypes.string,
 }
 
-export default connect(
-  ({browser}) => ({browser}),
-)(injectIntl(Header))
+export default injectIntl(Header)

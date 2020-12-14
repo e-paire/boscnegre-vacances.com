@@ -1,11 +1,5 @@
-@import "./variables.css";
-
-@font-face {
-  font-family: "Lato Light";
-  src: url("lato-font/fonts/lato-light/lato-light.woff") format("woff");
-  font-weight: 100;
-  font-style: normal;
-}
+@import "variables.css";
+@import "mq.css";
 
 /**
  * Proper box-sizing
@@ -27,8 +21,8 @@ html {
 
 html {
   line-height: 1.5;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
+  font-family: Lato;
+  font-weight: 400;
   font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -51,7 +45,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: var(--font-title);
+  font-weight: 300;
 }
 
 /**

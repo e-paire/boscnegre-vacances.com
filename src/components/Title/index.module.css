@@ -1,0 +1,39 @@
+@import "variables.css";
+@import "mq.css";
+
+.title {
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+  display: block;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.title_green {
+  composes: title;
+  background: var(--color_bosc_green);
+}
+
+.title_yellow {
+  composes: title;
+  background: var(--color_bosc_yellow);
+}
+
+@media (--mq-m) {
+  .title {
+    font-size: 25px;
+  }
+}
+
+@media (--mq-l) {
+  .title {
+    font-size: 30px;
+  }
+}
+
+@media (--mq-xl) {
+  .title {
+    font-size: 35px;
+  }
+}

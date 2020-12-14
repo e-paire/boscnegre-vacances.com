@@ -1,0 +1,52 @@
+@import "variables.css";
+@import "mq.css";
+
+.map {
+  height: 500px;
+}
+
+.legendsWrapper {
+  background: var(--color_gray);
+}
+
+.legends {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.legend {
+  flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  white-space: nowrap;
+}
+
+@media (--mq-gt-m) {
+  .legends {
+    flex-wrap: nowrap;
+  }
+
+  .legend {
+    padding: 20px;
+  }
+}
+
+@media (--mq-m) {
+  .map {
+    height: 600px;
+  }
+}
+
+@media (--mq-l) {
+  .map {
+    height: 800px;
+  }
+}
+
+@media (--mq-xl) {
+  .map {
+    height: 1000px;
+  }
+}

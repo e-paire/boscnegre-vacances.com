@@ -1,46 +1,32 @@
-import PropTypes from "prop-types"
-import React, {Component} from "react"
-import {Link} from "react-router"
-import {injectIntl, intlShape} from "react-intl"
-import enhanceCollection from "phenomic/lib/enhance-collection"
+import {Link, graphql} from "gatsby"
+import React from "react"
+import {Service} from "src/components/Service"
+import {Title} from "src/components/Title"
 
-import {customFilter} from "utils/collection"
-import Service from "components/Service"
-import Title from "components/Title"
+import styles from "./index.module.css"
 
-import styles from "./index.css"
-
-class Services extends Component {
-  render() {
-    const {collection} = this.context
-    const {intl} = this.props
-    const services = enhanceCollection(collection, {
-      filter: (page) => customFilter(page, intl.locale, "Service"),
-      sort: "position",
-    })
-
-    return services && services.length > 0 ? (
-      <div>
-        <Title id="titles.discover_services" />
-        <div className={styles.services}>
-        {services.map((service, index) => (
-          <Link to={service.__url} key={index} className={styles.service}>
-            <Service {...service} />
+export const Services = ({services}) => {
+  return (
+    <div>
+      <Title id="titles.discover_services" />
+      <div className={styles.services}>
+        {services.nodes.map((node, index) => (
+          <Link to={node.fields.path} key={index} className={styles.service}>
+            <Service service={node} />
           </Link>
         ))}
-        </div>
       </div>
-    )
-    : null
+    </div>
+  )
+}
+
+export const query = graphql`
+  fragment ServicesFragment on MarkdownRemarkConnection {
+    nodes {
+      fields {
+        path
+      }
+      ...ServiceFragment
+    }
   }
-}
-
-Services.contextTypes = {
-  collection: PropTypes.array.isRequired,
-}
-
-Services.propTypes = {
-  intl: intlShape.isRequired,
-}
-
-export default injectIntl(Services)
+`

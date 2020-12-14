@@ -1,6 +1,6 @@
 import React from "react"
 
-const FlagFr = (props) => (
+export const FlagFr = (props) => (
   <svg viewBox="0 0 640 480" {...props}>
     <g>
       <rect width="213" height="480" x="0" fill="#3b73ad" rx="0" ry="0" />
@@ -9,5 +9,3 @@ const FlagFr = (props) => (
     </g>
   </svg>
 )
-
-export default FlagFr

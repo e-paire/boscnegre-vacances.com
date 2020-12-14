@@ -1,81 +1,76 @@
-import PropTypes from "prop-types"
-import React, {Component} from "react"
-import classNames from "classnames"
-import {connect} from "react-redux"
-import Slick from "react-slick"
-import {Icon} from "react-fa"
-
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 
-import styles from "./index.css"
+import classNames from "classnames"
+import PropTypes from "prop-types"
+import React, {useCallback, useMemo, useRef} from "react"
+import {Icon} from "react-fa"
+import Slick from "react-slick"
+import {useBreakpoint} from "src/hooks/use-breakpoint"
 
-class Carousel extends Component {
-  constructor(props) {
-    super(props)
-    this.handleNext = this.handleNext.bind(this)
-    this.handlePrevious = this.handlePrevious.bind(this)
-  }
+import styles from "./index.module.css"
 
-  handleNext() {
-    this.ref_slider.slickNext()
-  }
+const slidesCount = {
+  s: 1,
+  m: 2,
+  l: 5,
+  xl: 5,
+}
 
-  handlePrevious() {
-    this.ref_slider.slickPrev()
-  }
-
-  render() {
-    const {
-      arrowsClassName,
-      browser,
-      children,
-      noKeys,
-      slides_number,
-      theme,
-    } = this.props
-    const settings = {
+const Carousel = ({arrowsClassName, children, noKeys, theme}) => {
+  const ref = useRef()
+  const breakpoint = useBreakpoint()
+  const settings = useMemo(
+    () => ({
       arrows: false,
-      accessibility: !noKeys,
-      infinite: false,
-      draggable: false,
-      slidesToShow: slides_number[browser.mediaType],
-      slidesToScroll: slides_number[browser.mediaType],
+      infinite: true,
+      draggable: true,
+      slidesToShow: slidesCount[breakpoint],
+      slidesToScroll: slidesCount[breakpoint],
+    }),
+    [noKeys, breakpoint]
+  )
+
+  const goPrev = useCallback(() => {
+    if (ref.current) {
+      ref.current.slickPrev()
     }
-    const childrenIsArray = children && Array.isArray(children)
-    return (
-      <div className={styles.slider}>
-        <Slick ref={ref => (this.ref_slider = ref)} {...settings}>
-          {children}
-        </Slick>
-        {childrenIsArray &&
-          slides_number[browser.mediaType] < children.length && (
-            <span
-              className={classNames(styles[`left_${theme}`], arrowsClassName)}
-              onClick={this.handlePrevious}
-            >
-              <Icon name="angle-left" />
-            </span>
-          )}
-        {childrenIsArray &&
-          slides_number[browser.mediaType] < children.length && (
-            <span
-              className={classNames(styles[`right_${theme}`], arrowsClassName)}
-              onClick={this.handleNext}
-            >
-              <Icon name="angle-right" />
-            </span>
-          )}
-      </div>
-    )
-  }
+  }, [ref])
+
+  const goNext = useCallback(() => {
+    if (ref.current) {
+      ref.current.slickNext()
+    }
+  }, [ref])
+
+  return (
+    <div className={styles.slider}>
+      <Slick ref={ref} {...settings}>
+        {children}
+      </Slick>
+      {slidesCount[breakpoint] < children.length && (
+        <span
+          className={classNames(styles[`left_${theme}`], arrowsClassName)}
+          onClick={goPrev}
+        >
+          <Icon name="angle-left" />
+        </span>
+      )}
+      {slidesCount[breakpoint] < children.length && (
+        <span
+          className={classNames(styles[`right_${theme}`], arrowsClassName)}
+          onClick={goNext}
+        >
+          <Icon name="angle-right" />
+        </span>
+      )}
+    </div>
+  )
 }
 
 Carousel.propTypes = {
   arrowsClassName: PropTypes.string,
-  browser: PropTypes.object.isRequired,
   children: PropTypes.any.isRequired,
-  noKeys: PropTypes.bool,
   slides_number: PropTypes.shape({
     s: PropTypes.number,
     m: PropTypes.number,
@@ -86,14 +81,7 @@ Carousel.propTypes = {
 }
 
 Carousel.defaultProps = {
-  noKeys: false,
-  slides_number: {
-    s: 1,
-    m: 2,
-    l: 4,
-    xl: 4,
-  },
   theme: "green",
 }
 
-export default connect(({browser}) => ({browser}))(Carousel)
+export {Carousel}

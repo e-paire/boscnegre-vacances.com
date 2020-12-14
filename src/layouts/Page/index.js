@@ -1,79 +1,103 @@
-import PropTypes from "prop-types"
+import {graphql} from "gatsby"
+import Img from "gatsby-image"
 import React from "react"
-import {StickyContainer} from "react-sticky"
-import Helmet from "react-helmet"
-import {joinUri} from "phenomic"
+import {Helmet} from "react-helmet"
+import {Breadcrumb} from "src/components/Breadcrumb"
+import {Content} from "src/components/Content"
+import {Footer} from "src/components/Footer"
+import Header from "src/components/Header"
+import {useLinks} from "src/hooks/use-links"
+import {useSiteMetadata} from "src/hooks/use-site-metadata"
 
-import BookingForm from "components/BookingForm"
-import Content from "components/Content"
-import Footer from "components/Footer"
-import Header from "components/Header"
+import styles from "./index.module.css"
 
-import styles from "./index.css"
-
-const DEFAULT_META_TITLE = "Bosc Nègre"
-
-const Page = ({children, footer, head, header}) => {
-  const metaTitle = head.metaTitle
-    ? head.metaTitle
-    : head.title
-      ? head.title
-      : DEFAULT_META_TITLE
-
-  const metaDescription = head.metaDescription
-    ? head.metaDescription
-    : head.description
-      ? head.description
-      : ""
-
-  const meta = [
-    {property: "og:type", content: "article"},
-    {property: "og:title", content: metaTitle},
-    {
-      property: "og:url",
-      content: joinUri(process.env.PHENOMIC_USER_URL, head.__url),
+export const LayoutPage = ({
+  page: {
+    fields: {path},
+    frontmatter: {
+      cover,
+      metaDescription,
+      header,
+      metaTitle,
+      navTitle,
+      slogan,
+      title,
     },
-    {property: "og:description", content: head.description},
-    {name: "twitter:card", content: "summary"},
-    {name: "twitter:title", content: metaTitle},
-    {name: "twitter:description", content: head.description},
-    {name: "description", content: metaDescription},
-  ]
-
+    html,
+  },
+  previousPage,
+  children,
+  withBreadcrumb,
+}) => {
+  const {siteUrl} = useSiteMetadata()
+  const links = useLinks()
   return (
-    <StickyContainer className={styles.page}>
-      <Helmet
-        title={metaTitle}
-        meta={meta}
-      />
-      <Header cover={head.cover} slogan={head.slogan} title={head.title} {...head.header} />
-      <div className={styles.contentWrapper}>
-        <StickyContainer className={styles.content}>
-          <BookingForm />
-          <div className={styles.children}>
-            {!head.cover && head.title &&
-              <Content>
-                <h1 className={styles.title}>
-                  {head.title}
-                </h1>
-              </Content>
-            }
-            {header}
-            {children}
-            {footer}
+    <>
+      <Helmet>
+        <title>{metaTitle || title}</title>
+        <meta property="og:title" content={metaTitle || title} />
+        <meta property="og:url" content={siteUrl + path} />
+        <meta property="og:description" content={metaTitle || title} />
+        <meta name="twitter:title" content={metaTitle || title} />
+        <meta name="twitter:description" content={metaDescription} />
+        <meta name="description" content={metaDescription} />
+      </Helmet>
+      <div className={styles.page}>
+        <Header
+          title={title}
+          cover={cover}
+          slogan={slogan}
+          text={header?.text}
+          layoutToLink={header?.layoutToLink}
+        />
+        <div className={styles.contentWrapper}>
+          <div className={styles.content}>
+            <div className={styles.children}>
+              {!cover && title && (
+                <Content>
+                  <h1 className={styles.title}>{title}</h1>
+                </Content>
+              )}
+              {withBreadcrumb && (
+                <Breadcrumb
+                  previous={links.pages[previousPage]}
+                  page={{path, title: navTitle || title}}
+                />
+              )}
+              {children}
+            </div>
+            <Footer />
           </div>
-          <Footer />
-        </StickyContainer>
+        </div>
       </div>
-    </StickyContainer>
+    </>
   )
 }
 
-Page.propTypes = {
-  children: PropTypes.node,
-  footer: PropTypes.element,
-  head: PropTypes.object,
-  header: PropTypes.element,
+LayoutPage.defaultProps = {
+  withBreadcrumb: true,
 }
 
-export default Page
+export const query = graphql`
+  fragment PageFragment on MarkdownRemark {
+    fields {
+      path
+    }
+    frontmatter {
+      cover {
+        image
+        alt
+      }
+      title
+      metaTitle
+      navTitle
+      metaDescription
+      slogan
+      header {
+        text
+        layoutToLink
+      }
+    }
+    html
+  }
+`

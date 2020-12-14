@@ -1,0 +1,46 @@
+{
+  "buttons.see_more": "Bekijk meer",
+  "buttons.check_prices": "Meer informatie en prijzen",
+
+  "titles.our_cottages": "Onze comfortabele accommodaties",
+  "titles.cottages": "de huisjes",
+  "titles.our_offers": "Onze huidige aanbiedingen",
+  "titles.discover_services": "Check out de voorgestelde activiteiten",
+  "titles.group_holidays": "Groepsvakanties",
+  "titles.our_prices": "Onze tarieven",
+  "titles.prices_examples": "Sample levering",
+  "titles.room_layout": "indeling van de ruimte",
+  "titles.places_to_see": "De plaatsen om te bezoeken in de buurt van Bosc Negre",
+
+  "booking_form.my_stay": "Mijn verblijf",
+  "booking_form.book": "Boek",
+
+  "cottage_category.from": "vanaf",
+  "cottage_category.the_week": "per week",
+
+  "footer.address": "adres",
+  "footer.relevant_information": "Nuttige informatie",
+  "footer.sitemap": "Sitemap",
+  "footer.prices": "Prijs pagina",
+  "footer.consumer_advisory": "Recensies van klanten",
+  "footer.our_partners": "Onze partners",
+  "footer.join_us": "Join us",
+  "footer.subscribe_newsletter": "Inschrijven voor de nieuwsbrief",
+
+  "newsletter_form.email": "E-mailadres",
+  "newsletter_form.subscribe": "Abonneren",
+
+  "contact_form.email": "E-mailadres",
+  "contact_form.message": "Bericht",
+  "contact_form.send": "Sturen",
+  "contact_form.contact_us": "Contact met ons op",
+
+  "errors.404": "Page not found",
+  "errors.back_home": "Come back to home",
+
+  "markers.orange": "Bosc Nègre",
+  "markers.green": "mooiste dorpen van Frankrijk",
+  "markers.yellow": "markten",
+  "markers.blue": "kastelen",
+  "markers.gray": "bezienswaardigheden"
+}
