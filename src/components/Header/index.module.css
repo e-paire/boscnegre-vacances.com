@@ -1,0 +1,108 @@
+@import "variables.css";
+@import "mq.css";
+
+:root {
+  --nav-item-padding: 0.625rem;
+}
+
+.photo {
+  width: 100%;
+  height: 200px;
+  position: relative;
+  z-index: -1;
+}
+
+.title {
+  position: absolute;
+  color: #fff;
+  padding: 5px 20px;
+  margin: 0 10px;
+  top: 50px;
+  left: 0;
+  font-size: 15px;
+  z-index: 0;
+}
+
+.title::before {
+  content: "";
+  position: absolute;
+  background: var(--color_bosc_yellow);
+  opacity: 0.8;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.text {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+
+@media (--mq-lt-l) {
+  .navOverlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    cursor: pointer;
+  }
+}
+
+@media (--mq-m) {
+  .photo {
+    height: 300px;
+  }
+
+  .title {
+    margin: 0 50px;
+    top: 100px;
+    left: 20px;
+    font-size: 30px;
+  }
+}
+
+@media (--mq-gt-m) {
+  .title {
+    margin: 0 50px;
+    top: 100px;
+    left: 50px;
+    font-size: 30px;
+  }
+
+  .photo {
+    height: calc(100vh - 170px);
+  }
+
+  .text {
+    display: block;
+    right: 200px;
+    bottom: 200px;
+  }
+
+  .sticky {
+    position: sticky;
+    z-index: var(--zIndex-overlay);
+    top: 0;
+  }
+
+  .logo {
+    composes: sticky;
+    z-index: var(--zIndex-logo);
+  }
+
+  .nav {
+    composes: sticky;
+    z-index: var(--zIndex-dropdown);
+  }
+
+  .form {
+    composes: sticky;
+    top: 60px;
+    z-index: var(--zIndex-sticky);
+  }
+}

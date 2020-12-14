@@ -13,26 +13,25 @@ layout: LegalNotices
 
 Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUTVERT.
 
-* SARL HAUTVERT capital social 90400€
+- SARL HAUTVERT capital social 90400€
 
-* Registre du commerce et des sociétés (RCS) : 430331058 
+- Registre du commerce et des sociétés (RCS) : 430331058
 
-* TVA intracommunautaire numéro FR10 : 43033105800015
+- TVA intracommunautaire numéro FR10 : 43033105800015
 
-* Numéro de déclaration simplifiée Cnil : 1567012v0
+- Numéro de déclaration simplifiée Cnil : 1567012v0
 
-* Siège social : Bosc Nègre bois de las putas 47150 à Lacapelle-Biron
+- Siège social : Bosc Nègre bois de las putas 47150 à Lacapelle-Biron
 
-* Téléphone : 05.53.40.99.27
+- Téléphone : 05.53.40.99.27
 
-* Mail : boscnegre@gmail.com
+- Mail : boscnegre@gmail.com
 
 Gérant de la société : monsieur Alfred Hoogenberg
 
 Le nom de domaine est hébergé chez OVH
 
 Crédits Photos : propriété de SARL HAUTVERT
-
 
 CONDITIONS GENERALES DE LOCATION RESERVATION
 La location ne devient effective qu'une fois notre accord donné (Sous réserve des disponibilités), et après réception du versement de l'acompte de 30 % du montant total du séjour. L'assurance annulation de 3% par réservation est facultative, vous pouvez le souscrire directement sur notre site chez l'assurance ADAR. Le solde du séjour restant dû sera versé au plus tard 1 mois avant la date d'arrivée.
@@ -51,8 +50,8 @@ Tout retard non signalé dans les 24 heures rend disponible la location, sans au
 Après 24 heures de retard, sans avoir prévenu le service réservation, votre hébergement sera considéré comme vacant.
 En cas d'annulation la totalité du séjour reste dû. L'assurance ADAR peut prendre en charge les frais du séjour dans les limites des clauses du contrat.
 Extrait du règlement intérieur et réglementation
-●  Les arrivées sont autorisées le jour du contrat à partir de 9H00, les gîtes seront disponible à partir de 16H00.
-   Le jour du départ, il faudrait libérer les gîtes avant 10H00 et quitter le centre avant 17H00
+● Les arrivées sont autorisées le jour du contrat à partir de 9H00, les gîtes seront disponible à partir de 16H00.
+Le jour du départ, il faudrait libérer les gîtes avant 10H00 et quitter le centre avant 17H00
 
 ● Chiens en laisse autorisés (sauf chiens d'attaque et chiens de défense dangereux, chiens de 1ère et 2ème catégorie) loi N°99-5 du 6/01/99. Présentation obligatoire à la demande d'un carnet de vaccination à jour. Tatouage
 et port du collier avec adresse du maître obligatoire.1 seul chien par location. Chats autorisés.

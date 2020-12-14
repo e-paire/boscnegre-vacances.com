@@ -1,14 +1,19 @@
+import classNames from "classnames"
 import PropTypes from "prop-types"
 import React from "react"
-import classNames from "classnames"
 
-import styles from "./index.css"
+import styles from "./index.module.css"
 
-const Content = ({className, children, childrenIsText}) => (
-  <div className={classNames({
-    [styles.contentText]: childrenIsText,
-    [styles.contentNoText]: !childrenIsText,
-  }, className)}>
+export const Content = ({className, children, childrenIsText}) => (
+  <div
+    className={classNames(
+      {
+        [styles.contentText]: childrenIsText,
+        [styles.contentNoText]: !childrenIsText,
+      },
+      className
+    )}
+  >
     {children}
   </div>
 )
@@ -22,5 +27,3 @@ Content.propTypes = {
 Content.defaultProps = {
   childrenIsText: false,
 }
-
-export default Content

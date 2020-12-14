@@ -7,7 +7,7 @@ navTitle: merci
 cover:
   image: "/uploads/Entr%C3%A9e%20du%20parc.JPG"
   alt: bosc
-layout: AfterContact
+layout: Page
 isInSitemap: false
 ---
 

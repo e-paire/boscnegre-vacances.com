@@ -1,10 +1,11 @@
+import classNames from "classnames"
 import PropTypes from "prop-types"
 import React, {Component} from "react"
-import classNames from "classnames"
+import {getUrl} from "src/utils/urls"
 
-import styles from "./index.css"
+import styles from "./index.module.css"
 
-import {getUrl} from "utils/urls"
+const SITE_URL = "https://www.boscnegre-vacances.com"
 
 class Image extends Component {
   constructor() {
@@ -19,7 +20,7 @@ class Image extends Component {
 
   handleLoaded() {
     this.setState({
-      loaded: true
+      loaded: true,
     })
   }
 
@@ -28,14 +29,13 @@ class Image extends Component {
   }
 
   getResizeUrl() {
-    const {metadata: {pkg}} = this.context
     const {defaultWidth, src} = this.props
-    const options = [
-      `w_${defaultWidth}`,
-      "q_70",
-    ]
 
-    return `${getUrl("cloudinary_fetch")}/${options.join(",")}/${pkg.homepage}${src}`
+    const options = [`w_${defaultWidth}`, "q_70"]
+
+    return `${getUrl("cloudinary_fetch")}/${options.join(
+      ","
+    )}/${SITE_URL}${src}`
   }
 
   getSrc() {
@@ -45,13 +45,15 @@ class Image extends Component {
   }
 
   getSrcSet() {
-    const {metadata: {pkg}} = this.context
     const {sizes, src} = this.props
 
     if (process.env.NODE_ENV === "production") {
       return sizes
-        .map(size =>
-          `${getUrl("cloudinary_fetch")}/w_${size},q_70/${pkg.homepage}${src} ${size}w`
+        .map(
+          (size) =>
+            `${getUrl(
+              "cloudinary_fetch"
+            )}/w_${size},q_70/${SITE_URL}${src} ${size}w`
         )
         .join(", ")
     }
@@ -77,10 +79,6 @@ class Image extends Component {
   }
 }
 
-Image.contextTypes = {
-  metadata: PropTypes.object.isRequired,
-}
-
 Image.propTypes = {
   alt: PropTypes.string.isRequired,
   className: PropTypes.string,
@@ -94,4 +92,4 @@ Image.defaultProps = {
   sizes: ["256", "512", "1024"],
 }
 
-export default Image
+export {Image}

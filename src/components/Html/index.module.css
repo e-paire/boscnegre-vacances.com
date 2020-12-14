@@ -1,0 +1,10 @@
+@import "variables.css";
+
+.html {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.html a {
+  color: var(--color_bosc_green);
+}

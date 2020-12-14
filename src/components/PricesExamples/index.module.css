@@ -1,0 +1,50 @@
+@import "variables.css";
+@import "mq.css";
+
+.wrapper {
+  background: var(--color_gray);
+  padding: 10px;
+}
+
+.example {
+  background: #fff;
+  margin: 10px;
+}
+
+.description {
+  padding: 10px;
+}
+
+.price {
+  background: var(--color_bosc_green);
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+@media (--mq-gt-s) {
+  .examples {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    align-content: space-between;
+  }
+
+  .example {
+    flex: 1 1 auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .description {
+    flex: 1 1 auto;
+    padding: 20px;
+  }
+
+  .price {
+    flex: 0 0 auto;
+    padding: 20px;
+    font-size: 20px;
+  }
+}

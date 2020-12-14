@@ -1,0 +1,145 @@
+@import "variables.css";
+@import "mq.css";
+
+.wrapper {
+  margin-top: 10px;
+  background: var(--color_bosc_green);
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-weight: 300;
+}
+
+.infos,
+.partners,
+.social {
+  display: flex;
+  flex-direction: column;
+}
+
+.partners {
+  margin: 0 -10px;
+}
+
+.block {
+  flex: 1 1 auto;
+  padding: 10px;
+}
+
+.title {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.infos {
+  background: var(--color_bosc_green);
+  color: #fff;
+}
+
+.addressWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.address {
+  text-align: left;
+  margin-left: 20px;
+  font-size: 12px;
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+}
+
+.link {
+  display: block;
+  text-align: center;
+}
+
+.logo {
+  width: 80px;
+}
+
+.partners {
+  background: #fff;
+  color: var(--color_bosc_green);
+}
+
+.ourPartners,
+.consumerReviews {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.consumerReviews a {
+  flex: 1 1 33.33%;
+}
+
+.camping2be {
+  width: 100%;
+}
+
+.tripAdvisor {
+  width: 100%;
+}
+
+.zoover {
+  width: 100%;
+}
+
+.ancv {
+  width: 100px;
+  display: block;
+}
+
+.village2gites {
+  height: 100px;
+}
+
+.social {
+  color: #fff;
+}
+
+.networks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.network {
+  color: #fff;
+  font-size: 70px;
+  margin: 0 20px;
+}
+
+.newsletter {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (--mq-gt-s) {
+  .wrapper {
+    margin-top: 20px;
+  }
+
+  .footer {
+    flex-direction: row;
+  }
+
+  .infos,
+  .partners,
+  .social {
+    width: 33.33%;
+    flex: 1 1 33.33%;
+    margin: 0;
+  }
+}

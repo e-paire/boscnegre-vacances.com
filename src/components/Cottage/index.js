@@ -1,17 +1,24 @@
 import PropTypes from "prop-types"
 import React from "react"
 import {Icon} from "react-fa"
-import {FormattedMessage, injectIntl, intlShape} from "react-intl"
-import {BodyContainer} from "phenomic"
+import {FormattedMessage, useIntl} from "react-intl"
+import {Content} from "src/components/Content"
+import {ExternalLink} from "src/components/ExternalLink"
+import {Html} from "src/components/Html"
+import {Image} from "src/components/Image"
+import {getUrl} from "src/utils/urls"
 
-import {getUrl} from "utils/urls"
-import Content from "components/Content"
-import ExternalLink from "components/ExternalLink"
-import Image from "components/Image"
+import styles from "./index.module.css"
 
-import styles from "./index.css"
-
-const Cottage = ({beds, crush, cover, description, ctoutvertId, intl, title}) => {
+export const Cottage = ({
+  beds,
+  crush,
+  cover,
+  description,
+  ctoutvertId,
+  title,
+}) => {
+  const intl = useIntl()
   return (
     <div className={styles.cottage}>
       <div className={styles.cover}>
@@ -20,29 +27,35 @@ const Cottage = ({beds, crush, cover, description, ctoutvertId, intl, title}) =>
       <div className={styles.content}>
         <div className={styles.text}>
           <div className={styles.title}>{title}</div>
-          {description &&
+          {description && (
             <Content childrenIsText>
-              <BodyContainer className={styles.description}>
-                {description}
-              </BodyContainer>
+              <div className={styles.description}>
+                <Html html={description} />
+              </div>
             </Content>
-          }
+          )}
           <div className={styles.meta}>
-            {beds &&
+            {beds && (
               <div className={styles.box}>
                 <Icon className={styles.bed} name="bed" />
                 {beds}
               </div>
-            }
-            {crush &&
+            )}
+            {crush && (
               <div className={styles.box}>
                 <Icon className={styles.heart} name="heart" />
                 {crush}
               </div>
-            }
+            )}
           </div>
         </div>
-        <ExternalLink className={styles.button} href={`${getUrl("secureholiday", intl.locale)}/product.popup?idProduct=${ctoutvertId}`}>
+        <ExternalLink
+          className={styles.button}
+          href={`${getUrl(
+            "secureholiday",
+            intl.locale
+          )}/product.popup?idProduct=${ctoutvertId}`}
+        >
           <FormattedMessage id="buttons.check_prices" />
         </ExternalLink>
       </div>
@@ -59,8 +72,6 @@ Cottage.propTypes = {
   }),
   ctoutvertId: PropTypes.number.isRequired,
   description: PropTypes.string,
-  intl: intlShape.isRequired,
+
   title: PropTypes.string.isRequired,
 }
-
-export default injectIntl(Cottage)

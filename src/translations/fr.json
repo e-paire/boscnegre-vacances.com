@@ -1,0 +1,46 @@
+{
+  "buttons.see_more": "En savoir plus",
+  "buttons.check_prices": "Plus d'informations et prix",
+
+  "titles.our_cottages": "Nos gîtes tout confort",
+  "titles.cottages": "Les gîtes",
+  "titles.our_offers": "Nos offres en cours",
+  "titles.discover_services": "Découvrez les activités proposées",
+  "titles.group_holidays": "Séjours groupes",
+  "titles.our_prices": "Nos tarifs",
+  "titles.prices_examples": "Exemple de prestation",
+  "titles.room_layout": "Possibles dispositions de la salle",
+  "titles.places_to_see": "Les lieux à visiter autour du Bosc Nègre",
+
+  "booking_form.my_stay": "Mon séjour",
+  "booking_form.book": "Rechercher",
+
+  "cottage_category.from": "À partir de",
+  "cottage_category.the_week": "la semaine",
+
+  "footer.address": "Adresse",
+  "footer.relevant_information": "Informations utiles",
+  "footer.sitemap": "Plan du site",
+  "footer.prices": "Page Tarif",
+  "footer.legal_notices": "Mentions légales",
+  "footer.consumer_advisory": "Avis consommateur",
+  "footer.our_partners": "Nos partenaires",
+  "footer.join_us": "Nous rejoindre",
+  "footer.subscribe_newsletter": "S'inscrire à la newsletter",
+  "newsletter_form.email": "Adresse email",
+  "newsletter_form.subscribe": "S'abonner",
+
+  "contact_form.email": "Adresse email",
+  "contact_form.message": "Votre message ici",
+  "contact_form.send": "Envoyer",
+  "contact_form.contact_us": "Contactez nous",
+
+  "errors.404": "Vous vous êtes égarés ? Revenez sur le droit chemin !",
+  "errors.back_home": "Retourner à l'accueil",
+
+  "markers.orange": "Bosc Nègre",
+  "markers.green": "Plus beaux villages de France",
+  "markers.yellow": "Joli marchés",
+  "markers.blue": "Châteaux",
+  "markers.gray": "Lieux touristiques"
+}

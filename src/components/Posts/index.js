@@ -1,48 +1,61 @@
-import PropTypes from "prop-types"
-import React, {Component} from "react"
-import {injectIntl, intlShape} from "react-intl"
-import enhanceCollection from "phenomic/lib/enhance-collection"
+import classNames from "classnames"
+import {graphql} from "gatsby"
+import React, {useState} from "react"
+import {Icon} from "react-fa"
+import {injectIntl} from "react-intl"
+import {Post} from "src/components/Post"
 
-import {customFilter} from "utils/collection"
-import PostPreview from "components/PostPreview"
+import styles from "./index.module.css"
 
-import styles from "./index.css"
+export const Posts = ({posts}) => {
+  const [activeTag, setActiveTag] = useState(null)
 
-class Posts extends Component {
-  render() {
-    const {collection} = this.context
-    const {intl, tag} = this.props
-    const posts = enhanceCollection(collection, {
-      filter: (page) => {
-        const isLocalizedPost = customFilter(page, intl.locale, "Post")
-        const hasTag = tag && Array.isArray(page.tags) && (page.tags.indexOf(tag) > -1)
-        return tag
-          ? isLocalizedPost && hasTag
-          : isLocalizedPost
-      },
-      sort: "date",
-      reverse: true,
-    })
+  return (
+    <>
+      {posts.tags.length > 0 && (
+        <div className={styles.tags}>
+          <span className={styles.tags_icon}>
+            <Icon name="tags" />
+          </span>
+          {posts.tags.map((tag) => (
+            <span
+              className={classNames(
+                styles.tag,
+                tag === activeTag && styles.tag_active
+              )}
+              key={tag}
+              onClick={() => setActiveTag((oldTag) => (oldTag ? null : tag))}
+            >
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+      {posts && posts.nodes.length > 0 && (
+        <div className={styles.posts}>
+          {posts.nodes
+            .filter(
+              (post) => !activeTag || post.frontmatter.tags.includes(activeTag)
+            )
+            .map((post, i) => (
+              <div key={i} className={styles.post}>
+                <Post post={post} />
+              </div>
+            ))}
+        </div>
+      )}
+    </>
+  )
+}
 
-    return posts && posts.length > 0
-    ? <div className={styles.posts}>
-        {posts.map((post, i) => (
-          <div key={i} className={styles.post}>
-            <PostPreview {...post} />
-          </div>
-        ))}
-      </div>
-    : null
+export const query = graphql`
+  fragment PostsFragment on MarkdownRemarkConnection {
+    nodes {
+      frontmatter {
+        tags
+      }
+      ...PostFragment
+    }
+    tags: distinct(field: frontmatter___tags)
   }
-}
-
-Posts.contextTypes = {
-  collection: PropTypes.array,
-}
-
-Posts.propTypes = {
-  intl: intlShape.isRequired,
-  tag: PropTypes.string,
-}
-
-export default injectIntl(Posts)
+`

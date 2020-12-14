@@ -1,4 +1,4 @@
-@import "styles/variables.css";
+@import "variables.css";
 
 :global(.bn-range),
 :global(.bn-range .DayPicker-Day) {
@@ -17,12 +17,14 @@
   background: #fff;
 }
 
-:global(.bn-range .DayPicker-Day:not(.DayPicker-Day--outside):not(.DayPicker-Day--selected):hover) {
+:global(.bn-range
+    .DayPicker-Day:not(.DayPicker-Day--outside):not(.DayPicker-Day--selected):hover) {
   background: var(--color_bosc_green);
   color: #fff;
 }
 
-:global(.bn-range .DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside)) {
+:global(.bn-range
+    .DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside)) {
   background: var(--color_bosc_green);
   color: #fff;
 }
@@ -40,7 +42,7 @@
   bottom: 0;
   left: -5px;
   width: 5px;
-  content: '';
+  content: "";
   background: var(--color_bosc_yellow);
 }
 
@@ -50,6 +52,6 @@
   bottom: 0;
   right: -5px;
   width: 5px;
-  content: '';
+  content: "";
   background: var(--color_bosc_yellow);
 }

@@ -4,7 +4,8 @@ position: 4
 route: region
 metaTitle: Découvrez la région du Lot-et-Garonne depuis le Hameau du Bosc Nègre
 navTitle: Région
-metaDescription: Partez à la découverte du Périgord et les départements limitrophe
+metaDescription:
+  Partez à la découverte du Périgord et les départements limitrophe
   pour vos prochaines vacances en gîte avec votre famille, vos amis, clus sportif
   ou association
 slogan: A la découverte d'une belle région dans un gîte en Lot-et-Garonne
@@ -12,83 +13,81 @@ cover:
   image: "/uploads/chateau_biron_proche_bosc_negre.jpg"
   alt: Quoi visiter en Dordogne pendant vos vacances
 coordinates:
-- title: Bosc Nègre
-  latitude: 44.597091
-  longitude: 0.873799
-  description: |-
-    **Village de vacances Bosc Nègre**\
-    47150 Lacapelle-Biron\
-    Lat : 44.597091\
-    Long : 0.873799
-  color: orange
-  is_open: true
-- title: Monflanquin
-  latitude: 44.532771
-  longitude: 0.765645
-  description: |-
-    Plus beau village de France
+  - title: Bosc Nègre
+    latitude: 44.597091
+    longitude: 0.873799
+    description: Village de vacances Bosc Nègre
+    color: orange
+    is_open: true
+  - title: Monflanquin
+    latitude: 44.532771
+    longitude: 0.765645
+    description: |-
+      Plus beau village de France
 
-    Magnifique vue en haut du village
-  color: green
-- title: Monpazier
-  latitude: 44.682499
-  longitude: 44.682499
-  description: |-
-    Plus beau village de France
+      Magnifique vue en haut du village
+    color: green
+  - title: Monpazier
+    latitude: 44.682499
+    longitude: 44.682499
+    description: |-
+      Plus beau village de France
 
-    Marché convivial le jeudi matin
-  color: green
-- title: Villefranche-du-Périgord
-  latitude: 44.62974
-  longitude: 1.0813
-  color: green
-- title: Biron
-  latitude: 44.631365
-  longitude: 0.87071
-  description: Château classé monument historique depuis 1928
-  color: blue
-- title: Issigeac
-  latitude: 44.730668
-  longitude: 0.606769
-  description: Profitez d'un marché avec des produits en tout genre le dimanche matin
-  color: yellow
-- title: Bonaguil
-  latitude: 44.53846
-  longitude: 1.014307
-  description: Château fort crée au XIIIème siècle
-  color: blue
-- title: Château de Gavaudun
-  latitude: 44.560756
-  longitude: 0.886844
-  description: Château fort de Gavaudun où il est possible de faire du rappel en été
-  color: blue
-- title: La Vallée du Lot
-  latitude: 44.411468
-  longitude: 0.736099
-  color: gray
-  description: De nombreuses randonnées à faire pour découvrir cette belle vallée
-    du Lot
-- title: Sarlat-la-Canéda
-  latitude: 44.891645
-  longitude: 1.207299
-  color: gray
-  description: 'Sarlat-la-Canéda : Capitale du Perigord'
-- title: Bergerac
-  latitude: 44.854342
-  longitude: 0.482802
-  color: gray
-  description: Découvrez Bergerac et tous ses vins
-- title: Castelnaud-la-Chapelle
-  latitude: 44.815989
-  longitude: 1.148815
-  color: blue
-  description: 'Castelnaud-la-Chapelle : Magnifique château de Castelnaud surplombant
-    la vallée de la Dordogne'
-- title: Saint-Cyprien
-  latitude: 44.87841
-  longitude: 1.024565
-  color: gray
-  description: Saint-Cyprien :Lieu de départ idéal pour une après-midi canoë
+      Marché convivial le jeudi matin
+    color: green
+  - title: Villefranche-du-Périgord
+    latitude: 44.62974
+    longitude: 1.0813
+    color: green
+  - title: Biron
+    latitude: 44.631365
+    longitude: 0.87071
+    description: Château classé monument historique depuis 1928
+    color: blue
+  - title: Issigeac
+    latitude: 44.730668
+    longitude: 0.606769
+    description: Profitez d'un marché avec des produits en tout genre le dimanche matin
+    color: yellow
+  - title: Bonaguil
+    latitude: 44.53846
+    longitude: 1.014307
+    description: Château fort crée au XIIIème siècle
+    color: blue
+  - title: Château de Gavaudun
+    latitude: 44.560756
+    longitude: 0.886844
+    description: Château fort de Gavaudun où il est possible de faire du rappel en été
+    color: blue
+  - title: La Vallée du Lot
+    latitude: 44.411468
+    longitude: 0.736099
+    color: gray
+    description:
+      De nombreuses randonnées à faire pour découvrir cette belle vallée
+      du Lot
+  - title: Sarlat-la-Canéda
+    latitude: 44.891645
+    longitude: 1.207299
+    color: gray
+    description: "Sarlat-la-Canéda : Capitale du Perigord"
+  - title: Bergerac
+    latitude: 44.854342
+    longitude: 0.482802
+    color: gray
+    description: Découvrez Bergerac et tous ses vins
+  - title: Castelnaud-la-Chapelle
+    latitude: 44.815989
+    longitude: 1.148815
+    color: blue
+    description:
+      "Castelnaud-la-Chapelle : Magnifique château de Castelnaud surplombant
+      la vallée de la Dordogne"
+  - title: Saint-Cyprien
+    latitude: 44.87841
+    longitude: 1.024565
+    color: gray
+    description: Saint-Cyprien :Lieu de départ idéal pour une après-midi canoë
 layout: Region
 ---
 

@@ -1,0 +1,77 @@
+@import "variables.css";
+
+.breadcrumb {
+  margin: 10px 0;
+  font-weight: 300;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.element {
+  display: inline-block;
+  margin-right: 12px;
+  position: relative;
+}
+
+.element:first-child .link::before {
+  content: none;
+}
+
+.link {
+  background: var(--color_gray);
+  display: inline-block;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.link_active {
+  background: var(--color_bosc_green);
+  composes: link;
+  color: #fff;
+}
+
+.link::before,
+.link::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 15px 0 15px 10px;
+}
+
+.link::before {
+  right: 100%;
+  border-color: var(--color_gray);
+  border-left-color: transparent;
+}
+
+.link::after {
+  left: 100%;
+  border-color: transparent;
+  border-left-color: var(--color_gray);
+}
+
+.link:hover {
+  background: var(--color_bosc_green);
+  color: #fff;
+}
+
+.link_active::before,
+.link:hover::before {
+  right: 100%;
+  border-color: var(--color_bosc_green);
+  border-left-color: transparent;
+}
+
+.link_active::after,
+.link:hover::after {
+  left: 100%;
+  border-color: transparent;
+  border-left-color: var(--color_bosc_green);
+}

@@ -1,18 +1,13 @@
 import PropTypes from "prop-types"
 import React from "react"
+import {ImageText} from "src/components/ImageText"
+import {Title} from "src/components/Title"
 
-import ImageText from "components/ImageText"
-import Title from "components/Title"
-
-const Prices = ({cover, text, url}) => {
+export const Prices = ({cover, text, url}) => {
   return (
     <div>
       <Title id="titles.our_prices" theme="green" />
-      <ImageText
-        cover={cover}
-        text={text}
-        url={url}
-      />
+      <ImageText cover={cover} text={text} url={url} />
     </div>
   )
 }
@@ -25,5 +20,3 @@ Prices.propTypes = {
   text: PropTypes.string.isRequired,
   url: PropTypes.string.isRequired,
 }
-
-export default Prices

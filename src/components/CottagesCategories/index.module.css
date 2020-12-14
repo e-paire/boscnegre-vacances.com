@@ -1,0 +1,14 @@
+@import "variables.css";
+
+.category {
+  cursor: pointer;
+}
+
+.even {
+  background: var(--color_gray);
+}
+
+.arrow {
+  top: 200px;
+  transform: translateY(-100%);
+}

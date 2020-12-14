@@ -1,39 +1,36 @@
 import PropTypes from "prop-types"
 import React from "react"
+import {Title} from "src/components/Title"
 
-import Title from "components/Title"
+import styles from "./index.module.css"
 
-import styles from "./index.css"
-
-const PricesExamples = ({prices}) => {
-  return prices && prices.length > 0
-    ? <div>
-        <Title id="titles.prices_examples" theme="yellow" />
-        <div className={styles.wrapper}>
-          <div className={styles.examples}>
-            {prices.map((price, i) => (
-              <div key={i} className={styles.example}>
-                <div className={styles.description}>
-                  {price.description}
-                </div>
-                <div className={styles.price}>{price.price}</div>
-              </div>
-            ))}
-          </div>
+export const PricesExamples = ({prices}) => {
+  return prices && prices.length > 0 ? (
+    <div>
+      <Title id="titles.prices_examples" theme="yellow" />
+      <div className={styles.wrapper}>
+        <div className={styles.examples}>
+          {prices.map((price, i) => (
+            <div key={i} className={styles.example}>
+              <div className={styles.description}>{price.description}</div>
+              <div className={styles.price}>{price.price}</div>
+            </div>
+          ))}
         </div>
       </div>
-    : null
+    </div>
+  ) : null
 }
 
 PricesExamples.propTypes = {
-  prices: PropTypes.arrayOf(PropTypes.shape({
-    description: PropTypes.string.isRequired,
-    price: PropTypes.number.isRequired,
-  })),
+  prices: PropTypes.arrayOf(
+    PropTypes.shape({
+      description: PropTypes.string.isRequired,
+      price: PropTypes.number.isRequired,
+    })
+  ),
 }
 
 PricesExamples.defaultProps = {
   prices: [],
 }
-
-export default PricesExamples

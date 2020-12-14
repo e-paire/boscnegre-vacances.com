@@ -1,0 +1,10 @@
+@import "variables.css";
+
+.cottages {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.cottage + .cottage {
+  margin-top: 20px;
+}

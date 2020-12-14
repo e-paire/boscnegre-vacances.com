@@ -29,9 +29,7 @@ class ImageLightbox extends Component {
     const {index} = this.state
     const {images} = this.props
     this.setState({
-      index: images
-        ? (index + 1) % images.length
-        : 0,
+      index: images ? (index + 1) % images.length : 0,
     })
   }
 
@@ -39,9 +37,7 @@ class ImageLightbox extends Component {
     const {index} = this.state
     const {images} = this.props
     this.setState({
-      index: images
-        ? (index + images.length - 1) % images.length
-        : 0,
+      index: images ? (index + images.length - 1) % images.length : 0,
     })
   }
 
@@ -66,13 +62,15 @@ class ImageLightbox extends Component {
 
 ImageLightbox.propTypes = {
   children: PropTypes.any.isRequired,
-  images: PropTypes.arrayOf(PropTypes.shape({
-    caption: PropTypes.string.isRequired,
-    src: PropTypes.string.isRequired,
-  })),
+  images: PropTypes.arrayOf(
+    PropTypes.shape({
+      caption: PropTypes.string.isRequired,
+      src: PropTypes.string.isRequired,
+    })
+  ),
   index: PropTypes.number.isRequired,
   onClose: PropTypes.func.isRequired,
   open: PropTypes.bool.isRequired,
 }
 
-export default ImageLightbox
+export const ImageLightbox

@@ -1,23 +1,22 @@
-import PropTypes from "prop-types"
-import React, {Component} from "react"
-import {connect} from "react-redux"
-import {FormattedMessage, injectIntl, intlShape} from "react-intl"
-import {Sticky} from "react-sticky"
-import {Icon} from "react-fa"
-import ReactDayPicker from "react-day-picker"
+import "react-day-picker/lib/style.css"
+
+import "./ReactDayPicker.css"
+
 import addDays from "date-fns/add_days"
 import format from "date-fns/format"
 import isSameDay from "date-fns/is_same_day"
 import isWithinRange from "date-fns/is_within_range"
 import setDay from "date-fns/set_day"
 import setMonth from "date-fns/set_month"
+import PropTypes from "prop-types"
+import React, {Component} from "react"
+import ReactDayPicker from "react-day-picker"
+import {Icon} from "react-fa"
+import {FormattedMessage, injectIntl} from "react-intl"
+import {Content} from "src/components/Content"
+import {getUrl} from "src/utils/urls"
 
-import {getUrl} from "utils/urls"
-import Content from "components/Content"
-
-import "react-day-picker/lib/style.css"
-import "./ReactDayPicker.css"
-import styles from "./index.css"
+import styles from "./index.module.css"
 
 class BookingForm extends Component {
   constructor() {
@@ -186,18 +185,13 @@ class BookingForm extends Component {
 
   render() {
     const {from, isSelecting, temp, to} = this.state
-    const {browser} = this.props
     const now = new Date()
     return (
       <div className={styles.wrapper}>
         {isSelecting && (
           <div className={styles.overlay} onClick={this.handleClose} />
         )}
-        <Sticky
-          className={styles.formWrapper}
-          stickyClassName={styles.sticky}
-          isActive={browser.greaterThan.m}
-        >
+        <div className={styles.formWrapper}>
           <Content>
             <div className={styles.form}>
               <div
@@ -242,13 +236,14 @@ class BookingForm extends Component {
                 className="bn-range"
                 numberOfMonths={2}
                 fromMonth={now}
-                selectedDays={day =>
-                  (from && (temp && isWithinRange(day, from, temp))) ||
-                  (to && isWithinRange(day, from, to))}
-                disabledDays={day => day < now}
+                selectedDays={(day) =>
+                  (from && temp && isWithinRange(day, from, temp)) ||
+                  (to && isWithinRange(day, from, to))
+                }
+                disabledDays={(day) => day < now}
                 modifiers={{
-                  from: day => isSameDay(day, from),
-                  to: day =>
+                  from: (day) => isSameDay(day, from),
+                  to: (day) =>
                     (temp && isSameDay(day, temp)) ||
                     (to && isSameDay(day, to)),
                 }}
@@ -259,16 +254,14 @@ class BookingForm extends Component {
               />
             </div>
           )}
-        </Sticky>
+        </div>
       </div>
     )
   }
 }
 
 BookingForm.propTypes = {
-  browser: PropTypes.object.isRequired,
-  intl: intlShape.isRequired,
   onChange: PropTypes.func,
 }
 
-export default connect(({browser}) => ({browser}))(injectIntl(BookingForm))
+export default injectIntl(BookingForm)

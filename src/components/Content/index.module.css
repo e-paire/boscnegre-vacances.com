@@ -1,0 +1,26 @@
+@import "variables.css";
+@import "mq.css";
+
+.content {
+  margin: auto;
+}
+
+.contentText {
+  composes: content;
+  max-width: 1000px;
+}
+
+.contentText a {
+  color: var(--color_bosc_green);
+}
+
+.contentNoText {
+  composes: content;
+  max-width: 1350px;
+}
+
+@media (--mq-lt-xl) {
+  .content {
+    padding: 0 10px;
+  }
+}

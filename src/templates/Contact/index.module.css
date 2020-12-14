@@ -1,0 +1,17 @@
+@import "mq.css";
+
+@media (--mq-gt-m) {
+  .content {
+    display: flex;
+    align-items: center;
+  }
+
+  .form,
+  .text {
+    flex: 1 1 50%;
+  }
+
+  .text + .form {
+    margin-left: 20px;
+  }
+}
