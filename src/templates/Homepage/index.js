@@ -7,7 +7,7 @@ import {Groups} from "../../components/Groups"
 import {Html} from "../../components/Html"
 import {Offers} from "../../components/Offers"
 import {Services} from "../../components/Services"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 
 export default ({data: {page, services, groups}}) => {
   const {offers} = page.frontmatter

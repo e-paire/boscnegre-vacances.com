@@ -5,7 +5,7 @@ import {FormattedMessage, injectIntl} from "react-intl"
 
 import {Content} from "../../components/Content"
 import {useLinks} from "../../hooks/use-links"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 import coverImage from "./404.jpg"
 import styles from "./index.module.css"
 

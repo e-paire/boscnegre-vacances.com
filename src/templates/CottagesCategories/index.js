@@ -4,7 +4,7 @@ import React from "react"
 import {Content} from "../../components/Content"
 import {CottagesCategories} from "../../components/CottagesCategories"
 import {Html} from "../../components/Html"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 
 export default ({data: {page, cottagesCategories}}) => {
   return (

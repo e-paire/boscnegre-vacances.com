@@ -4,7 +4,7 @@ import React from "react"
 import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
 import {Services} from "../../components/Services"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 
 export default ({data: {page, services}}) => {
   return (

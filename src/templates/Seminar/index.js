@@ -8,7 +8,7 @@ import {Image} from "../../components/Image"
 import {Prices} from "../../components/Prices"
 import {PricesExamples} from "../../components/PricesExamples"
 import {Title} from "../../components/Title"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 import styles from "./index.module.css"
 
 export default ({data: {page}}) => {

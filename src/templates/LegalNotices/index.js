@@ -4,7 +4,7 @@ import React from "react"
 import {Breadcrumb} from "../../components/Breadcrumb"
 import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 
 export default ({data: {page}}) => {
   return (

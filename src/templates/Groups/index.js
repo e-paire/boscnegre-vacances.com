@@ -5,7 +5,7 @@ import {Breadcrumb} from "../../components/Breadcrumb"
 import {Content} from "../../components/Content"
 import {Groups} from "../../components/Groups"
 import {Html} from "../../components/Html"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 
 export default ({data: {page, groups}}) => {
   return (

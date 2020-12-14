@@ -5,7 +5,7 @@ import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
 import {Map} from "../../components/Map"
 import {Title} from "../../components/Title"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 
 export default ({data: {page}}) => {
   const {coordinates} = page.frontmatter

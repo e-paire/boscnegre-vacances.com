@@ -5,7 +5,7 @@ import {Breadcrumb} from "../../components/Breadcrumb"
 import {ContactForm} from "../../components/ContactForm"
 import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 import styles from "./index.module.css"
 
 export default ({data: {page}}) => {

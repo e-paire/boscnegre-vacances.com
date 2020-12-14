@@ -4,7 +4,7 @@ import React from "react"
 import {Content} from "../../components/Content"
 import {Cottages} from "../../components/Cottages"
 import {Html} from "../../components/Html"
-import {LayoutPage} from "../../layouts/page"
+import {LayoutPage} from "../../layouts/Page"
 
 export default ({data: {page}}) => {
   const {cottages} = page.frontmatter
