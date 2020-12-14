@@ -1,8 +1,8 @@
 import {Link} from "gatsby"
 import React, {Component} from "react"
-import {Logo} from "src/components/Logo"
-import {useLinks} from "src/hooks/use-links"
 
+import {useLinks} from "../../hooks/use-links"
+import {Logo} from "../Logo"
 import styles from "./index.module.css"
 
 export const TopLogo = () => {

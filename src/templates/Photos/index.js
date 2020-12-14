@@ -1,10 +1,11 @@
 import {graphql} from "gatsby"
 import React from "react"
-import {CarouselImages} from "src/components/CarouselImages"
-import {Content} from "src/components/Content"
-import {Html} from "src/components/Html"
-import {Title} from "src/components/Title"
-import {LayoutPage} from "src/layouts/page"
+
+import {CarouselImages} from "../../components/CarouselImages"
+import {Content} from "../../components/Content"
+import {Html} from "../../components/Html"
+import {Title} from "../../components/Title"
+import {LayoutPage} from "../../layouts/page"
 
 export default ({data: {page}}) => {
   const {gallery} = page.frontmatter

@@ -24,7 +24,6 @@ module.exports = {
     siteUrl: "https://www.boscnegre-vacances.com",
   },
   plugins: [
-    "gatsby-plugin-root-import",
     ...content.map((name) => ({
       resolve: `gatsby-source-filesystem`,
       options: {

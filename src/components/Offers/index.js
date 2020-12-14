@@ -1,9 +1,10 @@
 import PropTypes from "prop-types"
 import React from "react"
 import {useIntl} from "react-intl"
-import {ImageText} from "src/components/ImageText"
-import {Title} from "src/components/Title"
-import {getUrl} from "src/utils/urls"
+
+import {getUrl} from "../../utils/urls"
+import {ImageText} from "../ImageText"
+import {Title} from "../Title"
 
 export const Offers = ({cover, text}) => {
   const intl = useIntl()

@@ -2,10 +2,10 @@ import {Link} from "gatsby"
 import PropTypes from "prop-types"
 import React, {Component} from "react"
 import {Icon} from "react-fa"
-import {Content} from "src/components/Content"
-import {FlagFr} from "src/components/FlagFr"
-import {FlagNl} from "src/components/FlagNl"
 
+import {Content} from "../Content"
+import {FlagFr} from "../FlagFr"
+import {FlagNl} from "../FlagNl"
 import styles from "./index.module.css"
 
 export const TopBar = ({onOpenNav, slogan}) => {

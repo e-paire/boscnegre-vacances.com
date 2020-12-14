@@ -1,8 +1,8 @@
 import {Link, graphql} from "gatsby"
 import React from "react"
-import {Service} from "src/components/Service"
-import {Title} from "src/components/Title"
 
+import {Service} from "../Service"
+import {Title} from "../Title"
 import styles from "./index.module.css"
 
 export const Services = ({services}) => {

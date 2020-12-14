@@ -6,8 +6,8 @@ import PropTypes from "prop-types"
 import React, {useCallback, useMemo, useRef} from "react"
 import {Icon} from "react-fa"
 import Slick from "react-slick"
-import {useBreakpoint} from "src/hooks/use-breakpoint"
 
+import {useBreakpoint} from "../../hooks/use-breakpoint"
 import styles from "./index.module.css"
 
 const slidesCount = {

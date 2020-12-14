@@ -1,7 +1,7 @@
 import PropTypes from "prop-types"
 import React from "react"
-import {Title} from "src/components/Title"
 
+import {Title} from "../Title"
 import styles from "./index.module.css"
 
 export const PricesExamples = ({prices}) => {

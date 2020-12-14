@@ -2,10 +2,10 @@ import {Link} from "gatsby"
 import PropTypes from "prop-types"
 import React, {Component} from "react"
 import {FormattedMessage, injectIntl} from "react-intl"
-import {Content} from "src/components/Content"
-import {useLinks} from "src/hooks/use-links"
-import {LayoutPage} from "src/layouts/page"
 
+import {Content} from "../../components/Content"
+import {useLinks} from "../../hooks/use-links"
+import {LayoutPage} from "../../layouts/page"
 import coverImage from "./404.jpg"
 import styles from "./index.module.css"
 

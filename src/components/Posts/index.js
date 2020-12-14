@@ -3,8 +3,8 @@ import {graphql} from "gatsby"
 import React, {useState} from "react"
 import {Icon} from "react-fa"
 import {injectIntl} from "react-intl"
-import {Post} from "src/components/Post"
 
+import {Post} from "../Post"
 import styles from "./index.module.css"
 
 export const Posts = ({posts}) => {

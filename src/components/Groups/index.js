@@ -1,12 +1,12 @@
 import {Link, graphql} from "gatsby"
 import React, {Component} from "react"
 import {Icon} from "react-fa"
-import {Carousel} from "src/components/Carousel"
-import {Content} from "src/components/Content"
-import {Image} from "src/components/Image"
-import {Title} from "src/components/Title"
-import {useMediaQuery} from "src/hooks/use-media-query"
 
+import {useMediaQuery} from "../../hooks/use-media-query"
+import {Carousel} from "../Carousel"
+import {Content} from "../Content"
+import {Image} from "../Image"
+import {Title} from "../Title"
 import styles from "./index.module.css"
 
 export const Groups = ({groups}) => {

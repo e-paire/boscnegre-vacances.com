@@ -1,10 +1,10 @@
 import classNames from "classnames"
 import React, {Component} from "react"
 import {injectIntl} from "react-intl"
-import {Carousel} from "src/components/Carousel"
-import {CottagesCategory} from "src/components/CottagesCategory"
-import {Title} from "src/components/Title"
 
+import {Carousel} from "../Carousel"
+import {CottagesCategory} from "../CottagesCategory"
+import {Title} from "../Title"
 import styles from "./index.module.css"
 
 export const CottagesCategories = ({cottagesCategories}) => {

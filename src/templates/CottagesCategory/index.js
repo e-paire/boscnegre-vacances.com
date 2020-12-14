@@ -1,9 +1,10 @@
 import {graphql} from "gatsby"
 import React from "react"
-import {Content} from "src/components/Content"
-import {Cottages} from "src/components/Cottages"
-import {Html} from "src/components/Html"
-import {LayoutPage} from "src/layouts/page"
+
+import {Content} from "../../components/Content"
+import {Cottages} from "../../components/Cottages"
+import {Html} from "../../components/Html"
+import {LayoutPage} from "../../layouts/page"
 
 export default ({data: {page}}) => {
   const {cottages} = page.frontmatter

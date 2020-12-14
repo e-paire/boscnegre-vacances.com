@@ -1,7 +1,8 @@
 import PropTypes from "prop-types"
 import React from "react"
-import {ImageText} from "src/components/ImageText"
-import {Title} from "src/components/Title"
+
+import {ImageText} from "../ImageText"
+import {Title} from "../Title"
 
 export const Prices = ({cover, text, url}) => {
   return (

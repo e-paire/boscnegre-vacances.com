@@ -1,12 +1,13 @@
 import {graphql} from "gatsby"
 import React from "react"
-import {Content} from "src/components/Content"
-import {CottagesCategories} from "src/components/CottagesCategories"
-import {Groups} from "src/components/Groups"
-import {Html} from "src/components/Html"
-import {Offers} from "src/components/Offers"
-import {Services} from "src/components/Services"
-import {LayoutPage} from "src/layouts/page"
+
+import {Content} from "../../components/Content"
+import {CottagesCategories} from "../../components/CottagesCategories"
+import {Groups} from "../../components/Groups"
+import {Html} from "../../components/Html"
+import {Offers} from "../../components/Offers"
+import {Services} from "../../components/Services"
+import {LayoutPage} from "../../layouts/page"
 
 export default ({data: {page, services, groups}}) => {
   const {offers} = page.frontmatter

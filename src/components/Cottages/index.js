@@ -1,7 +1,7 @@
 import PropTypes from "prop-types"
 import React, {Component} from "react"
-import {Cottage} from "src/components/Cottage"
 
+import {Cottage} from "../Cottage"
 import styles from "./index.module.css"
 
 export const Cottages = ({cottages}) => {

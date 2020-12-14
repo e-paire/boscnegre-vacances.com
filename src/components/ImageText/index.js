@@ -1,8 +1,8 @@
 import PropTypes from "prop-types"
 import React, {Component} from "react"
-import {Image} from "src/components/Image"
-import {TextLink} from "src/components/TextLink"
 
+import {Image} from "../Image"
+import {TextLink} from "../TextLink"
 import styles from "./index.module.css"
 
 export const ImageText = ({cover, external, url, text}) => {

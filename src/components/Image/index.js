@@ -1,8 +1,8 @@
 import classNames from "classnames"
 import PropTypes from "prop-types"
 import React, {Component} from "react"
-import {getUrl} from "src/utils/urls"
 
+import {getUrl} from "../../utils/urls"
 import styles from "./index.module.css"
 
 const SITE_URL = "https://www.boscnegre-vacances.com"

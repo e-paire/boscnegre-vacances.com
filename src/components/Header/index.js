@@ -1,14 +1,14 @@
 import PropTypes from "prop-types"
 import React, {useState} from "react"
 import {injectIntl} from "react-intl"
-import BookingForm from "src/components/BookingForm"
-import {Image} from "src/components/Image"
-import {Nav} from "src/components/Nav"
-import {TextLink} from "src/components/TextLink"
-import {TopBar} from "src/components/TopBar"
-import {TopLogo} from "src/components/TopLogo"
-import {useLinks} from "src/hooks/use-links"
 
+import {useLinks} from "../../hooks/use-links"
+import BookingForm from "../BookingForm"
+import {Image} from "../Image"
+import {Nav} from "../Nav"
+import {TextLink} from "../TextLink"
+import {TopBar} from "../TopBar"
+import {TopLogo} from "../TopLogo"
 import styles from "./index.module.css"
 
 const Header = ({cover, intl, layoutToLink, slogan, text, title}) => {

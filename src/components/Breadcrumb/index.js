@@ -1,9 +1,9 @@
 import {Link} from "gatsby"
 import PropTypes from "prop-types"
 import React, {Component} from "react"
-import {Content} from "src/components/Content"
-import {useLinks} from "src/hooks/use-links"
 
+import {useLinks} from "../../hooks/use-links"
+import {Content} from "../Content"
 import styles from "./index.module.css"
 
 const Item = ({title, path}) => (

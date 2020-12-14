@@ -1,11 +1,11 @@
 import {graphql} from "gatsby"
 import React from "react"
-import {Breadcrumb} from "src/components/Breadcrumb"
-import {ContactForm} from "src/components/ContactForm"
-import {Content} from "src/components/Content"
-import {Html} from "src/components/Html"
-import {LayoutPage} from "src/layouts/page"
 
+import {Breadcrumb} from "../../components/Breadcrumb"
+import {ContactForm} from "../../components/ContactForm"
+import {Content} from "../../components/Content"
+import {Html} from "../../components/Html"
+import {LayoutPage} from "../../layouts/page"
 import styles from "./index.module.css"
 
 export default ({data: {page}}) => {

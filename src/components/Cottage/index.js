@@ -2,12 +2,12 @@ import PropTypes from "prop-types"
 import React from "react"
 import {Icon} from "react-fa"
 import {FormattedMessage, useIntl} from "react-intl"
-import {Content} from "src/components/Content"
-import {ExternalLink} from "src/components/ExternalLink"
-import {Html} from "src/components/Html"
-import {Image} from "src/components/Image"
-import {getUrl} from "src/utils/urls"
 
+import {getUrl} from "../../utils/urls"
+import {Content} from "../Content"
+import {ExternalLink} from "../ExternalLink"
+import {Html} from "../Html"
+import {Image} from "../Image"
 import styles from "./index.module.css"
 
 export const Cottage = ({

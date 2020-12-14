@@ -1,9 +1,10 @@
 import {graphql} from "gatsby"
 import React from "react"
-import {Content} from "src/components/Content"
-import {Html} from "src/components/Html"
-import {Services} from "src/components/Services"
-import {LayoutPage} from "src/layouts/page"
+
+import {Content} from "../../components/Content"
+import {Html} from "../../components/Html"
+import {Services} from "../../components/Services"
+import {LayoutPage} from "../../layouts/page"
 
 export default ({data: {page, services}}) => {
   return (

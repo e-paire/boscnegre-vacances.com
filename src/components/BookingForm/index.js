@@ -13,9 +13,9 @@ import React, {Component} from "react"
 import ReactDayPicker from "react-day-picker"
 import {Icon} from "react-fa"
 import {FormattedMessage, injectIntl} from "react-intl"
-import {Content} from "src/components/Content"
-import {getUrl} from "src/utils/urls"
 
+import {getUrl} from "../../utils/urls"
+import {Content} from "../Content"
 import styles from "./index.module.css"
 
 class BookingForm extends Component {

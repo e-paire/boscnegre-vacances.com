@@ -1,7 +1,8 @@
 import React from "react"
 import {Helmet} from "react-helmet"
-import {Container} from "src/components/Container"
-import {useSiteMetadata} from "src/hooks/use-site-metadata"
+
+import {Container} from "../components/Container"
+import {useSiteMetadata} from "../hooks/use-site-metadata"
 
 export default ({children, path}) => {
   const {siteUrl, title} = useSiteMetadata()

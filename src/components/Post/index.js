@@ -3,8 +3,8 @@ import PropTypes from "prop-types"
 import React from "react"
 import {Icon} from "react-fa"
 import {FormattedDate} from "react-intl"
-import {Image} from "src/components/Image"
 
+import {Image} from "../Image"
 import styles from "./index.module.css"
 
 export const Post = ({

@@ -1,14 +1,14 @@
 import {graphql} from "gatsby"
 import React from "react"
-import {CarouselImages} from "src/components/CarouselImages"
-import {Content} from "src/components/Content"
-import {Html} from "src/components/Html"
-import {Image} from "src/components/Image"
-import {Prices} from "src/components/Prices"
-import {PricesExamples} from "src/components/PricesExamples"
-import {Title} from "src/components/Title"
-import {LayoutPage} from "src/layouts/page"
 
+import {CarouselImages} from "../../components/CarouselImages"
+import {Content} from "../../components/Content"
+import {Html} from "../../components/Html"
+import {Image} from "../../components/Image"
+import {Prices} from "../../components/Prices"
+import {PricesExamples} from "../../components/PricesExamples"
+import {Title} from "../../components/Title"
+import {LayoutPage} from "../../layouts/page"
 import styles from "./index.module.css"
 
 export default ({data: {page}}) => {

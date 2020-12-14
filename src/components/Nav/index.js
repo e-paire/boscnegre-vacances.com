@@ -3,9 +3,9 @@ import classNames from "classnames"
 import {Link} from "gatsby"
 import PropTypes from "prop-types"
 import React, {useCallback} from "react"
-import {Content} from "src/components/Content"
-import {useLinks} from "src/hooks/use-links"
 
+import {useLinks} from "../../hooks/use-links"
+import {Content} from "../Content"
 import styles from "./index.module.css"
 
 export const Nav = ({open}) => {

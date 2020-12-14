@@ -1,8 +1,8 @@
 import PropTypes from "prop-types"
 import React, {Component} from "react"
-import {Carousel} from "src/components/Carousel"
-import {Image} from "src/components/Image"
 
+import {Carousel} from "../Carousel"
+import {Image} from "../Image"
 import styles from "./index.module.css"
 
 class CarouselImages extends Component {

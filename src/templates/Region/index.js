@@ -1,10 +1,11 @@
 import {graphql} from "gatsby"
 import React from "react"
-import {Content} from "src/components/Content"
-import {Html} from "src/components/Html"
-import {Map} from "src/components/Map"
-import {Title} from "src/components/Title"
-import {LayoutPage} from "src/layouts/page"
+
+import {Content} from "../../components/Content"
+import {Html} from "../../components/Html"
+import {Map} from "../../components/Map"
+import {Title} from "../../components/Title"
+import {LayoutPage} from "../../layouts/page"
 
 export default ({data: {page}}) => {
   const {coordinates} = page.frontmatter
