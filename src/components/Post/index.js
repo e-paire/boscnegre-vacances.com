@@ -13,13 +13,10 @@ export const Post = ({
     frontmatter: {cover, date, title, tags},
   },
 }) => {
-  // const postDate = new Date(date)
   return (
     <Link to={path} className={styles.post} key={path}>
       <div className={styles.cover}>
-        {cover && (
-          <Image src={cover.image} alt={cover.alt} className={styles.image} />
-        )}
+        {cover && <Image {...cover} />}
         <span className={styles.tags}>{tags.join(", ")}</span>
       </div>
       <div className={styles.content}>
@@ -71,7 +68,13 @@ export const query = graphql`
     frontmatter {
       date
       cover {
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         alt
       }
       title

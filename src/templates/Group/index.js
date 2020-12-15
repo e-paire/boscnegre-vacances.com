@@ -38,7 +38,13 @@ export const query = graphql`
       frontmatter {
         imagesTitle
         images {
-          image
+          image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
           alt
         }
         pricesExamples {

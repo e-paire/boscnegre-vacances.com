@@ -70,3 +70,23 @@ exports.createPages = async ({graphql, actions: {createPage}, reporter}) => {
     console.error(e)
   }
 }
+
+exports.createSchemaCustomization = ({actions}) => {
+  const {createTypes} = actions
+  const typeDefs = `
+    type Cover {
+      alt: String
+      image: File
+    }
+
+    type Frontmatter {
+      cover: Cover
+    }
+
+    type MarkdonwRemark implements Node {
+      frontmatter: Frontmatter
+
+    }
+  `
+  createTypes(typeDefs)
+}

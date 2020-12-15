@@ -28,7 +28,13 @@ export const query = graphql`
       ...PageFragment
       frontmatter {
         images {
-          image
+          image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
           alt
         }
       }

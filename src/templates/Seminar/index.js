@@ -23,11 +23,10 @@ export default ({data: {page}}) => {
       <Content>
         {services &&
           services.map((service, i) => {
-            const {alt, image} = service.cover
             return (
               <div key={i} className={styles.service}>
                 <div className={styles.cover}>
-                  <Image src={image} alt={alt} />
+                  <Image {...service.cover} />
                 </div>
                 <div className={styles.content}>
                   <div className={styles.description}>
@@ -57,12 +56,24 @@ export const query = graphql`
       ...PageFragment
       frontmatter {
         images {
-          image
+          image {
+            childImageSharp {
+              fluid(maxWidth: 800) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
           alt
         }
         prices {
           cover {
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             alt
           }
           text
@@ -75,7 +86,13 @@ export const query = graphql`
         services {
           description
           cover {
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             alt
           }
         }

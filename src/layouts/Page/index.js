@@ -85,7 +85,13 @@ export const query = graphql`
     }
     frontmatter {
       cover {
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         alt
       }
       title

@@ -38,13 +38,13 @@ class CarouselImages extends Component {
       images &&
       images.length > 0 && (
         <Carousel theme={theme}>
-          {images.map(({image, alt}, i) => (
+          {images.map((image, i) => (
             <div
               key={i}
               className={styles.image}
               onClick={() => this.handleOpenLightbox(i)}
             >
-              <Image src={image} alt={alt} />
+              <Image {...image} />
             </div>
           ))}
         </Carousel>

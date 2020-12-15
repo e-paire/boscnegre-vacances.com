@@ -4,9 +4,11 @@ position: 1
 route: "/tous-les-gites"
 metaTitle: Tous les gîtes de charme du Bosc Nègre village de gites
 navTitle: Les gîtes
-metaDescription: 'Choissisez le gîte qui vous correspond le mieux pour vous prochaines
-  vacances avec votre famille, vos amis ou bien entre votre club de sport. '
-slogan: Location de gîte dans le Lot-et-Garonne, limitrophe Dordogne. Ouvert toute
+metaDescription:
+  "Choissisez le gîte qui vous correspond le mieux pour vous prochaines
+  vacances avec votre famille, vos amis ou bien entre votre club de sport. "
+slogan:
+  Location de gîte dans le Lot-et-Garonne, limitrophe Dordogne. Ouvert toute
   l'année
 cover:
   image: "/uploads/photo%20%20Bosc%20N%C3%A8gre%20NUMERote.jpg"
@@ -20,7 +22,7 @@ Au village de vacances du Bosc Nègre, vous avez le choix entre 23 gîtes en pie
 
 Chaque gîte a une qualité particulière ce qui les rend unique en leur genre. Vous souhaitez être proche des activités ou au contraire au calme en plein milieu de la forêt ? Nous avons un gîte de charme pour chacune de vos préférences.
 
-## Les tarifs 
+## Les tarifs
 
 Trouvez les [tarifs saison 2021 en pdf](https://www.fichier-pdf.fr/2020/10/03/bosc-negre-village-de-vacances-tarifs-2021) en cliquant sur le lien, ou bien allez directement sur [le site de réservation en ligne](https://boscnegrevacancesfr.premium.secureholiday.net/fr/14230/#) pour calculer le total de votre séjour, sans obligation de réservation immédiat.
 Si vous avez envie de réserver, mais vous ne pouvez pas encore confirmer? N'hésitez pas de nous contacter par mail pour mettre une option.

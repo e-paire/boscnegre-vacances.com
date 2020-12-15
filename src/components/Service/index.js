@@ -12,9 +12,7 @@ export const Service = ({
 }) => {
   return (
     <div className={styles.service}>
-      {cover && (
-        <Image className={styles.image} src={cover.image} alt={cover.alt} />
-      )}
+      {cover && <Image className={styles.image} {...cover} />}
       <div className={styles.overlay} />
       <div className={styles.title}>{title}</div>
     </div>
@@ -35,7 +33,13 @@ export const query = graphql`
   fragment ServiceFragment on MarkdownRemark {
     frontmatter {
       cover {
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         alt
       }
       title

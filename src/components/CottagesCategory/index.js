@@ -10,9 +10,7 @@ import styles from "./index.module.css"
 export const CottagesCategory = ({path, cover, priceMin, title}) => {
   return (
     <div className={styles.category}>
-      <div className={styles.image}>
-        {cover && <Image src={cover.image} alt={cover.alt} />}
-      </div>
+      {cover && <Image className={styles.image} {...cover} />}
       <Link to={path} className={styles.content}>
         <div className={styles.title}>{title}</div>
         <div className={styles.from}>
@@ -52,7 +50,13 @@ export const query = graphql`
     frontmatter {
       title
       cover {
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         alt
       }
       priceMin

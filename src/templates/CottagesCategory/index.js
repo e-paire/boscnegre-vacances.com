@@ -32,7 +32,13 @@ export const query = graphql`
           title
           description
           cover {
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             alt
           }
           beds

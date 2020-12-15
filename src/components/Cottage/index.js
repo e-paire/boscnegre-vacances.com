@@ -22,7 +22,7 @@ export const Cottage = ({
   return (
     <div className={styles.cottage}>
       <div className={styles.cover}>
-        <Image src={cover.image} alt={cover.alt} />
+        <Image {...cover} />
       </div>
       <div className={styles.content}>
         <div className={styles.text}>

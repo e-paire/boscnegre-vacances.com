@@ -41,7 +41,13 @@ export const query = graphql`
         gallery {
           title
           images {
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             alt
           }
         }

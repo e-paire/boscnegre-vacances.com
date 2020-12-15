@@ -37,7 +37,13 @@ export const query = graphql`
       frontmatter {
         offers {
           cover {
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             alt
           }
           text

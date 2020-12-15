@@ -27,13 +27,9 @@ const Header = ({cover, intl, layoutToLink, slogan, text, title}) => {
       <div className={styles.nav}>
         <Nav open={isOpen} />
       </div>
-      {cover && (
+      {cover.image && (
         <div className={styles.photo}>
-          <Image
-            src={cover.image}
-            alt={cover.alt}
-            sizes={["256", "512", "1024", "2048"]}
-          />
+          <Image {...cover} />
           {title && <h1 className={styles.title}>{title}</h1>}
           {text && layoutToLink && links.pages[layoutToLink] && (
             <div className={styles.text}>

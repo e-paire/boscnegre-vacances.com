@@ -15,7 +15,7 @@ export default () => {
     fields: {},
     frontmatter: {
       cover: {
-        image: coverImage,
+        image: null /* TODO */,
         alt: "woods",
       },
       title: "404",

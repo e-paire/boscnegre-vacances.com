@@ -8,14 +8,7 @@ import styles from "./index.module.css"
 export const ImageText = ({cover, external, url, text}) => {
   return (
     <div className={styles.wrapper}>
-      {cover && (
-        <Image
-          className={styles.image}
-          src={cover.image}
-          alt={cover.alt}
-          sizes={["256", "512", "1024", "2048"]}
-        />
-      )}
+      {cover && <Image className={styles.image} {...cover} />}
       <div className={styles.content}>
         <TextLink text={text} url={url} external={external} />
       </div>
