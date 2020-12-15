@@ -5,8 +5,7 @@ const urls = {
       "https://www.camping2be.com/france/lacapelle-biron/avis-clients-village-de-vacances-bosc-negre",
     cloudinary_fetch: "https://res.cloudinary.com/dlpszeeyh/image/fetch",
     facebook: "https://www.facebook.com/BoscNegre",
-    secureholiday:
-      "https://boscnegrevacancesfr.premium.secureholiday.net/fr/14230",
+    secureholiday: "https://bookingpremium.secureholiday.net/fr/14230",
     tripadvisor:
       "https://www.tripadvisor.fr/Hotel_Review-g1856959-d2058207-Reviews-Village_de_vacances_Bosc_Negre-Lacapelle_Biron_Lot_et_Garonne_Nouvelle_Aquitaine.html",
     villagedegites: "http://www.villagesdegites.fr/",

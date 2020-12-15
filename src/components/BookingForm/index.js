@@ -180,7 +180,7 @@ class BookingForm extends Component {
     return `${getUrl(
       "secureholiday",
       intl.locale
-    )}/result?arrivalDate=${arrivalDate}&departureDate=${departureDate}`
+    )}/Search/travelers?dateStart=${arrivalDate}&dateEnd=${departureDate}`
   }
 
   render() {
