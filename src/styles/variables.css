@@ -10,6 +10,6 @@
   --zIndex-sticky: 1;
   --zIndex-overlay: 2;
   --zIndex-dropdown: 3;
-  --zIndex-logo: 4;
-  --zIndex-nav: 5;
+  --zIndex-nav: 4;
+  --zIndex-logo: 5;
 }
