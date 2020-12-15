@@ -67,12 +67,11 @@ class Image extends Component {
     return (
       <div className={classNames(styles.wrapper, className)}>
         <img
-          className={classNames(styles.image, loaded && styles.image_loaded)}
+          className={styles.image}
           src={this.getSrc()}
           srcSet={this.getSrcSet()}
           sizes="100vw"
           alt={alt}
-          onLoad={this.handleLoaded}
         />
       </div>
     )
