@@ -18,7 +18,7 @@ Au Bosc Nègre, vos hôtes sont Coby & Alfred. C'est avec plaisir que nous répo
 \
 **Assurance annulation**\
 ANNULATION
-Toute annulation 42 jours ou plus avant l’entrée dans les lieux, les acomptes versés restent acquis au propriétaire, sauf si celui-ci trouve un nouveau locataire pour la période. Si cette annulation intervient dans un délai inférieur à 42 jours avant l’entrée dans les lieux, 100 % du séjour reste dû. 
+Toute annulation 42 jours ou plus avant l’entrée dans les lieux, les acomptes versés restent acquis au propriétaire, sauf si celui-ci trouve un nouveau locataire pour la période. Si cette annulation intervient dans un délai inférieur à 42 jours avant l’entrée dans les lieux, 100 % du séjour reste dû. \
 **Pour les réservations en 2021**
 En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, l’acompte versé sera transformé en avoir, qui pourra être utilisé ultérieurement.
 Les conditions générales de location standards s’appliquent sur toutes les réservations nous vous conseillons donc fortement de souscrire à une assurance annulation lors de votre réservation afin de faire face à tout imprévu.
