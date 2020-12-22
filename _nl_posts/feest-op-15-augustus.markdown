@@ -2,7 +2,7 @@
 title: Feest op 15 augustus
 date: 2017-02-15 08:32:00 +01:00
 tags:
-  - activiteiten zomer
+- activiteiten zomer
 route: nl/feest-op-15-augustus
 metaTitle: Midddeleeuwse feesten op 15 augustus in Monflanquin
 navTitle: Feest Monflanquin
