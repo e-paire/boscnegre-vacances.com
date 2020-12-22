@@ -18,13 +18,11 @@ Au Bosc Nègre, vos hôtes sont Coby & Alfred. C'est avec plaisir que nous répo
 \
 **Assurance annulation**\
 ANNULATION
-En cas de désistement une notification immédiate par lettre recommandée est obligatoire. En cas d’annulation la totalité du séjour reste dû. L’assurance ADAR peut prendre en charge les frais du séjour dans les limites des clauses du contrat.
-**Pour les réservations en 202**
-En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, la location versé sera transformé en avoir, qui pourra être utilisé ultérieurement.
+Toute annulation 42 jours ou plus avant l’entrée dans les lieux, les acomptes versés restent acquis au propriétaire, sauf si celui-ci trouve un nouveau locataire pour la période. Si cette annulation intervient dans un délai inférieur à 42 jours avant l’entrée dans les lieux, 100 % du séjour reste dû. 
+**Pour les réservations en 2021**
+En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, l’acompte versé sera transformé en avoir, qui pourra être utilisé ultérieurement.
 Les conditions générales de location standards s’appliquent sur toutes les réservations nous vous conseillons donc fortement de souscrire à une assurance annulation lors de votre réservation afin de faire face à tout imprévu.
-Veuillez trouver l’assurance de voyage conseillé par notre hébergement(aussi pour groupes, voir la dernière réponse en bas de la page sous FAQ):
-
-Vous recherchez une assurance annulation, responsabilité civile locative (casse...),\
+Veuillez trouver l’assurance de voyage conseillé par notre hébergement (assurance annulation, responsabilité civile locative, casse...),\
 Le cabinet ALBINET via son site ADAR vous propose une solution adaptée à vos besoins\
 [Cliquez pour obtenir le montant de votre prime](http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?id=641500)
 
