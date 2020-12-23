@@ -1,4 +1,6 @@
 const {resolve} = require("path")
+const remark = require("remark")
+const remarkHTML = require("remark-html")
 
 exports.onCreateNode = async ({node, actions: {createNodeField}}) => {
   if (node.internal.type === "MarkdownRemark") {
@@ -27,6 +29,16 @@ exports.onCreateNode = async ({node, actions: {createNodeField}}) => {
       name: "locale",
       value: locale,
     })
+
+    if (node.frontmatter.cottages) {
+      node.frontmatter.cottages = node.frontmatter.cottages.map((cottage) => ({
+        ...cottage,
+        description: remark()
+          .use(remarkHTML)
+          .processSync(cottage.description)
+          .toString(),
+      }))
+    }
   }
 }
 

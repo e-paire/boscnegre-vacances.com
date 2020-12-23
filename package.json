@@ -60,6 +60,8 @@
     "react-images": "^0.5.2",
     "react-intl": "^5.10.6",
     "react-slick": "^0.14.11",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1",
     "slick-carousel": "^1.6.0"
   }
 }
