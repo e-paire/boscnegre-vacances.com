@@ -9,12 +9,17 @@ import {Offers} from "../../components/Offers"
 import {Services} from "../../components/Services"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page, services, groups}}) => {
+export default ({data: {page, services, groups, cottagesCategories}}) => {
   const {offers} = page.frontmatter
   return (
     <LayoutPage page={page} withBreadcrumb={false}>
       <Content>
-        <CottagesCategories />
+        <CottagesCategories
+          cottagesCategories={cottagesCategories.nodes.map((node) => ({
+            ...node.fields,
+            ...node.frontmatter,
+          }))}
+        />
       </Content>
       <Offers cover={offers.cover} text={offers.text} />
       <Content>
@@ -42,6 +47,15 @@ export const query = graphql`
           }
           text
         }
+      }
+    }
+    cottagesCategories: allMarkdownRemark(
+      filter: {
+        fields: {locale: {eq: $locale}, template: {eq: "CottagesCategory"}}
+      }
+    ) {
+      nodes {
+        ...CottagesCategoryFragment
       }
     }
     services: allMarkdownRemark(
