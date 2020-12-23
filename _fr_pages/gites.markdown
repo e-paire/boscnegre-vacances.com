@@ -22,7 +22,7 @@ Chaque gîte a une qualité particulière ce qui les rend unique en leur genre. 
 
 ## Les tarifs 
 
-Trouvez les [tarifs saison 2021 en pdf](https://www.fichier-pdf.fr/2020/10/03/bosc-negre-village-de-vacances-tarifs-2021) en cliquant sur le lien, ou bien allez directement sur [le site de réservation en ligne](https://boscnegrevacancesfr.premium.secureholiday.net/fr/14230/#) pour calculer le total de votre séjour, sans obligation de réservation immédiat.
+Trouvez les [tarifs saison 2021 en pdf](https://www.fichier-pdf.fr/2020/10/03/bosc-negre-village-de-vacances-tarifs-2021) en cliquant sur le lien, ou bien allez directement sur [le site de réservation en ligne](https://bookingpremium.secureholiday.net/fr/14230) pour calculer le total de votre séjour, sans obligation de réservation immédiat.
 Si vous avez envie de réserver, mais vous ne pouvez pas encore confirmer? N'hésitez pas de nous contacter par mail pour mettre une option.
 
 ## Equipement complets des gîtes

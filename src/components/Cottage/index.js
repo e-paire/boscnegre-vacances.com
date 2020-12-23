@@ -54,7 +54,7 @@ export const Cottage = ({
           href={`${getUrl(
             "secureholiday",
             intl.locale
-          )}/product.popup?idProduct=${ctoutvertId}`}
+          )}/Search/product/${ctoutvertId}`}
         >
           <FormattedMessage id="buttons.check_prices" />
         </ExternalLink>

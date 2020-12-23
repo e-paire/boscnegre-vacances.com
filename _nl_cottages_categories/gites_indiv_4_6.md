@@ -32,7 +32,7 @@ cottages:
     we u terug naar de algemene informatie van de [vakantiehuisjes](/nl/vakantiehuis/).\n\nZo
     ziet u, alle functies van deze vakantiehuisjes op Bosc Nègre zijn kindvriendelijk.
     En bovenal, hebben de kinderen het naar de zin? dan is uw vakantiegeluk gewaarborgd.\n\nMeer
-    weten over Gites du lac [beschikbaarheid, prijzen en fotos](https://premium.secureholiday.net/fr/14230/product.popup?idProduct=63377) "
+    weten over Gites du lac [beschikbaarheid, prijzen en fotos](https://bookingpremium.secureholiday.net/fr/14230/Search/product/63377) "
   cover:
     image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
     alt: Vakantiehuisjes gîtes du Lac op de Bosc Negre
@@ -49,7 +49,7 @@ cottages:
 
     In de eerste slaapkamer is een tweepersoonsbed, in de tweede slaapkamer zijn twee 1 persoonsbedden. Voor de overige indeling verwijzen we u terug naar de algemene pagina van de [vakantiehuisjes](/nl/vakantiehuis/)
 
-    Meer weten over Gite de la fôret [beschikbaarheid, tarieven en fotos](https://premium.secureholiday.net/fr/14230/product.popup?idProduct=63379)
+    Meer weten over Gite de la fôret [beschikbaarheid, tarieven en fotos](https://bookingpremium.secureholiday.net/fr/14230/Search/product/63379)
   cover:
     image: "/uploads/gite_14_Bosc_Negre.jpg"
     alt: Vakantiehuisje 14 midden in het bos op de Bosc Negre

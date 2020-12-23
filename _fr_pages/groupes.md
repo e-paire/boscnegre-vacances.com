@@ -27,4 +27,4 @@ Afin de rendre votre séjour le plus agréable et détendu possible, nous vous p
 Que vous souhaitiez organiser un séminaire, fêter un anniversaire, organiser un séjour sportif ou bien faire une sortie classe découverte avec votre centre de loisirs ou votre classe, nous proposons un budget adapté à vos besoins et à vos envies.
 Vous pouvez inclure les options de votre choix dans la formule comme la location de draps et kit de linge de toilette.
 
-[Plus d’informations sur les tarifs de groupe](https://boscnegrevacancesfr.premium.secureholiday.net/fr/14230/product.popup?idProduct=64801) ou [contactez nous directement](/contact/)."
+[Plus d’informations sur les tarifs de groupe](https://bookingpremium.secureholiday.net/fr/14230/Search/product/64801) ou [contactez nous directement](/contact/)."
