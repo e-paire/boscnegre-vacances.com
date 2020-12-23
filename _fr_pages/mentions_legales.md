@@ -21,7 +21,7 @@ Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUTVERT.
 
 - Numéro de déclaration simplifiée Cnil : 1567012v0
 
-- Siège social : 376 Chemin du Bosc Negre, 47150 à Lacapelle-Biron
+- Siège social : 376 Chemin du Bosc Nègre, 47150 à Lacapelle-Biron
 
 - Téléphone : 05.53.40.99.27
 

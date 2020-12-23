@@ -31,8 +31,8 @@ export const Footer = () => {
             <div className={styles.addressWrapper}>
               <Logo className={styles.logo} />
               <div className={styles.address}>
-                <div>{"Hameau de Bosc Nègre"}</div>
-                <div>{"Bois de las putas"}</div>
+                <div>{"Bosc Nègre Village de Vacances"}</div>
+                <div>{"376 Chemin du Bosc Nègre"}</div>
                 <div>{"47150 Lacapelle-Biron"}</div>
                 <div>{"Nouvelle-Aquitaine"}</div>
                 <div>{"France"}</div>
