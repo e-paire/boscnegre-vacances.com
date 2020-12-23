@@ -20,7 +20,7 @@ layout: Post
 
 Vous me connaissez en tant que personne impliquée dans une alimentation saine. Au restaurant, j’aime partager mes conseils pour adopter de meilleures habitudes alimentaires grâce à quelques gestes simples. Celles-ci nous rendent non seulement en meilleure santé, mais également en meilleure forme physique et nous aident à retrouver facilement un poids idéal. 
 
-Vélo, yoga, tai-chi, [jogging], marche… Alfred et moi n’avons pas seulement mis ces activités sportives et de bien-être sur notre planning personnel mais nous les avons aussi déjà ajoutées depuis des années à la planification des [activités estivales] (https://www.boscnegre-vacances.com/animations/).
+Vélo, yoga, tai-chi, [jogging], marche… Alfred et moi n’avons pas seulement mis ces activités sportives et de bien-être sur notre planning personnel mais nous les avons aussi déjà ajoutées depuis des années à la planification des [activités estivales](https://www.boscnegre-vacances.com/animations/).
 
 ## Bien-être
 Pour encore plus de bien-être pendant vos vacances, j’ai le plaisir d’ajouter une nouvelle activité à votre expérience au Bosc Nègre.
@@ -39,8 +39,8 @@ Vous êtes curieux ?
 En route pour un été détendu !
 
 ## Lire plus sur la détente pendant vos vacances au Bosc Nègre :
-Détente et bien-être avec une séance de [sauna] (https://www.boscnegre-vacances.com/sauna/) et passage à la piscine chauffée.
+Détente et bien-être avec une séance de [sauna](https://www.boscnegre-vacances.com/sauna/) et passage à la piscine chauffée.
 
 ## Massage	
-Rappelez-vous qu'une séance de massage est également possible, nous vous avons déjà parlé de [massage] (https://www.boscnegre-vacances.com/massage/). Un succès retentissant depuis des années grâce au savoir-faire de nos masseuses.
+Rappelez-vous qu'une séance de massage est également possible, nous vous avons déjà parlé de [massage](https://www.boscnegre-vacances.com/massage/). Un succès retentissant depuis des années grâce au savoir-faire de nos masseuses.
 

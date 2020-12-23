@@ -46,12 +46,12 @@ La probabilité que vous rencontriez d’autres personnes ayant le même loisir 
 ### Waterpolo, lisez Waterrugby 😊
 
 Vos amis vous ont parlé du **Village de vacances Bosc Nègre** ? Ils vous alors certainement parlé de [l’activité waterpolo](https://www.boscnegre-vacances.com/waterpolo/). C’est hilarant. Comme des joueurs de rugby ils se battent pour la balle tous les mardi après-midi. Même les femmes les plus courageuses participent à cet événement.
-Heureusement que les calories perdues peuvent être reprises le soir au [restaurant] (https://www.boscnegre-vacances.com/restaurant/) quand un repas convivial et délicieux est servi, aux côtés des autres chahuteurs.
+Heureusement que les calories perdues peuvent être reprises le soir au [restaurant](https://www.boscnegre-vacances.com/restaurant/) quand un repas convivial et délicieux est servi, aux côtés des autres chahuteurs.
 
 ### Après l’effort le réconfort
 
 Après tous ces efforts vous méritez un peu de détente.
-Au début de votre semaine de vacances, réservez un [massage] (https://www.boscnegre-vacances.com/massage/) ou venez au yoga le vendredi matin pour quelques étirements et exercices de souplesse.
+Au début de votre semaine de vacances, réservez un [massage](https://www.boscnegre-vacances.com/massage/) ou venez au yoga le vendredi matin pour quelques étirements et exercices de souplesse.
 
 ### etc etc
 

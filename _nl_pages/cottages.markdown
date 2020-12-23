@@ -31,21 +31,21 @@ Heeft u zin om te boeken, maar zijn er factoren die nog onzeker zijn? Neem dan c
 ## Indeling van de volledig ingericht gite
 De vakantiehuisjes zijn allemaal verschillend gelegen en u kunt kiezen uit verschillende niveaus van comfort en grootte. Standaard zijn ze voorzien van alle voorzieningen om te koken: een keuken met koelkast, magnetron, koffiezet apparaat (filter), kookplaten en pannen. Voorzien van eettafel en in de hoek een slaapbank voor twee personen. Ieder huisje heeft een badkamer met douche (tenzij anders vermeld) en een apart toilet (tenzij anders vermeld). Ieder huisje heeft een **barbecue** of een gedeelde vaste barbecue. 
 
-Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het restaurant of iets af te halen. Lekker voor je laten koken, dat willen we toch allemaal? Bij de bar van [restaurant Bosc Nègre] (nl/restaurant/) kunt u zich dagelijks inschrijven voor een dagmenu of maaltijd à la carte. 
+Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het restaurant of iets af te halen. Lekker voor je laten koken, dat willen we toch allemaal? Bij de bar van [restaurant Bosc Nègre](nl/restaurant/) kunt u zich dagelijks inschrijven voor een dagmenu of maaltijd à la carte. 
 
 ## Kies een vakantiehuisje die bij u past op één van de volgende pagina’s:
-Een gezin met  2 kinderen onder de 8 : [Gites du lac] (/nl/vrijstaande-vakantiehuisjes-4-6/)
+Een gezin met  2 kinderen onder de 8 : [Gites du lac](/nl/vrijstaande-vakantiehuisjes-4-6/)
 
 Als u kiest voor de rust van een boshuisje [Gite de la forêt](/nl/vrijstaande-vakantiehuisjes-4-6/)
 
-Een gezin met 3 kinderen onder de 10 : [Gites du pré] (/nl/vrijstaande-vakantiehuisjes-5-7/)
+Een gezin met 3 kinderen onder de 10 : [Gites du pré](/nl/vrijstaande-vakantiehuisjes-5-7/)
 
 Een gezin met 3 kinderen onder de 16 : [Gites du pré op de heuvel]  (/nl/vrijstaande-vakantiehuisjes-5-7/)
 
-Samen met vrienden op vakantie:  [Gites la Bergerie] (/nl/geschakelde-vakantiehuisjes-5-7/)
+Samen met vrienden op vakantie:  [Gites la Bergerie](/nl/geschakelde-vakantiehuisjes-5-7/)
 
-Samen met vrienden een huisje delen: [Gites la Ferme  7/9 pers] (/nl/geschakelde-vakantiehuisjes-7-9/)
+Samen met vrienden een huisje delen: [Gites la Ferme  7/9 pers](/nl/geschakelde-vakantiehuisjes-7-9/)
 
-Een samengesteld of groot gezin : [Gites la Ferme  7/9 pers] (/nl/geschakelde-vakantiehuisjes-7-9/)
+Een samengesteld of groot gezin : [Gites la Ferme  7/9 pers](/nl/geschakelde-vakantiehuisjes-7-9/)
 
-Een gezin met jonge kinderen: [Gites la Ferme 5/7 pers] (/nl/geschakelde-vakantiehuisjes-5-7/)
+Een gezin met jonge kinderen: [Gites la Ferme 5/7 pers](/nl/geschakelde-vakantiehuisjes-5-7/)

@@ -91,7 +91,7 @@ Bekijk de kaart met alle mooie plaatsen die u kunt bezoeken tijdens uw **vakanti
 
 ## De bezienswaardigheden in de Dordogne en de Lot en Garonne.
 
-Het gebied staat bekend om haar authentieke karakter. Dit is terug te vinden in het nabijgelegen dorpje Saint Avit bijvoorbeeld, in kasteel Biron of de Donjon van Gavaudun. Ze zijn allen op loopafstand van Bosc Nègre gelegen. Vele wandelpaden leiden naar deze authentieke plaatsen. Vergeet niet een wandelkaart mee te nemen, of vraag ernaar in de receptie. [Kasteel Bonaguil] (http://www.chateau-bonaguil.com) is één van de mooiste vesting kastelen van Frankrijk. Deze vesting is te bezichtigen met Nederlandse gids en zeker de moeite waard, u maakt hier de prachtigste fotos.
+Het gebied staat bekend om haar authentieke karakter. Dit is terug te vinden in het nabijgelegen dorpje Saint Avit bijvoorbeeld, in kasteel Biron of de Donjon van Gavaudun. Ze zijn allen op loopafstand van Bosc Nègre gelegen. Vele wandelpaden leiden naar deze authentieke plaatsen. Vergeet niet een wandelkaart mee te nemen, of vraag ernaar in de receptie. [Kasteel Bonaguil](http://www.chateau-bonaguil.com) is één van de mooiste vesting kastelen van Frankrijk. Deze vesting is te bezichtigen met Nederlandse gids en zeker de moeite waard, u maakt hier de prachtigste fotos.
 
 In de omgeving heten de meeste dorpen een bastide. Een bastide is een vestingstadje uit de middeleeuwen, in de harde strijd tegen de Engelsen kon men in de strategisch gelegen dorpen de inwoners goed beschermen. Vanaf de kerktoren was het dorp met z’n rechte straten gemakkelijk te verdedigen. **Monflanquin**, **Monpazier**, **Villefranche du Périgord** en **Villeréal** zijn er voorbeelden van. De dorpen hadden ook zeker een economisch reden van bestaan. Het was een trefplaats voor markten en beurzen. Deze markten bestaan al 8 eeuwen en zijn heden de meest gezellige markten waar we prachtige en overheerlijke producten vinden van deze streek. **Issigeac** is op zondagmorgen de meest idyllische markt van deze streek.
 
@@ -101,6 +101,6 @@ Langs de Lot vinden we een ['Veloroute'](http://http://www.vallee-lot-47.eu/cart
 
 De regio staat ook bekend om zijn gastronomische keuken. Eveneens bevindt u zich hier tussen de wijngebieden van Duras, Bergerac en Cahors! Reizend door de wijnstreek van Bergerac dan zult u vanzelf stuiten op één van de vele 'chateau' op de [Route de vin](https://routedesvinsdebergerac.jimdo.com/) Vanzelfsprekend vindt u vele van de lokale specialiteiten terug in ons [restaurant](/nl/restaurant/).
 
-Voor meer informatie over de regio, bekijk dan de website [van Tourist Information Fumel Vallée du Lot] (http://www.tourisme-fumel.com).
+Voor meer informatie over de regio, bekijk dan de website [van Tourist Information Fumel Vallée du Lot](http://www.tourisme-fumel.com).
 
 **Lacapelle-Biron** (op 2 km van ons park) heeft alle voorzieningen: winkels, apotheek, arts, restaurants, garage, enz. De bakker bezorgt iedere morgen vers brood, traditioneel gebakken in een watermolen.

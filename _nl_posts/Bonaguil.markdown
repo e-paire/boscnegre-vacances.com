@@ -26,7 +26,7 @@ De vakantie is er voor om helemaal niets te doen, maar een beetje cultuursnuiven
 Een bezoek aan van de middeleeuwse kastelen zal jong en oud plezieren. De kinderen zullen genieten van de kastelen waar we ons wanen in de riddertijd. Met een pijl en boog of een kruisboog gaat hun fantasie nog meer op hol.
 Kastelen zijn er te kust en te keur, teveel om op te noemen.
 
-Ons departement, de Lot-en-Garonne, kan trots zijn op de mooiste burcht van Frankrijk : [Bonaguil] (http://www.chateau-bonaguil.com/)  uit de 13e eeuw. Op enkel 20 minuten rijden kunt u dit ontdekken.
+Ons departement, de Lot-en-Garonne, kan trots zijn op de mooiste burcht van Frankrijk : [Bonaguil](http://www.chateau-bonaguil.com/)  uit de 13e eeuw. Op enkel 20 minuten rijden kunt u dit ontdekken.
 Parkeert u aan de voet van het kasteel, dan kunt u genieten van de boetiekjes en een theehuis op de weg naar boven, verwondert u zich van de schoonheid en de authenticiteit van het pad naar boven en bezoek het kasteel van het grottenstelsel tot aan bovenaan de Donjon waar u beloond met een verbijsterend uitzicht!
 
 Bent een fan van fotograferen en wilt u de mooiste kiekjes dan is dit kasteel zeker de moeite waard. ‘s Morgens in bijzonder als de zon een prachtige kleur geeft door de schietgaten op de gele kalksteenmuren.

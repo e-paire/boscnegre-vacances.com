@@ -29,6 +29,6 @@ Deze meningen worden geschreven nadat onze gasten hebben genoten van hun vakanti
 Wellicht heeft ieder huisje een negatieve puntje, ieder huisje heeft toch zeker en puntje verbetering? En dat waarderen wij ten sterkste.
 Door uw meningen proberen wij ons voortdurend te verbeteren. 
 
-Vergelijk dat met de resultaten van [Zoover] (https://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark) om een goed totaalbeeld te krijgen alvorens te boeken.
+Vergelijk dat met de resultaten van [Zoover](https://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark) om een goed totaalbeeld te krijgen alvorens te boeken.
 
 Toch nog vraagtekens? App dan even met de receptie :  +33 6 70 54 70 39 

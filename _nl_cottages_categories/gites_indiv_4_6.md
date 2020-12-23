@@ -45,7 +45,7 @@ cottages:
 
     Op **vakantiepark Bosc Nègre** zijn de huisjes verschillend van sfeer en van ligging. Dit boshuisje is bij uitstek geschikt voor ouders die een compromis zoeken tussen een 'hutje op de hei' en een vakantiepark bomvol activiteiten voor hun kinderen. Geniet van dit 4 persoonshuisje te midden van de schaduwrijke plekken onder de eikenbomen.
 
-    Echt een toppertje om voor honderd procent te genieten van de natuur. Een hertje zou zomaar uw terras kunnen passeren. Hebt u een hond die het liefst de koelte van de bomen zoekt in het zonnige Franse zuiden? Voor hem een lange lijn en voor u een hangmat en is het tijd voor uw welverdiende rust. De kinderen zullen ondertussen genieten van alle \[activiteiten\] (/nl/animatie) die worden aangeboden en profiteren van het spelen met hun vriendje.
+    Echt een toppertje om voor honderd procent te genieten van de natuur. Een hertje zou zomaar uw terras kunnen passeren. Hebt u een hond die het liefst de koelte van de bomen zoekt in het zonnige Franse zuiden? Voor hem een lange lijn en voor u een hangmat en is het tijd voor uw welverdiende rust. De kinderen zullen ondertussen genieten van alle \[activiteiten\](/nl/animatie) die worden aangeboden en profiteren van het spelen met hun vriendje.
 
     In de eerste slaapkamer is een tweepersoonsbed, in de tweede slaapkamer zijn twee 1 persoonsbedden. Voor de overige indeling verwijzen we u terug naar de algemene pagina van de [vakantiehuisjes](/nl/vakantiehuis/)
 
