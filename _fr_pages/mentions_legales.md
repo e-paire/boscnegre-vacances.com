@@ -21,7 +21,7 @@ Le site http://www.boscnegre-vacances.com est la propriété du SARL HAUTVERT.
 
 - Numéro de déclaration simplifiée Cnil : 1567012v0
 
-- Siège social : Bosc Nègre bois de las putas 47150 à Lacapelle-Biron
+- Siège social : 376 Chemin du Bosc Negre, 47150 à Lacapelle-Biron
 
 - Téléphone : 05.53.40.99.27
 
@@ -34,7 +34,7 @@ Le nom de domaine est hébergé chez OVH
 Crédits Photos : propriété de SARL HAUTVERT
 
 CONDITIONS GENERALES DE LOCATION RESERVATION
-La location ne devient effective qu'une fois notre accord donné (Sous réserve des disponibilités), et après réception du versement de l'acompte de 30 % du montant total du séjour. L'assurance annulation de 3% par réservation est facultative, vous pouvez le souscrire directement sur notre site chez l'assurance ADAR. Le solde du séjour restant dû sera versé au plus tard 1 mois avant la date d'arrivée.
+La location ne devient effective qu'une fois notre accord donné (Sous réserve des disponibilités), et après réception du versement de l'acompte de 30 % du montant total du séjour. L'assurance annulation de 3% par réservation est facultative, vous pouvez le souscrire directement sur notre site chez l'assurance ADAR. Le solde du séjour restant dû sera versé au plus tard 6 semaines avant la date d'arrivée.
 CHARGES ET CONDITIONS
  D'entretenir les biens loués en bon état et les rendre en bon état en fin de location.
  De rendre en fin de location le logement en bon état de propreté, faute de quoi le bailleur procèdera au nettoyage pour un forfait fixé par année sur le tarif.
@@ -43,7 +43,7 @@ ANNULATION
 
 Nous vous conseillons fortement de prendre une assurance annulation, soit par vous-même, soit par nous.
 En cas d’annulation, il vous sera retenu, ou vous resterez devoir à titre d’indemnité de rupture du contrat :
-Soit : un montant égal à 25% du coût intégral du séjour, si vous annulez plus de 42 jours avant la date prévue d’arrivée ;
+Soit : un montant égal à 30% du coût intégral du séjour, si vous annulez plus de 42 jours avant la date prévue d’arrivée ;
 Soit : un montant égal au total du séjour, si vous annulez moins de 42 jours avant la date prévue d’arrivée, ou si vous ne vous présentez pas à cette date.
 
 Tout retard non signalé dans les 24 heures rend disponible la location, sans aucun remboursement. L’arrivée retardée ou le départ anticipé seront à la charge du client. Les services commandées (ménage, courses, etc.) ne peuvent pas s’annuler après votre arrivée.
