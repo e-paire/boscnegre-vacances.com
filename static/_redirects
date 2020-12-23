@@ -29,8 +29,8 @@ https://boscnegre.netlify.com/*                   https://www.boscnegre-vacances
 /pages/fr/infos/itineraire.php	                  /contact/
 /pages/fr/infos/assurance-annulation.php	        /contact/
 /pages/fr/infos/news.php	                        /blog/
-/pages/fr/tarifs.php	                            https://premium.secureholiday.net/fr/14230/weekprices
-/pages/fr/disponibilitereservation.php	          https://premium.secureholiday.net/fr/14230/
+/pages/fr/tarifs.php	                            https://bookingpremium.secureholiday.net/fr/14230/availabilities
+/pages/fr/disponibilitereservation.php	          https://bookingpremium.secureholiday.net/fr/14230/
 
 # nl
 /pages/nl/home.php	                              /nl/
@@ -56,5 +56,5 @@ https://boscnegre.netlify.com/*                   https://www.boscnegre-vacances
 /pages/nl/info/routebeschrijving.php	            /nl/contact/
 /pages/nl/info/annuleringsverzekering.php	        /nl/contact/
 /pages/nl/info/blog.php	                          /nl/blog/
-/pages/nl/tarieven.php	                          https://premium.secureholiday.net/nl/14230/weekprices
-/pages/nl/beschikbaarheid-en-online-boeken.php	  https://premium.secureholiday.net/nl/14230/weekprices
+/pages/nl/tarieven.php	                          https://bookingpremium.secureholiday.net/nl/14230/availabilities
+/pages/nl/beschikbaarheid-en-online-boeken.php	  https://bookingpremium.secureholiday.net/nl/14230/availabilities

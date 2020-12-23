@@ -61,7 +61,7 @@ export const Footer = () => {
               <li>
                 <ExternalLink
                   className={styles.link}
-                  href={getUrl("secureholiday", intl.locale) + "/weekprices"}
+                  href={getUrl("secureholiday", intl.locale) + "/availabilities"}
                 >
                   <FormattedMessage id="footer.prices" />
                 </ExternalLink>
