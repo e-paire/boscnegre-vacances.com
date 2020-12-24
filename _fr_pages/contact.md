@@ -17,9 +17,6 @@ Au Bosc Nègre, vos hôtes sont Coby & Alfred. C'est avec plaisir que nous répo
 
 
 
-**Assurance annulation** \
-Toute annulation 42 jours ou plus avant l’entrée dans les lieux, les acomptes versés restent acquis au propriétaire, sauf si celui-ci trouve un nouveau locataire pour la période. Si cette annulation intervient dans un délai inférieur à 42 jours avant l’entrée dans les lieux, 100 % du séjour reste dû. 
-
 **Pour les réservations en 2021**
 Les conditions générales de location standards s’appliquent sur toutes les réservations nous vous conseillons donc fortement de souscrire à une assurance annulation lors de votre réservation afin de faire face à tout imprévu.
 Veuillez trouver l’assurance de voyage conseillé par notre hébergement (assurance annulation, responsabilité civile locative, casse...),\
@@ -32,7 +29,7 @@ Le cabinet ALBINET via son site ADAR vous propose une solution adaptée à vos b
 Avec l'assurance annulation Cabinet ALBINET : Oui. Cette assurance couvre vos sommes payés. Cela compte pour toute autre personne participant au séjour si c’est une seule et même famille. Si ce sont des couples d’amis, un prorata sera fait et seul le couple touché par la maladie sera remboursé.\
 
 2. Confinement/restrictions de voyage. \
-En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, l’acompte versé sera transformé en avoir, qui pourra être utilisé ultérieurement.
+En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, la somme de location versée sera transformé en avoir, qui pourra être utilisé ultérieurement.
 
 
 
