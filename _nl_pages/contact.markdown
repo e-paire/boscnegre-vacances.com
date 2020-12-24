@@ -18,8 +18,23 @@ Reserveren kan op de pagina <a href="https://bookingpremium.secureholiday.net/nl
 
 HEEFT U ZOJUIST EEN VAKANTIEWONING GERESERVEERD?\
 \
-Bent u op zoek naar een verzekering tegen annulering vakantieonderbreking of huurdersaansprakelijkheid ...
+Bent u op zoek naar een verzekering tegen annulering, vakantieonderbreking of huurdersaansprakelijkheid ...
 
 Cabinet ALBINET stelt via zijn site ADUCIEL een oplossing voor die aan uw wensen voldoet \
 \
 <a href="http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?lang=nl&id=641500" target="_blank" rel="nofollow noopener noreferrer">Klik hier om het bedrag van uw premie te berekenen</a>
+
+
+** Voor reserveringen in 2021 **
+Op alle boekingen zijn de standaard algemene huurvoorwaarden van toepassing, daarom raden wij u aan om bij het maken van uw reservering een annuleringsverzekering af te sluiten om eventuele onvoorziene omstandigheden het hoofd te bieden.
+
+
+** Veelgestelde vragen**
+
+1. Ik ben positief getest op covid-19, ben ik gedekt? \
+Met een annuleringsverzekering van Cabinet ALBINET: Jazeker. Deze verzekering dekt uw betaalde bedragen. Dit geldt voor elke andere persoon die aan de reis deelneemt van hetzelfde gezin. \
+
+2. Lock-down / reisbeperkingen. \
+In het geval van een administratieve sluiting of de invoering van reisbeperkingen tussen landen of departementen in Frankrijk, zal de betaalde huursom worden omgezet in een voucher, die later kan worden gebruikt.
+
+
