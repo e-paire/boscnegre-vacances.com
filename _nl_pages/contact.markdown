@@ -12,7 +12,7 @@ layout: Contact
 ---
 
 Wilt u informatie? Bel Coby \+33 6 70 54 70 39 of \+33 5 53 40 99 27\
-of mail <a href="mailto:info@boscnegre-vacances.com" target="_blank" rel="nofollow noopener noreferrer">info@boscnegre-vacances.com</a>
+of mail <a href="mailto:info@boscnegre-vacances.com" target="_blank" rel="nofollow noopener noreferrer">info@boscnegre-vacances.com</a> of appen via Whatsapp.
 
 Reserveren kan op de pagina <a href="https://bookingpremium.secureholiday.net/nl/14230" target="_blank" rel="nofollow noopener noreferrer">online boeken</a>
 
@@ -25,11 +25,11 @@ Cabinet ALBINET stelt via zijn site ADUCIEL een oplossing voor die aan uw wensen
 <a href="http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?lang=nl&id=641500" target="_blank" rel="nofollow noopener noreferrer">Klik hier om het bedrag van uw premie te berekenen</a>
 
 
-** Voor reserveringen in 2021 **
+**Voor reserveringen in 2021**\
 Op alle boekingen zijn de standaard algemene huurvoorwaarden van toepassing, daarom raden wij u aan om bij het maken van uw reservering een annuleringsverzekering af te sluiten om eventuele onvoorziene omstandigheden het hoofd te bieden.
 
 
-** Veelgestelde vragen**
+**Veelgestelde vragen**
 
 1. Ik ben positief getest op covid-19, ben ik gedekt? \
 Met een annuleringsverzekering van Cabinet ALBINET: Jazeker. Deze verzekering dekt uw betaalde bedragen. Dit geldt voor elke andere persoon die aan de reis deelneemt van hetzelfde gezin. \
