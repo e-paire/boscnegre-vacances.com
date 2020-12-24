@@ -2,12 +2,11 @@
 title: Séjour de Pâques
 date: 2017-01-28 23:27:00 +01:00
 tags:
-  - pâques
+- pâques
 route: 2017-01-sejour-de-paques
 metaTitle: Promotion séjour de Pâques
 navTitle: Promo
-metaDescription:
-  Découvrez notre promotion pour les vacances de Pâques tous le mois
+metaDescription: Découvrez notre promotion pour les vacances de Pâques tous le mois
   d'Avril au Bosc Nègre village de vacances
 slogan: Offre de promotion pour les vacances de Pâques dans le Lot et Garonne
 cover:

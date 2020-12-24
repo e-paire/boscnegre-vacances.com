@@ -3,12 +3,11 @@ title: "-75€ Promotion chèques vacances"
 date: 2018-01-29 08:23:00 +01:00
 published: false
 tags:
-  - general
+- general
 route: bonplan-cheques-vacances
 metaTitle: Profitez d'une remise de 75€ sur votre sejour
 navTitle: Promotion chèques vacances
-metaDescription:
-  découvrez la remise avec vos chèques vacances au bosc negre village
+metaDescription: découvrez la remise avec vos chèques vacances au bosc negre village
   de vacances pour vos vacances d'été
 slogan: Offre de promotion pour paiement avec chèques vacances
 cover:

@@ -2,14 +2,13 @@
 title: Les 47km du 47
 date: 2018-03-20 14:32:00 +01:00
 tags:
-  - pâques
+- pâques
 route: les47du47
 metaTitle: Randonnée - Les 47km du 47-  le dimanche 29 avril 2018
 navTitle: les47du47
 metaDescription: Un des plus grandes manifestations pédestres de Nouvelle-Aquitaine
-slogan:
-  "Venez participer à la randonnée le 29 avril pour la randonnée qui mène à
-  Château Bonaguil "
+slogan: 'Venez participer à la randonnée le 29 avril pour la randonnée qui mène à
+  Château Bonaguil '
 cover:
   image: "/uploads/randonn%C3%A9e%20saint%20avit.jpg"
   alt: randonnée au village de saint avit près de bosc negre

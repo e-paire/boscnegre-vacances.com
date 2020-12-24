@@ -2,12 +2,11 @@
 title: Welkom op de vakantiepark Bosc Negre
 position: 0
 route: nl
-metaTitle: "Vakantiepark Bosc Nègre "
+metaTitle: 'Vakantiepark Bosc Nègre '
 navTitle: Home pagina
-metaDescription:
-  "Vakantiehuisjes op Bosc Nègre met restaurant, verwarmd zwembad en
+metaDescription: 'Vakantiehuisjes op Bosc Nègre met restaurant, verwarmd zwembad en
   tennisbaan. Een kleinschalig vakantiepark tussen Dordogne en Lot in Frankrijk voor
-  het gezin, met welness, sport en ontspanning  "
+  het gezin, met welness, sport en ontspanning  '
 slogan: kleinschalig vakantiepark Dordogne
 cover:
   image: "/uploads/Entree_du_parc_Bosc_Negre.jpg"
