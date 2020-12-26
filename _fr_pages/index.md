@@ -30,4 +30,4 @@ Notre **centre de vacances** vous propose de [nombreux services](/tous-les-servi
 
 Le [Bosc Nègre](http://www.villagesdegites.fr/fr/il4-village_i65573-village-de-vacances-bosc-negre-lot-et-garonne.aspx) se situe à seulement 3 minutes du village de Lacapelle-Biron où vous pouvez trouver une pharmacie, un cabinet médicale, une boucherie, un bureau de poste, ainsi qu'une petite supérette.
 
-Les grands comme les petits seront séduits ! Alors n'hésitez plus, choisissez votre gîte pour vos prochaines vacances 2021.
+Êtes-vous sportif, aimez-vous la nourriture de qualité et voulez-vous le meilleur pour vos enfants? Ce sont les mots-clés qui conviennent à des vacances dans ce village de vacances adapté aux enfants. Si vous êtes curieux de connaître les avis, cliquez sur ce lien [Avis des client du Bosc Nègre](https://www.camping2be.com/france/lacapelle-biron/avis-clients-village-de-vacances-bosc-negre). Les adultes et les enfants seront vite séduits. N'hésitez plus et choisissez votre maison de vacances pour vos prochaines vacances d'été 
