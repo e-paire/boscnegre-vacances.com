@@ -16,9 +16,9 @@ layout: Homepage
 
 ### Familiaal kleinschalig vakantiepark Bosc Nègre
 
-Welkom op de Bosc Nègre, een kleinschalig door Nederlanders gerund **vakantiepark in de Dordogne**. Alfred en Coby zijn uw gastheer en gastvrouw tijdens uw verblijf. Gedurende 16 jaar is het park veranderd en verbeterd, om u een onvergetelijke vakantie te bezorgen. U kunt energie opdoen in alle rust in één van de vakantiehuisjes, met veel privacy, op een bosrijk terrein in de prachtige omgeving op de grens van de **Dordogne** et de Lot en Garonne.
+Welkom op de Bosc Nègre, een kleinschalig door Nederlanders gerund **vakantiepark in de Dordogne**. Alfred en Coby zijn uw gastheer en gastvrouw tijdens uw verblijf. Het park wordt jaarlijks veranderd en verbeterd, om u een onvergetelijke vakantie te bezorgen. U kunt energie opdoen in alle rust in één van de vakantiehuisjes, met veel privacy, op een bosrijk terrein in de prachtige omgeving op de grens van de **Dordogne** et de Lot en Garonne.
 
-Dit **bungalowpark** bevindt zich in het zuid-westen van **Frankrijk**. Een regio die vandaag de dag ‘Nouvelle-Aquitaine’ genoemd mag worden. 23 [Vakantiehuisjes](/nl/vakantiehuis/) zijn verdeeld over 5 hectare. Het geringe aantal **huisjes** op een groot terrein geeft ieder en elk de rust die het verdiend. Ieder huisje heeft z’n eigen terras en alles wat u nodig heeft voor een onbezorgde vakantie in het departement Lot en Garonne en natuurgebied de Périgord-noir.
+Dit **bungalowpark** bevindt zich in het zuid-westen van **Frankrijk**. De Lot et Garonne is het departement ten zuiden van de Dordogne en maakt ondeel uit van de regio Nouvelle-Aquitaine. 23 [Vakantiehuisjes](/nl/vakantiehuis/) zijn verdeeld over 5 hectare. Het geringe aantal **huisjes** op een groot terrein geeft ieder en elk de rust die het verdiend. Ieder huisje heeft z’n eigen terras en alles wat u nodig heeft voor een onbezorgde vakantie in het bosrijke natuurgebied de Périgord-noir.
 
 ### Verschillende voorzieningen tot uw beschikking tijdens uw vakantie op dit vakantiepark.
 
@@ -28,4 +28,4 @@ Bij de receptie kunt u altijd terecht voor adviezen voor de vele mogelijkheden v
 
 De Bosc Nègre is gelegen op enkel 3 minuten van **Lacapelle-Biron**. Een dorpje met verschillende winkeltjes en diensten : superette, benzinestation, drogisterij, slagerij, huisartsenpost en een postkantoor,
 
-Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn de sleutelwoorden die passen bij een vakantie op de [Bosc Nègre](http://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark) Volwassenen en kinderen worden snel verleid. Twijfel niet meer en kies uw vakantiehuisje voor uw vakantie van 2017.
+Bent u sportief, houdt u van lekker eten en wilt u het beste voor uw kinderen? Het zijn de sleutelwoorden die passen bij een vakantie op dit kindvriendelijke vakantiepark. Bent u benieuwd naar de ervaringen, klik dan eens op deze link [Zoover over Bosc Nègre](http://www.zoover.nl/frankrijk/aquitaine/lacapelle-biron/hameau-de-bosc-negre/vakantiepark) Volwassenen en kinderen worden snel verleid. Twijfel niet meer en kies uw vakantiehuisje voor uw volgende zomervakantie.
