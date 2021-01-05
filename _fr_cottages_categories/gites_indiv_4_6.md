@@ -38,7 +38,7 @@ cottages:
     Respirez pendant vos vacances dans le gîte de la forêt.
 
     Au village vacances Bosc Nègre, les gîtes sont tous différents par leur aménagement et leur emplacement. Ce  gîte de la forêt est idéal pour les parents à la recherche d'un compromis entre une gîte à la campagne et un village de gîtes plein d'activités pour leurs enfants. Profitez de ce logement de vacances pour 4 personnes, à l'ombre des nombreux chênes.
-    Vraiment un succès pour profiter de la nature à cent pour cent. Un cerf pourrait juste passer devant votre terrasse. Vous avez un chien qui préfère la fraîcheur des arbres du sud ensoleillé? Laissez-le se détendre en laisse à l’ombre des grands arbres. Et pour vous? Un hamac pour votre repos bien mérité. Les enfants, quant à eux, pourront profiter de toutes les [activités] (https://www.boscnegre-vacances.com/animations) proposées et de jouer avec leurs copains.
+    Vraiment un succès pour profiter de la nature à cent pour cent. Un cerf pourrait juste passer devant votre terrasse. Vous avez un chien qui préfère la fraîcheur des arbres du sud ensoleillé? Laissez-le se détendre en laisse à l’ombre des grands arbres. Et pour vous? Un hamac pour votre repos bien mérité. Les enfants, quant à eux, pourront profiter de toutes les [activités](https://www.boscnegre-vacances.com/animations) proposées et de jouer avec leurs copains.
 
     La première chambre a un lit double, la deuxième chambre a deux lits simples. Pour l'autre aménagement, nous vous envoyons à la page d’informations générales [de tous les gîtes](http://www.boscnegre-vacances.com/tous-les-gites).
 
