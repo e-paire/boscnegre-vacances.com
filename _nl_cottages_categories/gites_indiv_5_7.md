@@ -12,11 +12,13 @@ capacityMax: 7
 priceMin: 450
 cottages:
 - title: Vakantiehuisjes "Gîtes du Pré"
-  description: De vakantiewoningen 'gites du pré' zijn geschikt voor gezinnen met
-    drie kinderen. Dit zijn de meest ruime vrijstaande huisjes. De vakantiehuisjes
-    16 tot en met 21 zijn geschikt voor de jonge kinderen, ze zijn niet te ver van
-    het zwembad en de speeltuin. Bovendien kunnen kinderen er rondfietsen zonder te
-    veel hellingen.
+  description: "De vakantiewoningen **gites du pré** voor gezinnen met drie kinderen.
+    \nKies deze huisjes als u gaat voor een vrijstaand vakantiehuisje Gite du pre
+    16 tm 21.  Op het heuvelachtige Bosc Nègre staan deze 6 gites op een redelijk
+    vlak gedeelte. Nabij de speeltuin en het zwembad kunnen de jonge kinderen snel
+    hun eigen weg ernaar toe vinden. \nDe eerste slaapkamer heeft twee enkele bedden,
+    de tweede slaapkamer heeft een stapelbed en een eenpersoonsbed. Voor de rest van
+    de indeling, verwijzen we u naar de algemene informatie van de [vakantiehuisjes](https://www.boscnegre-vacances.com/nl/vakantiehuis).\n"
   cover:
     image: "/uploads/Gite_du_pre_Bosc_Negre.jpg"
     alt: Vakantiehuisjes "Gîtes du Pré" op de Bosc Negre
@@ -24,11 +26,14 @@ cottages:
   crush: De ruimte in de huisjes
   ctoutvertId: 63382
 - title: Vakantiehuisjes "Gîtes du Pré" op de heuvel
-  description: "De vakantiewoningen 'gites du pré' zijn geschikt voor gezinnen met
-    drie kinderen. Dit zijn de meest ruime huisjes die vrijstaan. De huisjes 22 tot
-    en met 25 zijn geschikt voor gezinnen waarvan de kinderen zelfstandig en onafhankelijk
-    zijn. Ze liggen op een heuvel, het verst van het zwembad gelegen. \n\n\nN° 25
-    is geschikt voor rolstoelgebruikers."
+  description: "De vakantiewoningen **gites du pré op de heuvel** zijn geschikt voor
+    gezinnen met drie grote kinderen. \n\nDit zijn de meest ruime huisjes die vrijstaan.
+    Op een heuvel tegenover het zwembad met zicht over de vallei staan de 4\ngites
+    du pré n° 22 tm 25. Geschikt voor gezinnen waarvan de kinderen zelfstandig en
+    onafhankelijk zijn. Met een inloopdouche en toilet in dezelfde ruimte is N° 25
+    is geschikt voor rolstoelgebruikers.\nDe eerste slaapkamer heeft twee enkele bedden,
+    de tweede slaapkamer heeft een stapelbed en een eenpersoonsbed. Voor de rest van
+    de indeling, verwijzen we u naar de algemene informatie van de [vakantiehuisjes](https://www.boscnegre-vacances.com/nl/vakantiehuis).\n"
   cover:
     image: "/uploads/gite_du_pre_sur_la_colinne_Bosc_Negre-12ad79.jpg"
     alt: Vakantiehuisjes op de heuvel op de Bosc Negre
