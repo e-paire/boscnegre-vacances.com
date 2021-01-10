@@ -35,8 +35,8 @@ cottages:
     van uw spelende kinderen. Gite la ferme n° 5 is geheel gelijkvloers en drempelloos.
     Het grasveld ernaast geven de kleinsten bovendien veel bewegingsvrijheid. Met
     de ingang aan de westzijde heeft dit huisje overdag koelte en heeft het in de
-    avond een zonnig terras.\n\nDe eerste slaapkamer heeft twee enkele bedden kingsize,
-    de tweede slaapkamer heeft een stapelbed en een eenpersoonsbed, de badkamer heeft
+    avond een zonnig terras.\n\nDe eerste slaapkamer heeft twee enkele bedden, de
+    tweede slaapkamer heeft een stapelbed en een eenpersoonsbed, de badkamer heeft
     een inloopdouche en een toilet. Voor de rest van de indeling, verwijzen we u naar
     de algemene informatie van de [vakantiehuisjes](https://www.boscnegre-vacances.com/nl/vakantiehuis).\n\n "
   cover:
