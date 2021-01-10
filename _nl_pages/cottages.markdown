@@ -31,6 +31,8 @@ Heeft u zin om te boeken, maar zijn er factoren die nog onzeker zijn? Neem dan c
 ## Indeling van de volledig ingericht gite
 De vakantiehuisjes zijn allemaal verschillend gelegen en u kunt kiezen uit verschillende niveaus van comfort en grootte. Standaard zijn ze voorzien van alle voorzieningen om te koken: een keuken met koelkast, magnetron, koffiezet apparaat (filter), kookplaten en pannen. Voorzien van eettafel en in de hoek een slaapbank voor twee personen. Ieder huisje heeft een badkamer met douche (tenzij anders vermeld) en een apart toilet (tenzij anders vermeld). Ieder huisje heeft een **barbecue** of een gedeelde vaste barbecue. 
 
+Twee van de 23 huisjes zijn aangepast voor minder-validen. Voor meer informatie nodigen we u uit contact met ons op te nemen, om te kunnen antwoorden op uw persoonlijke situatie.
+
 Geen zin om zelf te koken? Wij bieden de mogelijkheid om te komen eten in het restaurant of iets af te halen. Lekker voor je laten koken, dat willen we toch allemaal? Bij de bar van [restaurant Bosc Nègre](nl/restaurant/) kunt u zich dagelijks inschrijven voor een dagmenu of maaltijd à la carte. 
 
 ## Kies een vakantiehuisje die bij u past op één van de volgende pagina’s:
