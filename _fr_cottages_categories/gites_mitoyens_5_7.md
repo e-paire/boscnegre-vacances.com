@@ -12,10 +12,11 @@ capacityMax: 7
 priceMin: 450
 cottages:
 - title: Gîte de la ferme 3
-  description: 'Deux chambres à l''étage: une avec un lit de 2 personnes, la 2ème
-    chambre avec 3 lits de 1 personne (non superposés), salle d''eau avec douche.
-    Rez-de-chaussée: séjour avec coin cuisine équipé, un canapé-lit pour 2 personnes
-    , mobilier en pin, etc.'
+  description: |
+    Les gîtes «Gites la ferme» sont particulièrement adaptées aux familles avec de jeunes enfants. Pendant que les enfants jouent dans l'aire de jeux, vous pouvez lire votre meilleur livre sur la terrasse. Vous pouvez profiter de l'ombre sous le vieux chêne pour faire un barbecue ou apprécier votre apéritif. L'aire de jeux en contre bas, non loin de chez vous, donne aux enfants un sentiment de sécurité. **Gite 'La Ferme** sur Bosc Nègre est une garantie pour des vacances agréables.
+    Au premier étage, vous trouverez une chambre avec un lit double, une chambre avec trois lits simples et une salle de bains avec douche. Pour le reste de l'agencement, nous vous renvoyons aux informations générales [des gîtes](https://www.boscnegre-vacances.com/tous-les-gites).
+
+    Toutes les fonctions de ces maisons de vacances à Bosc Nègre sont adaptées aux enfants.
   cover:
     image: "/uploads/gite_2%20_3_BoscNegre.JPG"
     alt: gite 3 au Bosc Nègre
@@ -23,11 +24,9 @@ cottages:
   crush: La proximité avec la piscine
   ctoutvertId: 63373
 - title: Gîte de la ferme 5
-  description: 'Les gîtes de la ferme sont idéals pour les familles en vacances avec
-    leurs enfants en bas âge qui doivent encore être surveillés. Vue sur l’aire de
-    jeu à une petite distance quand les petits jouent avec leurs amis, non loin de
-    la piscine afin que vous puissiez profiter du soleil pendant la sieste du plus
-    petit. '
+  description: |
+    Comme le précèdent, ce gîte a l'avantage d'être proche de vos enfants qui jouent avec leurs copains d’été. Le **gîte la ferme n ° 5** est de plain-pied et sans seuils. La pelouse à côté donne également aux plus petits une grande liberté de mouvement. Avec l'entrée sur le côté ouest, cette maison de vacances a la fraîcheur pendant la journée et une terrasse ensoleillée le soir.
+    La première chambre a deux lits jumeaux, la deuxième chambre a deux lits superposés et un lit simple, la salle de bain a une douche à l'italienne et des toilettes. Pour le reste de l'agencement, nous vous renvoyons aux informations générales [des gîtes](https://www.boscnegre-vacances.com/tous-les-gites)
   cover:
     image: "/uploads/gite_PMR_Bosc_Negre.jpg"
     alt: gite 5 au bosc Negre PMR
@@ -35,9 +34,16 @@ cottages:
   crush: L'accessibilité
   ctoutvertId: 63374
 - title: La bergerie
-  description: Les trois gîtes de la bergerie sont les plus calmes du du Bosc Nègre.
-    Le bâtiment est composé de 3 logements. Les enfants peuvent s'amuser sur la verdure
-    devant vos terrasses, avec un ballon, le badminton et leurs jeux de plein air.
+  description: "Les **Gîtes la Bergerie** sont les plus aux calmes. La Bergerie se
+    compose de 3 gîtes mitoyennes, chacun avec sa propre terrasse. Les enfants peuvent
+    se défouler sur la grande pelouse devant les logements. Le jardin de plus que
+    mille mètres carrés devant le gîte donne une formidable sensation de liberté.
+    Vous venez avec plusieurs familles? Alors c'est idéal pour des vacances tranquilles
+    pour vous tous, à l’écart des autres vacanciers.\n\nLes aménagements de ces logements
+    sont identiques mais ils sont tous agencés autrement. \nVous trouverez une chambre
+    avec un lit double et une chambre avec deux lits superposés et un lit simple.
+    Pour le reste de l'agencement, nous vous renvoyons aux informations générales
+    [des gîtes](https://www.boscnegre-vacances.com/tous-les-gites).\n"
   cover:
     image: "/uploads/gites_de_la_bergerie.jpg"
     alt: gites bergerie Bosc Negre
