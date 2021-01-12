@@ -12,13 +12,17 @@ capacityMax: 7
 priceMin: 450
 cottages:
 - title: Gîtes du pré
-  description: |
-    Les gîtes du pré pour les familles avec trois enfants.
-
-    Choisissez ces chalets si vous optez pour des gîtes individuels. Sur le domaine vallonné du Bosc Nègre, les six ** Gîtes du pré 16 à 21 ** sont situés sur un partie du terrain relativement plate. Étant à proximité de l'aire de jeux et de la piscine, les jeunes enfants trouvent rapidement leur propre chemin sur le parc et vers leurs copains voisins ; parce qu'ils trouveront facilement des amis sur le« parc des amis » comme beaucoup d’enfants l'appellent.
-
-    Ces locations sont en vogue pour leur terrasse en bois cosy et pour leur emplacement.
-    La première chambre a deux lits jumeaux, la deuxième chambre a deux lits superposés et un lit simple. Pour le reste de l'agencement, nous vous renvoyons aux informations générales [des gîtes](https://www.boscnegre-vacances.com/tous-les-gites).
+  description: "Les gîtes du pré pour les familles avec trois enfants.\n\nChoisissez
+    ces chalets si vous optez pour des gîtes individuels. Sur le domaine vallonné
+    du Bosc Nègre, les six **Gîtes du pré 16 à 21** sont situés sur un partie du terrain
+    relativement plate. Étant à proximité de l'aire de jeux et de la piscine, les
+    jeunes enfants trouvent rapidement leur propre chemin sur le parc et vers leurs
+    copains voisins ; parce qu'ils trouveront facilement des amis sur le « parc des
+    amis » comme beaucoup d’enfants l'appellent.\n\nCes locations sont en vogue pour
+    leur terrasse en bois cosy et pour leur emplacement.\nLa première chambre a deux
+    lits jumeaux, la deuxième chambre a deux lits superposés et un lit simple. \nPour
+    le reste de l'agencement, nous vous renvoyons aux informations générales [des
+    gîtes](https://www.boscnegre-vacances.com/tous-les-gites).\n"
   cover:
     image: "/uploads/Gite_du_pre_Bosc_Negre.jpg"
     alt: gite du pré au Bosc Negre
