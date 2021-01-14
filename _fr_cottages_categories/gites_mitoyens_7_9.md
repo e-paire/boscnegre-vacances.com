@@ -31,7 +31,7 @@ cottages:
     avec 4 lits de 1 personne. Salle d''eau avec douche. Rez-de-chaussée: séjour avec
     coin cuisine équipé, un canapé-lit pour 2 personnes, mobilier en pin, etc'
   cover:
-    image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
+    image: "/uploads/gite%20la%20ferme%204%20site%20bosc%20negre.jpg"
     alt: Un grand gîte au Bosc Negre
   beds: 7 lits + canapé lit
   crush: Le plus spacieux
