@@ -15,12 +15,12 @@ capacityMax: 9
 priceMin: 660
 cottages:
 - title: Ruim vakantiehuisje n°2
-  description: "Vakantiehuisjes 'Gites la ferme' zijn geschikt voor gezinnen met meerdere
-    jonge kinderen welke nog op de voet moeten worden gevolgd. Zicht op de speeltuin
-    om de kinderen op kleine afstand in de gaten te houden als ze spelen met hun vriendjes;
-    niet ver van het zwembad zodat u met de babyfoon kunt zonnen tijdens de middagslaapjes
-    van de kleinste. \nWilt u het huisje delen met vrienden of bent u een samengesteld
-    gezin met 4 of 5 kinderen? Dan is gite n° 2 een met drie slaapkamers goede keuze."
+  description: |
+    Vakantiehuisjes 'Gites la ferme' zijn geschikt voor gezinnen met meerdere jonge kinderen welke nog op de voet moeten worden gevolgd. %Met zicht op de speeltuin om de kinderen op kleine afstand in de gaten te houden als ze spelen met hun vriendjes; niet ver van het zwembad zodat u met de babyfoon kunt zonnen tijdens de middagslaapjes van de kleinste. Wilt u het huisje delen met vrienden of bent u een samengesteld gezin? Dan is gite n° 2, de enige met drie slaapkamers, een goede keuze.
+
+    Op de etage vindt u twee twee persoonsslaapkamers en een slaapkamer voor drie personen. Alle bedden zijn eenpersoons. Badkamer met douche. Voor de rest van de indeling, verwijzen we u naar de algemene informatie van de [vakantiehuisjes](https://www.boscnegre-vacances.com/nl/vakantiehuis).
+
+    Alle functies van deze vakantiehuisjes op Bosc Nègre zijn kindvriendelijk.
   cover:
     image: "/uploads/gite_2_Bosc_Negre.JPG"
     alt: 
@@ -28,14 +28,18 @@ cottages:
   crush: 3 slaapkamers
   ctoutvertId: 63370
 - title: Ruim vakantiehuisjes n°4
-  description: "De meest ruime gite met een groot terras onder een afdak. Op dit terras
-    heeft u de minste overlast van het zwembad. \nDe benedenverdieping is onderverdeeld
-    in een living met open keuken en een tweede ruimte heeft een slaapbank. De twee
-    slaapkamers op de eerste étage zijn beide groot."
+  description: "Gite la Ferme n° 4 is de meest ruime vakantiewoning met een groot
+    terras. Met het terras aan de noordzijde geniet zowel van de ochtend- als de avondzon
+    en vermijdt u de hitte van de middag. Het huisje heeft de grootste living van
+    al onze huisjes op Bosc Negre en de beste wifi verbinding.  Geschikt voor groot
+    gezin of voor mensen die houden van een ruime vakantiewoning. \n\nOp de etage
+    vindt u twee ruime slaapkamers, een 3 persoons en een 4 persoons . Alle bedden
+    zijn eenpersoons. Badkamer met douche. Voor de rest van de indeling, verwijzen
+    we u naar de algemene informatie van de [vakantiehuisjes](https://www.boscnegre-vacances.com/nl/vakantiehuis)."
   cover:
     image: "/uploads/grand_gite_4_Bosc_Negre.jpg"
     alt: Een ruim vakantiehuisje op de Bosc Negre
-  beds: 7 bedden + vakantiebed
+  beds: 7 bedden + slaapbank
   crush: Veel ruimte
   ctoutvertId: 63376
 layout: CottagesCategory
