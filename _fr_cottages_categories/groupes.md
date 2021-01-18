@@ -15,7 +15,7 @@ cottages:
   description: |-
     ## Location de gîte et restauration dans un village de vacances
 
-    Au Bosc-Nègre, nous accueillons des groupes toute l’année (sauf juillet-août) pour une nuit, un week-end ou un plus long séjour. Sur place, vous pouvez bénéficier de toutes nos installations comme une salle de réunion ou salle de fête, piscine, sauna et de multiples terrains de sports. Profitez d’un séjour en groupe en pleine nature en Lot-et-Garonne, limitrophe Dordogne.
+    Au Bosc-Nègre, nous accueillons des groupes toute l’année (sauf juillet-août) pour une nuit, un week-end ou un plus long séjour. Sur place, vous pouvez bénéficier de toutes nos installations comme une salle de réunion ou salle de fête, piscine, sauna et de multiples terrains de sports. Profitez d’un séjour en groupe en pleine nature dans le Lot-et-Garonne, limitrophe à la Dordogne.
 
     ## Hébergement en gîte et restauration sur place
 
