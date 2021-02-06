@@ -21,7 +21,7 @@ Au village de gites Bosc Nègre nous accueillons différents types de groupes, v
 
 •	[Un séminaire](https://www.boscnegre-vacances.com/seminaires) pour votre entreprise ou votre association qui renforce l'implication et la cohésion entre vos collaborateurs, en pension complète y compris avec une soirée animée. 
 
-•	Imaginez la possibilité d'inviter tous vos amis et votre famille à fêter [votre anniversaire](https://www.boscnegre-vacances.com/groupes/anniversaires), votre anniversaire de mariage ou celui de vos parents. Toutes les personnes que vous aimez au même endroit, c'est unique, n’est-ce pas ? Ensemble, nous discuterons des possibilités du repas de fête pour faire de votre anniversaire un événement mémorable. 
+•	Fêter [votre anniversaire](https://www.boscnegre-vacances.com/groupes/anniversaires), votre anniversaire de mariage ou celui de vos parents. Imaginez la possibilité d'inviter tous vos amis et votre famille, toutes les personnes que vous aimez au même endroit, c'est unique, n’est-ce pas ? Ensemble, nous discuterons des possibilités du repas de fête pour faire de votre anniversaire un événement mémorable. 
 
 •	Une [sortie scolaire](https://www.boscnegre-vacances.com/groupes/scolaire-centre-de-loisirs) pour votre classe ou votre centre d’accueil, car il y a de nombreuses possibilités pour accueillir une «classe verte» dans la région, riche par sa nature et son histoire.
 
