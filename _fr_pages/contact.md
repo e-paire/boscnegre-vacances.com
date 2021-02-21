@@ -17,19 +17,19 @@ Au Bosc Nègre, vos hôtes sont Coby & Alfred. C'est avec plaisir que nous répo
 
 
 
-**Pour les réservations en 2021**
+**Pour les réservations en 2021.**
 Les conditions générales de location standards s’appliquent sur toutes les réservations nous vous conseillons donc fortement de souscrire à une assurance annulation lors de votre réservation afin de faire face à tout imprévu.
-Sur notre site de réservation l’assurance d'annulation fait partie des options.
+Sur notre site de réservation l’assurance annulation fait partie des options.
 Campez-Couvert vous propose une solution adaptée à vos besoins
 [Cliquez pour obtenir le montant de votre prime](https://www.campez-couvert.com/)
 
 **FAQ**  
 
-**1. Les frais d'annulation lié à COVID sont-ils couverts?**
-Prise en charge des frais d’annulation en cas de maladie COVID, mise en quarantaine suite à test positif COVID, cas contact … découvrez l'assurance annulation Campez-couvert. (Voir lien au dessus) ou [télécharger leurs conditions](https://www.fichier-pdf.fr/2021/02/21/assurance-annulation/) 
+**1. Les frais d'annulation lié au COVID sont-ils couverts?**
+Prise en charge des frais d’annulation en cas de maladie COVID, de mise en quarantaine suite à test positif COVID, de cas contact … découvrez l'assurance annulation Campez-couvert. (Voir lien au dessus) ou [télécharger leurs conditions](https://www.fichier-pdf.fr/2021/02/21/assurance-annulation/) 
 
 **2. Confinement/restrictions de voyage**
-En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, la somme de location versée sera transformé en avoir, qui pourra être utilisé ultérieurement.
+En cas de fermeture administrative ou de mise en place de restrictions de voyage entre pays ou départements en France, la somme versée de location sera transformée en avoir, qui pourra être utilisé ultérieurement.
 
 
 
