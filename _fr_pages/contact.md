@@ -26,7 +26,7 @@ Campez-Couvert vous propose une solution adaptée à vos besoins
 **FAQ**  
 
 **1. Les frais d'annulation lié à COVID sont-ils couverts?**
-Prise en charge des frais d’annulation en cas de maladie COVID, mise en quarantaine suite à test positif COVID, cas contact … découvrez l'assurance annulation Campez-couvert. (Voir lien au dessus)
+Prise en charge des frais d’annulation en cas de maladie COVID, mise en quarantaine suite à test positif COVID, cas contact … découvrez l'assurance annulation Campez-couvert. (Voir lien au dessus) ou [télécharger leurs conditions](https://www.fichier-pdf.fr/2021/02/21/assurance-annulation/) 
 
 **2. Confinement/restrictions de voyage**
 En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, la somme de location versée sera transformé en avoir, qui pourra être utilisé ultérieurement.
