@@ -19,16 +19,16 @@ Au Bosc Nègre, vos hôtes sont Coby & Alfred. C'est avec plaisir que nous répo
 
 **Pour les réservations en 2021**
 Les conditions générales de location standards s’appliquent sur toutes les réservations nous vous conseillons donc fortement de souscrire à une assurance annulation lors de votre réservation afin de faire face à tout imprévu.
-Veuillez trouver l’assurance de voyage conseillé par notre hébergement (assurance annulation, responsabilité civile locative, casse...),\
-Le cabinet ALBINET via son site ADAR vous propose une solution adaptée à vos besoins\
-[Cliquez pour obtenir le montant de votre prime](http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?id=641500)
+Sur notre site de réservation l’assurance d'annulation fait partie des options.
+Campez-Couvert vous propose une solution adaptée à vos besoins
+[Cliquez pour obtenir le montant de votre prime](https://www.campez-couvert.com/)
 
 **FAQ**  
 
-1. Je suis déclaré positif au covid-19, suis-je couvert ?\
-Avec l'assurance annulation Cabinet ALBINET : Oui. Cette assurance couvre vos sommes payés. Cela compte pour toute autre personne participant au séjour si c’est une seule et même famille. Si ce sont des couples d’amis, un prorata sera fait et seul le couple touché par la maladie sera remboursé.\
+**1. Les frais d'annulation lié à COVID sont-ils couverts?**
+Prise en charge des frais d’annulation en cas de maladie COVID, mise en quarantaine suite à test positif COVID, cas contact … découvrez l'assurance annulation Campez-couvert. (Voir lien au dessus)
 
-2. Confinement/restrictions de voyage. \
+**2. Confinement/restrictions de voyage**
 En cas de fermeture administrative ou le mise en place de restrictions de voyage entre pays ou départements en France, la somme de location versée sera transformé en avoir, qui pourra être utilisé ultérieurement.
 
 
