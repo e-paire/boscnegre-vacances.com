@@ -31,7 +31,7 @@ Op alle boekingen zijn de standaard algemene huurvoorwaarden van toepassing, daa
 **1. Ik moet annuleren wegens een CORONA, wat wordt er gedekt?**
 Dekking voor annuleringskosten bij ziekte CORONA-COVID19, quarantaine na positieve COVID-test, contactgeval ... lees meer over de bij **Campez Couvert annuleringsverzekering** Zie link bovenaan de pagina of download de [PDF van hun verzekeringsvoorwaarden](https://www.fichier-pdf.fr/2021/02/21/annulation-assurance/)
 
-2. Lock-down / reisbeperkingen. \
+**2. Lock-down en  reisbeperkingen**
 In het geval van een administratieve sluiting of de invoering van reisbeperkingen tussen landen of departementen in Frankrijk, zal de betaalde huursom worden omgezet in een voucher, die later kan worden gebruikt.
 
 
