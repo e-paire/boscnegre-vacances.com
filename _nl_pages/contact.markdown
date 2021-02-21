@@ -16,13 +16,10 @@ of mail <a href="mailto:info@boscnegre-vacances.com" target="_blank" rel="nofoll
 
 Reserveren kan op de pagina <a href="https://bookingpremium.secureholiday.net/nl/14230" target="_blank" rel="nofollow noopener noreferrer">online boeken</a>
 
-HEEFT U ZOJUIST EEN VAKANTIEWONING GERESERVEERD?\
-\
-Bent u op zoek naar een verzekering tegen annulering, vakantieonderbreking of huurdersaansprakelijkheid ...
 
-Cabinet ALBINET stelt via zijn site ADUCIEL een oplossing voor die aan uw wensen voldoet \
-\
-<a href="http://www.aduciel.fr/Particuliers/Vacances/adar-assurance-annulation-partenaires.aspx?lang=nl&id=641500" target="_blank" rel="nofollow noopener noreferrer">Klik hier om het bedrag van uw premie te berekenen</a>
+Bent u op zoek naar een verzekering tegen annulering? 
+
+Campez-couvert biedt een uitgebreidde dekking als de annulering nodig is wegens CORONA. Deze verzekering hebben wij opgenomen in de opties in de online-reserveringssite.  Meer info op de site :[CAMPEZ-COUVERT](https://www.campez-couvert.com)
 
 
 **Voor reserveringen in 2021**\
@@ -31,8 +28,8 @@ Op alle boekingen zijn de standaard algemene huurvoorwaarden van toepassing, daa
 
 **Veelgestelde vragen**
 
-1. Ik ben positief getest op covid-19, ben ik gedekt? \
-Met een annuleringsverzekering van Cabinet ALBINET: Jazeker. Deze verzekering dekt uw betaalde bedragen. Dit geldt voor elke andere persoon die aan de reis deelneemt van hetzelfde gezin. \
+**1. Ik moet annuleren wegens een CORONA, wat wordt er gedekt?**
+Dekking voor annuleringskosten bij ziekte CORONA-COVID19, quarantaine na positieve COVID-test, contactgeval ... lees meer over de bij **Campez Couvert annuleringsverzekering** Zie link bovenaan de pagina of download de [PDF van hun verzekeringsvoorwaarden](https://www.fichier-pdf.fr/2021/02/21/annulation-assurance/)
 
 2. Lock-down / reisbeperkingen. \
 In het geval van een administratieve sluiting of de invoering van reisbeperkingen tussen landen of departementen in Frankrijk, zal de betaalde huursom worden omgezet in een voucher, die later kan worden gebruikt.
