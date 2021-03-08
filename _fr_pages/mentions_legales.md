@@ -34,7 +34,7 @@ Le nom de domaine est hébergé chez OVH
 Crédits Photos : propriété de SARL HAUTVERT
 
 CONDITIONS GENERALES DE LOCATION RESERVATION
-La location ne devient effective qu'une fois notre accord donné (Sous réserve des disponibilités), et après réception du versement de l'acompte de 30 % du montant total du séjour. L'assurance annulation de 3% par réservation est facultative, vous pouvez le souscrire directement sur notre site chez l'assurance ADAR. Le solde du séjour restant dû sera versé au plus tard 6 semaines avant la date d'arrivée.
+La location ne devient effective qu'une fois notre accord donné (Sous réserve des disponibilités), et après réception du versement de l'acompte de 30 % du montant total du séjour. L'assurance annulation de 3% par réservation est facultative, vous pouvez le souscrire directement sur notre site chez l'assurance [Campez Couvert](https://www.souscription.safebooking.com/bosc-negre/)spécialist en assurance annulation y compris en relation avec Covid19. Le solde du séjour restant dû sera versé au plus tard 6 semaines avant la date d'arrivée.
 CHARGES ET CONDITIONS
  D'entretenir les biens loués en bon état et les rendre en bon état en fin de location.
  De rendre en fin de location le logement en bon état de propreté, faute de quoi le bailleur procèdera au nettoyage pour un forfait fixé par année sur le tarif.
