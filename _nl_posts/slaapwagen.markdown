@@ -9,7 +9,7 @@ navTitle: Slaapwagen
 metaDescription: Een slaapwagen is een cadeau voor iedereen die rust zoekt
 slogan: Boek een slaapwagen voor nog meer confort en rust in uw vakantie
 cover:
-  image: "/uploads/Slaapwagen%20(5).jpg"
+  image: "/uploads/tiny%20chambre%20site.jpeg"
   alt: Slaapwagen
 layout: Post
 ---
@@ -32,5 +32,5 @@ Wellicht zullen er nog ideeën bijkomen waar we zelf nog niet aan hadden gedacht
 ## En de prijs is
 Alleen al door het schrijven krijg ik zelf zin in.
 Geeft het u ook ideeën en wilt u uzelf een cadeau doen? 
-Bel Coby om dit te boeken, dat kan per nacht (25Euro), of per week (125Euro)
+Bel Coby om dit te boeken per week 175 Euro (per dag alleen indien beschikbaar)
 
