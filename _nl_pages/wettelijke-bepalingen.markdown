@@ -37,7 +37,7 @@ Crédits Photos : propriété de SARL HAUTVERT
 
 
 ALGEMENE HUURVOORWAARDEN RESERVERING:
-Uw reservering is definitief indien wij u ons akkoord hebben gegeven en we het contract en de 30 procent aanbetaling hebben ontvangen. De annuleringsverzekering van 3 procent is facultatief, zie daarvoor een verwijzing op onze site naar ADAR verzekeringen. Het resterende bedrag zal 6 weken voor aankomst moeten worden voldaan.
+Uw reservering is definitief indien wij u ons akkoord hebben gegeven en we het contract en de 30 procent aanbetaling hebben ontvangen. De annuleringsverzekering van 3,5 procent is facultatief, zie daarvoor een verwijzing op onze site naar [Campez-Couvert](https://www.souscription.safebooking.com/en/bosc-negre/) spécialist in annuleringsverzekeringen, met name ivm Covid19. Het resterende bedrag zal 6 weken voor aankomst moeten worden voldaan.
 KOSTEN EN VOORWAARDEN·:
  De huurder dient goede zorg te dragen voor het gehuurde.
  Aflevering aan het eind van de huurperiode van het gehuurde in goede staat en schoon. Indien dit niet het geval is zal de verhuurder schoonmaakkosten in rekening brengen (per jaar vastgesteld).
