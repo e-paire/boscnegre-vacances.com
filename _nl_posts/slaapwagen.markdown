@@ -32,5 +32,5 @@ Wellicht zullen er nog ideeën bijkomen waar we zelf nog niet aan hadden gedacht
 ## En de prijs is
 Alleen al door het schrijven krijg ik zelf zin in.
 Geeft het u ook ideeën en wilt u uzelf een cadeau doen? 
-Bel Coby om dit te boeken per week 175 Euro (per dag alleen indien beschikbaar)
+Bel Coby om dit te boeken per week 175 Euro (per dag alleen indien beschikbaar) of [reserveer direct op onze boekingssite](https://bookingpremium.secureholiday.net/nl/14230/Search/product/107066)
 
