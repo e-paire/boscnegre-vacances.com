@@ -3,7 +3,7 @@ title: Dormir dans une Tiny-Chambre
 date: 2021-03-13 17:59:00 +01:00
 tags:
 - bien-être
-route: fr/tinychambre
+route: tinychambre
 metaTitle: Dormir dans une Tiny Chambre
 navTitle: tinychambre
 metaDescription: Cette petite cabane sur roux  est un cadeau pour ceux qui aime dormir
