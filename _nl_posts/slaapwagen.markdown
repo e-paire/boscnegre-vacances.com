@@ -7,7 +7,8 @@ route: nl/slaapwagen
 metaTitle: Slapen in een slaapwagen
 navTitle: Slaapwagen
 metaDescription: Een slaapwagen is een cadeau voor iedereen die rust zoekt
-slogan: Boek een slaapwagen voor nog meer confort en rust in uw vakantie
+slogan: Boek een slaapwagen voor nog meer confort en rust in uw vakantie of voor uw
+  kinderen
 cover:
   image: "/uploads/tiny%20chambre%20site.jpeg"
   alt: Slaapwagen
