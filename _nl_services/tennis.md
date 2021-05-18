@@ -63,7 +63,5 @@ Woensdagavond laten we de kinderen onder de 15 beleven wat volleybal is en/of do
 Op donderdagmorgen herhalen we het programma van maandagmorgen. Donderdagmiddag is er tijd voor een badmintoncompetitie. Hierbij is de indeling weer net als bij de tafeltenniscompetitie evenals als de beloning voor de winnaar natuurlijk.
 De donderdagavond is wederom gezelligheid troef in het [restaurant](https://www.boscnegre-vacances.com/nl/restaurant/). Want daar maken we weer lange tafels voor een gezamenlijke maaltijd. Ondertussen wordt de zaal gereed gemaakt voor een dansavond. Een spannende beleving voor de kinderen die voor het eerst een discoavond beleven. De animatrice zal ‘s middags samen met de kinderen een dansje instuderen, hun voorstelling zal het bal openen.
 
-Na een discoavond beginnen we de vrijdag sereen, met rust op het programma.
-In de grote zaal geeft Stephanie een yogales voor beginners en gevorderden, neem gerust uw kinderen mee als ze zin hebben deze activiteit te ontdekken.
-Of wellicht vertrekken ze liever naar het grote veld, waar de animatrice iedereen kennis laat maken met pijl en boog schieten. Ieder op z’n beurt mikken op de roos want in de roos schieten wordt beloond met een pizza uit de geurige keuken van Bosc Nègre. 
+Na een discoavond beginnen we de vrijdag sereen op het grote veld, waar de animatrice iedereen kennis laat maken met pijl en boog schieten. Ieder op z’n beurt mikken op de roos want in de roos schieten wordt beloond met een pizza uit de geurige keuken van Bosc Nègre. 
 Op de vrijdagmiddag is een speurtocht of een zeskamp een actieve middag voor het hele gezin. De week wordt afgesloten met een gezellige familiale spelavond in de grote zaal. 
