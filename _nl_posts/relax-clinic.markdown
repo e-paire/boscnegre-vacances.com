@@ -24,7 +24,7 @@ Fietsen, yoga, tai-Chi, [joggen](https://www.boscnegre-vacances.com/nl/stoerespo
 
 ## Welzijn
 Voor nog meer welzijn tijdens jullie vakantie heb ik het plezier daar een nieuwe ervaring aan toe te voegen. 
-De afgelopen maanden heb ik kennis mogen maken met een techniek die me leert hoe om te gaan met balans en energie in ons lijf. Geleerd hoe ik kan begrijpen wat het lijf me verteld.
+De afgelopen jaren heb ik met verschillende studies uit de kinesiologie veel mogen leren hoe meer balans en energie te krijgen . Geleerd hoe ik kan begrijpen wat het lijf me verteld.
 Een techniek die vertaald waar in het lijf de energie blokkeert, of waar er teveel is en hoe deze is te balanceren. 
 Een pijntje, een stress, een blessure, een trauma, etc. kunnen we verlichten met 
 'Touch voor Health' ; misschien al eens van gehoord?
