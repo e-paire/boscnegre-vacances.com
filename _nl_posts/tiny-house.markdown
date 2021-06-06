@@ -4,7 +4,7 @@ date: 2021-06-05 19:58:00 +02:00
 tags:
 - algemeen
 route: nl/tiny-house
-metaTitle: 'Een byzondere vakantie in een tiny house op een heerlijk vakantiepark '
+metaTitle: 'Een bijzondere vakantie in een tiny house op een heerlijk vakantiepark '
 navTitle: Tiny House
 metaDescription: Een alternatieve vakantie op een park met veel comfort, de ideale
   combinatie
@@ -16,7 +16,7 @@ layout: Post
 
 #Tiny House de hippe vakantie
 
-## Zoek je een byzondere vakantie op een natuurrijk plekje?
+## Zoek je een bijzondere vakantie op een natuurrijk plekje?
 
 Huur eens een Tiny House op een prachtig plekje midden tussen de bomen met terras op een familiaal kleinschalig vakantiepark in de Lot et Garonne.
 Het Tiny House is een andere manier van vakantie vieren en vult het aanbod aan op Bosc Nègre waar zich ook 23 vakantiehuisjes bevinden verdeeld over 5 hectare. Kom genieten van alle voorzieningen op het vakantiepark : het restaurant, [het zwembad, de sauna](https://www.boscnegre-vacances.com/nl/faciliteiten/verwarmd-zwembad/), de tennisbaan en andere sportvelden alsook van de aangeboden diensten : de [animatie](https://www.boscnegre-vacances.com/nl/animatie/), de massages en de [relaxclinics](https://www.boscnegre-vacances.com/nl/relax-clinic). 
