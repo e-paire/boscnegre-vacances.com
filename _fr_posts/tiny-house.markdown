@@ -27,4 +27,4 @@ La Tiny House est accessible par un petit escabeau en bois menant à un baie-vit
 ##Alentours
 Le Bosc Nègre est situé dans le Lot-et-Garonne, au milieu de la forêt. Il est formidable de [faire du VTT](https://www.boscnegre-vacances.com/sport) ou du vélo de route sur les routes de campagne tranquilles. Des itinéraires de randonnée sont également disponibles à partir de ce site. Aussi, seulement une demi-heure de route vous emmène sur les bords de la Dordogne, pour une visite à l'un des nombreux châteaux ou pour faire du canoë.
 
-##Consultez le [site de réservation pour les tarifs](https://bookingpremium.secureholiday.net/fr/14230/).
+##Consultez le [site de réservation pour les tarifs](https://bookingpremium.secureholiday.net/fr/14230/search/product-view/108639).
