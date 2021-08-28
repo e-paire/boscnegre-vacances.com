@@ -14,9 +14,12 @@ capacityMax: 4
 priceMin: 726
 cottages:
 - title: Tiny House
-  description: La **Tiny House** est une notre nouveau logement insolite du Bosc Nègre.
-    Il dispose d'une terrasse ombragée, d'une cuisine équipée ainsi qu'une salle de
-    bain et de tout le nécessaire pour des nuits paisibles sous les arbres.
+  description: "Vacances original et insolite au Bosc Nègre :\n\nLa **Tiny House**
+    est une le nouveau logement insolite du Bosc Nègre. Sa petite taille n'empêche
+    pas le confort étant donné que la Tiny House est entièrement équipée. C'est un
+    véritable nid douillet à savourer en couple, en famille ou entre amis ! \nCe logement
+    insolite permet de profitez d'un dépaysement et une évasion au coeur de la forêt.\nEt
+    pourquoi ne pas se détendre davantage en se rendant au [sauna](https://www.boscnegre-vacances.com/sauna)?"
   cover:
     image: "/uploads/Tiny%20House%20(2).JPG"
     alt: location tiny house au Bosc Nègre
