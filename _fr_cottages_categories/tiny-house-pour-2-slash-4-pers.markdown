@@ -25,5 +25,6 @@ cottages:
   beds: 1 lit + canapé lit
   crush: au calme sous les arbres
   ctoutvertId: 108639
+layout: CottagesCategory
 ---
 
