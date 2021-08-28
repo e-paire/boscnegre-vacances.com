@@ -37,6 +37,8 @@ Vous pouvez préparer vos petits plats au gîte. Nous vous offrons la possibilit
 
 Choisissez une location de vacances qui vous convient sur l'une des pages suivantes et réservez directement en ligne:
 
+Envie d'évasion en pleine nature, optez pour le logement insolite : [Tiny House](https://www.boscnegre-vacances.com/tiny-house-2-4)
+
 Une famille avec 2 enfants de moins de 10 ans, avec vue sur l'aire de jeux: [Gites du lac](https://www.boscnegre-vacances.com/gites-individuel-4-6)
 
 Si vous choisissez la tranquillité : [Gite de la forêt](https://www.boscnegre-vacances.com/gites-individuel-4-6)
