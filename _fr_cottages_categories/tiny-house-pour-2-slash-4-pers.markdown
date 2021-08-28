@@ -1,6 +1,5 @@
 ---
 title: Tiny House pour 2/4 pers.
-date: 2021-08-28 09:57:00 +02:00
 route: tiny-house-2-4
 metaTitle: Tiny house pour 2 à 4 personnes
 navTitle: Tiny House 2/4 pers.
