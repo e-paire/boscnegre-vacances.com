@@ -38,7 +38,7 @@ Pour la restauration, nous proposons un apéritif avec tapas, entrée, plat prin
 Vous pouvez répartir vos convives dans les 23 gîtes disposant chacun de minimum deux chambres, un canapé lit, salle de bain, wc séparé, cuisine et terrasse couverte.\`
 
 *Exemple de séjour
-Pour un séjour de 1 nuit et 2 jours, nous vous proposons une pension complète avec un brunch le lendemain de la soirée d’anniversaire. Tarif : 85€ par adulte ou contactez-nous directement pour discuter ensemble de votre programme et établir un devis correspondant à vos besoins.*
+Pour un séjour de 1 nuit et 2 jours, nous vous proposons une pension complète avec un brunch le lendemain de la soirée d’anniversaire. Tarif : 95€ par adulte ou contactez-nous directement pour discuter ensemble de votre programme et établir un devis correspondant à vos besoins.*
 
 ## Activités sur place
 
