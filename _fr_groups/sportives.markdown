@@ -61,4 +61,4 @@ Pour les cyclotouristes ou vététiste, nous mettons à votre disposition la car
 
 ## La formule pension-complète
 
-Avec ses 23 gîtes en pierre, le village de vacances du Bosc Nègre a une capacité d’accueil de 80 personnes. Côté restauration, nous vous suggérons plusieurs formules de groupes en pension complète à partir de 55 € par personne par nuit ou demi-pension à partir de 45€ par personne par nuit. Si vous êtes en randonnée la journée, nous vous préparons une casse-croute en barquette. Un repas équilibré qui vous permettra de faire le plein d'énergie !"
+Avec ses 23 gîtes en pierre, le village de vacances du Bosc Nègre a une capacité d’accueil de 80 personnes. Côté restauration, nous vous suggérons plusieurs formules de groupes en pension complète à partir de 59 € par personne par nuit ou demi-pension à partir de 49€ par personne par nuit. Si vous êtes en randonnée la journée, nous vous préparons une casse-croute en barquette. Un repas équilibré qui vous permettra de faire le plein d'énergie !"
