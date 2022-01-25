@@ -22,7 +22,7 @@ layout: Homepage
 
 Bienvenue au Bosc Nègre, **village de vacances du Sud de la France**. Alfred et Coby sont vos hôtes durant votre séjour. Depuis 20 ans, le parc évolue d'année en d'année pour vous offrir des vacances inoubliables. Vous pouvez vous ressourcez en toute tranquillité dans un gîte et apprécier les richesses de la Dordogne et du Lot-et-Garonne.
 
-Le parc possède 23 gîtes répartis sur 5 hectares vous sont proposés à la location toute l'année. Chaque [gîte](/tous-les-gites/) dispose de sa propre terrasse et de tout l'équipement nécessaire pour profiter de vos vacances dans un village de vacances en Lot-et-Garonne sans tracas.
+Le parc possède 23 gîtes et 1 Tiny House répartis sur 5 hectares vous sont proposés à la location toute l'année. Chaque [gîte](/tous-les-gites/) dispose de sa propre terrasse et de tout l'équipement nécessaire pour profiter de vos vacances dans un village de vacances en Lot-et-Garonne sans tracas.
 
 ### De nombreux services disponibles pendant vos vacances au village de vacances
 
