@@ -44,7 +44,7 @@ L’animateur ou animatrice se fera un plaisir de vous expliquer son planning pl
 
 Pour les enfants de 3 à 16 ans, pour les grands et pour les parents : personne n’est oublié. Les activités sont variées par type et par catégorie d’âge. 
 
-Le lundi matin à dix heures moins cinq, nous entendons résonner la musique d’introduction de l’aquagym au bord de la piscine. C’est peut-être la musique qui vous réveille ou bien vous profitez d’un petit café sur la terrasse ensoleillée. Prenez votre serviette et venez participer à cette activité de détente dans la piscine chauffée. L’aquagym convient aussi bien aux débutants qu’aux experts, aux papas qu’aux mamans, et même aux enfants qui savent déjà nager. Ensuite, farniente ! Car après cette demi-heure d’efforts, les enfants sont conviés aux activités manuelles dans la grande salle. Un moment de repos où rien ne vous est demandé !
+Le lundi matin les enfants sont conviés aux activités manuelles dans la grande salle. Un moment de repos où rien ne vous est demandé !
 
 Le lundi après-midi est réservé à une partie de pétanque. A quinze heures, après le déjeuner et la sieste, vous pouvez venir défier les joueurs de pétanque. Vous n’avez pas de boules de pétanque ? Nous vous les prêtons ! A l’ombre des chênes, avec vos amis ou vos enfants, peut-être gagnerez-vous le tournoi ? Le vainqueur pourra venir chercher sa récompense au bar sous forme d’une consommation, car il faut bien sur fêter ça. 
 
