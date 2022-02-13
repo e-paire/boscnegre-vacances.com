@@ -40,12 +40,11 @@ layout: Service
 
 ### Activiteiten in hoogseizoen: van de eerste zondag van juli tot de laatste zondag van augustus.
 
-De animatrice of de activiteitenbegeleider/ster zal haar planning graag nader uitleggen. Van de eerste aqua-gym op maandag tot en met de laatste gezellige avond op vrijdag zullen de activiteiten in het teken staan van gezelligheid, sportiviteit, creativiteit en zelfs een rustmoment zal niet ontbreken.
+De animatrice of de activiteitenbegeleider/ster zal haar planning graag nader uitleggen. Van de eerste activiteit op maandag tot en met de laatste gezellige avond op vrijdag zullen de activiteiten in het teken staan van gezelligheid, sportiviteit, creativiteit en zelfs een rustmoment zal niet ontbreken.
 
 Voor kinderen van 3 tot en met 16 jaar en voor de ouders, er is aan iedereen gedacht. De activiteiten zijn afwisselend in vorm en in leeftijdscategorie.
 
-Maandagochtend om vijf voor tien horen we het introliedje van de aqua-gym zacht bij het zwembad spelen. Het is misschien de muziek die u ontwaakt of misschien geniet u juist van een kopje koffie in de ochtendzon op het terras. Neem uw handdoekje mee en kom meedoen met deze ontspanning in het verwarmde zwembad. Aqua-gym is voor beginners en gevorderden, voor papa’s en mama’s, maar neem ook gerust de kinderen mee die al kunnen zwemmen.
-Daarna even lekker [helemaal niets](https://www.boscnegre-vacances.com/nl/nietsdoen/) want na dit halve uur gaan de kinderen [knutselen](https://www.boscnegre-vacances.com/nl/knutseluurtjes-voor-de-kinderen/) in de grote zaal. Moment van [helemaal niets moeten](https://www.boscnegre-vacances.com/nl/nietsdoen/)!.
+Maandagochtend beginnen we met knutselen met de kinderen [knutselen](https://www.boscnegre-vacances.com/nl/knutseluurtjes-voor-de-kinderen/). U kunt ondertussen heerlijk genieten van een moment van [helemaal niets moeten](https://www.boscnegre-vacances.com/nl/nietsdoen/)!.
 
 De maandagmiddag is gereserveerd voor een partijtje jeu de boulen. Om drie uur ‘s middags, na de lunch en na de siësta kunt u de fransen eens uitdagen voor een partijtje pétanque. Hebt u geen jeu de boule ballen, dan leent u de onze. In de schaduw van de hoge eikenbomen, samen met uw kinderen dit spel ontdekken en wellicht bent u samen sterker dan de fransozen? Het zou zo maar eens kunnen!
 Voor de winnaar een trofee bij de bar in de vorm van een consumptie, want daar moet natuurlijk op gedronken worden.
