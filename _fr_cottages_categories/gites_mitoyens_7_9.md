@@ -1,5 +1,5 @@
 ---
-title: Gîtes mitoyens pour 7/9 pers.
+title: Gîtes mitoyens pour 7 pers.
 position: 3
 route: gites-mitoyen-7-9
 metaTitle: Gîtes mitoyen 7/9 pers.
