@@ -1,5 +1,5 @@
 ---
-title: Geschakelde vakantiehuisjes voor 7/9 pers.
+title: Geschakelde vakantiehuisjes voor 7 pers.
 position: 3
 route: nl/geschakelde-vakantiehuisjes-7-9
 metaTitle: Geschakelde vakantiehuisjes voor 7/9 pers.
