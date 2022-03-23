@@ -10,7 +10,7 @@ cover:
   image: "/uploads/gite_2_Bosc_Negre.JPG"
   alt: gite pour 7 personnes au Bosc Negre
 capacityMin: 7
-capacityMax: 9
+capacityMax: 7
 priceMin: 660
 cottages:
 - title: GITE SPACIEUX LA FERME N° 2
@@ -27,7 +27,7 @@ cottages:
   cover:
     image: "/uploads/gite_2_Bosc_Negre.JPG"
     alt: Grand Gîte 2 de la ferme au Bosc Negre
-  beds: 7 couchages + canapé lit
+  beds: 7 lits
   crush: Trois chambres
   ctoutvertId: 63370
 - title: GITE SPACIEUX LA FERME N° 4
