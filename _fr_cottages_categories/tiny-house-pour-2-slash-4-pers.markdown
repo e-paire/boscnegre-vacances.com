@@ -13,8 +13,8 @@ capacityMax: 4
 priceMin: 726
 cottages:
 - title: Tiny House
-  description: "Vacances original et insolite au Bosc Nègre :\n\nLa **Tiny House**
-    est une le nouveau logement insolite du Bosc Nègre. Sa petite taille n'empêche
+  description: "Vacances original et insolite au Bosc Nègre :\n\nHébergement léger\n\nLa
+    **Tiny House** est une le logement insolite du Bosc Nègre. Sa petite taille n'empêche
     pas le confort étant donné que la Tiny House est entièrement équipée. C'est un
     véritable nid douillet à savourer en couple, en famille ou entre amis ! \nCe logement
     insolite permet de profitez d'un dépaysement et une évasion au coeur de la forêt.\nEt
