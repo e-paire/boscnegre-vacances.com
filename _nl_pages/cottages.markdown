@@ -25,7 +25,7 @@ Van de serie individuele **gites du pré** staan er vier op een heuvelrug met ee
 Het ‘huisje op de hei’ onder de hoge eikenbomen **gites de la foret** biedt plaats voor mensen die houden van de rust van de natuur doch ook activiteiten zoeken voor hun gezin. 
 
 ## Tarieven
-U vindt de [tarieven voor de zomervakantie 2021](https://www.fichier-pdf.fr/2020/10/03/bosc-negre-village-de-vacances-tarifs-2021/) in pdf. Ofwel calculeer uw vakantie op onze [online reserveringssite](https://bookingpremium.secureholiday.net/nl/14230/), zonder verplicht te zijn direct te reserveren.
+U vindt de [tarieven voor de zomervakantie 2022](https://www.fichier-pdf.fr/2022/04/30/bosc-negre-village-de-vacances-lacapelle-biron-tarifs-location-g/) in pdf. Ofwel calculeer uw vakantie op onze [online reserveringssite](https://bookingpremium.secureholiday.net/nl/14230/), zonder verplicht te zijn direct te reserveren.
 Heeft u zin om te boeken, maar zijn er factoren die nog onzeker zijn? Neem dan contact met ons op en neem alvast een optie. Dat is zonder enige verplichting en met één simpel appje het meest snel geregeld : +33 670547039. 
 
 ## Indeling van de volledig ingericht gite
@@ -46,8 +46,8 @@ Een gezin met 3 kinderen onder de 16 : [Gites du pré op de heuvel](/nl/vrijstaa
 
 Samen met vrienden op vakantie, huisjes naast elkaar:  [Gites la Bergerie](/nl/geschakelde-vakantiehuisjes-5-7/)
 
-Samen met vrienden een huisje delen, in één van de grote huisjes: [Gites la Ferme  7/9 pers](/nl/geschakelde-vakantiehuisjes-7-9/)
+Samen met vrienden een huisje delen, in één van de grote huisjes: [Gites la Ferme  7 pers](/nl/geschakelde-vakantiehuisjes-7/)
 
-Een samengesteld of groot gezin in een groot huisje: [Gites la Ferme  7/9 pers](/nl/geschakelde-vakantiehuisjes-7-9/)
+Een samengesteld of groot gezin in een groot huisje: [Gites la Ferme  7 pers](/nl/geschakelde-vakantiehuisjes-7/)
 
 Een gezin met jonge kinderen, dicht bij de faciliteiten: [Gites la Ferme 5/7 pers](/nl/geschakelde-vakantiehuisjes-5-7/)
