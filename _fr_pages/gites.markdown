@@ -49,9 +49,9 @@ Une famille avec 3 enfants de moins de 16 ans: [Gites du pré sur la colline](ht
 
 En vacances entre amis, les gîtes côte à côte: [Gites la Bergerie](https://www.boscnegre-vacances.com/gites-mitoyen-5-7)
 
-Partage d'une maison entre amis, dans un grand gîte: [Gites la Ferme 7/9 pers](https://www.boscnegre-vacances.com/gites-mitoyen-7-9)
+Partage d'une maison entre amis, dans un grand gîte: [Gites la Ferme 7 pers](https://www.boscnegre-vacances.com/gites-mitoyen-7)
 
-Une famille mixte ou nombreuse dans un grand gîte: [Gites la Ferme 7/9 pers](https://www.boscnegre-vacances.com/gites-mitoyen-7-9)
+Une famille mixte ou nombreuse dans un grand gîte: [Gites la Ferme 7 pers](https://www.boscnegre-vacances.com/gites-mitoyen-7)
 
 Une famille avec de jeunes enfants, à proximité des commodités: [Gites la Ferme 5/7 pers](https://www.boscnegre-vacances.com/gites-mitoyen-5-7)
 
