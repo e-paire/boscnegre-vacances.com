@@ -1,8 +1,8 @@
 ---
-title: Tiny House pour 2/4 pers.
-route: tiny-house-2-4
-metaTitle: Tiny house pour 2 à 4 personnes
-navTitle: Tiny House 2/4 pers.
+title: Tiny House pour 2 pers.
+route: tiny-house-2
+metaTitle: Tiny house pour 2 personnes
+navTitle: Tiny House 2 pers.
 metaDescription: Location de Tiny House pour un séjour insolite en plein milieu de
   la nature
 cover:
