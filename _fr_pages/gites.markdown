@@ -16,7 +16,7 @@ layout: CottagesCategories
 
 ## Des gîtes pour tous les goûts
 
-Au village de vacances du Bosc Nègre, vous avez le choix entre 23 gîtes en pierre pouvant accueillir jusqu’à 9 personnes.
+Au village de vacances du Bosc Nègre, vous avez le choix entre 23 gîtes en pierre pouvant accueillir jusqu’à 7 personnes.
 
 Au cœur des forêts limitrophe Dordogne, vous vivrez la merveilleuse sensation de la liberté et du bonheur. À ce jour nous voulons tous passer moins de stress et plus de temps à la détente et le repos. Au Bosc Nègre, au milieu de la nature préservée de la Dordogne, vous trouverez le calme et le temps de profiter de toutes les activités ludiques qui s'offrent à vous et à vos enfants. L'aménagement à petite échelle et le village de vacances étendu vous garantit beaucoup d'intimité. L'emplacement calme et la disposition variée du domaine vous offrent une expérience de vacances intense. Dans et autour votre gîte, vous pouvez profiter du silence, de la nature et de la liberté. La définition d’un village de vacances est un lieu de vacances garantie de calme et de tranquillité. Un lieu où la circulation est limitée au maximum à l'extérieur du domaine, où une animation et une piscine est proposée ainsi un lieu de restauration.
 Le bâtiment principal est une "Ferme" convertie en pierre naturelle de cette région et protégée pendant des siècles par des chênes centenaires. Les gîtes du lac sont situés autour d'un grand terrain où vous pourrez suivre vos plus jeunes enfants confortablement installé dans votre fauteuil et les percevoir jusqu'à l'aire de jeux. Les trois gîtes La Bergerie ont le plus grand jardin qu'un enfant peut imaginer. Un sentier pédestre donne accès à ce bâtiment. Une tranquillité absolue est donc garantie. De la série ‘gîtes individuels du pré’, quatre sont situés sur la colline avec vue sur l’ensemble. Les autres sont dans un endroit plus central où les jeunes enfants trouvent facilement leur chemin vers l’aire de jeux. Le gîte romantique sous les hauts chênes ‘gîtes de la forêt’ offre une opportunité pour les personnes qui aiment la tranquillité de la nature mais qui recherchent à même temps des activités pour leurs enfants
@@ -24,7 +24,7 @@ Le bâtiment principal est une "Ferme" convertie en pierre naturelle de cette r�
 
 ## Les tarifs 
 
-Trouvez les [tarifs saison 2021 en pdf](https://www.fichier-pdf.fr/2020/10/03/bosc-negre-village-de-vacances-tarifs-2021) en cliquant sur le lien, ou bien allez directement sur [le site de réservation en ligne](https://bookingpremium.secureholiday.net/fr/14230) pour calculer le total de votre séjour, sans obligation de réservation immédiat.
+Trouvez les [tarifs saison 2022 en pdf](https://www.fichier-pdf.fr/2022/04/30/bosc-negre-village-de-vacances-lacapelle-biron-tarifs-location-g/) en cliquant sur le lien, ou bien allez directement sur [le site de réservation en ligne](https://bookingpremium.secureholiday.net/fr/14230) pour calculer le total de votre séjour, sans obligation de réservation immédiat.
 Souhaitez-vous réserver, mais y a-t-il des facteurs encore incertains? Alors contactez-nous pour mettre une option. Ceci pourrait être arrangé rapidement sans aucune obligation et avec une message par Whatsapp ou sms  +33 6-70-54-70-39.
 
 ## Equipement complets des gîtes
