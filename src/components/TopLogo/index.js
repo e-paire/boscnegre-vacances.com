@@ -3,7 +3,7 @@ import React, {Component} from "react"
 
 import {useLinks} from "../../hooks/use-links"
 import {Logo} from "../Logo"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const TopLogo = () => {
   const links = useLinks()

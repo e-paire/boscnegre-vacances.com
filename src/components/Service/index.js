@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 
 import {Image} from "../Image"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Service = ({
   service: {

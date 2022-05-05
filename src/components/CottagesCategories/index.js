@@ -5,7 +5,7 @@ import {injectIntl} from "react-intl"
 import {Carousel} from "../Carousel"
 import {CottagesCategory} from "../CottagesCategory"
 import {Title} from "../Title"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const CottagesCategories = ({cottagesCategories}) => {
   if (!cottagesCategories || cottagesCategories.length === 0) {
@@ -15,7 +15,10 @@ export const CottagesCategories = ({cottagesCategories}) => {
   return (
     <div>
       <Title id="titles.our_cottages" />
-      <Carousel arrowsClassName={styles.arrow}>
+      <Carousel
+        slidesCount={{s: 1, m: 2, l: 5, xl: 5}}
+        arrowsClassName={styles.arrow}
+      >
         {cottagesCategories.map((category, index) => (
           <div
             key={index}

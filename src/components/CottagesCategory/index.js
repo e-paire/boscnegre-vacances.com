@@ -5,7 +5,7 @@ import React from "react"
 import {FormattedMessage, FormattedNumber} from "react-intl"
 
 import {Image} from "../Image"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const CottagesCategory = ({path, cover, priceMin, title}) => {
   return (

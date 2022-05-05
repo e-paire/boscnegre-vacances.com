@@ -19,6 +19,7 @@ const content = [
 ]
 
 module.exports = {
+  trailingSlash: "never",
   siteMetadata: {
     title: "Bosc Nègre",
     siteUrl: "https://www.boscnegre-vacances.com",
@@ -38,6 +39,7 @@ module.exports = {
         destination: `/uploads`,
       },
     },
+    // "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
@@ -123,7 +125,6 @@ module.exports = {
     "gatsby-plugin-layout",
     "gatsby-plugin-catch-links",
     "gatsby-plugin-sitemap",
-    "gatsby-plugin-remove-trailing-slashes",
     "gatsby-plugin-netlify",
   ],
 }

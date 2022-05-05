@@ -2,7 +2,7 @@ import classNames from "classnames"
 import PropTypes from "prop-types"
 import React from "react"
 
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Content = ({className, children, childrenIsText}) => (
   <div

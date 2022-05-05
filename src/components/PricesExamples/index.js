@@ -2,7 +2,7 @@ import PropTypes from "prop-types"
 import React from "react"
 
 import {Title} from "../Title"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const PricesExamples = ({prices}) => {
   return prices && prices.length > 0 ? (

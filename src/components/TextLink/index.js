@@ -6,7 +6,7 @@ import {FormattedMessage} from "react-intl"
 
 import {ExternalLink} from "../ExternalLink"
 import {Html} from "../Html"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const TextLink = ({url, external, text}) => {
   return (

@@ -2,12 +2,12 @@ import "react-day-picker/lib/style.css"
 
 import "./ReactDayPicker.css"
 
-import addDays from "date-fns/add_days"
+import addDays from "date-fns/addDays"
 import format from "date-fns/format"
-import isSameDay from "date-fns/is_same_day"
-import isWithinRange from "date-fns/is_within_range"
-import setDay from "date-fns/set_day"
-import setMonth from "date-fns/set_month"
+import isSameDay from "date-fns/isSameDay"
+import isWithinInterval from "date-fns/isWithinInterval"
+import setDay from "date-fns/setDay"
+import setMonth from "date-fns/setMonth"
 import PropTypes from "prop-types"
 import React, {Component} from "react"
 import ReactDayPicker from "react-day-picker"
@@ -16,7 +16,7 @@ import {FormattedMessage, injectIntl} from "react-intl"
 
 import {getUrl} from "../../utils/urls"
 import {Content} from "../Content"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 class BookingForm extends Component {
   constructor() {
@@ -97,7 +97,7 @@ class BookingForm extends Component {
     }
   }
 
-  handleDayMouseEnter(e, day) {
+  handleDayMouseEnter(day) {
     const {isSelectingLastDay, from} = this.state
     if (!isSelectingLastDay || (from && day < from) || isSameDay(day, from)) {
       return
@@ -138,7 +138,7 @@ class BookingForm extends Component {
   }
 
   formatWeekdayShort(day) {
-    const date = setDay(null, day)
+    const date = setDay(new Date(), day)
     return this.formatDate(date, {weekday: "short"})
   }
 
@@ -175,8 +175,8 @@ class BookingForm extends Component {
 
   getSecureHolidayUrl() {
     const {intl} = this.props
-    const arrivalDate = format(this.getDefaultFrom(), "DD%2FMM%2FYYYY")
-    const departureDate = format(this.getDefaultTo(), "DD%2FMM%2FYYYY")
+    const arrivalDate = format(this.getDefaultFrom(), "dd/MM/yyyy")
+    const departureDate = format(this.getDefaultTo(), "dd/MM/yyyy")
     return `${getUrl(
       "secureholiday",
       intl.locale
@@ -237,8 +237,10 @@ class BookingForm extends Component {
                 numberOfMonths={2}
                 fromMonth={now}
                 selectedDays={(day) =>
-                  (from && temp && isWithinRange(day, from, temp)) ||
-                  (to && isWithinRange(day, from, to))
+                  (from &&
+                    temp &&
+                    isWithinInterval(day, {start: from, end: temp})) ||
+                  (to && isWithinInterval(day, {start: from, end: to}))
                 }
                 disabledDays={(day) => day < now}
                 modifiers={{
@@ -251,6 +253,7 @@ class BookingForm extends Component {
                 onDayMouseEnter={this.handleDayMouseEnter}
                 onMouseLeave={this.handleMouseLeave}
                 localeUtils={this.localeUtils}
+                // locale="fr"
               />
             </div>
           )}

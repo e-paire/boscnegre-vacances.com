@@ -8,7 +8,7 @@ import {Content} from "../Content"
 import {ExternalLink} from "../ExternalLink"
 import {Html} from "../Html"
 import {Image} from "../Image"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Cottage = ({
   beds,

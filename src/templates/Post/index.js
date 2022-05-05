@@ -6,7 +6,7 @@ import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page}}) => {
+const TemplatePost = ({data: {page}}) => {
   return (
     <LayoutPage page={page} previousPage="Posts">
       <Helmet>
@@ -20,6 +20,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplatePost
 
 export const query = graphql`
   query Post($path: String!) {

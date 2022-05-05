@@ -10,7 +10,7 @@ import iconMarkerGray from "./assets/iconMarkerGray.svg"
 import iconMarkerGreen from "./assets/iconMarkerGreen.svg"
 import iconMarkerOrange from "./assets/iconMarkerOrange.svg"
 import iconMarkerYellow from "./assets/iconMarkerYellow.svg"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 class MapLoaded extends Component {
   getIcon(color) {
@@ -92,14 +92,8 @@ class MapLoaded extends Component {
             }}
             scrollwheel={false}
             coordinates={coordinates.map((coordinate) => {
-              const {
-                color,
-                description,
-                is_open,
-                latitude,
-                longitude,
-                title,
-              } = coordinate
+              const {color, description, is_open, latitude, longitude, title} =
+                coordinate
               const isOpen = is_open || false
               return {
                 ...(title && {title: title}),

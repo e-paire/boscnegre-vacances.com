@@ -1,5 +1,4 @@
 import {graphql} from "gatsby"
-import Img from "gatsby-image"
 import React from "react"
 import {Helmet} from "react-helmet"
 
@@ -9,7 +8,7 @@ import {Footer} from "../../components/Footer"
 import Header from "../../components/Header"
 import {useLinks} from "../../hooks/use-links"
 import {useSiteMetadata} from "../../hooks/use-site-metadata"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const LayoutPage = ({
   page: {

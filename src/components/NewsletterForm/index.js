@@ -1,7 +1,7 @@
 import React, {Component} from "react"
 import {FormattedMessage, useIntl} from "react-intl"
 
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const NewsletterForm = () => {
   const intl = useIntl()

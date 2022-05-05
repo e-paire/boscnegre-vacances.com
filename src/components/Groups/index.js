@@ -7,7 +7,7 @@ import {Carousel} from "../Carousel"
 import {Content} from "../Content"
 import {Image} from "../Image"
 import {Title} from "../Title"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Groups = ({groups}) => {
   return (
@@ -24,7 +24,15 @@ export const Groups = ({groups}) => {
         )} */}
         <div className={styles.groups}>
           <Content>
-            <Carousel theme="yellow">
+            <Carousel
+              theme="yellow"
+              slidesCount={{
+                s: 1,
+                m: 2,
+                l: groups.nodes.length,
+                xl: groups.nodes.length,
+              }}
+            >
               {groups.nodes.map(
                 ({fields: {path}, frontmatter: {navTitle, title, icon}}) => (
                   <Link key={path} to={path}>

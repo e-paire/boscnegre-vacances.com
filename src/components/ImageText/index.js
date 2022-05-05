@@ -3,7 +3,7 @@ import React, {Component} from "react"
 
 import {Image} from "../Image"
 import {TextLink} from "../TextLink"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const ImageText = ({cover, external, url, text}) => {
   return (

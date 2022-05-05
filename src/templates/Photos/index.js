@@ -7,7 +7,7 @@ import {Html} from "../../components/Html"
 import {Title} from "../../components/Title"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page}}) => {
+const TemplatePhotos = ({data: {page}}) => {
   const {gallery} = page.frontmatter
   return (
     <LayoutPage page={page}>
@@ -31,6 +31,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplatePhotos
 
 export const query = graphql`
   query Photos($path: String!) {

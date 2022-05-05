@@ -6,9 +6,9 @@ import {ContactForm} from "../../components/ContactForm"
 import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
 import {LayoutPage} from "../../layouts/Page"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
-export default ({data: {page}}) => {
+const TemplateContact = ({data: {page}}) => {
   return (
     <LayoutPage page={page}>
       <Content className={styles.content}>
@@ -24,6 +24,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateContact
 
 export const query = graphql`
   query Contact($path: String!) {

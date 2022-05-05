@@ -15,7 +15,7 @@ import {TripAdvisorLogo} from "../TripAdvisorLogo"
 import {ZooverLogo} from "../ZooverLogo"
 import Camping2beLogo from "./assets/camping2be.png"
 import VillageGitesLogo from "./assets/villages-de-gites.png"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Footer = () => {
   const intl = useIntl()
@@ -61,7 +61,9 @@ export const Footer = () => {
               <li>
                 <ExternalLink
                   className={styles.link}
-                  href={getUrl("secureholiday", intl.locale) + "/availabilities"}
+                  href={
+                    getUrl("secureholiday", intl.locale) + "/availabilities"
+                  }
                 >
                   <FormattedMessage id="footer.prices" />
                 </ExternalLink>

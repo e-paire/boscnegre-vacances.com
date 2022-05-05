@@ -7,7 +7,7 @@ import {Map} from "../../components/Map"
 import {Title} from "../../components/Title"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page}}) => {
+const TemplateRegion = ({data: {page}}) => {
   const {coordinates} = page.frontmatter
   return (
     <LayoutPage page={page}>
@@ -21,6 +21,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateRegion
 
 export const query = graphql`
   query Region($path: String!) {

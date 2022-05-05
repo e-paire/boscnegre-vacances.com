@@ -6,7 +6,7 @@ import {CottagesCategories} from "../../components/CottagesCategories"
 import {Html} from "../../components/Html"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page, cottagesCategories}}) => {
+const TemplateCottagesCategories = ({data: {page, cottagesCategories}}) => {
   return (
     <LayoutPage page={page}>
       <Content>
@@ -25,6 +25,8 @@ export default ({data: {page, cottagesCategories}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateCottagesCategories
 
 export const query = graphql`
   query CottagesCategories($path: String!, $locale: String!) {

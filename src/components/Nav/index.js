@@ -6,7 +6,7 @@ import React, {useCallback} from "react"
 
 import {useLinks} from "../../hooks/use-links"
 import {Content} from "../Content"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Nav = ({open}) => {
   const links = useLinks()

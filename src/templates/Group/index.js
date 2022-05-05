@@ -8,7 +8,7 @@ import {PricesExamples} from "../../components/PricesExamples"
 import {Title} from "../../components/Title"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page}}) => {
+const TemplateGroup = ({data: {page}}) => {
   const {imagesTitle, images, pricesExamples} = page.frontmatter
   return (
     <LayoutPage page={page} previousPage="Groups">
@@ -29,6 +29,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateGroup
 
 export const query = graphql`
   query Group($path: String!) {

@@ -1,6 +1,6 @@
 import React from "react"
 
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const TripAdvisorLogo = (props) => (
   <svg viewBox="0 0 250 250" {...props}>

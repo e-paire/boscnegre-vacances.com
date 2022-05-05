@@ -6,7 +6,7 @@ import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page}}) => {
+const TemplatePage = ({data: {page}}) => {
   return (
     <LayoutPage page={page}>
       {/* <Breadcrumb head={head} /> */}
@@ -18,6 +18,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplatePage
 
 export const query = graphql`
   query Page($path: String!) {

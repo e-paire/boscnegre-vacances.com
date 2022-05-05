@@ -9,7 +9,7 @@ import {Nav} from "../Nav"
 import {TextLink} from "../TextLink"
 import {TopBar} from "../TopBar"
 import {TopLogo} from "../TopLogo"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 const Header = ({cover, intl, layoutToLink, slogan, text, title}) => {
   const [isOpen, setIsOpen] = useState(false)

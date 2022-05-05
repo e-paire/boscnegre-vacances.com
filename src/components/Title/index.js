@@ -2,7 +2,7 @@ import PropTypes from "prop-types"
 import React, {Component} from "react"
 import {FormattedMessage} from "react-intl"
 
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Title = ({id, theme}) => {
   return (

@@ -6,7 +6,7 @@ import {Icon} from "react-fa"
 import {Content} from "../Content"
 import {FlagFr} from "../FlagFr"
 import {FlagNl} from "../FlagNl"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const TopBar = ({onOpenNav, slogan}) => {
   return (

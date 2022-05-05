@@ -4,7 +4,7 @@ import React, {Component} from "react"
 
 import {useLinks} from "../../hooks/use-links"
 import {Content} from "../Content"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 const Item = ({title, path}) => (
   <li key={title} className={styles.element}>

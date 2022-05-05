@@ -7,9 +7,9 @@ import {Content} from "../../components/Content"
 import {useLinks} from "../../hooks/use-links"
 import {LayoutPage} from "../../layouts/Page"
 import coverImage from "./404.jpg"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
-export default () => {
+const Template404 = () => {
   const links = useLinks()
   const page = {
     fields: {},
@@ -38,3 +38,5 @@ export default () => {
     </LayoutPage>
   )
 }
+
+export default Template404

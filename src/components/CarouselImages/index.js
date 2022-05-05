@@ -3,7 +3,7 @@ import React, {Component} from "react"
 
 import {Carousel} from "../Carousel"
 import {Image} from "../Image"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 class CarouselImages extends Component {
   constructor() {
@@ -37,7 +37,7 @@ class CarouselImages extends Component {
     return (
       images &&
       images.length > 0 && (
-        <Carousel theme={theme}>
+        <Carousel theme={theme} slidesCount={{s: 1, m: 2, l: 5, xl: 5}}>
           {images.map(({image, alt}, i) => (
             <div
               key={i}

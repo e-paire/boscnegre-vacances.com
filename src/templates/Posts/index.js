@@ -6,7 +6,7 @@ import {Html} from "../../components/Html"
 import {Posts} from "../../components/Posts"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page, posts}}) => {
+const TemplatePosts = ({data: {page, posts}}) => {
   return (
     <LayoutPage page={page}>
       {page.html && (
@@ -20,6 +20,8 @@ export default ({data: {page, posts}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplatePosts
 
 export const query = graphql`
   query Posts($path: String!, $locale: String!) {

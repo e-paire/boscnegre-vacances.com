@@ -5,7 +5,7 @@ import {Icon} from "react-fa"
 import {injectIntl} from "react-intl"
 
 import {Post} from "../Post"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Posts = ({posts}) => {
   const [activeTag, setActiveTag] = useState(null)

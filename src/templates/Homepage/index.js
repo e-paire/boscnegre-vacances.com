@@ -8,7 +8,9 @@ import {Html} from "../../components/Html"
 import {Services} from "../../components/Services"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page, services, groups, cottagesCategories}}) => {
+const TemplateHomepage = ({
+  data: {page, services, groups, cottagesCategories},
+}) => {
   return (
     <LayoutPage page={page} withBreadcrumb={false}>
       <Content>
@@ -31,6 +33,8 @@ export default ({data: {page, services, groups, cottagesCategories}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateHomepage
 
 export const query = graphql`
   query Home($path: String!, $locale: String!) {

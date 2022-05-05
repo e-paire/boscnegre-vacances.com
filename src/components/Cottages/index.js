@@ -2,7 +2,7 @@ import PropTypes from "prop-types"
 import React, {Component} from "react"
 
 import {Cottage} from "../Cottage"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Cottages = ({cottages}) => {
   return cottages && cottages.length > 0 ? (

@@ -8,16 +8,9 @@ import {Icon} from "react-fa"
 import Slick from "react-slick"
 
 import {useBreakpoint} from "../../hooks/use-breakpoint"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
-const slidesCount = {
-  s: 1,
-  m: 2,
-  l: 5,
-  xl: 5,
-}
-
-const Carousel = ({arrowsClassName, children, noKeys, theme}) => {
+const Carousel = ({arrowsClassName, children, noKeys, slidesCount, theme}) => {
   const ref = useRef()
   const breakpoint = useBreakpoint()
   const settings = useMemo(

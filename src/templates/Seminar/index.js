@@ -9,9 +9,9 @@ import {Prices} from "../../components/Prices"
 import {PricesExamples} from "../../components/PricesExamples"
 import {Title} from "../../components/Title"
 import {LayoutPage} from "../../layouts/Page"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
-export default ({data: {page}}) => {
+const TemplateSeminar = ({data: {page}}) => {
   const {images, prices, pricesExamples, services} = page.frontmatter
   return (
     <LayoutPage page={page} previousPage="Groups">
@@ -50,6 +50,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateSeminar
 
 export const query = graphql`
   query Seminar($path: String!) {

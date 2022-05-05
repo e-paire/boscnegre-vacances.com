@@ -1,42 +1,40 @@
 @import "variables.css";
 
-:global(.bn-range),
-:global(.bn-range .DayPicker-Day) {
+.bn-range,
+.bn-range .DayPicker-Day {
   outline: none;
 }
 
-:global(.bn-range .DayPicker-Body) {
+.bn-range .DayPicker-Body {
   background: #fff;
 }
 
-:global(.bn-range .DayPicker-Day--today) {
+.bn-range .DayPicker-Day--today {
   color: var(--color_bosc_green);
 }
 
-:global(.bn-range .DayPicker-Day--disabled) {
+.bn-range .DayPicker-Day--disabled {
   background: #fff;
 }
 
-:global(.bn-range
-    .DayPicker-Day:not(.DayPicker-Day--outside):not(.DayPicker-Day--selected):hover) {
+.bn-range .DayPicker-Day:not(.DayPicker-Day--outside):not(.DayPicker-Day--selected):hover {
   background: var(--color_bosc_green);
   color: #fff;
 }
 
-:global(.bn-range
-    .DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside)) {
+.bn-range .DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside) {
   background: var(--color_bosc_green);
   color: #fff;
 }
 
-:global(.DayPicker-Day--from:not(.DayPicker-Day--outside)),
-:global(.DayPicker-Day--to:not(.DayPicker-Day--outside)) {
+.DayPicker-Day--from:not(.DayPicker-Day--outside),
+.DayPicker-Day--to:not(.DayPicker-Day--outside) {
   position: relative;
   background: var(--color_bosc_green);
   color: #fff;
 }
 
-:global(.DayPicker-Day--from:not(.DayPicker-Day--outside)::before) {
+.DayPicker-Day--from:not(.DayPicker-Day--outside)::before {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -46,7 +44,7 @@
   background: var(--color_bosc_yellow);
 }
 
-:global(.DayPicker-Day--to:not(.DayPicker-Day--outside)::after) {
+.DayPicker-Day--to:not(.DayPicker-Day--outside)::after {
   position: absolute;
   top: 0;
   bottom: 0;

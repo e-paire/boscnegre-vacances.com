@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React, {Component} from "react"
 
 import {getUrl} from "../../utils/urls"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 const SITE_URL = "https://www.boscnegre-vacances.com"
 

@@ -7,7 +7,7 @@ import {Groups} from "../../components/Groups"
 import {Html} from "../../components/Html"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page, groups}}) => {
+const TemplateGroups = ({data: {page, groups}}) => {
   return (
     <LayoutPage page={page}>
       <Groups groups={groups} />
@@ -19,6 +19,8 @@ export default ({data: {page, groups}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateGroups
 
 export const query = graphql`
   query Groups($path: String!, $locale: String!) {

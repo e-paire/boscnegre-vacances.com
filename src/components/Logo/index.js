@@ -1,6 +1,6 @@
 import React from "react"
 
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Logo = (props) => (
   <svg viewBox="0 0 312 350" {...props}>

@@ -6,7 +6,7 @@ import {Content} from "../../components/Content"
 import {Html} from "../../components/Html"
 import {LayoutPage} from "../../layouts/Page"
 
-export default ({data: {page}}) => {
+const TemplateLegalNotices = ({data: {page}}) => {
   return (
     <LayoutPage page={page}>
       {page.html && (
@@ -17,6 +17,8 @@ export default ({data: {page}}) => {
     </LayoutPage>
   )
 }
+
+export default TemplateLegalNotices
 
 export const query = graphql`
   query LegalNotices($path: String!) {

@@ -3,7 +3,7 @@ import React from "react"
 
 import {Service} from "../Service"
 import {Title} from "../Title"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const Services = ({services}) => {
   return (

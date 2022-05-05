@@ -2,7 +2,7 @@ import React, {Component} from "react"
 import {FormattedMessage, useIntl} from "react-intl"
 
 import {Title} from "../Title"
-import styles from "./index.module.css"
+import * as styles from "./index.module.css"
 
 export const ContactForm = () => {
   const intl = useIntl()
