@@ -13,10 +13,10 @@ export const CottagesCategories = ({cottagesCategories}) => {
   }
 
   return (
-    <div>
+    <div className={styles.cottagesCategories}>
       <Title id="titles.our_cottages" />
       <Carousel
-        slidesCount={{s: 1, m: 2, l: 5, xl: 5}}
+        slidesCount={{s: 1, m: 2, l: 3, xl: 5}}
         arrowsClassName={styles.arrow}
       >
         {cottagesCategories.map((category, index) => (

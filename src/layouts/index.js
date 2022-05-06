@@ -1,10 +1,11 @@
+import PropTypes from "prop-types"
 import React from "react"
 import {Helmet} from "react-helmet"
 
 import {Container} from "../components/Container"
 import {useSiteMetadata} from "../hooks/use-site-metadata"
 
-export default ({children, path}) => {
+const LayoutIndex = ({children, path}) => {
   const {siteUrl, title} = useSiteMetadata()
   const locale = path.startsWith("/nl") ? "nl" : "fr"
   return (
@@ -33,4 +34,11 @@ export default ({children, path}) => {
       <Container>{children}</Container>
     </>
   )
+}
+
+export default LayoutIndex
+
+LayoutIndex.propTypes = {
+  children: PropTypes.any.isRequired,
+  path: PropTypes.string.isRequired,
 }

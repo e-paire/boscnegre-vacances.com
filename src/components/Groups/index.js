@@ -26,6 +26,7 @@ export const Groups = ({groups}) => {
           <Content>
             <Carousel
               theme="yellow"
+              navigation={false}
               slidesCount={{
                 s: 1,
                 m: 2,

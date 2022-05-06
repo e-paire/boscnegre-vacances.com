@@ -10,7 +10,9 @@
     "lint": "eslint src/**/*.js"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
+    "@babel/core": "^7.17.10",
+    "@babel/eslint-parser": "^7.17.0",
+    "@babel/preset-react": "^7.16.7",
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
@@ -21,6 +23,7 @@
     "prettier": "^2.6.2"
   },
   "dependencies": {
+    "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
     "gatsby": "^4.13.1",
     "gatsby-plugin-catch-links": "^4.13.0",
@@ -58,9 +61,8 @@
     "react-helmet": "^6.1.0",
     "react-images": "^1.2.0-beta.7",
     "react-intl": "^5.25.1",
-    "react-slick": "^0.29.0",
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
-    "slick-carousel": "^1.8.1"
+    "swiper": "^8.1.4"
   }
 }

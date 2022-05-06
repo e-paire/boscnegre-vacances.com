@@ -1,60 +1,47 @@
 @import "variables.css";
 
-.slider {
-  position: relative;
-}
-
-.arrow {
-  background: var(--color_bosc_green);
-  color: #fff;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 50px;
-  height: 50px;
-  display: flex;
-  font-size: 40px;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-}
-
-.left {
-  composes: arrow;
-  left: 0;
-}
-
-.right {
-  composes: arrow;
-  right: 0;
-}
-
-.left_green {
-  composes: left;
+.slider_green :global(.swiper-button-prev), .slider_green :global(.swiper-button-next) {
   background: var(--color_bosc_green);
 }
 
-.right_green {
-  composes: right;
-  background: var(--color_bosc_green);
-}
-
-.left_yellow {
-  composes: left;
-  background: var(--color_bosc_yellow);
-}
-
-.right_yellow {
-  composes: right;
-  background: var(--color_bosc_yellow);
-}
-
-.left_green:hover,
-.right_green:hover {
+.slider_green :global(.swiper-button-prev):hover, .slider_green :global(.swiper-button-next):hover {
   background: var(--color_bosc_green--darken);
 }
 
-.left_yellow:hover,
-.right_yellow:hover {
+.slider_yellow :global(.swiper-button-prev), .slider_yellow :global(.swiper-button-next) {
+  background: var(--color_bosc_yellow);
+}
+
+.slider_yellow :global(.swiper-button-prev):hover, .slider_yellow :global(.swiper-button-next):hover {
   background: var(--color_bosc_yellow--darken);
+}
+
+.slider :global(.swiper-button-prev), .slider :global(.swiper-button-next) {
+  color: #fff;
+  width: 50px;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-top: 0;
+}
+
+.slider :global(.swiper-button-prev):after, .slider :global(.swiper-button-next):after {
+  font-family: FontAwesome;
+}
+
+.slider :global(.swiper-button-prev) {
+  left: 0;
+}
+
+.slider :global(.swiper-button-prev):after {
+  content: "\f104";
+  font-size: 40px;
+}
+
+.slider :global(.swiper-button-next) {
+  right: 0
+}
+
+.slider :global(.swiper-button-next):after {
+  content: "\f105";
+  font-size: 40px;
 }

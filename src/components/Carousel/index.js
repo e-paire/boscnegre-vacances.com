@@ -1,17 +1,22 @@
-import "slick-carousel/slick/slick.css"
-import "slick-carousel/slick/slick-theme.css"
+import "swiper/css"
+import "swiper/css/navigation"
 
 import classNames from "classnames"
 import PropTypes from "prop-types"
-import React, {useCallback, useMemo, useRef} from "react"
-import {Icon} from "react-fa"
-import Slick from "react-slick"
+import React, {useMemo} from "react"
+import {Navigation} from "swiper"
+import {Swiper, SwiperSlide} from "swiper/react"
 
 import {useBreakpoint} from "../../hooks/use-breakpoint"
 import * as styles from "./index.module.css"
 
-const Carousel = ({arrowsClassName, children, noKeys, slidesCount, theme}) => {
-  const ref = useRef()
+const Carousel = ({
+  arrowsClassName,
+  children,
+  navigation,
+  slidesCount,
+  theme,
+}) => {
   const breakpoint = useBreakpoint()
   const settings = useMemo(
     () => ({
@@ -21,42 +26,21 @@ const Carousel = ({arrowsClassName, children, noKeys, slidesCount, theme}) => {
       slidesToShow: slidesCount[breakpoint],
       slidesToScroll: slidesCount[breakpoint],
     }),
-    [noKeys, breakpoint]
+    [breakpoint]
   )
 
-  const goPrev = useCallback(() => {
-    if (ref.current) {
-      ref.current.slickPrev()
-    }
-  }, [ref])
-
-  const goNext = useCallback(() => {
-    if (ref.current) {
-      ref.current.slickNext()
-    }
-  }, [ref])
-
   return (
-    <div className={styles.slider}>
-      <Slick ref={ref} {...settings}>
-        {children}
-      </Slick>
-      {slidesCount[breakpoint] < children.length && (
-        <span
-          className={classNames(styles[`left_${theme}`], arrowsClassName)}
-          onClick={goPrev}
-        >
-          <Icon name="angle-left" />
-        </span>
-      )}
-      {slidesCount[breakpoint] < children.length && (
-        <span
-          className={classNames(styles[`right_${theme}`], arrowsClassName)}
-          onClick={goNext}
-        >
-          <Icon name="angle-right" />
-        </span>
-      )}
+    <div className={classNames(styles.slider, styles[`slider_${theme}`])}>
+      <Swiper
+        modules={[Navigation]}
+        navigation={navigation}
+        slidesPerView={slidesCount[breakpoint]}
+        loop={true}
+      >
+        {React.Children.map(children, (child, i) => (
+          <SwiperSlide key={i}>{child}</SwiperSlide>
+        ))}
+      </Swiper>
     </div>
   )
 }
@@ -75,6 +59,7 @@ Carousel.propTypes = {
 
 Carousel.defaultProps = {
   theme: "green",
+  navigation: true,
 }
 
 export {Carousel}

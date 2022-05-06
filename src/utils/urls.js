@@ -16,8 +16,7 @@ const urls = {
   nl: {
     camping2be:
       "https://nl.camping2be.com/france/lacapelle-biron/klantenbeoordelingen-village-de-vacances-bosc-negre",
-    secureholiday:
-      "https://bookingpremium.secureholiday.net/nl/14230",
+    secureholiday: "https://bookingpremium.secureholiday.net/nl/14230",
     tripadvisor:
       "https://www.tripadvisor.nl/Hotel_Review-g1856959-d2058207-Reviews-Village_de_vacances_Bosc_Negre-Lacapelle_Biron_Lot_et_Garonne_Nouvelle_Aquitaine.html",
     zoover:
@@ -25,7 +24,7 @@ const urls = {
   },
 }
 
-export function getUrl(key, locale) {
+export const getUrl = (key, locale) => {
   const defaultLocale = "fr"
 
   if (Object.keys(urls).indexOf(locale) > -1 && urls[locale][key]) {

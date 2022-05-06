@@ -1,5 +1,5 @@
 {
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "env": {
     "browser": true,
     "es6": true,
@@ -8,12 +8,7 @@
   "extends": ["eslint:recommended", "plugin:react/recommended", "prettier"],
   "settings": {
     "react": {
-      "version": "16.13"
+      "version": "18.1"
     }
-  },
-  "rules": {
-    "no-unused-vars": "warn",
-    "react/prop-types": "off",
-    "react/display-name": "off"
   }
 }
