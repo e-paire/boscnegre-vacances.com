@@ -28,4 +28,4 @@ Het Tiny House is toegankelijk via een trapje naar een dubbele deur en beschikt 
 Bosc Nègre is gelegen in de Lot et Garonne zo’n 950km vanaf Antwerpen, in de bosrijke omgeving is het heerlijk [mountainbiken](https://www.boscnegre-vacances.com/nl/stoeresporters) of te racefietsen over die zo rustige landweggetjes. Wandelroutes zijn er te kust en te keur vanaf deze stek. Een half uurtje rijden brengt u aan de oever van de Dordogne, voor een bezoek aan een van de vele kastelen of voor kanovaren. 
 
 ## Tarieven
-Kijk op de [reserveringssite voor de prijzen](https://bookingpremium.secureholiday.net/fr/14230/) in de door u gewenste periode.
+Kijk op de [reserveringssite voor de prijzen](https://bookingpremium.secureholiday.net/nl/14230/search/product-view/108639) in de door u gewenste periode.
