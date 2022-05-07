@@ -57,6 +57,7 @@ module.exports = {
         ],
       },
     },
+    "gatsby-transformer-remark-frontmatter",
     {
       resolve: `gatsby-plugin-postcss`,
       options: {
