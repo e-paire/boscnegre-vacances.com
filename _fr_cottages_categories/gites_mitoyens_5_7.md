@@ -13,9 +13,9 @@ priceMin: 450
 cottages:
 - title: Gîte de la ferme 3
   description: |+
-    Les gîtes **Gites la ferme** sont particulièrement adaptés aux familles avec de jeunes enfants. Pendant que les enfants jouent dans l'aire de jeux, vous pouvez enfin dévorer votre meilleur bouquin sur  votre terrasse. Vous pouvez profiter de l'ombre vieux chêne pour faire un barbecue ou déguster votre apéritif. L'aire de jeux en contre bas, non loin de chez vous, donne aux enfants un sentiment de sécurité. Le **Gite de La Ferme** au Bosc Nègre est une garantie pour des vacances agréables.
+    Les **gîtes de la ferme** sont particulièrement adaptés aux familles avec de jeunes enfants. Pendant que les enfants jouent dans l'aire de jeux, vous pouvez enfin dévorer votre meilleur bouquin sur  votre terrasse. Vous pouvez profiter de l'ombre vieux chêne pour faire un barbecue ou déguster votre apéritif. L'aire de jeux en contre bas, non loin de chez vous, donne aux enfants un sentiment de sécurité. Le **Gite de La Ferme** au Bosc Nègre est une garantie pour des vacances agréables.
 
-    Au premier étage, vous trouverez une chambre avec un lit double, une chambre avec trois lits simples et une salle de bain avec douche. Pour le reste de l'agencement, nous vous renvoyons aux informations générales  [des gîtes](https://www.boscnegre-vacances.com/tous-les-gites).
+    Au premier étage, vous trouverez une chambre avec un lit double, une chambre avec trois lits simples et une salle de bain avec douche. Pour le reste de l'agencement, nous vous renvoyons aux informations générales [des gîtes](https://www.boscnegre-vacances.com/tous-les-gites).
 
     Toutes les dispositifs de ces maisons de vacances au Bosc Nègre sont adaptées aux enfants
 
