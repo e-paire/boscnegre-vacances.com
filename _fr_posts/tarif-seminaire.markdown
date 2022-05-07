@@ -2,11 +2,12 @@
 title: Exemple de tarifs
 date: 2018-04-05 14:17:00 +02:00
 tags:
-- séminaire
+  - séminaire
 route: tarif-seminaire
 metaTitle: Exemple de tarif séminaire deux jours
-navTitle: 'Tarif séminaire '
-metaDescription: Un exemple de tarif séminaire, clés en main pour deux jours dans
+navTitle: "Tarif séminaire "
+metaDescription:
+  Un exemple de tarif séminaire, clés en main pour deux jours dans
   le Périgord
 slogan: Trouvez le tarif clés en main pour deux jours de séminaire
 cover:
@@ -15,21 +16,23 @@ cover:
 layout: Post
 ---
 
-# Séminaire résidentiel : 
+# Séminaire résidentiel :
 
 ## 114€ HT/pers (126€ TTC)
 
 ### JOUR 1
-* Café d'accueil avec viennoiseries
-* Pause matin
-* Déjeuner buffet
-* Pause après-midi avec des fruits et gâteaux
-* Apéritif et repas festif
-* Nuitée en chambre individuelle
+
+- Café d'accueil avec viennoiseries
+- Pause matin
+- Déjeuner buffet
+- Pause après-midi avec des fruits et gâteaux
+- Apéritif et repas festif
+- Nuitée en chambre individuelle
 
 ### JOUR 2
-* Petit déjeuner
-* Pause-café matin
-* Déjeuner
 
-Pour un devis personnalisé, contactez-nous via [**la page contact**](https://www.boscnegre-vacances.com/contact/)
+- Petit déjeuner
+- Pause-café matin
+- Déjeuner
+
+Pour un devis personnalisé, contactez-nous via [**la page contact**](/contact/)

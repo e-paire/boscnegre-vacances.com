@@ -2,11 +2,12 @@
 title: Les courageux sportifs
 date: 2018-03-21 09:31:00 +01:00
 tags:
-- activités
+  - activités
 route: sportifs
 metaTitle: chaque jour par une activité sportive.
 navTitle: sportifs
-metaDescription: Au village de vacances Bosc Nègre vous serez attisé chaque jour par
+metaDescription:
+  Au village de vacances Bosc Nègre vous serez attisé chaque jour par
   une activité sportive. Chacun y trouve son compte durant la semaine.
 slogan: Bosc Nègre pour les sportifs qui aiment le sport en pleine nature
 cover:
@@ -31,12 +32,12 @@ La distance et le rythme de la course sont adaptés en fonction du niveau de cha
 ### VTT
 
 Rouler avec d’autres vacanciers par les bois en montant et descendant les cotes, c’est un rêve qui devient ici réalité.
-Vous avez peur de vous perdre dans les grandes forêts du Périgord ? Le jeudi matin, quand les enfants se divertissent pleinement aux [activités manuelles](https://www.boscnegre-vacances.com/animations/), Alfred apprécie joindre les vététistes pour leur indiquer le chemin. Une ballade vers le château de Biron : qui saura pédaler jusqu’à l’entrée du château tout en haut des marches ? La compétition fait partie du jeu des sportifs. L’effort sera récompensé par la magnifique vue jusqu’à l’océan Atlantique en cas de temps dégagé !
+Vous avez peur de vous perdre dans les grandes forêts du Périgord ? Le jeudi matin, quand les enfants se divertissent pleinement aux [activités manuelles](/animations/), Alfred apprécie joindre les vététistes pour leur indiquer le chemin. Une ballade vers le château de Biron : qui saura pédaler jusqu’à l’entrée du château tout en haut des marches ? La compétition fait partie du jeu des sportifs. L’effort sera récompensé par la magnifique vue jusqu’à l’océan Atlantique en cas de temps dégagé !
 Beaucoup de chemins retour mèneront au **Bosc Nègre**. Vous serez de retour au bar après environ 25 kilomètres de ballade avec un dénivelé allant jusqu’à 500 mètres.
 
 Pour d’autres niveaux, un deuxième groupe avec un rythme moins soutenu ira faire un tour le mardi matin allant jusqu’à 15 kilomètres.
 
-Si vous n’avez pas votre propre [VVT vous pouvez le louer](https://www.boscnegre-vacances.com/sport/) au **Village de vacances Bosc Nègre**.
+Si vous n’avez pas votre propre [VVT vous pouvez le louer](/sport/) au **Village de vacances Bosc Nègre**.
 
 ### Tennis
 
@@ -45,13 +46,13 @@ La probabilité que vous rencontriez d’autres personnes ayant le même loisir 
 
 ### Waterpolo, lisez Waterrugby 😊
 
-Vos amis vous ont parlé du **Village de vacances Bosc Nègre** ? Ils vous alors certainement parlé de [l’activité waterpolo](https://www.boscnegre-vacances.com/waterpolo/). C’est hilarant. Comme des joueurs de rugby ils se battent pour la balle tous les mardi après-midi. Même les femmes les plus courageuses participent à cet événement.
-Heureusement que les calories perdues peuvent être reprises le soir au [restaurant](https://www.boscnegre-vacances.com/restaurant/) quand un repas convivial et délicieux est servi, aux côtés des autres chahuteurs.
+Vos amis vous ont parlé du **Village de vacances Bosc Nègre** ? Ils vous alors certainement parlé de [l’activité waterpolo](/waterpolo/). C’est hilarant. Comme des joueurs de rugby ils se battent pour la balle tous les mardi après-midi. Même les femmes les plus courageuses participent à cet événement.
+Heureusement que les calories perdues peuvent être reprises le soir au [restaurant](/restaurant/) quand un repas convivial et délicieux est servi, aux côtés des autres chahuteurs.
 
 ### Après l’effort le réconfort
 
 Après tous ces efforts vous méritez un peu de détente.
-Au début de votre semaine de vacances, réservez un [massage](https://www.boscnegre-vacances.com/massage/) ou venez au yoga le vendredi matin pour quelques étirements et exercices de souplesse.
+Au début de votre semaine de vacances, réservez un [massage](/massage/) ou venez au yoga le vendredi matin pour quelques étirements et exercices de souplesse.
 
 ### etc etc
 

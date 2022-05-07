@@ -2,7 +2,7 @@
 title: Knutseluurtjes voor de kinderen
 date: 2017-02-11 15:09:00 +01:00
 tags:
-- activiteiten zomer
+  - activiteiten zomer
 route: nl/knutseluurtjes-voor-de-kinderen
 metaTitle: Knutseluurtje voor de kinderen
 navTitle: knutselen
@@ -16,7 +16,7 @@ layout: Post
 
 # Knutseluurtjes voor de kinderen
 
-## Daarmee begint de weekplanning van de [activiteiten](https://www.boscnegre-vacances.com/nl/animatie/).
+## Daarmee begint de weekplanning van de [activiteiten](/nl/animatie/).
 
 Zelf photoboothts maken tijdens de knutseluurtjes in de zomer met de activiteitenbegeleidster van **vakantiepark Bosc Nègre**. Dit is voor de kinderen tussen 4 en 13 jaar een feest. Deze uurtjes geeft de kinderen de tijd op te gaan in hun eigen creativiteit en deze te opnieuw te ontdekken. De materialen worden klaargezet, een voorbeeld wordt gegeven en daarna kunnen ze naar hartenlust bezig. Aan het einde vermaken we ons kostelijk met het maken van grappige foto's als herinnering.
 
