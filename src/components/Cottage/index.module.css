@@ -9,6 +9,7 @@
 
 .text {
   border: 1px solid var(--color_gray);
+  padding: 20px;
   border-bottom: 0;
 }
 
@@ -22,7 +23,7 @@
 
 .description {
   flex: 1 1 auto;
-  margin: 20px;
+  margin-bottom: 20px;
 }
 
 .box {
@@ -74,6 +75,10 @@
     flex: 1 1 60%;
   }
 
+  ctv-availability {
+    margin-bottom: -50px;
+  }
+
   .text {
     display: flex;
     flex-direction: column;
@@ -111,4 +116,8 @@
     padding: 20px;
     font-size: 20px;
   }
+}
+
+.ctv-min-height {
+  min-height: unset !important;
 }

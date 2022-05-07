@@ -32,7 +32,9 @@ export const query = graphql`
       frontmatter {
         cottages {
           title
-          description
+          description {
+            html
+          }
           cover {
             image
             alt

@@ -5,6 +5,7 @@ import {FormattedMessage, useIntl} from "react-intl"
 
 import {getUrl} from "../../utils/urls"
 import {Content} from "../Content"
+import {CtvWidget} from "../CtvWidget"
 import {ExternalLink} from "../ExternalLink"
 import {Html} from "../Html"
 import {Image} from "../Image"
@@ -21,19 +22,12 @@ export const Cottage = ({
   const intl = useIntl()
   return (
     <div className={styles.cottage}>
-      <div className={styles.cover}>
+      {/* <div className={styles.cover}>
         <Image src={cover.image} alt={cover.alt} />
-      </div>
+      </div> */}
       <div className={styles.content}>
         <div className={styles.text}>
           <div className={styles.title}>{title}</div>
-          {description && (
-            <Content childrenIsText>
-              <div className={styles.description}>
-                <Html html={description} />
-              </div>
-            </Content>
-          )}
           <div className={styles.meta}>
             {beds && (
               <div className={styles.box}>
@@ -48,6 +42,25 @@ export const Cottage = ({
               </div>
             )}
           </div>
+          {/* <ctv-product data-product-id={ctoutvertId}></ctv-product> */}
+          <ctv-availability
+            data-product-id={ctoutvertId}
+            data-background-color="#FFFFFFFF"
+          ></ctv-availability>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              console.log(document.querySelector('ctv-availability').shadowRoot.querySelector('.ctv-min-height');)
+        document.querySelector('ctv-availability').shadowRoot.querySelector('.ctv-min-height').setAttribute('style', 'min-height: unset !important;');
+      `,
+            }}
+          />
+          {description && (
+            <div className={styles.description}>
+              <Html html={description.html} />
+            </div>
+          )}
+          <ctv-inventory data-product-id={ctoutvertId}></ctv-inventory>
         </div>
         <ExternalLink
           className={styles.button}
