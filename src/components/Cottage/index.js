@@ -47,14 +47,14 @@ export const Cottage = ({
             data-product-id={ctoutvertId}
             data-background-color="#FFFFFFFF"
           ></ctv-availability>
-          <script
+          {/* <script
             dangerouslySetInnerHTML={{
               __html: `
               console.log(document.querySelector('ctv-availability').shadowRoot.querySelector('.ctv-min-height');)
         document.querySelector('ctv-availability').shadowRoot.querySelector('.ctv-min-height').setAttribute('style', 'min-height: unset !important;');
       `,
             }}
-          />
+          /> */}
           {description && (
             <div className={styles.description}>
               <Html html={description.html} />
