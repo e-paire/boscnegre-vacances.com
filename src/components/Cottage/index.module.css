@@ -75,9 +75,9 @@
     flex: 1 1 60%;
   }
 
-  ctv-availability {
+  /* ctv-availability {
     margin-bottom: -50px;
-  }
+  } */
 
   .text {
     display: flex;

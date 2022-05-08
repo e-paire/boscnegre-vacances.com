@@ -20,7 +20,9 @@ Cottages.propTypes = {
   cottages: PropTypes.arrayOf(
     PropTypes.shape({
       title: PropTypes.string.isRequired,
-      description: PropTypes.string,
+      description: PropTypes.shape({
+        html: PropTypes.string,
+      }),
       cover: PropTypes.shape({
         image: PropTypes.string,
         alt: PropTypes.string,

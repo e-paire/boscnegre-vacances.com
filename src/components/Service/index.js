@@ -27,7 +27,7 @@ Service.propTypes = {
       alt: PropTypes.string.isRequired,
       image: PropTypes.string.isRequired,
     }),
-    title: PropTypes.string.isRequired,
+    title: PropTypes.string,
   }),
 }
 

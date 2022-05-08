@@ -45,7 +45,7 @@ TextLink.propTypes = {
   cover: PropTypes.shape({
     alt: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
-  }).isRequired,
+  }),
   external: PropTypes.bool,
   url: PropTypes.string,
   text: PropTypes.string.isRequired,

@@ -1,3 +1,4 @@
+import {withPrefix} from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import {Helmet} from "react-helmet"
@@ -30,24 +31,25 @@ const LayoutIndex = ({children, path}) => {
           property="google-site-verification"
           content={process.env.GATSBY_GOOGLE_SITE_VERIFICATION}
         />
-        <script>
+        <script src={withPrefix("ctv.js")} />
+        {/* <script>
           {`window.ctoutvert = {
             id: 14230,
             lang: '${locale}',
             url: 'https://bookingpremium.secureholiday.net/widgets/'
           };
   
-          (function (w, d, s, ctv, r, js, fjs) {
-            r=new XMLHttpRequest();r.open('GET',w[ctv].url+'js/src.json');
-            r.responseType='json';r.json=true;r.send();
-            r.onload=function(){w[ctv].src=r.responseType=='json'?r.response:JSON.parse(r.response);
-            js.src=w[ctv].src[0];fjs.parentNode.insertBefore(js, fjs);}
-            js=d.createElement(s),fjs=d.getElementsByTagName(s)[0];
-            js.id='ctvwidget';js.async=1;
-          }(window, document, 'script', 'ctoutvert'));
-          console.log(window.ctoutvert);
+          // (function (w, d, s, ctv, r, js, fjs) {
+          //   r=new XMLHttpRequest();r.open('GET',w[ctv].url+'js/src.json');
+          //   r.responseType='json';r.json=true;r.send();
+          //   r.onload=function(){w[ctv].src=r.responseType=='json'?r.response:JSON.parse(r.response);
+          //   js.src=w[ctv].src[0];fjs.parentNode.insertBefore(js, fjs);}
+          //   js=d.createElement(s),fjs=d.getElementsByTagName(s)[0];
+          //   js.id='ctvwidget';js.async=1;
+          // }(window, document, 'script', 'ctoutvert'));
+          // console.log(window.ctoutvert);
           `}
-        </script>
+        </script> */}
       </Helmet>
       <Container>{children}</Container>
     </>
