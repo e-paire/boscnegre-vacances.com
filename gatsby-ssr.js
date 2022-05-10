@@ -1,5 +1,6 @@
 import "./src/styles/index.css"
 
+import {withPrefix} from "gatsby"
 import {DisplayNames} from "intl"
 import React from "react"
 import {IntlProvider} from "react-intl"
@@ -29,35 +30,6 @@ export const onRenderBody = ({setPostBodyComponents}) => {
       <ctv-inventory data-product-id="105540"></ctv-inventory>
       <ctv-availability data-product-id="105540"></ctv-availability>
     </div>,
-    // <script
-    //   dangerouslySetInnerHTML={{
-    //     __html: `
-    //     window.ctoutvert = {
-    //       id: 14230,
-    //       lang: 'auto',
-    //       url: 'https://bookingpremium.secureholiday.net/widgets/'
-    //     };
-
-    //     (function (w, d, s, ctv, r, js, fjs) {
-    //       console.log(w[ctv].lang);
-    //       r = new XMLHttpRequest();
-    //       r.open("GET", w[ctv].url + "js/src.json");
-    //       r.responseType = "json";
-    //       r.json = true;
-    //       r.send();
-    //       r.onload = function () {
-    //           w[ctv].src = r.responseType == "json" ? r.response : JSON.parse(r.response);
-    //           js.src = w[ctv].src[0];
-    //           fjs.parentNode.insertBefore(js, fjs);
-    //       };
-    //       (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
-    //       js.id = "ctvwidget";
-    //       js.async = 1;
-    //       console.log(js)
-    //   })(window, document, "script", "ctoutvert");
-
-    //   `,
-    //   }}
-    // />,
+    <script src={withPrefix("ctv.js")} />,
   ])
 }

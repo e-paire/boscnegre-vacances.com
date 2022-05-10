@@ -4,23 +4,23 @@ window.ctoutvert = {
   url: "https://bookingpremium.secureholiday.net/widgets/",
 }
 
-const r = new XMLHttpRequest()
-r.open("GET", "https://bookingpremium.secureholiday.net/widgets/js/src.json")
-r.responseType = "json"
-r.json = true
-r.send()
-
-r.onload = function () {
+const request = new XMLHttpRequest()
+request.open(
+  "GET",
+  "https://bookingpremium.secureholiday.net/widgets/js/src.json"
+)
+request.responseType = "json"
+request.json = true
+request.send()
+request.onload = function () {
   window.ctoutvert.src =
-    r.responseType == "json" ? r.response : JSON.parse(r.response)
+    request.responseType == "json"
+      ? request.response
+      : JSON.parse(request.response)
 
-  const fjs = document.getElementsByTagName("script")[0]
-  const js = document.createElement("script")
+  const firstScript = document.getElementsByTagName("script")[0]
+  const ctvScript = document.createElement("script")
 
-  js.id = "345"
-  js.setAttribute("data-type", "ctv")
-  // js.async = 0
-  js.src = window.ctoutvert.src[0]
-
-  fjs.parentNode.insertBefore(js, fjs)
+  ctvScript.src = window.ctoutvert.src[0]
+  firstScript.parentNode.insertBefore(ctvScript, firstScript)
 }

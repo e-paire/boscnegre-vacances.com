@@ -1,4 +1,3 @@
-import {withPrefix} from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import {Helmet} from "react-helmet"
@@ -31,7 +30,7 @@ const LayoutIndex = ({children, path}) => {
           property="google-site-verification"
           content={process.env.GATSBY_GOOGLE_SITE_VERIFICATION}
         />
-        <script src={withPrefix("ctv.js")} />
+        {/* <script src={withPrefix("ctv.js")} /> */}
         {/* <script>
           {`window.ctoutvert = {
             id: 14230,
