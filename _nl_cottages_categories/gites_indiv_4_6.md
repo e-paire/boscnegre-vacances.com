@@ -6,7 +6,7 @@ metaTitle: Vrijstaande vakantiehuisjes 4/6 personen
 navTitle: Vrijstaande vakantiehuisjes 4/6 pers.
 metaDescription: Gites voor 4 personen op Bosc Nègre vakantiepark in de Dordogne
 cover:
-  image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
+  image: "/uploads/Gites%20du%20lac%20%20Bosc%20Negre%202022%20(13).jpg"
   alt: huisjes voor 4 tot 6 personnen op de Bosc Negre
   Key: 
 capacityMin: 4
