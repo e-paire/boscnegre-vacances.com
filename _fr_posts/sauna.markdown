@@ -2,12 +2,11 @@
 title: Sauna
 date: 2019-03-18 23:41:00 +01:00
 tags:
-  - bien-être
+- bien-être
 route: sauna
 metaTitle: Le sauna comme nouveau service
 navTitle: Sauna
-metaDescription:
-  Une séance de sauna votre bien-être sera à côté de la piscine pour
+metaDescription: Une séance de sauna votre bien-être sera à côté de la piscine pour
   encore plus de confort
 slogan: Une séance de sauna complétera vos vacances bien mérités
 cover:

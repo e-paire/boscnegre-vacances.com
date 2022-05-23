@@ -4,8 +4,7 @@ position: 3
 route: piscine
 metaTitle: L'espace piscine et sauna du Bosc Nègre
 navTitle: Piscine
-metaDescription:
-  Amusez-vous dans la piscine chauffée le sauna ou dans la pateogoire.
+metaDescription: Amusez-vous dans la piscine chauffée le sauna ou dans la pateogoire.
   Tout est fait pour ravir petits et grands au Bosc Nègre en Lot-et-Garonne, limitrophe
   Dordogne
 slogan: Venez profiter de piscine chauffée et sauna au Bosc Negre
@@ -13,12 +12,12 @@ cover:
   image: "/uploads/piscine_bosc_nege_2.JPG"
   alt: Piscine chauffée Bosc Nègre
 images:
-  - image: "/uploads/aquagym_bosc_negre.JPG"
-    alt: activité aquagym au Bosc Negre
-  - image: "/uploads/piscine_famille_Bosc_Negrejpg"
-    alt: jouer à la piscine du Bosc Negre
-  - image: "/uploads/piscine_bosc_nege_2.JPG"
-    alt: la piscine du Bosc Negre
+- image: "/uploads/aquagym_bosc_negre.JPG"
+  alt: activité aquagym au Bosc Negre
+- image: "/uploads/piscine_famille_Bosc_Negrejpg"
+  alt: jouer à la piscine du Bosc Negre
+- image: "/uploads/piscine_bosc_nege_2.JPG"
+  alt: la piscine du Bosc Negre
 Field name:
   image: "/uploads/saunablog.jpg"
   alt: le sauna du Bosc Negre

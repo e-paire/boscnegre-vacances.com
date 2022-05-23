@@ -2,17 +2,16 @@
 title: Les circuits de vélo
 date: 2017-01-30 09:24:00 +01:00
 tags:
-  - groupes
+- groupes
 route: 2017-01-les-circuits-de-velo
 metaTitle: Les circuits de vélo autour le village de vacances Bosc Nègre
 navTitle: Circuits de vélo
-metaDescription:
-  Parcourir les routes autour le village de vacances Bosc Nègre en
+metaDescription: Parcourir les routes autour le village de vacances Bosc Nègre en
   vélo et découvrir le Périgord et le pays des bastides.
 slogan: Venez séjourner avec votre club de cyclistes
 cover:
   image: "/uploads/vendome%20mai%2016-07f4e8.JPG"
-  alt: "Club de cyclistes pour un séjour de groupe au Bosc Nègre "
+  alt: 'Club de cyclistes pour un séjour de groupe au Bosc Nègre '
 layout: Post
 ---
 

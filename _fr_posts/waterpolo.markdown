@@ -2,15 +2,13 @@
 title: Water-polo, tous les qualités masculines sont testées
 date: 2018-02-02 08:59:00 +01:00
 tags:
-  - activités
+- activités
 route: waterpolo
 metaTitle: Le waterpolo fait partie des animation d'été
 navTitle: waterpolo
-metaDescription:
-  Le water-polo est l'activité d'été le plus intéressant pour les pères
+metaDescription: Le water-polo est l'activité d'été le plus intéressant pour les pères
   de familles sportives
-slogan:
-  Venez jouer le water-polo pendant vos vacances pour la détente à 100 pour
+slogan: Venez jouer le water-polo pendant vos vacances pour la détente à 100 pour
   cent
 cover:
   image: "/uploads/14151754_10210126616143327_1790014778_o.jpg"

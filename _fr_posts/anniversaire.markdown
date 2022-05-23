@@ -2,12 +2,11 @@
 title: Fêter votre anniversaire
 date: 2018-02-13 13:45:00 +01:00
 tags:
-  - groupes
+- groupes
 route: anniversaire
 metaTitle: Fêter une anniversaire Bosc Nègre village de vacances et restaurant
 navTitle: Fêter anniversaire
-metaDescription:
-  Au village de vacances Bosc Nègre vous disposez d’une salle et des
+metaDescription: Au village de vacances Bosc Nègre vous disposez d’une salle et des
   hébergements pouvant accueillir jusqu’à 80 personnes.
 slogan: Venez fêter votre anniversaire
 cover:

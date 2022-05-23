@@ -5,8 +5,7 @@ position: 2
 route: "/groupes/vacances-sportives"
 metaTitle: Hébergement pour clubs sportifs au Hameau de Bosc Nègre
 navTitle: Groupe Sportif
-metaDescription:
-  Vous êtes à la recherche d'un lieu de vacances pour votre club sportif
+metaDescription: Vous êtes à la recherche d'un lieu de vacances pour votre club sportif
   ? Consultez nos offres pour clubs sportifs et les ballades découvertes de la région
   Dordogne et Lot-et-Garonne
 slogan: Un hébergement détente et sportif en Lot-et-Garonne
@@ -16,39 +15,37 @@ cover:
 icon: users
 imagesTitle: Photos
 images:
-  - image: "/uploads/Group_randonneurs_au_Bosc_Negre.jpg"
-    alt: Club de randonneurs en vacances au Bosc Negre
-  - image: "/uploads/cyclistes_Bosc_Negre.JPG"
-    alt:
-  - image: "/uploads/groupe_moto_Bosc_Negre.JPG"
-    alt:
-  - image: "/uploads/groupe_cyclistes_assm_au_Bosc_negre.jpg"
-    alt:
-  - image: "/uploads/Randonnees_Bonaguil_depuis_Bosc_Negre.jpg"
-    alt:
-  - image: "/uploads/club_VTT_Belves_au_Bosc_Negre.jpg"
-    alt: Groupe de VTT en vacances au Bosc Negre
-  - image: "/uploads/apero_convivial_bosc_negre.JPG"
-    alt:
-  - image: "/uploads/repos_randonnees_Bosc_negre.jpg"
-    alt:
-  - image: "/uploads/club_motos_Bosc_Negre.jpg"
-    alt: Club moto au Bosc Negre
+- image: "/uploads/Group_randonneurs_au_Bosc_Negre.jpg"
+  alt: Club de randonneurs en vacances au Bosc Negre
+- image: "/uploads/cyclistes_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/groupe_moto_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/groupe_cyclistes_assm_au_Bosc_negre.jpg"
+  alt: 
+- image: "/uploads/Randonnees_Bonaguil_depuis_Bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/club_VTT_Belves_au_Bosc_Negre.jpg"
+  alt: Groupe de VTT en vacances au Bosc Negre
+- image: "/uploads/apero_convivial_bosc_negre.JPG"
+  alt: 
+- image: "/uploads/repos_randonnees_Bosc_negre.jpg"
+  alt: 
+- image: "/uploads/club_motos_Bosc_Negre.jpg"
+  alt: Club moto au Bosc Negre
 pricesExamples:
-  - description: |-
-      Tarif en pension complète pour une nuit avec un repas festif.
+- description: |-
+    Tarif en pension complète pour une nuit avec un repas festif.
 
-      ¼ de vin, café et draps fournis, toutes charges comprises
-    price:
-      "76€ par adulte / enfants entre 12 et 15 ans : 59€ / enfants entre 4 et 11
-      ans : 54€"
-  - description: |-
-      Tarif en pension complète pour deux nuits dont un soir avec un repas festif.
+    ¼ de vin, café et draps fournis, toutes charges comprises
+  price: '76€ par adulte / enfants entre 12 et 15 ans : 59€ / enfants entre 4 et 11
+    ans : 54€'
+- description: |-
+    Tarif en pension complète pour deux nuits dont un soir avec un repas festif.
 
-      ¼ de vin, café et draps fournis, toutes charges comprises.
-    price:
-      "130€ par adulte / enfants entre 12 et 15 ans : 98€ / enfants entre 4 et
-      11 ans : 88€"
+    ¼ de vin, café et draps fournis, toutes charges comprises.
+  price: '130€ par adulte / enfants entre 12 et 15 ans : 98€ / enfants entre 4 et
+    11 ans : 88€'
 layout: Group
 ---
 

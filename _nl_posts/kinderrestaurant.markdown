@@ -2,14 +2,12 @@
 title: Kinderrestaurant
 date: 2018-02-07 14:21:00 +01:00
 tags:
-  - activiteiten zomer
+- activiteiten zomer
 route: nl/kinderrestaurant
-metaTitle:
-  Eens in de twee weken staat kinderrestaurant op de weekplanning van de
+metaTitle: Eens in de twee weken staat kinderrestaurant op de weekplanning van de
   zomervakantie
 navTitle: kinderrestaurant
-metaDescription:
-  Kinderen tussen vijf en twaalf jaar, verzamelen zich die avond in
+metaDescription: Kinderen tussen vijf en twaalf jaar, verzamelen zich die avond in
   de zaal -verboden voor ouders- voor een gezellig samen zijn zonder ouders
 slogan: eenmaal per vakantie eten zonder ouders in het kinderrestaurant wat een feest
 cover:

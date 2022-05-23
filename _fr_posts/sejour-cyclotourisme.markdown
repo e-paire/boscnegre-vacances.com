@@ -2,7 +2,7 @@
 title: Séjour cyclotourisme clé en main dans le Lot-et-Garonne
 date: 2018-01-29 14:38:00 +01:00
 tags:
-  - groupes
+- groupes
 route: sejour-cyclotourisme
 metaTitle: Sejour cyclotourisme cle en main dans le Lot et Garonne
 navTitle: sejour clé en main
@@ -10,7 +10,7 @@ metaDescription: Quatre parcours de vélo dans le Périgord noir, séjour clé e
 slogan: Profitez du séjour clé en main au Bosc Nègre pour votre club de cyclotourisme
 cover:
   image: "/uploads/cyclotourisme%20monpazier%20(3).JPG"
-  alt: "séjour clé en main cyclotourisme "
+  alt: 'séjour clé en main cyclotourisme '
 layout: Post
 ---
 

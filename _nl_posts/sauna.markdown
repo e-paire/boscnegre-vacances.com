@@ -2,11 +2,11 @@
 title: Sauna
 date: 2019-03-17 10:52:00 +01:00
 tags:
-  - welzijn
+- welzijn
 route: nl/sauna
 metaTitle: Sauna, de nieuwe wellness service
 navTitle: Sauna
-metaDescription: "Een sauna sessie zal een pluspunt zijn tijdens uw vakantie "
+metaDescription: 'Een sauna sessie zal een pluspunt zijn tijdens uw vakantie '
 slogan: Kom de sauna sessie ontdekken tijdens je vakantie, ten behoeve van het welzijn
 cover:
   image: "/uploads/saunablog.jpg"

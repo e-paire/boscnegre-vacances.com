@@ -4,11 +4,9 @@ position: 1
 route: "/tous-les-gites"
 metaTitle: Tous les gîtes de charme du Bosc Nègre village de gites
 navTitle: Les gîtes
-metaDescription:
-  "Choissisez le gîte qui vous correspond le mieux pour vous prochaines
-  vacances avec votre famille, vos amis ou bien entre votre club de sport. "
-slogan:
-  Location de gîte dans le Lot-et-Garonne, limitrophe Dordogne. Ouvert toute
+metaDescription: 'Choissisez le gîte qui vous correspond le mieux pour vous prochaines
+  vacances avec votre famille, vos amis ou bien entre votre club de sport. '
+slogan: Location de gîte dans le Lot-et-Garonne, limitrophe Dordogne. Ouvert toute
   l'année
 cover:
   image: "/uploads/photo%20%20Bosc%20N%C3%A8gre%20NUMERote.jpg"

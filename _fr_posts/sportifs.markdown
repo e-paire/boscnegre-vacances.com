@@ -2,12 +2,11 @@
 title: Les courageux sportifs
 date: 2018-03-21 09:31:00 +01:00
 tags:
-  - activités
+- activités
 route: sportifs
 metaTitle: chaque jour par une activité sportive.
 navTitle: sportifs
-metaDescription:
-  Au village de vacances Bosc Nègre vous serez attisé chaque jour par
+metaDescription: Au village de vacances Bosc Nègre vous serez attisé chaque jour par
   une activité sportive. Chacun y trouve son compte durant la semaine.
 slogan: Bosc Nègre pour les sportifs qui aiment le sport en pleine nature
 cover:

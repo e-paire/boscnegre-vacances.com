@@ -4,34 +4,33 @@ position: 4
 route: animations
 metaTitle: Toutes les animations au Bosc Nègre
 navTitle: Animations
-metaDescription:
-  Profitez des animations estivales du Bosc-Nègre pour vous occupez
+metaDescription: Profitez des animations estivales du Bosc-Nègre pour vous occupez
   pendant vos vacances dans le Sud-Ouest
 slogan: Des animations et activités pour tous pendant vos vacances
 cover:
   image: "/uploads/aquagym_bosc_negre.JPG"
   alt: animations au Bosc Negre
 images:
-  - image: "/uploads/Waterpoloe_Bosc_Negre.JPG"
-    alt: waterpolo pour adultes au Bosc Negre
-  - image: "/uploads/soiree_masque_Bosc_Negre.JPG"
-    alt:
-  - image: "/uploads/badminton_Bosc_Negre.jpg"
-    alt:
-  - image: "/uploads/Waterpolo_enfant.JPG"
-    alt: waterpolo pour enfants au Bosc Negre
-  - image: "/uploads/tournois-six-epreuves.jpg"
-    alt: Tournois des six épreuves au Bosc Negre
-  - image: "/uploads/Tir_a_l_arc_bosc_Negre.jpg"
-    alt:
-  - image: "/uploads/Jeu_ludique_bosc_Negre.jpg"
-    alt: 60 secondes chrono au Bosc Negre
-  - image: "/uploads/football_Bosc_NEgre%202.JPG"
-    alt: tournoi de football au Bosc Negre
-  - image: "/uploads/Yoga_Bosc_Negre.JPG"
-    alt:
-  - image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
-    alt: spectacle du magicien Yurgen au Bosc Negre
+- image: "/uploads/Waterpoloe_Bosc_Negre.JPG"
+  alt: waterpolo pour adultes au Bosc Negre
+- image: "/uploads/soiree_masque_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/badminton_Bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/Waterpolo_enfant.JPG"
+  alt: waterpolo pour enfants au Bosc Negre
+- image: "/uploads/tournois-six-epreuves.jpg"
+  alt: Tournois des six épreuves au Bosc Negre
+- image: "/uploads/Tir_a_l_arc_bosc_Negre.jpg"
+  alt: 
+- image: "/uploads/Jeu_ludique_bosc_Negre.jpg"
+  alt: 60 secondes chrono au Bosc Negre
+- image: "/uploads/football_Bosc_NEgre%202.JPG"
+  alt: tournoi de football au Bosc Negre
+- image: "/uploads/Yoga_Bosc_Negre.JPG"
+  alt: 
+- image: "/uploads/yurgen_et_florette_au_Bosc_Negre.JPG"
+  alt: spectacle du magicien Yurgen au Bosc Negre
 layout: Service
 ---
 

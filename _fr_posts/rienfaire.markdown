@@ -2,12 +2,11 @@
 title: Avoir toute la journée pour ne rien faire
 date: 2018-02-09 00:25:00 +01:00
 tags:
-  - activités
+- activités
 route: rienfaire
 metaTitle: Toute la journée pour ne rien faire
 navTitle: rien faire
-metaDescription:
-  Etre en vacances, c'est n'avoir rien à faire et avoir toute la journée
+metaDescription: Etre en vacances, c'est n'avoir rien à faire et avoir toute la journée
   pour le faire.
 slogan: Vous ne voulez rien faire
 cover:

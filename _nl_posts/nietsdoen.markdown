@@ -2,7 +2,7 @@
 title: Helemaal niets moeten
 date: 2018-02-05 22:23:00 +01:00
 tags:
-  - activiteiten zomer
+- activiteiten zomer
 route: nl/nietsdoen
 metaTitle: Op vakantie even helemaal niets moeten
 navTitle: Niets doen

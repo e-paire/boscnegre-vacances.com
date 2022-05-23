@@ -4,8 +4,7 @@ position: 5
 route: groupes
 metaTitle: Hébergement de groupes au Bosc Nègre
 navTitle: Groupes
-metaDescription:
-  Hébergement et pension complète pour les groupes jusqu'à 80 personnes
+metaDescription: Hébergement et pension complète pour les groupes jusqu'à 80 personnes
   en Lot-et-Garonne, limitrophe Dordogne et le beau Périgord
 slogan: Séjour groupes Lot et Gartonne pour 80 personnes
 cover:

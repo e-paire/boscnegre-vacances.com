@@ -2,14 +2,12 @@
 title: Tiny-house
 date: 2021-06-06 17:44:00 +02:00
 tags:
-  - general
+- general
 route: tiny-house
-metaTitle:
-  Une Tiny House avec terrasse dans un endroit splendide, au milieu des arbres,
+metaTitle: Une Tiny House avec terrasse dans un endroit splendide, au milieu des arbres,
   dans un village de vacances familial en Lot-et-Garonne
 navTitle: Tiny-house
-metaDescription:
-  Hébergement insolite dans un village de vacances avec des confort,
+metaDescription: Hébergement insolite dans un village de vacances avec des confort,
   une combi parfaite
 slogan: Découvrez le lieu de vie d'une tiny-house
 cover:

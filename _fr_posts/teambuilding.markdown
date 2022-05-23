@@ -2,17 +2,15 @@
 title: Teambuilding
 date: 2019-03-27 14:55:00 +01:00
 tags:
-  - séminaire
+- séminaire
 route: teambuilding
 metaTitle: Le teambuilding pour séminaire
 navTitle: teambuilding pour séminaire
-metaDescription:
-  Booster votre équipe avec un teambuilding pendant deux jours au Bosc
+metaDescription: Booster votre équipe avec un teambuilding pendant deux jours au Bosc
   Negre séminaire
-slogan:
-  "Demandez nous les possibilités de teambuilding pour votre équipe et booster
+slogan: 'Demandez nous les possibilités de teambuilding pour votre équipe et booster
   les collaborateurs pendant deux jours au village de vacances Bosc Negre pour les
-  séminaires résidentielles "
+  séminaires résidentielles '
 cover:
   image: "/uploads/teambuidling%20au%20bosc%20negre%20seminaire%20-f5eb97.jpg"
   alt: teambuilding pour votre équipe en pleine nature au Bosc Negre

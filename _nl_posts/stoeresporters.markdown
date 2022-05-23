@@ -2,12 +2,11 @@
 title: Stoere sporters
 date: 2018-03-07 13:08:00 +01:00
 tags:
-  - activiteiten zomer
+- activiteiten zomer
 route: nl/stoeresporters
 metaTitle: Sportieve activiteiten in de bossen van de Dordogne
 navTitle: Sporten
-metaDescription:
-  Heerlijk met je medevakantiegangers sporten in het heuvelachtige
+metaDescription: Heerlijk met je medevakantiegangers sporten in het heuvelachtige
   bosgebied in de Dordogne
 slogan: Joggen, mountainbiken en nog veel meer sporten op de Bosc Negre
 cover:

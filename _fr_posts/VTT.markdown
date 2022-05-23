@@ -2,12 +2,11 @@
 title: Du VTT pendant vos vacances au Bosc Nègre
 date: 2018-02-02 11:55:00 +01:00
 tags:
-  - activités
+- activités
 route: VTT
 metaTitle: Location de VTT au village de vacances Bosc Nègre
 navTitle: location vtt
-metaDescription:
-  Faire du VTT dans les bois de Périgord depuis votre lieu de vacances
+metaDescription: Faire du VTT dans les bois de Périgord depuis votre lieu de vacances
   à Lacapelle-Biron
 slogan: Venez faire du VTT et découvrez les bois autour de Lacapelle Biron
 cover:

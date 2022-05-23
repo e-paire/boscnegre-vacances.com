@@ -2,12 +2,11 @@
 title: Exemple de tarifs
 date: 2018-04-05 14:17:00 +02:00
 tags:
-  - séminaire
+- séminaire
 route: tarif-seminaire
 metaTitle: Exemple de tarif séminaire deux jours
-navTitle: "Tarif séminaire "
-metaDescription:
-  Un exemple de tarif séminaire, clés en main pour deux jours dans
+navTitle: 'Tarif séminaire '
+metaDescription: Un exemple de tarif séminaire, clés en main pour deux jours dans
   le Périgord
 slogan: Trouvez le tarif clés en main pour deux jours de séminaire
 cover:

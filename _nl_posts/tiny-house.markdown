@@ -2,12 +2,11 @@
 title: Tiny-house
 date: 2021-06-05 19:58:00 +02:00
 tags:
-  - algemeen
+- algemeen
 route: nl/tiny-house
-metaTitle: "Een bijzondere vakantie in een tiny house op een heerlijk vakantiepark "
+metaTitle: 'Een bijzondere vakantie in een tiny house op een heerlijk vakantiepark '
 navTitle: Tiny House
-metaDescription:
-  Een alternatieve vakantie op een park met veel comfort, de ideale
+metaDescription: Een alternatieve vakantie op een park met veel comfort, de ideale
   combinatie
 slogan: Kom ontdekken hoe het is te leven in een tiny house
 cover:

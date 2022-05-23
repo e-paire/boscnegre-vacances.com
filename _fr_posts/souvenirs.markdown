@@ -2,12 +2,12 @@
 title: Les souvenirs d'été
 date: 2018-02-02 09:28:00 +01:00
 tags:
-  - activités
+- activités
 route: souvenirs
 metaTitle: Les souvenirs des vacances d'été en famille
 navTitle: souvenirs
 metaDescription: Les souvenirs d'été fait envie d'y revenir
-slogan: "Revivre l'été à travers des souvenirs "
+slogan: 'Revivre l''été à travers des souvenirs '
 cover:
   image: "/uploads/sortie_canoe_bosc_negre.jpg"
   alt: sortie canoé sur la Dordogne

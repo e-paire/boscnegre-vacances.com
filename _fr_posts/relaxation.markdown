@@ -2,12 +2,11 @@
 title: Relaxation
 date: 2019-05-29 08:59:00 +02:00
 tags:
-  - bien-être
+- bien-être
 route: relaxation
 metaTitle: Les vacances commencent par une clinique de relaxation
 navTitle: Clinique de relaxation
-metaDescription:
-  Se sentir bien pendant les vacances commence avec une détente, venez
+metaDescription: Se sentir bien pendant les vacances commence avec une détente, venez
   profiter d'une séance de relaxation. détox et relax dès le prémier jour.
 slogan: En route pour un été détendu
 cover:

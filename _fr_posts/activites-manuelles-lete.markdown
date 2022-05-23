@@ -2,12 +2,11 @@
 title: Activités manuelles l'été
 date: 2017-03-12 10:06:00 +01:00
 tags:
-  - activités
+- activités
 route: activites-manuelles-lete
 metaTitle: Activités manuelles l'été pour les enfants
 navTitle: Activités
-metaDescription:
-  L'activités manuelle est un des activités du planning d'été. Des
+metaDescription: L'activités manuelle est un des activités du planning d'été. Des
   multiples activités sont organisés au village de vacances Bosc Nègre
 slogan: Des vacances actives pour vos enfants
 cover:

@@ -2,7 +2,7 @@
 title: Knutseluurtjes voor de kinderen
 date: 2017-02-11 15:09:00 +01:00
 tags:
-  - activiteiten zomer
+- activiteiten zomer
 route: nl/knutseluurtjes-voor-de-kinderen
 metaTitle: Knutseluurtje voor de kinderen
 navTitle: knutselen

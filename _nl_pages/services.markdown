@@ -4,8 +4,7 @@ position: 2
 route: "/nl/faciliteiten"
 metaTitle: Gezellige activiteiten op de Bosc Negre
 navTitle: Faciliteiten
-metaDescription:
-  Zomerprogramma vol activiteiten, tennisbaan, verwarmd zwembad, sauna
+metaDescription: Zomerprogramma vol activiteiten, tennisbaan, verwarmd zwembad, sauna
   en vele sportfaciliteiten op vakantiepark de Bosc Nègre
 slogan: De voorzieningen welke u op vakantiepark de  Bosc Nègre kunt vinden
 cover:

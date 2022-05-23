@@ -2,10 +2,10 @@
 title: Aire de jeux pour le bonheur des enfants
 date: 2017-03-13 09:00:00 +01:00
 tags:
-  - general
+- general
 route: 2017-03-aire-de-jeux
-metaTitle: "Nouvelle aire de jeux "
-navTitle: "aire de jeux "
+metaTitle: 'Nouvelle aire de jeux '
+navTitle: 'aire de jeux '
 metaDescription: Des nouvelles installation sur terrain de jeux pour plus de joie
 slogan: Venez vivre les nouvelles installations
 cover:
