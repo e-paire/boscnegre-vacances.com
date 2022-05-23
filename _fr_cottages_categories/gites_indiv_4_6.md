@@ -5,7 +5,7 @@ route: gites-individuel-4-6
 metaTitle: Gîtes individuels pour 4 à 6 personnes
 navTitle: Gîtes individuels 4/6 pers
 cover:
-  image: "/uploads/gite_du_lac_9_Bosc_Negre.JPG"
+  image: "/uploads/Gites%20du%20lac%20%20Bosc%20Negre%202022%20(13).jpg"
   alt: gite individuel 4/6 personnes au Bosc Nègre
 capacityMin: 4
 capacityMax: 6
