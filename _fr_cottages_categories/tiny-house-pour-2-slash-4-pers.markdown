@@ -6,7 +6,7 @@ navTitle: Tiny House 4 pers.
 metaDescription: Location de Tiny House pour un séjour insolite en plein milieu de
   la nature
 cover:
-  image: "/uploads/Tiny%20House%20(2).JPG"
+  image: "/uploads/Tiny%20House%20Bosc%20Negre.jpg"
   alt: location tiny house au Bosc Nègre
 capacityMin: 2
 capacityMax: 4
