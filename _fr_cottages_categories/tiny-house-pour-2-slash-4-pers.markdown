@@ -35,7 +35,7 @@ cottages:
     de jardin. La Tiny House est donc entièrement autonome et dispose de toute la
     commodité standard.\n\n\n\n\n\n"
   cover:
-    image: "/uploads/Tiny%20House%20(2).JPG"
+    image: "/uploads/Tiny%20House%20Bosc%20Negre.jpg"
     alt: location tiny house au Bosc Nègre
   beds: 1 lit + canapé lit
   crush: au calme sous les arbres
