@@ -54,6 +54,4 @@ Avant votre départ, le casse-croute sera mis à disposition et viendront rempli
 
 Au retour, avant de prendre l’apéritif vous pouvez profiter d’une petite partie de pétanque avec vos amis ou plonger dans la piscine pour vous rafraîchir. Le soir, retrouvez-vous autour de la table au restaurant pour un moment convivial. Un repas avec entrée, plat, fromage et dessert vous rassasiera et vous remettra en forme pour le lendemain matin.
 
-### Des témoignages
 
-Le club de Vichy nous raconte [leurs chemins parcourus](https://cyclodhv.jimdo.com/nos-nombreuses-photos-de-sorties-et-de-manifestations-de-2006-%C3%A0-2015/s%C3%A9jour-d-avril-2013-dans-le-p%C3%A9rigord/) et leurs loisirs pendant le séjour.
