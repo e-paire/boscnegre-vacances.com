@@ -1,5 +1,6 @@
 ---
 title: Pour toute question, n'hésitez pas à prendre contact avec Coby & Alfred
+published: false
 position: 7
 route: contact
 metaTitle: 'Contactez Coby au  Bosc Nègre '
