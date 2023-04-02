@@ -1,6 +1,5 @@
 ---
-title: Bienvenue au Village de Vacances Bosc-Nègre, en Lot-et-Garonne, limitrophe
-  Dordogne
+title: Changement de propriétaire le 30 Mars 2023
 position: 0
 route: "/"
 metaTitle: Bosc Nègre, Village de Vacances
