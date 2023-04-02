@@ -1,5 +1,5 @@
 ---
-title: Welkom op de vakantiepark Bosc Negre
+title: Nieuwe eigenaar sinds 30 maart 2023
 position: 0
 route: nl
 metaTitle: 'Vakantiepark Bosc Nègre '
