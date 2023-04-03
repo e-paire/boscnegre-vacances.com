@@ -16,14 +16,14 @@ export const TopBar = ({onOpenNav, slogan}) => {
           <Icon name="bars" />
         </div>
         <div className={styles.slogan}>{slogan}</div>
-        <a
+        {/* <a
           className={styles.email}
           href="mailto:info@boscnegre-vacances.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           {"info@boscnegre-vacances.com"}
-        </a>
+        </a> */}
         <a
           className={styles.phone}
           href="tel:+33553409927"

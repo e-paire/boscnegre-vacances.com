@@ -65,7 +65,7 @@ export const LayoutPage = ({
               )}
               {children}
             </div>
-            <Footer />
+            {/* <Footer /> */}
           </div>
         </div>
       </div>

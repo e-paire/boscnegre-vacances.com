@@ -6,15 +6,15 @@ const {GOOGLE_ANALYTICS_ID} = process.env
 
 const content = [
   "_fr_pages",
-  "_fr_services",
-  "_fr_cottages_categories",
-  "_fr_groups",
-  "_fr_posts",
-  "_fr_services",
-  "_nl_cottages_categories",
+  // "_fr_services",
+  // "_fr_cottages_categories",
+  // "_fr_groups",
+  // "_fr_posts",
+  // "_fr_services",
+  // "_nl_cottages_categories",
   "_nl_pages",
-  "_nl_posts",
-  "_nl_services",
+  // "_nl_posts",
+  // "_nl_services",
   "_uploads",
 ]
 
@@ -114,14 +114,14 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: GOOGLE_ANALYTICS_ID,
-        anonymize: true,
-        respectDNT: true,
-      },
-    },
+    // {
+    //   resolve: "gatsby-plugin-google-analytics",
+    //   options: {
+    //     trackingId: GOOGLE_ANALYTICS_ID,
+    //     anonymize: true,
+    //     respectDNT: true,
+    //   },
+    // },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-layout",
     "gatsby-plugin-catch-links",

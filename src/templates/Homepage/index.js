@@ -2,18 +2,13 @@ import {graphql} from "gatsby"
 import React from "react"
 
 import {Content} from "../../components/Content"
-import {CottagesCategories} from "../../components/CottagesCategories"
-import {Groups} from "../../components/Groups"
 import {Html} from "../../components/Html"
-import {Services} from "../../components/Services"
 import {LayoutPage} from "../../layouts/Page"
 
-const TemplateHomepage = ({
-  data: {page, services, groups, cottagesCategories},
-}) => {
+const TemplateHomepage = ({data: {page}}) => {
   return (
     <LayoutPage page={page} withBreadcrumb={false}>
-      <Content>
+      {/* <Content>
         <CottagesCategories
           cottagesCategories={cottagesCategories.nodes.map((node) => ({
             ...node.fields,
@@ -24,7 +19,7 @@ const TemplateHomepage = ({
       <Content>
         <Services services={services} />
       </Content>
-      <Groups groups={groups} />
+      <Groups groups={groups} /> */}
       {page.html && (
         <Content>
           <Html html={page.html} />
@@ -37,28 +32,9 @@ const TemplateHomepage = ({
 export default TemplateHomepage
 
 export const query = graphql`
-  query Home($path: String!, $locale: String!) {
+  query Home($path: String!) {
     page: markdownRemark(fields: {path: {eq: $path}}) {
       ...PageFragment
-    }
-    cottagesCategories: allMarkdownRemark(
-      filter: {
-        fields: {locale: {eq: $locale}, template: {eq: "CottagesCategory"}}
-      }
-    ) {
-      nodes {
-        ...CottagesCategoryFragment
-      }
-    }
-    services: allMarkdownRemark(
-      filter: {fields: {locale: {eq: $locale}, template: {eq: "Service"}}}
-    ) {
-      ...ServicesFragment
-    }
-    groups: allMarkdownRemark(
-      filter: {fields: {locale: {eq: $locale}, template: {eq: "Group"}}}
-    ) {
-      ...GroupsFragment
     }
   }
 `

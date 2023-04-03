@@ -7,7 +7,7 @@ export const useLinks = () => {
   const data = useStaticQuery(graphql`
     query LinksQuery {
       fr: allMarkdownRemark(filter: {fields: {locale: {eq: "fr"}}}) {
-        group(field: fields___template) {
+        group(field: {fields: {template: SELECT}}) {
           template: fieldValue
           totalCount
           nodes {
@@ -22,7 +22,7 @@ export const useLinks = () => {
         }
       }
       nl: allMarkdownRemark(filter: {fields: {locale: {eq: "nl"}}}) {
-        group(field: fields___template) {
+        group(field: {fields: {template: SELECT}}) {
           template: fieldValue
           totalCount
           nodes {
